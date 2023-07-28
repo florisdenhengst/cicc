@@ -1,8 +1,8 @@
-# cicc
+# CICC 
 Code for conformal intent classification and clarification
 
 ## Requirements
-CICC uses python3
+CICC uses python 3.
 
 ## Installation
 Run ``pip install -r requirements.txt``
