@@ -1,0 +1,4 @@
+mapie==0.6.5
+matplotlib==3.7.1
+jupyter
+pandas
