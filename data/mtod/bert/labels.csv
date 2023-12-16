@@ -1,0 +1,13 @@
+,0
+0,cancel_alarm
+1,cancel_reminder
+2,checkSunrise
+3,checkSunset
+4,find
+5,modify_alarm
+6,set_alarm
+7,set_reminder
+8,show_alarms
+9,show_reminders
+10,snooze_alarm
+11,time_left_on_alarm
