@@ -40,6 +40,29 @@ def size_stratified_classification_coverage_score(
             group_coverages.append(covered_members.mean())
     return min(group_coverages)
 
+def cq_coverage_score(
+    y_true: ArrayLike,
+    y_pred_set: ArrayLike,
+    max_ps_size: int,
+) -> float:
+    """
+    Calculates how frequently a clarification question contains the ground truth.
+    """
+    y_true = cast(NDArray, column_or_1d(y_true))
+    y_pred_set = cast(
+        NDArray,
+        check_array(
+            y_pred_set, force_all_finite=True, dtype=["bool"]
+        )
+    )
+    y_pred_sizes = y_pred_set.sum(axis=1)
+    ambiguous = y_pred_sizes > max_ps_size
+    covered_members = np.take_along_axis(
+        y_pred_set[~ambiguous], y_true[~ambiguous].reshape(-1,1), axis=1
+    )
+
+    return covered_members.mean()
+
 def classification_x_width_score(
     y_pred_set: ArrayLike,
     agg: Callable[[ArrayLike], float]
@@ -68,12 +91,12 @@ def adjusted_classification_x_width_score(
     For example ``classification_x_width_score(y_pred_set, np.mean)``
     returns the average coverage width or average coverage set size.
     
-    Excludes any entries where set sizes > max_set_size.
+    Excludes any entries where set sizes > max_set_size and where sizes <= 1.
     """
     if max_set_size is None:
         max_set_size = y_pred_set.shape[1]
     set_size = y_pred_set.sum(axis=1)
-    masked = np.ma.masked_array(set_size, ~(set_size < max_set_size))
+    masked = np.ma.masked_array(set_size, ((set_size > max_set_size) | (set_size <= 1)))
     agg_width = agg(masked)
     return float(agg_width)
 
@@ -83,31 +106,19 @@ def cq_stats(
     max_set_size: int=None,
 )-> float:
     """
-    Calculates the average conformal question width for a score.
+    Calculates CICC evaluation statistics for a given matrix of n_inputs x m_classes `y_pred_set`:
+    * coverage of the true intent by clarification questions
+    * the % of inputs with a single answer
+    * the average clarification question size
+    * the % of inputs that was rejected as too ambiguous (>= max_set_size)
     """
     if max_set_size is None:
         max_set_size = y_pred_set.shape[1]    
     set_size = y_pred_set.sum(axis=1)
     single = (set_size == 1)
-    rejected = set_size > max_set_size
-    return classification_coverage_score(y_test, y_pred_set), single.sum() / y_pred_set.shape[0], (~rejected & ~single).sum() / y_pred_set.shape[0], rejected.sum() / y_pred_set.shape[0], cq_width_score(y_pred_set, np.mean, max_set_size)
-
-def cq_width_score(
-    y_pred_set: ArrayLike,
-    agg: Callable[[ArrayLike], float]=np.mean,
-    max_set_size: int=None,
-)-> float:
-    """
-    Calculates the average conformal question width for a score.
-    These are the prediction set widths, including only
-    sets of 1 < width < max_set_size
-    """
-    if max_set_size is None:
-        max_set_size = y_pred_set.shape[1]
-    set_size = y_pred_set.sum(axis=1)
-    masked = np.ma.masked_array(set_size, ~(set_size < max_set_size) | (set_size <= 1))
-    agg_width = agg(masked)
-    return float(agg_width)
+    cq_size = adjusted_classification_x_width_score(y_pred_set, np.mean, max_set_size)
+    ambiguous = y_pred_set.sum(axis=1) >= max_set_size
+    return cq_coverage_score(y_test, y_pred_set, max_set_size), single.mean(), cq_size, ambiguous.mean()
 
 def set_size_equals(
     y_pred_set: ArrayLike,

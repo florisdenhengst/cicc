@@ -15,11 +15,15 @@ class MockModel(BaseEstimator, ClassifierMixin):
         * raw (bool, optional): whether to normalize results to sum to 1. Defaults to False
     """
     
-    def __init__(self, lookup_table, input_column, softmax=False, raw=False):
+    def __init__(self, lookup_table, input_column, classes=None, softmax=False, raw=False):
         self.lookup_table = lookup_table
         self.input_column = input_column
         self.softmax = softmax
         self.raw = raw
+        if classes is None:
+            self.classes_ = None
+        else:
+            self.classes_ = np.array(classes)
     
     def fit_transform(self, X):
         return self.predict_proba(X)
@@ -28,8 +32,9 @@ class MockModel(BaseEstimator, ClassifierMixin):
         # Check that X and y have correct shape
         # X, y = check_X_y(X, y)
         
-        # Store the classes seen during fit
-        self.classes_ = unique_labels(y)
+        if self.classes_ is None:
+            # Store the classes seen during fit
+            self.classes_ = unique_labels(y)
 
         self.X_ = X
         self.y_ = y

@@ -1,0 +1,8046 @@
+[
+    {
+        "id": 0,
+        "text": "what is the week today",
+        "predictions": [
+            "calendar_query",
+            "datetime_query"
+        ]
+    },
+    {
+        "id": 1,
+        "text": "shuffle the songs in the music library",
+        "predictions": [
+            "music_settings",
+            "play_music"
+        ]
+    },
+    {
+        "id": 2,
+        "text": "adjust the light option",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 3,
+        "text": "has it been a busy day",
+        "predictions": [
+            "calendar_query",
+            "general_quirky",
+            "weather_query"
+        ]
+    },
+    {
+        "id": 4,
+        "text": "turn up the lights please",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightdim",
+            "iot_hue_lighton",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 5,
+        "text": "what was the last movie will smith was in",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 6,
+        "text": "please inform me of any new status updates",
+        "predictions": [
+            "news_query",
+            "social_post",
+            "social_query"
+        ]
+    },
+    {
+        "id": 7,
+        "text": "what time does thor start",
+        "predictions": [
+            "datetime_query",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 8,
+        "text": "how many new articles have been posted at usa today in the past hour",
+        "predictions": [
+            "news_query",
+            "social_query"
+        ]
+    },
+    {
+        "id": 9,
+        "text": "what is the sum of fifteen ninety nine dollars and six sixty five dollars",
+        "predictions": [
+            "qa_currency",
+            "qa_maths"
+        ]
+    },
+    {
+        "id": 10,
+        "text": "send an invitation to kitty for tomorrow morning's meeting",
+        "predictions": [
+            "calendar_set",
+            "email_sendemail",
+            "social_post"
+        ]
+    },
+    {
+        "id": 11,
+        "text": "when is this going to happen",
+        "predictions": [
+            "calendar_query",
+            "general_quirky"
+        ]
+    },
+    {
+        "id": 12,
+        "text": "what movies are showing in cinema today",
+        "predictions": [
+            "recommendation_events",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 13,
+        "text": "put me down as busy on my calendar from two three pm on wednesday",
+        "predictions": [
+            "calendar_remove",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 14,
+        "text": "delete the memos that i have scheduled for tomorrow morning",
+        "predictions": [
+            "calendar_remove",
+            "lists_remove"
+        ]
+    },
+    {
+        "id": 15,
+        "text": "review",
+        "predictions": [
+            "music_likeness",
+            "play_audiobook"
+        ]
+    },
+    {
+        "id": 16,
+        "text": "what is the largest desk",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 17,
+        "text": "give me music news",
+        "predictions": [
+            "music_likeness",
+            "music_query",
+            "play_music",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 18,
+        "text": "is is taco o'clock yet",
+        "predictions": [
+            "calendar_query",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 19,
+        "text": "what is the worlds record for the longest head of hair",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 20,
+        "text": "if i could go anywhere in the world where should i travel",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 21,
+        "text": "keep that song for when i need cheering up",
+        "predictions": [
+            "music_likeness",
+            "play_music"
+        ]
+    },
+    {
+        "id": 22,
+        "text": "tell me quotes that have to do with love",
+        "predictions": [
+            "general_quirky",
+            "qa_definition",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 23,
+        "text": "do not wake me up tomorrow",
+        "predictions": [
+            "alarm_query",
+            "alarm_remove",
+            "alarm_set",
+            "audio_volume_mute",
+            "iot_hue_lightoff"
+        ]
+    },
+    {
+        "id": 24,
+        "text": "is angeline having a new movie this year",
+        "predictions": [
+            "calendar_query",
+            "general_quirky",
+            "recommendation_events",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 25,
+        "text": "search for your favorite meal",
+        "predictions": [
+            "cooking_recipe",
+            "general_quirky"
+        ]
+    },
+    {
+        "id": 26,
+        "text": "go to contacts and add a new email to the list",
+        "predictions": [
+            "email_addcontact",
+            "lists_createoradd"
+        ]
+    },
+    {
+        "id": 27,
+        "text": "calculate the costs of cable and internet providers in my area where can i save the most",
+        "predictions": [
+            "general_quirky",
+            "news_query",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 28,
+        "text": "hi olly this song is too noisy",
+        "predictions": [
+            "audio_volume_mute",
+            "general_affirm",
+            "general_joke",
+            "music_dislikeness",
+            "music_likeness"
+        ]
+    },
+    {
+        "id": 29,
+        "text": "marriage day",
+        "predictions": [
+            "calendar_query",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 30,
+        "text": "do i have to go to the gym",
+        "predictions": [
+            "calendar_query",
+            "general_quirky",
+            "lists_query",
+            "recommendation_events",
+            "recommendation_locations",
+            "transport_traffic",
+            "weather_query"
+        ]
+    },
+    {
+        "id": 31,
+        "text": "that's great.",
+        "predictions": [
+            "general_affirm",
+            "general_praise"
+        ]
+    },
+    {
+        "id": 32,
+        "text": "provide valid references with information to help people understand critical thinking and giving credit where credit is due rather than perpetuate fake news and alternative facts",
+        "predictions": [
+            "general_quirky",
+            "news_query",
+            "qa_factoid",
+            "social_post"
+        ]
+    },
+    {
+        "id": 33,
+        "text": "am i going to swim or work today",
+        "predictions": [
+            "calendar_query",
+            "general_quirky",
+            "weather_query"
+        ]
+    },
+    {
+        "id": 34,
+        "text": "silently adjust",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_other",
+            "audio_volume_up",
+            "iot_hue_lightchange",
+            "iot_hue_lightdim",
+            "iot_hue_lightup",
+            "music_settings"
+        ]
+    },
+    {
+        "id": 35,
+        "text": "what movie theatres are in stephenville",
+        "predictions": [
+            "recommendation_events",
+            "recommendation_locations",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 36,
+        "text": "perpetual meaning",
+        "predictions": [
+            "general_quirky",
+            "qa_definition",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 37,
+        "text": "when is the next month that has thirty one days",
+        "predictions": [
+            "calendar_query",
+            "datetime_query"
+        ]
+    },
+    {
+        "id": 38,
+        "text": "what can you do",
+        "predictions": [
+            "general_quirky",
+            "lists_query"
+        ]
+    },
+    {
+        "id": 39,
+        "text": "note down important event in this week",
+        "predictions": [
+            "calendar_query",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 40,
+        "text": "play the neal brennan episode of wait wait don't tell me",
+        "predictions": [
+            "play_music",
+            "play_podcasts",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 41,
+        "text": "weekly badminton classes start tomorrow and will end may one",
+        "predictions": [
+            "calendar_query",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 42,
+        "text": "are there any status updates on cnn news facebook page",
+        "predictions": [
+            "news_query",
+            "social_query"
+        ]
+    },
+    {
+        "id": 43,
+        "text": "what time is the cantonese dog festival",
+        "predictions": [
+            "calendar_query",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 44,
+        "text": "do i have any missed call from patrick",
+        "predictions": [
+            "email_query",
+            "email_querycontact"
+        ]
+    },
+    {
+        "id": 45,
+        "text": "am i busy today",
+        "predictions": [
+            "calendar_query",
+            "general_quirky"
+        ]
+    },
+    {
+        "id": 46,
+        "text": "can you turn down the lights by twenty percent",
+        "predictions": [
+            "iot_hue_lightdim",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 47,
+        "text": "search for a better price on a new pair of glasses",
+        "predictions": [
+            "general_quirky",
+            "news_query",
+            "qa_currency",
+            "qa_factoid",
+            "qa_stock"
+        ]
+    },
+    {
+        "id": 48,
+        "text": "meetings",
+        "predictions": [
+            "calendar_query",
+            "calendar_set",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 49,
+        "text": "open spotify and open workout",
+        "predictions": [
+            "play_music",
+            "play_podcasts",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 50,
+        "text": "i had a great day today what do you think",
+        "predictions": [
+            "general_joke",
+            "general_negate",
+            "general_quirky"
+        ]
+    },
+    {
+        "id": 51,
+        "text": "what's the exchange rate for samsung",
+        "predictions": [
+            "qa_currency",
+            "qa_stock"
+        ]
+    },
+    {
+        "id": 52,
+        "text": "period the light should be in dim",
+        "predictions": [
+            "iot_hue_lightdim",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 53,
+        "text": "adjust sound",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_other",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 54,
+        "text": "please tell me where i can get a drink nearby after midnight",
+        "predictions": [
+            "recommendation_events",
+            "recommendation_locations",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 55,
+        "text": "turn the smart plug on",
+        "predictions": [
+            "iot_wemo_off",
+            "iot_wemo_on"
+        ]
+    },
+    {
+        "id": 56,
+        "text": "call me a cab to the train station",
+        "predictions": [
+            "transport_taxi",
+            "transport_ticket"
+        ]
+    },
+    {
+        "id": 57,
+        "text": "this is the best band ever",
+        "predictions": [
+            "general_joke",
+            "music_likeness"
+        ]
+    },
+    {
+        "id": 58,
+        "text": "lyrics",
+        "predictions": [
+            "music_likeness",
+            "music_query",
+            "music_settings",
+            "play_music"
+        ]
+    },
+    {
+        "id": 59,
+        "text": "i met my future wife today please set up a date next friday",
+        "predictions": [
+            "calendar_set",
+            "general_quirky"
+        ]
+    },
+    {
+        "id": 60,
+        "text": "please turn on my smart plug socket",
+        "predictions": [
+            "iot_wemo_off",
+            "iot_wemo_on"
+        ]
+    },
+    {
+        "id": 61,
+        "text": "call raju phone number",
+        "predictions": [
+            "email_querycontact",
+            "transport_taxi"
+        ]
+    },
+    {
+        "id": 62,
+        "text": "it's fantastic.",
+        "predictions": [
+            "general_affirm",
+            "general_praise"
+        ]
+    },
+    {
+        "id": 63,
+        "text": "tell me this date program",
+        "predictions": [
+            "calendar_query",
+            "datetime_query"
+        ]
+    },
+    {
+        "id": 64,
+        "text": "please play the news channel so that i can hear some news",
+        "predictions": [
+            "news_query",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 65,
+        "text": "what is the factor that let modi win the election",
+        "predictions": [
+            "general_quirky",
+            "news_query",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 66,
+        "text": "please do not respond",
+        "predictions": [
+            "audio_volume_mute",
+            "general_affirm",
+            "general_joke",
+            "lists_remove",
+            "social_post"
+        ]
+    },
+    {
+        "id": 67,
+        "text": "where seth lives",
+        "predictions": [
+            "email_querycontact",
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 68,
+        "text": "i like r n b",
+        "predictions": [
+            "music_likeness",
+            "play_music"
+        ]
+    },
+    {
+        "id": 69,
+        "text": "is my golf game going to get rained out",
+        "predictions": [
+            "general_quirky",
+            "weather_query"
+        ]
+    },
+    {
+        "id": 70,
+        "text": "what are the events next week",
+        "predictions": [
+            "calendar_query",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 71,
+        "text": "can you feel",
+        "predictions": [
+            "general_quirky",
+            "play_music",
+            "qa_factoid",
+            "weather_query"
+        ]
+    },
+    {
+        "id": 72,
+        "text": "if it is raining I will not go for job",
+        "predictions": [
+            "general_quirky",
+            "weather_query"
+        ]
+    },
+    {
+        "id": 73,
+        "text": "the cosmos",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 74,
+        "text": "tell me if global warming is true",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 75,
+        "text": "look up movies near me",
+        "predictions": [
+            "recommendation_events",
+            "recommendation_locations",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 76,
+        "text": "find me a good pop song",
+        "predictions": [
+            "music_likeness",
+            "play_music"
+        ]
+    },
+    {
+        "id": 77,
+        "text": "what happened to my pizza order it has been an hour since i ordered",
+        "predictions": [
+            "takeaway_order",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 78,
+        "text": "geography please",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 79,
+        "text": "please change the volume to mute",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_mute"
+        ]
+    },
+    {
+        "id": 80,
+        "text": "any sport event is on my list",
+        "predictions": [
+            "lists_createoradd",
+            "lists_query"
+        ]
+    },
+    {
+        "id": 81,
+        "text": "how many times does it go",
+        "predictions": [
+            "datetime_query",
+            "general_quirky",
+            "lists_query",
+            "qa_factoid",
+            "qa_maths",
+            "transport_query",
+            "transport_traffic"
+        ]
+    },
+    {
+        "id": 82,
+        "text": "i beg your pardon.",
+        "predictions": [
+            "general_commandstop",
+            "general_confirm",
+            "general_explain",
+            "general_repeat"
+        ]
+    },
+    {
+        "id": 83,
+        "text": "transcribe email content",
+        "predictions": [
+            "email_query",
+            "email_sendemail"
+        ]
+    },
+    {
+        "id": 84,
+        "text": "increase the brightness of the lights",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightdim",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 85,
+        "text": "i need some ideas for dinner that are mexican",
+        "predictions": [
+            "cooking_recipe",
+            "general_quirky"
+        ]
+    },
+    {
+        "id": 86,
+        "text": "hey does open sesame do take out",
+        "predictions": [
+            "takeaway_order",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 87,
+        "text": "turn up lights",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightdim",
+            "iot_hue_lighton",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 88,
+        "text": "put a new mail",
+        "predictions": [
+            "email_addcontact",
+            "email_sendemail"
+        ]
+    },
+    {
+        "id": 89,
+        "text": "its make me good lucking guy inside very very horkersd wo",
+        "predictions": [
+            "general_quirky",
+            "social_post"
+        ]
+    },
+    {
+        "id": 90,
+        "text": "i need the arrival time for new york train",
+        "predictions": [
+            "transport_query",
+            "transport_ticket"
+        ]
+    },
+    {
+        "id": 91,
+        "text": "most rated delivery options for chinese food",
+        "predictions": [
+            "takeaway_order",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 92,
+        "text": "what am i doing this week",
+        "predictions": [
+            "calendar_query",
+            "general_quirky",
+            "lists_query",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 93,
+        "text": "how is the new movie swat",
+        "predictions": [
+            "general_quirky",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 94,
+        "text": "where is kartum",
+        "predictions": [
+            "qa_factoid",
+            "recommendation_locations"
+        ]
+    },
+    {
+        "id": 95,
+        "text": "make a list of management staff for the twentieth october meeting",
+        "predictions": [
+            "calendar_set",
+            "lists_createoradd"
+        ]
+    },
+    {
+        "id": 96,
+        "text": "can you give me details on john",
+        "predictions": [
+            "email_querycontact",
+            "general_quirky"
+        ]
+    },
+    {
+        "id": 97,
+        "text": "shut off my living room plug socket",
+        "predictions": [
+            "iot_wemo_off",
+            "iot_wemo_on"
+        ]
+    },
+    {
+        "id": 98,
+        "text": "use that email address as a contact",
+        "predictions": [
+            "email_addcontact",
+            "email_querycontact",
+            "email_sendemail"
+        ]
+    },
+    {
+        "id": 99,
+        "text": "will gloves come in handy on tuesday",
+        "predictions": [
+            "calendar_query",
+            "weather_query"
+        ]
+    },
+    {
+        "id": 100,
+        "text": "is that person living currently if yes where and how old is that person now",
+        "predictions": [
+            "email_querycontact",
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 101,
+        "text": "these lights are too bright please lower them",
+        "predictions": [
+            "iot_hue_lightdim",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 102,
+        "text": "please cancel my next hair cut",
+        "predictions": [
+            "calendar_remove",
+            "lists_remove"
+        ]
+    },
+    {
+        "id": 103,
+        "text": "raise the lights",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightdim",
+            "iot_hue_lighton",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 104,
+        "text": "turn on console",
+        "predictions": [
+            "iot_cleaning",
+            "iot_wemo_off",
+            "iot_wemo_on"
+        ]
+    },
+    {
+        "id": 105,
+        "text": "what traits would be on a moral inventory",
+        "predictions": [
+            "general_quirky",
+            "lists_query",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 106,
+        "text": "add new email to my contacts macs@gmail dot com",
+        "predictions": [
+            "email_addcontact",
+            "email_sendemail"
+        ]
+    },
+    {
+        "id": 107,
+        "text": "add this new email to my contacts",
+        "predictions": [
+            "email_addcontact",
+            "email_sendemail"
+        ]
+    },
+    {
+        "id": 108,
+        "text": "why do people use avocado seeds",
+        "predictions": [
+            "cooking_recipe",
+            "general_quirky"
+        ]
+    },
+    {
+        "id": 109,
+        "text": "i dont want any alarms",
+        "predictions": [
+            "alarm_query",
+            "alarm_remove"
+        ]
+    },
+    {
+        "id": 110,
+        "text": "send me all the info for the houston texans draft please",
+        "predictions": [
+            "general_quirky",
+            "news_query"
+        ]
+    },
+    {
+        "id": 111,
+        "text": "which is the next event coming up",
+        "predictions": [
+            "calendar_query",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 112,
+        "text": "could you please lower your volume",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_mute",
+            "audio_volume_other",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 113,
+        "text": "order me something online",
+        "predictions": [
+            "social_post",
+            "takeaway_order"
+        ]
+    },
+    {
+        "id": 114,
+        "text": "is hayden still living on turnpike lane",
+        "predictions": [
+            "email_querycontact",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 115,
+        "text": "what did geraldine ferraro do after her run for vp",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 116,
+        "text": "give an effects",
+        "predictions": [
+            "general_quirky",
+            "iot_hue_lightchange",
+            "qa_definition",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 117,
+        "text": "when does olive garden close today",
+        "predictions": [
+            "recommendation_locations",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 118,
+        "text": "what is the time difference between new york and lagos",
+        "predictions": [
+            "datetime_convert",
+            "datetime_query"
+        ]
+    },
+    {
+        "id": 119,
+        "text": "making very complex calculations like jarvis",
+        "predictions": [
+            "general_quirky",
+            "qa_definition",
+            "qa_factoid",
+            "qa_maths"
+        ]
+    },
+    {
+        "id": 120,
+        "text": "i am gone today an umbrella",
+        "predictions": [
+            "general_quirky",
+            "weather_query"
+        ]
+    },
+    {
+        "id": 121,
+        "text": "how far in steps is home from here",
+        "predictions": [
+            "qa_factoid",
+            "recommendation_locations",
+            "transport_query",
+            "transport_traffic"
+        ]
+    },
+    {
+        "id": 122,
+        "text": "lets start candy crush over from the beginning",
+        "predictions": [
+            "play_audiobook",
+            "play_game"
+        ]
+    },
+    {
+        "id": 123,
+        "text": "brighter",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightdim",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 124,
+        "text": "rajani khanth new venture",
+        "predictions": [
+            "general_quirky",
+            "news_query",
+            "social_post"
+        ]
+    },
+    {
+        "id": 125,
+        "text": "which time zone are we in please change to current",
+        "predictions": [
+            "datetime_convert",
+            "datetime_query"
+        ]
+    },
+    {
+        "id": 126,
+        "text": "when can i pick up my chinese food",
+        "predictions": [
+            "recommendation_locations",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 127,
+        "text": "please give me the winning lottery numbers for this weekend",
+        "predictions": [
+            "general_quirky",
+            "news_query"
+        ]
+    },
+    {
+        "id": 128,
+        "text": "where can i go tonight",
+        "predictions": [
+            "recommendation_events",
+            "recommendation_locations",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 129,
+        "text": "can you play some elvis for me",
+        "predictions": [
+            "play_music",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 130,
+        "text": "put in next queue badra bahar by amit trivedi",
+        "predictions": [
+            "play_audiobook",
+            "play_music"
+        ]
+    },
+    {
+        "id": 131,
+        "text": "recommend a romantic comedy in me area",
+        "predictions": [
+            "general_quirky",
+            "recommendation_events",
+            "recommendation_locations",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 132,
+        "text": "my upcoming events",
+        "predictions": [
+            "calendar_query",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 133,
+        "text": "hello can you read the information for this date",
+        "predictions": [
+            "calendar_query",
+            "calendar_set",
+            "datetime_query",
+            "general_quirky"
+        ]
+    },
+    {
+        "id": 134,
+        "text": "i want to eat two pita gyros please and some diet coke",
+        "predictions": [
+            "cooking_recipe",
+            "iot_coffee",
+            "takeaway_order"
+        ]
+    },
+    {
+        "id": 135,
+        "text": "i can't hear you",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_mute",
+            "audio_volume_up",
+            "music_likeness",
+            "music_settings"
+        ]
+    },
+    {
+        "id": 136,
+        "text": "what groups are listed in my contacts",
+        "predictions": [
+            "email_addcontact",
+            "email_querycontact",
+            "social_query"
+        ]
+    },
+    {
+        "id": 137,
+        "text": "turn on my plug",
+        "predictions": [
+            "iot_wemo_off",
+            "iot_wemo_on"
+        ]
+    },
+    {
+        "id": 138,
+        "text": "what the fuck please do this.",
+        "predictions": [
+            "general_commandstop",
+            "general_negate"
+        ]
+    },
+    {
+        "id": 139,
+        "text": "play next nutritional facts",
+        "predictions": [
+            "play_game",
+            "play_music",
+            "play_podcasts",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 140,
+        "text": "save my contacts",
+        "predictions": [
+            "email_addcontact",
+            "email_querycontact",
+            "lists_createoradd"
+        ]
+    },
+    {
+        "id": 141,
+        "text": "how can i go to the place",
+        "predictions": [
+            "general_quirky",
+            "recommendation_locations",
+            "transport_query"
+        ]
+    },
+    {
+        "id": 142,
+        "text": "five hundred",
+        "predictions": [
+            "datetime_query",
+            "play_music",
+            "qa_maths"
+        ]
+    },
+    {
+        "id": 143,
+        "text": "what road is longest",
+        "predictions": [
+            "qa_factoid",
+            "transport_query",
+            "transport_traffic"
+        ]
+    },
+    {
+        "id": 144,
+        "text": "can i order take out from licari's",
+        "predictions": [
+            "takeaway_order",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 145,
+        "text": "how does production and population affects us",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 146,
+        "text": "adjust media volume up",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 147,
+        "text": "set a continuous alarm without the option to snooze for seven am please",
+        "predictions": [
+            "alarm_remove",
+            "alarm_set"
+        ]
+    },
+    {
+        "id": 148,
+        "text": "go to timeline",
+        "predictions": [
+            "play_audiobook",
+            "play_music"
+        ]
+    },
+    {
+        "id": 149,
+        "text": "play my workout playlist in spotify",
+        "predictions": [
+            "play_music",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 150,
+        "text": "give me the specs on the bugatti veyron",
+        "predictions": [
+            "general_quirky",
+            "news_query"
+        ]
+    },
+    {
+        "id": 151,
+        "text": "please power down",
+        "predictions": [
+            "alarm_remove",
+            "audio_volume_down",
+            "audio_volume_mute",
+            "audio_volume_up",
+            "iot_wemo_off",
+            "iot_wemo_on"
+        ]
+    },
+    {
+        "id": 152,
+        "text": "if it's sunrise in stockholm what time is it in okinawa",
+        "predictions": [
+            "datetime_convert",
+            "datetime_query",
+            "weather_query"
+        ]
+    },
+    {
+        "id": 153,
+        "text": "who's playing this",
+        "predictions": [
+            "music_query",
+            "play_music"
+        ]
+    },
+    {
+        "id": 154,
+        "text": "i don't want to hear any more songs of that type",
+        "predictions": [
+            "audio_volume_mute",
+            "calendar_remove",
+            "general_commandstop",
+            "iot_wemo_off",
+            "lists_remove",
+            "music_dislikeness",
+            "music_likeness"
+        ]
+    },
+    {
+        "id": 155,
+        "text": "siri find train tickets to nc",
+        "predictions": [
+            "transport_query",
+            "transport_ticket"
+        ]
+    },
+    {
+        "id": 156,
+        "text": "add a new email in my contacts from john",
+        "predictions": [
+            "email_addcontact",
+            "email_querycontact",
+            "email_sendemail"
+        ]
+    },
+    {
+        "id": 157,
+        "text": "anything unique to do in the city today",
+        "predictions": [
+            "general_quirky",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 158,
+        "text": "please change the volume low of the speakers",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_mute",
+            "audio_volume_other",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 159,
+        "text": "show various plants in earth",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 160,
+        "text": "kindly break down your statement and make it simple.",
+        "predictions": [
+            "general_explain",
+            "general_negate"
+        ]
+    },
+    {
+        "id": 161,
+        "text": "can you drop a beat for me",
+        "predictions": [
+            "audio_volume_up",
+            "music_likeness",
+            "music_settings",
+            "play_music",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 162,
+        "text": "i am forever hip hop",
+        "predictions": [
+            "music_likeness",
+            "play_music"
+        ]
+    },
+    {
+        "id": 163,
+        "text": "google the object and see",
+        "predictions": [
+            "general_quirky",
+            "qa_definition",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 164,
+        "text": "wake me at six am thursday so i have time for the meeting",
+        "predictions": [
+            "alarm_set",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 165,
+        "text": "replay this song i really like it",
+        "predictions": [
+            "music_likeness",
+            "play_music"
+        ]
+    },
+    {
+        "id": 166,
+        "text": "what is a x",
+        "predictions": [
+            "qa_definition",
+            "qa_factoid",
+            "qa_maths"
+        ]
+    },
+    {
+        "id": 167,
+        "text": "this fact sheet provides considerations for how to set up your food processing business",
+        "predictions": [
+            "cooking_recipe",
+            "general_quirky"
+        ]
+    },
+    {
+        "id": 168,
+        "text": "turn off wifi when you leave home to save power",
+        "predictions": [
+            "iot_wemo_off",
+            "iot_wemo_on",
+            "lists_remove"
+        ]
+    },
+    {
+        "id": 169,
+        "text": "start irobot",
+        "predictions": [
+            "lists_createoradd",
+            "music_settings",
+            "play_audiobook",
+            "play_game",
+            "play_music"
+        ]
+    },
+    {
+        "id": 170,
+        "text": "please turn down the volume",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_mute",
+            "audio_volume_other",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 171,
+        "text": "delete everything on the menu",
+        "predictions": [
+            "calendar_remove",
+            "lists_remove"
+        ]
+    },
+    {
+        "id": 172,
+        "text": "increase the brightness of the light it is hard to see down here",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightdim",
+            "iot_hue_lighton",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 173,
+        "text": "give me details of my twitter handle profile including the total number of followers",
+        "predictions": [
+            "social_post",
+            "social_query"
+        ]
+    },
+    {
+        "id": 174,
+        "text": "did i forget anything",
+        "predictions": [
+            "calendar_query",
+            "general_quirky"
+        ]
+    },
+    {
+        "id": 175,
+        "text": "it is cold out today",
+        "predictions": [
+            "general_quirky",
+            "weather_query"
+        ]
+    },
+    {
+        "id": 176,
+        "text": "what's been happening for the last two months",
+        "predictions": [
+            "calendar_query",
+            "general_quirky",
+            "news_query",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 177,
+        "text": "things to do in my area",
+        "predictions": [
+            "general_quirky",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 178,
+        "text": "please add smurfette@gmail dot com to my email contacts",
+        "predictions": [
+            "email_addcontact",
+            "email_sendemail"
+        ]
+    },
+    {
+        "id": 179,
+        "text": "what is the highest rated movie this week",
+        "predictions": [
+            "general_quirky",
+            "recommendation_events",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 180,
+        "text": "can i dry my clothes on the line",
+        "predictions": [
+            "cooking_recipe",
+            "general_quirky",
+            "iot_cleaning",
+            "weather_query"
+        ]
+    },
+    {
+        "id": 181,
+        "text": "get me the cheapest train ticket that will get me from miami to orlando and back",
+        "predictions": [
+            "transport_query",
+            "transport_ticket"
+        ]
+    },
+    {
+        "id": 182,
+        "text": "where did he was yesterday",
+        "predictions": [
+            "email_querycontact",
+            "general_quirky",
+            "lists_query"
+        ]
+    },
+    {
+        "id": 183,
+        "text": "i need to turn on the plug in my office for my computer",
+        "predictions": [
+            "iot_cleaning",
+            "iot_wemo_off",
+            "iot_wemo_on"
+        ]
+    },
+    {
+        "id": 184,
+        "text": "show me a funny video on youtube",
+        "predictions": [
+            "general_joke",
+            "general_quirky",
+            "social_post"
+        ]
+    },
+    {
+        "id": 185,
+        "text": "tell me about amazon's history",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 186,
+        "text": "list entry",
+        "predictions": [
+            "lists_createoradd",
+            "lists_query"
+        ]
+    },
+    {
+        "id": 187,
+        "text": "increase the volume of the speaker",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 188,
+        "text": "check celebrity wiki",
+        "predictions": [
+            "email_query",
+            "general_quirky",
+            "lists_query",
+            "news_query",
+            "qa_factoid",
+            "social_post",
+            "social_query"
+        ]
+    },
+    {
+        "id": 189,
+        "text": "give me today's calendar events after six pm",
+        "predictions": [
+            "calendar_query",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 190,
+        "text": "please relocate all dates to the trash",
+        "predictions": [
+            "calendar_remove",
+            "lists_remove"
+        ]
+    },
+    {
+        "id": 191,
+        "text": "what is the commute time to the theater",
+        "predictions": [
+            "transport_query",
+            "transport_traffic"
+        ]
+    },
+    {
+        "id": 192,
+        "text": "help me remember to call janice at four pm",
+        "predictions": [
+            "alarm_set",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 193,
+        "text": "hot topic",
+        "predictions": [
+            "news_query",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 194,
+        "text": "music two",
+        "predictions": [
+            "music_settings",
+            "play_audiobook",
+            "play_music"
+        ]
+    },
+    {
+        "id": 195,
+        "text": "have a anyinput day",
+        "predictions": [
+            "calendar_set",
+            "social_post"
+        ]
+    },
+    {
+        "id": 196,
+        "text": "tell about the origin of the word evolution",
+        "predictions": [
+            "qa_definition",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 197,
+        "text": "what have you been up to today",
+        "predictions": [
+            "general_quirky",
+            "recommendation_events",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 198,
+        "text": "how much money did will ferrel make for his last movie",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 199,
+        "text": "nearest restaurants available at this time",
+        "predictions": [
+            "recommendation_locations",
+            "takeaway_order",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 200,
+        "text": "can you turn up your volume",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 201,
+        "text": "turn up the volume of my speakers",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 202,
+        "text": "update me",
+        "predictions": [
+            "general_quirky",
+            "news_query"
+        ]
+    },
+    {
+        "id": 203,
+        "text": "open email",
+        "predictions": [
+            "email_query",
+            "email_sendemail"
+        ]
+    },
+    {
+        "id": 204,
+        "text": "what is the best pizza near me that delivers",
+        "predictions": [
+            "recommendation_locations",
+            "takeaway_order",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 205,
+        "text": "you can also add additional switches to your home to control more devices",
+        "predictions": [
+            "audio_volume_up",
+            "iot_hue_lightchange",
+            "iot_hue_lightup",
+            "iot_wemo_on",
+            "lists_createoradd"
+        ]
+    },
+    {
+        "id": 206,
+        "text": "turn on the tv socket when i arrive home",
+        "predictions": [
+            "iot_cleaning",
+            "iot_wemo_off",
+            "iot_wemo_on"
+        ]
+    },
+    {
+        "id": 207,
+        "text": "am i busy this weekend",
+        "predictions": [
+            "calendar_query",
+            "general_quirky"
+        ]
+    },
+    {
+        "id": 208,
+        "text": "go forward please",
+        "predictions": [
+            "play_audiobook",
+            "play_music",
+            "play_podcasts"
+        ]
+    },
+    {
+        "id": 209,
+        "text": "coding tutorial",
+        "predictions": [
+            "general_quirky",
+            "news_query",
+            "play_podcasts"
+        ]
+    },
+    {
+        "id": 210,
+        "text": "raise the volume to sixty",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 211,
+        "text": "show me the information of friend",
+        "predictions": [
+            "email_querycontact",
+            "general_quirky"
+        ]
+    },
+    {
+        "id": 212,
+        "text": "turn up sound",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 213,
+        "text": "whats going on in japan",
+        "predictions": [
+            "general_quirky",
+            "news_query"
+        ]
+    },
+    {
+        "id": 214,
+        "text": "i'm starving whats good to eat in cincinnati",
+        "predictions": [
+            "cooking_recipe",
+            "general_quirky",
+            "recommendation_locations",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 215,
+        "text": "anything interesting happening next friday",
+        "predictions": [
+            "calendar_query",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 216,
+        "text": "confirm whether the color is blue",
+        "predictions": [
+            "iot_hue_lightchange",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 217,
+        "text": "give an full details of pda's",
+        "predictions": [
+            "email_querycontact",
+            "general_quirky",
+            "lists_query",
+            "qa_definition"
+        ]
+    },
+    {
+        "id": 218,
+        "text": "i need to know why girls are so different to man explained as science man",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 219,
+        "text": "show me rediff masala",
+        "predictions": [
+            "cooking_recipe",
+            "takeaway_order",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 220,
+        "text": "what is a good iranian film from two thousand and sixteen",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 221,
+        "text": "what was the upcoming event's",
+        "predictions": [
+            "calendar_query",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 222,
+        "text": "show difference of kids in planets",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 223,
+        "text": "plan for tomorrow",
+        "predictions": [
+            "calendar_query",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 224,
+        "text": "Fix the light which has one hundred and fifty watts",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 225,
+        "text": "please repeat my shopping list",
+        "predictions": [
+            "lists_createoradd",
+            "lists_query"
+        ]
+    },
+    {
+        "id": 226,
+        "text": "never ever play me any country",
+        "predictions": [
+            "audio_volume_mute",
+            "music_dislikeness",
+            "music_likeness",
+            "music_settings",
+            "play_music"
+        ]
+    },
+    {
+        "id": 227,
+        "text": "take me to tnagar",
+        "predictions": [
+            "general_quirky",
+            "play_music",
+            "recommendation_events",
+            "recommendation_locations",
+            "recommendation_movies",
+            "transport_query"
+        ]
+    },
+    {
+        "id": 228,
+        "text": "what are my to dos",
+        "predictions": [
+            "cooking_recipe",
+            "email_querycontact",
+            "general_quirky",
+            "lists_query",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 229,
+        "text": "make the smart socket turn off",
+        "predictions": [
+            "iot_wemo_off",
+            "iot_wemo_on"
+        ]
+    },
+    {
+        "id": 230,
+        "text": "id like to get on the next train that will be departing indianapolis headed to chicago",
+        "predictions": [
+            "transport_query",
+            "transport_ticket"
+        ]
+    },
+    {
+        "id": 231,
+        "text": "what creates buttermilk",
+        "predictions": [
+            "cooking_recipe",
+            "general_quirky",
+            "qa_definition",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 232,
+        "text": "where do cows come from",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 233,
+        "text": "when will the match start",
+        "predictions": [
+            "calendar_query",
+            "datetime_query",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 234,
+        "text": "startet",
+        "predictions": [
+            "iot_cleaning",
+            "play_audiobook",
+            "play_game",
+            "play_music",
+            "play_podcasts",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 235,
+        "text": "continue pride and prejudice",
+        "predictions": [
+            "play_audiobook",
+            "social_post"
+        ]
+    },
+    {
+        "id": 236,
+        "text": "good evening",
+        "predictions": [
+            "general_quirky",
+            "recommendation_events",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 237,
+        "text": "give me a company for playing football",
+        "predictions": [
+            "general_quirky",
+            "social_post"
+        ]
+    },
+    {
+        "id": 238,
+        "text": "list any interesting events i like in the next two days",
+        "predictions": [
+            "calendar_query",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 239,
+        "text": "where are my takeaway order",
+        "predictions": [
+            "takeaway_order",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 240,
+        "text": "please provide me more info",
+        "predictions": [
+            "general_quirky",
+            "news_query",
+            "qa_definition",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 241,
+        "text": "skip this one",
+        "predictions": [
+            "audio_volume_mute",
+            "calendar_remove",
+            "iot_wemo_off",
+            "lists_remove",
+            "music_settings"
+        ]
+    },
+    {
+        "id": 242,
+        "text": "who is invited to tomorrow's get together",
+        "predictions": [
+            "calendar_query",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 243,
+        "text": "what highly rated movies are playing this weekend",
+        "predictions": [
+            "recommendation_events",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 244,
+        "text": "is this the least or most important moment in history ever",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 245,
+        "text": "how many lists do i have in contacts",
+        "predictions": [
+            "email_querycontact",
+            "lists_query"
+        ]
+    },
+    {
+        "id": 246,
+        "text": "reset my locations list",
+        "predictions": [
+            "lists_createoradd",
+            "lists_remove"
+        ]
+    },
+    {
+        "id": 247,
+        "text": "i want to know who is at the top of the english premier league at the moment",
+        "predictions": [
+            "general_quirky",
+            "news_query",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 248,
+        "text": "when is halloween",
+        "predictions": [
+            "calendar_query",
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 249,
+        "text": "could you tell me funny things",
+        "predictions": [
+            "general_joke",
+            "general_quirky"
+        ]
+    },
+    {
+        "id": 250,
+        "text": "get me details of this person",
+        "predictions": [
+            "email_querycontact",
+            "general_quirky",
+            "qa_definition",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 251,
+        "text": "can you add a new email to my contacts",
+        "predictions": [
+            "email_addcontact",
+            "email_sendemail"
+        ]
+    },
+    {
+        "id": 252,
+        "text": "increase light",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 253,
+        "text": "next train to dc",
+        "predictions": [
+            "transport_query",
+            "transport_ticket"
+        ]
+    },
+    {
+        "id": 254,
+        "text": "pull up lights control",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightdim",
+            "iot_hue_lighton",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 255,
+        "text": "what places can i order takeout from near by",
+        "predictions": [
+            "takeaway_order",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 256,
+        "text": "title",
+        "predictions": [
+            "calendar_query",
+            "general_quirky",
+            "lists_query",
+            "music_query"
+        ]
+    },
+    {
+        "id": 257,
+        "text": "list items on my work list",
+        "predictions": [
+            "lists_createoradd",
+            "lists_query"
+        ]
+    },
+    {
+        "id": 258,
+        "text": "when's mark lanegan's next album out",
+        "predictions": [
+            "music_query",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 259,
+        "text": "add a new email contact to my list",
+        "predictions": [
+            "email_addcontact",
+            "lists_createoradd"
+        ]
+    },
+    {
+        "id": 260,
+        "text": "Turn down volume",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_mute",
+            "audio_volume_other",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 261,
+        "text": "add jpearsonjessica@gmail dot com to email contacts",
+        "predictions": [
+            "email_addcontact",
+            "email_sendemail"
+        ]
+    },
+    {
+        "id": 262,
+        "text": "i hope it is sunny weather there",
+        "predictions": [
+            "general_quirky",
+            "weather_query"
+        ]
+    },
+    {
+        "id": 263,
+        "text": "do i need my tire pressure checked",
+        "predictions": [
+            "general_quirky",
+            "transport_traffic",
+            "weather_query"
+        ]
+    },
+    {
+        "id": 264,
+        "text": "do you know about this lyrics",
+        "predictions": [
+            "music_likeness",
+            "music_query",
+            "qa_definition"
+        ]
+    },
+    {
+        "id": 265,
+        "text": "hey what's up",
+        "predictions": [
+            "general_greet",
+            "general_quirky",
+            "recommendation_events",
+            "recommendation_locations",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 266,
+        "text": "any meeting on friday",
+        "predictions": [
+            "calendar_query",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 267,
+        "text": "i dont need light",
+        "predictions": [
+            "iot_hue_lightdim",
+            "iot_hue_lightoff",
+            "iot_hue_lighton",
+            "iot_hue_lightup",
+            "iot_wemo_off"
+        ]
+    },
+    {
+        "id": 268,
+        "text": "play top twenty",
+        "predictions": [
+            "play_music",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 269,
+        "text": "give me some funny facebook posts",
+        "predictions": [
+            "social_post",
+            "social_query"
+        ]
+    },
+    {
+        "id": 270,
+        "text": "you'll be able to turn that device on or off using your smartphone or tablet",
+        "predictions": [
+            "iot_wemo_off",
+            "iot_wemo_on"
+        ]
+    },
+    {
+        "id": 271,
+        "text": "i want to bright the room more",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 272,
+        "text": "change my room lights so that i can get a good sleep",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 273,
+        "text": "what items did i plan to buy",
+        "predictions": [
+            "general_quirky",
+            "lists_query",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 274,
+        "text": "show list items",
+        "predictions": [
+            "lists_createoradd",
+            "lists_query"
+        ]
+    },
+    {
+        "id": 275,
+        "text": "what's the latest on the train",
+        "predictions": [
+            "news_query",
+            "transport_query"
+        ]
+    },
+    {
+        "id": 276,
+        "text": "please turn the lights on",
+        "predictions": [
+            "alarm_remove",
+            "iot_hue_lightdim",
+            "iot_hue_lightoff",
+            "iot_hue_lighton",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 277,
+        "text": "open the list",
+        "predictions": [
+            "lists_createoradd",
+            "lists_query"
+        ]
+    },
+    {
+        "id": 278,
+        "text": "wikipedia topics",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 279,
+        "text": "tell me the takeaway food around this place",
+        "predictions": [
+            "recommendation_locations",
+            "takeaway_order",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 280,
+        "text": "wemo plug socket off",
+        "predictions": [
+            "iot_wemo_off",
+            "iot_wemo_on"
+        ]
+    },
+    {
+        "id": 281,
+        "text": "i need to hear the volume of the current music",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_up",
+            "music_likeness",
+            "music_query",
+            "music_settings"
+        ]
+    },
+    {
+        "id": 282,
+        "text": "lets listen to hunt for read october",
+        "predictions": [
+            "play_audiobook",
+            "play_music",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 283,
+        "text": "searching information online",
+        "predictions": [
+            "email_query",
+            "email_querycontact",
+            "social_post",
+            "social_query"
+        ]
+    },
+    {
+        "id": 284,
+        "text": "remove that",
+        "predictions": [
+            "calendar_remove",
+            "lists_remove"
+        ]
+    },
+    {
+        "id": 285,
+        "text": "send a poor review to this pf chang's yelp page",
+        "predictions": [
+            "music_likeness",
+            "social_post"
+        ]
+    },
+    {
+        "id": 286,
+        "text": "What's close by for dinner",
+        "predictions": [
+            "recommendation_events",
+            "recommendation_locations",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 287,
+        "text": "refresh with my instruction.",
+        "predictions": [
+            "general_affirm",
+            "general_confirm",
+            "general_negate",
+            "general_praise"
+        ]
+    },
+    {
+        "id": 288,
+        "text": "find a pizza restaurant open until noon",
+        "predictions": [
+            "recommendation_locations",
+            "takeaway_order",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 289,
+        "text": "training day",
+        "predictions": [
+            "calendar_query",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 290,
+        "text": "can you turn off wemo plug socket",
+        "predictions": [
+            "iot_wemo_off",
+            "iot_wemo_on"
+        ]
+    },
+    {
+        "id": 291,
+        "text": "mobile",
+        "predictions": [
+            "calendar_set",
+            "email_addcontact",
+            "email_query",
+            "email_querycontact",
+            "general_quirky",
+            "social_post"
+        ]
+    },
+    {
+        "id": 292,
+        "text": "who won the presidential election this year",
+        "predictions": [
+            "news_query",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 293,
+        "text": "i do not need this any more",
+        "predictions": [
+            "audio_volume_mute",
+            "calendar_remove",
+            "iot_wemo_off",
+            "lists_remove"
+        ]
+    },
+    {
+        "id": 294,
+        "text": "i really ska music",
+        "predictions": [
+            "music_likeness",
+            "play_music"
+        ]
+    },
+    {
+        "id": 295,
+        "text": "football scores",
+        "predictions": [
+            "general_quirky",
+            "news_query",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 296,
+        "text": "can you search trump",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 297,
+        "text": "anyone for tennis",
+        "predictions": [
+            "general_quirky",
+            "play_game",
+            "recommendation_events",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 298,
+        "text": "i need two pizzas stat",
+        "predictions": [
+            "cooking_recipe",
+            "takeaway_order"
+        ]
+    },
+    {
+        "id": 299,
+        "text": "facebook status anyone wanna go to the movies",
+        "predictions": [
+            "social_post",
+            "social_query"
+        ]
+    },
+    {
+        "id": 300,
+        "text": "what is the best method to decide what the best thing to do isre",
+        "predictions": [
+            "general_quirky",
+            "qa_definition"
+        ]
+    },
+    {
+        "id": 301,
+        "text": "are there any events happening next week",
+        "predictions": [
+            "calendar_query",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 302,
+        "text": "that is excellent.",
+        "predictions": [
+            "general_affirm",
+            "general_praise"
+        ]
+    },
+    {
+        "id": 303,
+        "text": "what are my tasks",
+        "predictions": [
+            "calendar_query",
+            "general_quirky",
+            "lists_query"
+        ]
+    },
+    {
+        "id": 304,
+        "text": "appointments this wednesday",
+        "predictions": [
+            "calendar_query",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 305,
+        "text": "show number and contact email of rehan",
+        "predictions": [
+            "email_query",
+            "email_querycontact"
+        ]
+    },
+    {
+        "id": 306,
+        "text": "initiate polling for new email",
+        "predictions": [
+            "email_query",
+            "email_sendemail"
+        ]
+    },
+    {
+        "id": 307,
+        "text": "i need the current dart rail schedule from west irving station to north lake college",
+        "predictions": [
+            "transport_query",
+            "transport_ticket"
+        ]
+    },
+    {
+        "id": 308,
+        "text": "find me the earliest train ticket departing friday morning to miami",
+        "predictions": [
+            "transport_query",
+            "transport_ticket"
+        ]
+    },
+    {
+        "id": 309,
+        "text": "put a record on",
+        "predictions": [
+            "lists_createoradd",
+            "music_likeness",
+            "music_settings",
+            "play_audiobook",
+            "play_music",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 310,
+        "text": "what is the time difference between central and eastern",
+        "predictions": [
+            "datetime_convert",
+            "datetime_query"
+        ]
+    },
+    {
+        "id": 311,
+        "text": "and which one's my friends are going to events",
+        "predictions": [
+            "calendar_query",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 312,
+        "text": "what time is it relative to new york",
+        "predictions": [
+            "datetime_convert",
+            "datetime_query"
+        ]
+    },
+    {
+        "id": 313,
+        "text": "can you find the newest song from mgk",
+        "predictions": [
+            "music_query",
+            "play_music"
+        ]
+    },
+    {
+        "id": 314,
+        "text": "please resume current song of masti",
+        "predictions": [
+            "music_likeness",
+            "music_settings",
+            "play_audiobook",
+            "play_music"
+        ]
+    },
+    {
+        "id": 315,
+        "text": "with whom do i have a sales interview tomorrow",
+        "predictions": [
+            "calendar_query",
+            "lists_query",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 316,
+        "text": "how much mehta willing to invest in my company in meeting which held today at five hundred and twenty pm",
+        "predictions": [
+            "calendar_query",
+            "calendar_set",
+            "general_quirky",
+            "news_query",
+            "qa_factoid",
+            "qa_stock"
+        ]
+    },
+    {
+        "id": 317,
+        "text": "tell me how the world began",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 318,
+        "text": "i can't hear just increase the volume",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 319,
+        "text": "calendar",
+        "predictions": [
+            "calendar_query",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 320,
+        "text": "let dog out",
+        "predictions": [
+            "iot_cleaning",
+            "iot_wemo_on",
+            "lists_createoradd",
+            "play_audiobook",
+            "social_post"
+        ]
+    },
+    {
+        "id": 321,
+        "text": "raise the lamp's light",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightdim",
+            "iot_hue_lighton",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 322,
+        "text": "i always pay attention",
+        "predictions": [
+            "general_quirky",
+            "weather_query"
+        ]
+    },
+    {
+        "id": 323,
+        "text": "tell me the simple interest of seven with interest in two year",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid",
+            "qa_maths"
+        ]
+    },
+    {
+        "id": 324,
+        "text": "please adjust the speakers to a lower more comfortable level",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_other",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 325,
+        "text": "any suggestions on a good time for an hour meeting this week",
+        "predictions": [
+            "calendar_query",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 326,
+        "text": "hey olly my the lights a little warmer",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightdim",
+            "iot_hue_lighton",
+            "iot_hue_lightup",
+            "weather_query"
+        ]
+    },
+    {
+        "id": 327,
+        "text": "Get all availables",
+        "predictions": [
+            "email_addcontact",
+            "email_query",
+            "email_querycontact",
+            "email_sendemail",
+            "social_post",
+            "social_query",
+            "takeaway_order"
+        ]
+    },
+    {
+        "id": 328,
+        "text": "post the message now",
+        "predictions": [
+            "email_sendemail",
+            "social_post"
+        ]
+    },
+    {
+        "id": 329,
+        "text": "set a timer at five am seven days a week",
+        "predictions": [
+            "alarm_set",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 330,
+        "text": "make sound louder",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 331,
+        "text": "does contact mona has an email as well",
+        "predictions": [
+            "email_query",
+            "email_querycontact"
+        ]
+    },
+    {
+        "id": 332,
+        "text": "skip song continue playlist",
+        "predictions": [
+            "music_likeness",
+            "music_settings",
+            "play_music"
+        ]
+    },
+    {
+        "id": 333,
+        "text": "play it louder",
+        "predictions": [
+            "audio_volume_up",
+            "music_settings",
+            "play_music",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 334,
+        "text": "turn the speakers down to five percent",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_mute",
+            "audio_volume_other",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 335,
+        "text": "remind me to check morning news update",
+        "predictions": [
+            "calendar_query",
+            "calendar_set",
+            "news_query"
+        ]
+    },
+    {
+        "id": 336,
+        "text": "six hundred",
+        "predictions": [
+            "datetime_query",
+            "play_music"
+        ]
+    },
+    {
+        "id": 337,
+        "text": "events today",
+        "predictions": [
+            "calendar_query",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 338,
+        "text": "switch off",
+        "predictions": [
+            "iot_hue_lightoff",
+            "iot_wemo_off"
+        ]
+    },
+    {
+        "id": 339,
+        "text": "tell me a play list",
+        "predictions": [
+            "lists_createoradd",
+            "lists_query",
+            "music_query",
+            "play_music"
+        ]
+    },
+    {
+        "id": 340,
+        "text": "make a note that i don't like this song",
+        "predictions": [
+            "general_joke",
+            "general_negate",
+            "lists_remove",
+            "music_dislikeness",
+            "music_likeness",
+            "social_post"
+        ]
+    },
+    {
+        "id": 341,
+        "text": "can i plan basketball match in the evening",
+        "predictions": [
+            "calendar_query",
+            "calendar_set",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 342,
+        "text": "hackernews",
+        "predictions": [
+            "general_quirky",
+            "news_query",
+            "social_post",
+            "social_query"
+        ]
+    },
+    {
+        "id": 343,
+        "text": "inform me on the items on the list",
+        "predictions": [
+            "lists_createoradd",
+            "lists_query"
+        ]
+    },
+    {
+        "id": 344,
+        "text": "olly skip two songs",
+        "predictions": [
+            "music_likeness",
+            "music_settings",
+            "play_music"
+        ]
+    },
+    {
+        "id": 345,
+        "text": "how far is it from home to seattle",
+        "predictions": [
+            "transport_query",
+            "transport_traffic"
+        ]
+    },
+    {
+        "id": 346,
+        "text": "i need to subscribe to the newspaper",
+        "predictions": [
+            "general_quirky",
+            "news_query",
+            "play_radio",
+            "social_post"
+        ]
+    },
+    {
+        "id": 347,
+        "text": "save information about love of beyonc",
+        "predictions": [
+            "lists_createoradd",
+            "music_likeness"
+        ]
+    },
+    {
+        "id": 348,
+        "text": "how will be the forex business today",
+        "predictions": [
+            "general_quirky",
+            "news_query",
+            "qa_stock"
+        ]
+    },
+    {
+        "id": 349,
+        "text": "turn down the sound",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_mute",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 350,
+        "text": "how is jennifer garner's career doing",
+        "predictions": [
+            "general_quirky",
+            "news_query",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 351,
+        "text": "what's worth watching",
+        "predictions": [
+            "general_quirky",
+            "recommendation_events",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 352,
+        "text": "tell me some fresh info from daily mail",
+        "predictions": [
+            "email_query",
+            "news_query",
+            "social_query"
+        ]
+    },
+    {
+        "id": 353,
+        "text": "what is the minimum temperature of london",
+        "predictions": [
+            "qa_factoid",
+            "weather_query"
+        ]
+    },
+    {
+        "id": 354,
+        "text": "add this one also",
+        "predictions": [
+            "calendar_set",
+            "lists_createoradd"
+        ]
+    },
+    {
+        "id": 355,
+        "text": "please train",
+        "predictions": [
+            "transport_query",
+            "transport_ticket"
+        ]
+    },
+    {
+        "id": 356,
+        "text": "how many hours ahead is nyc",
+        "predictions": [
+            "datetime_convert",
+            "datetime_query"
+        ]
+    },
+    {
+        "id": 357,
+        "text": "take me to mc donalds",
+        "predictions": [
+            "play_game",
+            "play_podcasts",
+            "recommendation_events",
+            "recommendation_locations",
+            "recommendation_movies",
+            "takeaway_order",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 358,
+        "text": "tell me when the hockey game tickets are for",
+        "predictions": [
+            "calendar_query",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 359,
+        "text": "flip the wemo on",
+        "predictions": [
+            "iot_cleaning",
+            "iot_wemo_off",
+            "iot_wemo_on"
+        ]
+    },
+    {
+        "id": 360,
+        "text": "what exactly is a resin tooth filling",
+        "predictions": [
+            "cooking_recipe",
+            "qa_definition"
+        ]
+    },
+    {
+        "id": 361,
+        "text": "please let me know the train time to washington",
+        "predictions": [
+            "transport_query",
+            "transport_ticket"
+        ]
+    },
+    {
+        "id": 362,
+        "text": "good restaurants",
+        "predictions": [
+            "recommendation_locations",
+            "takeaway_order",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 363,
+        "text": "more light please",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lighton",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 364,
+        "text": "what was the news for march fourth two thousand and seventeenth",
+        "predictions": [
+            "calendar_query",
+            "news_query"
+        ]
+    },
+    {
+        "id": 365,
+        "text": "i need the volume to be louder",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 366,
+        "text": "what is left for today",
+        "predictions": [
+            "calendar_query",
+            "lists_query"
+        ]
+    },
+    {
+        "id": 367,
+        "text": "keep me informed about bitcoin price",
+        "predictions": [
+            "general_quirky",
+            "news_query",
+            "qa_factoid",
+            "qa_stock"
+        ]
+    },
+    {
+        "id": 368,
+        "text": "i want to go to mcdo",
+        "predictions": [
+            "calendar_set",
+            "general_quirky",
+            "play_game",
+            "play_music",
+            "play_radio",
+            "social_post"
+        ]
+    },
+    {
+        "id": 369,
+        "text": "open up tetris",
+        "predictions": [
+            "cooking_recipe",
+            "iot_coffee"
+        ]
+    },
+    {
+        "id": 370,
+        "text": "what do pink ribbons support",
+        "predictions": [
+            "general_quirky",
+            "qa_definition",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 371,
+        "text": "find recent events of the celebrity",
+        "predictions": [
+            "calendar_query",
+            "general_quirky",
+            "news_query",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 372,
+        "text": "will the uv index be above eight today",
+        "predictions": [
+            "general_quirky",
+            "iot_hue_lightchange",
+            "qa_factoid",
+            "weather_query"
+        ]
+    },
+    {
+        "id": 373,
+        "text": "is snap doing good after the ipo",
+        "predictions": [
+            "news_query",
+            "qa_stock"
+        ]
+    },
+    {
+        "id": 374,
+        "text": "how many seconds are left to complete this hour",
+        "predictions": [
+            "calendar_query",
+            "datetime_query"
+        ]
+    },
+    {
+        "id": 375,
+        "text": "what are my notifications",
+        "predictions": [
+            "calendar_query",
+            "email_query",
+            "social_query"
+        ]
+    },
+    {
+        "id": 376,
+        "text": "when was the world war two started",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 377,
+        "text": "i emailed conrad a week ago please remind me what i wrote",
+        "predictions": [
+            "email_query",
+            "email_sendemail"
+        ]
+    },
+    {
+        "id": 378,
+        "text": "make a new notification for political campaign tweets",
+        "predictions": [
+            "calendar_set",
+            "social_post"
+        ]
+    },
+    {
+        "id": 379,
+        "text": "what are the current movies playing in me area",
+        "predictions": [
+            "recommendation_events",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 380,
+        "text": "increase the volume of the music to ninety",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_up",
+            "music_likeness"
+        ]
+    },
+    {
+        "id": 381,
+        "text": "light settings",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 382,
+        "text": "today feels like hard rock",
+        "predictions": [
+            "music_likeness",
+            "play_music"
+        ]
+    },
+    {
+        "id": 383,
+        "text": "enable wemo",
+        "predictions": [
+            "iot_cleaning",
+            "iot_wemo_off",
+            "iot_wemo_on"
+        ]
+    },
+    {
+        "id": 384,
+        "text": "google home",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid",
+            "recommendation_locations"
+        ]
+    },
+    {
+        "id": 385,
+        "text": "explain the book of daniel to me",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 386,
+        "text": "it's amazing.",
+        "predictions": [
+            "general_affirm",
+            "general_praise"
+        ]
+    },
+    {
+        "id": 387,
+        "text": "i want more light",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 388,
+        "text": "list to do",
+        "predictions": [
+            "lists_createoradd",
+            "lists_query"
+        ]
+    },
+    {
+        "id": 389,
+        "text": "favorite this music",
+        "predictions": [
+            "music_likeness",
+            "play_music"
+        ]
+    },
+    {
+        "id": 390,
+        "text": "search",
+        "predictions": [
+            "email_querycontact",
+            "general_quirky",
+            "lists_createoradd",
+            "lists_query",
+            "music_query",
+            "qa_definition",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 391,
+        "text": "please recommend which la lakers basketball game i should attend this month",
+        "predictions": [
+            "calendar_query",
+            "recommendation_events",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 392,
+        "text": "hi there tell me latest updates of times of india page in facebook",
+        "predictions": [
+            "news_query",
+            "social_query"
+        ]
+    },
+    {
+        "id": 393,
+        "text": "pull up the menu for the closest mexican restaurant",
+        "predictions": [
+            "cooking_recipe",
+            "recommendation_locations",
+            "takeaway_order",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 394,
+        "text": "tell me when the event is happening",
+        "predictions": [
+            "calendar_query",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 395,
+        "text": "it's dark in the living room",
+        "predictions": [
+            "iot_hue_lightdim",
+            "iot_hue_lightoff",
+            "iot_hue_lighton"
+        ]
+    },
+    {
+        "id": 396,
+        "text": "terrorist activities",
+        "predictions": [
+            "general_quirky",
+            "news_query"
+        ]
+    },
+    {
+        "id": 397,
+        "text": "any meeting between six to seven pm",
+        "predictions": [
+            "calendar_query",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 398,
+        "text": "find the nearest olive garden that has take out service",
+        "predictions": [
+            "recommendation_locations",
+            "takeaway_order",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 399,
+        "text": "can you substitute baking soda for baking powder",
+        "predictions": [
+            "cooking_recipe",
+            "iot_coffee"
+        ]
+    },
+    {
+        "id": 400,
+        "text": "object details",
+        "predictions": [
+            "general_quirky",
+            "qa_definition"
+        ]
+    },
+    {
+        "id": 401,
+        "text": "change my light color to blue and please turn off the kitchen light",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightoff",
+            "iot_hue_lighton",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 402,
+        "text": "turn on wemo",
+        "predictions": [
+            "iot_cleaning",
+            "iot_wemo_off",
+            "iot_wemo_on"
+        ]
+    },
+    {
+        "id": 403,
+        "text": "set the default audio setting",
+        "predictions": [
+            "audio_volume_up",
+            "music_likeness",
+            "music_settings",
+            "play_audiobook"
+        ]
+    },
+    {
+        "id": 404,
+        "text": "set the average of the device",
+        "predictions": [
+            "iot_hue_lightchange",
+            "qa_definition",
+            "qa_factoid",
+            "qa_maths"
+        ]
+    },
+    {
+        "id": 405,
+        "text": "meeting reminders from three to five",
+        "predictions": [
+            "calendar_query",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 406,
+        "text": "waiter at outback was rude",
+        "predictions": [
+            "general_joke",
+            "general_negate",
+            "general_quirky",
+            "qa_definition",
+            "social_post"
+        ]
+    },
+    {
+        "id": 407,
+        "text": "how much is the dollar worth in canada",
+        "predictions": [
+            "qa_currency",
+            "qa_stock"
+        ]
+    },
+    {
+        "id": 408,
+        "text": "turn up music please",
+        "predictions": [
+            "play_music",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 409,
+        "text": "where are the boston redso game playing next",
+        "predictions": [
+            "general_quirky",
+            "news_query",
+            "play_game",
+            "recommendation_events",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 410,
+        "text": "please repeat the last song",
+        "predictions": [
+            "audio_volume_up",
+            "music_likeness",
+            "music_settings",
+            "play_music"
+        ]
+    },
+    {
+        "id": 411,
+        "text": "Set a remainder of the day",
+        "predictions": [
+            "calendar_remove",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 412,
+        "text": "set aside this day for this calendar event",
+        "predictions": [
+            "calendar_remove",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 413,
+        "text": "turn off the fan",
+        "predictions": [
+            "audio_volume_mute",
+            "iot_hue_lightoff",
+            "iot_wemo_off"
+        ]
+    },
+    {
+        "id": 414,
+        "text": "can you make this event repetitive",
+        "predictions": [
+            "calendar_remove",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 415,
+        "text": "did anyone win the powerball lottery yesterday",
+        "predictions": [
+            "general_quirky",
+            "news_query"
+        ]
+    },
+    {
+        "id": 416,
+        "text": "what is there to do here",
+        "predictions": [
+            "lists_query",
+            "recommendation_events",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 417,
+        "text": "let me know if anything happens on that subject",
+        "predictions": [
+            "calendar_set",
+            "general_quirky",
+            "news_query",
+            "social_query"
+        ]
+    },
+    {
+        "id": 418,
+        "text": "google",
+        "predictions": [
+            "general_quirky",
+            "qa_definition",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 419,
+        "text": "my friend john has sent me a invitation card to his newly bought home say thanks to him in his mail id",
+        "predictions": [
+            "calendar_set",
+            "email_query",
+            "email_querycontact",
+            "email_sendemail",
+            "general_quirky",
+            "social_post"
+        ]
+    },
+    {
+        "id": 420,
+        "text": "i need the time zone from london england instead of central time zone",
+        "predictions": [
+            "datetime_convert",
+            "datetime_query"
+        ]
+    },
+    {
+        "id": 421,
+        "text": "party",
+        "predictions": [
+            "calendar_query",
+            "calendar_set",
+            "general_quirky",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 422,
+        "text": "stop it",
+        "predictions": [
+            "audio_volume_mute",
+            "general_commandstop"
+        ]
+    },
+    {
+        "id": 423,
+        "text": "can i walk in street this evening",
+        "predictions": [
+            "recommendation_events",
+            "transport_traffic",
+            "weather_query"
+        ]
+    },
+    {
+        "id": 424,
+        "text": "give me to do list",
+        "predictions": [
+            "lists_createoradd",
+            "lists_query"
+        ]
+    },
+    {
+        "id": 425,
+        "text": "i need more light",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 426,
+        "text": "hello beef up the volume a little bit",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_up",
+            "music_likeness"
+        ]
+    },
+    {
+        "id": 427,
+        "text": "please increase the volume of the current song",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_up",
+            "music_likeness",
+            "music_settings"
+        ]
+    },
+    {
+        "id": 428,
+        "text": "can you tell me about the meetings that have occurred this month",
+        "predictions": [
+            "calendar_query",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 429,
+        "text": "what is a good lave to eat near me",
+        "predictions": [
+            "cooking_recipe",
+            "general_quirky",
+            "recommendation_locations"
+        ]
+    },
+    {
+        "id": 430,
+        "text": "start the gas stove adjust the flame to cooking the dish and put all cooking ingredient to pressure cooker to cook the ingredients keep it on the stove wait for the ingredients to be cooked",
+        "predictions": [
+            "cooking_recipe",
+            "iot_cleaning",
+            "iot_coffee"
+        ]
+    },
+    {
+        "id": 431,
+        "text": "raise the brightness of the lights",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightdim",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 432,
+        "text": "that was excellent.",
+        "predictions": [
+            "general_affirm",
+            "general_praise"
+        ]
+    },
+    {
+        "id": 433,
+        "text": "new address",
+        "predictions": [
+            "calendar_set",
+            "email_addcontact",
+            "email_querycontact",
+            "lists_createoradd"
+        ]
+    },
+    {
+        "id": 434,
+        "text": "what's the best day next week to go out for pizza",
+        "predictions": [
+            "calendar_query",
+            "cooking_recipe",
+            "general_quirky",
+            "qa_factoid",
+            "recommendation_events",
+            "recommendation_locations",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 435,
+        "text": "where is my food",
+        "predictions": [
+            "recommendation_locations",
+            "takeaway_order",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 436,
+        "text": "contacts please",
+        "predictions": [
+            "email_addcontact",
+            "email_querycontact"
+        ]
+    },
+    {
+        "id": 437,
+        "text": "is mr pizza on skip the dishes",
+        "predictions": [
+            "cooking_recipe",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 438,
+        "text": "solution",
+        "predictions": [
+            "cooking_recipe",
+            "general_quirky",
+            "qa_definition",
+            "qa_maths"
+        ]
+    },
+    {
+        "id": 439,
+        "text": "please speak loud",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 440,
+        "text": "turn off smart socket",
+        "predictions": [
+            "iot_wemo_off",
+            "iot_wemo_on"
+        ]
+    },
+    {
+        "id": 441,
+        "text": "provide me with the list of great restaurants in a",
+        "predictions": [
+            "recommendation_locations",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 442,
+        "text": "where is the best vacation spot in california",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid",
+            "recommendation_locations"
+        ]
+    },
+    {
+        "id": 443,
+        "text": "tell mom ill be late this evening",
+        "predictions": [
+            "calendar_remove",
+            "calendar_set",
+            "social_post"
+        ]
+    },
+    {
+        "id": 444,
+        "text": "do you recognize the song playing on my phone",
+        "predictions": [
+            "music_likeness",
+            "music_query",
+            "play_music"
+        ]
+    },
+    {
+        "id": 445,
+        "text": "convert new york time to london",
+        "predictions": [
+            "datetime_convert",
+            "datetime_query"
+        ]
+    },
+    {
+        "id": 446,
+        "text": "make a reservation for two at olive garden",
+        "predictions": [
+            "calendar_set",
+            "takeaway_order"
+        ]
+    },
+    {
+        "id": 447,
+        "text": "what events are happening between two four pm today",
+        "predictions": [
+            "calendar_query",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 448,
+        "text": "move to the next song in the list",
+        "predictions": [
+            "music_likeness",
+            "play_music"
+        ]
+    },
+    {
+        "id": 449,
+        "text": "punjabi",
+        "predictions": [
+            "general_quirky",
+            "music_query",
+            "play_music",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 450,
+        "text": "i want to find some chinese food what is near me",
+        "predictions": [
+            "recommendation_locations",
+            "takeaway_order"
+        ]
+    },
+    {
+        "id": 451,
+        "text": "i feel like jazz right now how about you",
+        "predictions": [
+            "music_likeness",
+            "play_music"
+        ]
+    },
+    {
+        "id": 452,
+        "text": "kill the lights",
+        "predictions": [
+            "iot_hue_lightdim",
+            "iot_hue_lightoff",
+            "iot_hue_lighton"
+        ]
+    },
+    {
+        "id": 453,
+        "text": "tell me about this person",
+        "predictions": [
+            "general_quirky",
+            "qa_definition",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 454,
+        "text": "tell me how to get rid of the rash on my arm",
+        "predictions": [
+            "calendar_remove",
+            "cooking_recipe",
+            "general_quirky",
+            "lists_remove"
+        ]
+    },
+    {
+        "id": 455,
+        "text": "i want the music to be saved can you do it for me",
+        "predictions": [
+            "music_likeness",
+            "play_music"
+        ]
+    },
+    {
+        "id": 456,
+        "text": "please modify my calendar with this event",
+        "predictions": [
+            "calendar_remove",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 457,
+        "text": "i eat breakfast at eight am",
+        "predictions": [
+            "alarm_set",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 458,
+        "text": "i don't want to take any more calls after five pm",
+        "predictions": [
+            "alarm_remove",
+            "audio_volume_mute",
+            "calendar_remove",
+            "iot_wemo_off",
+            "lists_remove"
+        ]
+    },
+    {
+        "id": 459,
+        "text": "what do you use to make cookies",
+        "predictions": [
+            "cooking_recipe",
+            "general_quirky"
+        ]
+    },
+    {
+        "id": 460,
+        "text": "turn the lights down to seven",
+        "predictions": [
+            "iot_hue_lightdim",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 461,
+        "text": "tell me more about the concert on friday's night",
+        "predictions": [
+            "calendar_query",
+            "general_quirky"
+        ]
+    },
+    {
+        "id": 462,
+        "text": "tap the system tab tap clock and then select the alarms tab tap and select the day you want the alarm to sound double tap the time displayed on the extreme left to set a time for the alarm",
+        "predictions": [
+            "alarm_query",
+            "alarm_set"
+        ]
+    },
+    {
+        "id": 463,
+        "text": "recommend a movie playing in me area",
+        "predictions": [
+            "recommendation_events",
+            "recommendation_locations",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 464,
+        "text": "local theater screening which movie",
+        "predictions": [
+            "recommendation_events",
+            "recommendation_locations",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 465,
+        "text": "please take me to wall street journal",
+        "predictions": [
+            "news_query",
+            "qa_stock"
+        ]
+    },
+    {
+        "id": 466,
+        "text": "tell comment",
+        "predictions": [
+            "general_joke",
+            "social_post"
+        ]
+    },
+    {
+        "id": 467,
+        "text": "when is peter's birthday",
+        "predictions": [
+            "email_querycontact",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 468,
+        "text": "which religion is most true",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 469,
+        "text": "find world meaning in dictionary",
+        "predictions": [
+            "general_quirky",
+            "qa_definition",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 470,
+        "text": "volume louder please",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 471,
+        "text": "did you added milk to the shopping list",
+        "predictions": [
+            "lists_createoradd",
+            "lists_query"
+        ]
+    },
+    {
+        "id": 472,
+        "text": "start list",
+        "predictions": [
+            "lists_createoradd",
+            "lists_query"
+        ]
+    },
+    {
+        "id": 473,
+        "text": "nightlife",
+        "predictions": [
+            "general_quirky",
+            "recommendation_events",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 474,
+        "text": "good",
+        "predictions": [
+            "general_affirm",
+            "general_quirky",
+            "play_podcasts",
+            "recommendation_movies",
+            "weather_query"
+        ]
+    },
+    {
+        "id": 475,
+        "text": "decrease lighting",
+        "predictions": [
+            "iot_hue_lightdim",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 476,
+        "text": "start new email for yulia",
+        "predictions": [
+            "email_query",
+            "email_sendemail"
+        ]
+    },
+    {
+        "id": 477,
+        "text": "what are converse shoes",
+        "predictions": [
+            "general_quirky",
+            "qa_definition",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 478,
+        "text": "movies",
+        "predictions": [
+            "general_quirky",
+            "recommendation_events",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 479,
+        "text": "what happened last week",
+        "predictions": [
+            "general_quirky",
+            "news_query"
+        ]
+    },
+    {
+        "id": 480,
+        "text": "can you turn it up a little",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 481,
+        "text": "save this post about the song that i just listened to",
+        "predictions": [
+            "music_likeness",
+            "social_post"
+        ]
+    },
+    {
+        "id": 482,
+        "text": "what causes osteoperosis",
+        "predictions": [
+            "general_quirky",
+            "qa_definition",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 483,
+        "text": "tell me current events between yesterday and this morning",
+        "predictions": [
+            "calendar_query",
+            "news_query"
+        ]
+    },
+    {
+        "id": 484,
+        "text": "please add a new email in my contacts from sara",
+        "predictions": [
+            "email_addcontact",
+            "email_querycontact",
+            "email_sendemail"
+        ]
+    },
+    {
+        "id": 485,
+        "text": "brighten the lights",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightdim",
+            "iot_hue_lighton",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 486,
+        "text": "go back to animal farm",
+        "predictions": [
+            "play_audiobook",
+            "play_music",
+            "play_podcasts"
+        ]
+    },
+    {
+        "id": 487,
+        "text": "siri how do make a blt",
+        "predictions": [
+            "general_quirky",
+            "qa_definition",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 488,
+        "text": "next train to orlando",
+        "predictions": [
+            "transport_query",
+            "transport_ticket"
+        ]
+    },
+    {
+        "id": 489,
+        "text": "what is wake up time",
+        "predictions": [
+            "alarm_query",
+            "alarm_set"
+        ]
+    },
+    {
+        "id": 490,
+        "text": "please don't shuffle songs in music player just playing continuously",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_mute",
+            "audio_volume_up",
+            "music_dislikeness",
+            "music_likeness",
+            "music_settings"
+        ]
+    },
+    {
+        "id": 491,
+        "text": "lower the speak volume",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_mute",
+            "audio_volume_other",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 492,
+        "text": "Dolly parton biography",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 493,
+        "text": "consequences to actions",
+        "predictions": [
+            "general_quirky",
+            "news_query"
+        ]
+    },
+    {
+        "id": 494,
+        "text": "can you brighten up the lights please",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightdim",
+            "iot_hue_lighton",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 495,
+        "text": "what event is next",
+        "predictions": [
+            "calendar_query",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 496,
+        "text": "order a smoked meat platter from beanos",
+        "predictions": [
+            "iot_coffee",
+            "takeaway_order"
+        ]
+    },
+    {
+        "id": 497,
+        "text": "is fish and chips really british",
+        "predictions": [
+            "cooking_recipe",
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 498,
+        "text": "how long until we get to chicago",
+        "predictions": [
+            "transport_query",
+            "transport_traffic"
+        ]
+    },
+    {
+        "id": 499,
+        "text": "play the next one",
+        "predictions": [
+            "play_music",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 500,
+        "text": "what do you do",
+        "predictions": [
+            "general_quirky",
+            "qa_definition"
+        ]
+    },
+    {
+        "id": 501,
+        "text": "brighten the lamp next to the sofa",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightdim",
+            "iot_hue_lightoff",
+            "iot_hue_lighton",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 502,
+        "text": "find out if the olive garden will let me do takeaway",
+        "predictions": [
+            "takeaway_order",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 503,
+        "text": "tell me movies playing in oceanside tonight",
+        "predictions": [
+            "recommendation_events",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 504,
+        "text": "remind me of how many lists i have",
+        "predictions": [
+            "lists_createoradd",
+            "lists_query"
+        ]
+    },
+    {
+        "id": 505,
+        "text": "when is the school dance junction marked",
+        "predictions": [
+            "calendar_query",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 506,
+        "text": "what are the stats of room",
+        "predictions": [
+            "general_quirky",
+            "lists_query",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 507,
+        "text": "search in the web for buying bakeware for muffins",
+        "predictions": [
+            "cooking_recipe",
+            "recommendation_locations",
+            "takeaway_order",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 508,
+        "text": "by main power off",
+        "predictions": [
+            "iot_hue_lightoff",
+            "iot_wemo_off",
+            "iot_wemo_on"
+        ]
+    },
+    {
+        "id": 509,
+        "text": "put summer lovin in third position in my queue",
+        "predictions": [
+            "lists_createoradd",
+            "music_likeness",
+            "social_post"
+        ]
+    },
+    {
+        "id": 510,
+        "text": "please give me detail one dollars equals rs",
+        "predictions": [
+            "qa_currency",
+            "qa_maths"
+        ]
+    },
+    {
+        "id": 511,
+        "text": "book train best deal",
+        "predictions": [
+            "transport_query",
+            "transport_taxi",
+            "transport_ticket"
+        ]
+    },
+    {
+        "id": 512,
+        "text": "can you find animal crossing",
+        "predictions": [
+            "general_quirky",
+            "qa_definition",
+            "recommendation_locations",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 513,
+        "text": "history of abraham lincoln",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 514,
+        "text": "assistant shuffle entire library",
+        "predictions": [
+            "iot_cleaning",
+            "iot_hue_lightchange",
+            "lists_createoradd",
+            "music_settings",
+            "play_audiobook",
+            "play_game",
+            "play_music"
+        ]
+    },
+    {
+        "id": 515,
+        "text": "i didn't get your response.",
+        "predictions": [
+            "general_explain",
+            "general_negate"
+        ]
+    },
+    {
+        "id": 516,
+        "text": "ted talks",
+        "predictions": [
+            "general_quirky",
+            "news_query",
+            "play_game"
+        ]
+    },
+    {
+        "id": 517,
+        "text": "i have report any of the pda's",
+        "predictions": [
+            "email_query",
+            "general_quirky",
+            "lists_query",
+            "news_query",
+            "social_post",
+            "social_query"
+        ]
+    },
+    {
+        "id": 518,
+        "text": "can you turn the lights up",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightdim",
+            "iot_hue_lighton",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 519,
+        "text": "s have features that make them more robust and able to handle inclement weather jolts and moisture",
+        "predictions": [
+            "general_quirky",
+            "weather_query"
+        ]
+    },
+    {
+        "id": 520,
+        "text": "who is the top of the music chart for two thousand and seventeen",
+        "predictions": [
+            "music_likeness",
+            "music_query",
+            "play_music",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 521,
+        "text": "what is the biggest blockbuster this week",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 522,
+        "text": "this computer is very hard to use",
+        "predictions": [
+            "general_quirky",
+            "social_post"
+        ]
+    },
+    {
+        "id": 523,
+        "text": "where is mary's birthday party being held",
+        "predictions": [
+            "calendar_query",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 524,
+        "text": "what's up in the neighbourhood",
+        "predictions": [
+            "recommendation_events",
+            "recommendation_locations",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 525,
+        "text": "queue up ymca",
+        "predictions": [
+            "calendar_set",
+            "play_game",
+            "play_music",
+            "play_podcasts",
+            "play_radio",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 526,
+        "text": "god",
+        "predictions": [
+            "general_quirky",
+            "qa_definition",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 527,
+        "text": "slow",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_mute",
+            "audio_volume_up",
+            "music_settings"
+        ]
+    },
+    {
+        "id": 528,
+        "text": "i want a lower light",
+        "predictions": [
+            "iot_hue_lightdim",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 529,
+        "text": "please play all the songs in high volume and make adjustments to pop music mode",
+        "predictions": [
+            "audio_volume_up",
+            "music_likeness",
+            "music_settings",
+            "play_music",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 530,
+        "text": "louder",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 531,
+        "text": "please turn on the lights",
+        "predictions": [
+            "alarm_remove",
+            "iot_hue_lightdim",
+            "iot_hue_lightoff",
+            "iot_hue_lighton",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 532,
+        "text": "how many miles is it from los angeles california to austin texas",
+        "predictions": [
+            "qa_factoid",
+            "transport_query"
+        ]
+    },
+    {
+        "id": 533,
+        "text": "when do i need to pay the bills",
+        "predictions": [
+            "calendar_query",
+            "general_quirky",
+            "lists_query"
+        ]
+    },
+    {
+        "id": 534,
+        "text": "is it wednesday",
+        "predictions": [
+            "calendar_query",
+            "datetime_query"
+        ]
+    },
+    {
+        "id": 535,
+        "text": "i am in need of some pizza what's the closest place that delivers",
+        "predictions": [
+            "recommendation_locations",
+            "takeaway_order",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 536,
+        "text": "put the disco lights on",
+        "predictions": [
+            "alarm_remove",
+            "iot_cleaning",
+            "iot_hue_lightchange",
+            "iot_hue_lightoff",
+            "iot_hue_lighton",
+            "iot_hue_lightup",
+            "iot_wemo_on"
+        ]
+    },
+    {
+        "id": 537,
+        "text": "i like this song what is it can you please repeat it once",
+        "predictions": [
+            "music_likeness",
+            "music_query",
+            "music_settings"
+        ]
+    },
+    {
+        "id": 538,
+        "text": "did the yankees win last night",
+        "predictions": [
+            "general_quirky",
+            "news_query"
+        ]
+    },
+    {
+        "id": 539,
+        "text": "is god gonna cry today",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 540,
+        "text": "i am fine",
+        "predictions": [
+            "general_dontcare",
+            "general_quirky"
+        ]
+    },
+    {
+        "id": 541,
+        "text": "could you please remove my card details from wallet",
+        "predictions": [
+            "calendar_remove",
+            "lists_remove"
+        ]
+    },
+    {
+        "id": 542,
+        "text": "play the billboard top ten",
+        "predictions": [
+            "play_music",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 543,
+        "text": "turn on when plugged in else turn off",
+        "predictions": [
+            "iot_wemo_off",
+            "iot_wemo_on"
+        ]
+    },
+    {
+        "id": 544,
+        "text": "turn the volume down a little please",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_other",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 545,
+        "text": "tell me what is the nicest place to go",
+        "predictions": [
+            "general_quirky",
+            "recommendation_locations"
+        ]
+    },
+    {
+        "id": 546,
+        "text": "google please be extra quiet the baby is sleeping",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_mute",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 547,
+        "text": "any new interests from linda",
+        "predictions": [
+            "email_query",
+            "email_querycontact",
+            "general_quirky",
+            "news_query",
+            "social_query"
+        ]
+    },
+    {
+        "id": 548,
+        "text": "hi what is going on today",
+        "predictions": [
+            "general_quirky",
+            "recommendation_events",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 549,
+        "text": "decrease the volume to ten",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_mute",
+            "audio_volume_other",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 550,
+        "text": "stop powering the wemo socket",
+        "predictions": [
+            "iot_wemo_off",
+            "iot_wemo_on"
+        ]
+    },
+    {
+        "id": 551,
+        "text": "i am grateful if you call the amazon customer service",
+        "predictions": [
+            "email_sendemail",
+            "social_post"
+        ]
+    },
+    {
+        "id": 552,
+        "text": "switch on the wemo plug",
+        "predictions": [
+            "iot_wemo_off",
+            "iot_wemo_on"
+        ]
+    },
+    {
+        "id": 553,
+        "text": "cross out bread from shopping list",
+        "predictions": [
+            "lists_createoradd",
+            "lists_remove"
+        ]
+    },
+    {
+        "id": 554,
+        "text": "how many ounces are in a cup",
+        "predictions": [
+            "cooking_recipe",
+            "qa_factoid",
+            "qa_maths"
+        ]
+    },
+    {
+        "id": 555,
+        "text": "repeat the next song",
+        "predictions": [
+            "music_likeness",
+            "music_query",
+            "music_settings",
+            "play_music"
+        ]
+    },
+    {
+        "id": 556,
+        "text": "largest animal",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 557,
+        "text": "confirm to buy laptop",
+        "predictions": [
+            "email_querycontact",
+            "general_quirky",
+            "qa_stock",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 558,
+        "text": "check calendar for events",
+        "predictions": [
+            "calendar_query",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 559,
+        "text": "hello how are you today",
+        "predictions": [
+            "general_greet",
+            "general_praise",
+            "general_quirky",
+            "play_radio",
+            "recommendation_events",
+            "recommendation_locations",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 560,
+        "text": "is there anything new on reddit",
+        "predictions": [
+            "news_query",
+            "social_query"
+        ]
+    },
+    {
+        "id": 561,
+        "text": "how many mega pixel is listed in the description of the canon",
+        "predictions": [
+            "general_quirky",
+            "qa_definition",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 562,
+        "text": "how do i set the timer on my coffee machine",
+        "predictions": [
+            "cooking_recipe",
+            "iot_coffee"
+        ]
+    },
+    {
+        "id": 563,
+        "text": "carlos linux upgrade email",
+        "predictions": [
+            "email_addcontact",
+            "email_query",
+            "email_sendemail"
+        ]
+    },
+    {
+        "id": 564,
+        "text": "usning calc",
+        "predictions": [
+            "general_quirky",
+            "iot_hue_lightchange",
+            "qa_definition",
+            "qa_factoid",
+            "qa_maths",
+            "weather_query"
+        ]
+    },
+    {
+        "id": 565,
+        "text": "in how many hours will it be midnight in london england",
+        "predictions": [
+            "datetime_convert",
+            "datetime_query"
+        ]
+    },
+    {
+        "id": 566,
+        "text": "show me reviews of donald trump",
+        "predictions": [
+            "general_quirky",
+            "news_query",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 567,
+        "text": "how do i duct tape a gooseto apig",
+        "predictions": [
+            "cooking_recipe",
+            "general_quirky"
+        ]
+    },
+    {
+        "id": 568,
+        "text": "repeat daily",
+        "predictions": [
+            "calendar_set",
+            "general_repeat",
+            "lists_createoradd",
+            "music_settings",
+            "play_music",
+            "play_podcasts"
+        ]
+    },
+    {
+        "id": 569,
+        "text": "where is hallway",
+        "predictions": [
+            "play_podcasts",
+            "recommendation_locations",
+            "recommendation_movies",
+            "transport_query",
+            "transport_traffic"
+        ]
+    },
+    {
+        "id": 570,
+        "text": "tell me about latest controversial news of kim kardashian",
+        "predictions": [
+            "general_quirky",
+            "news_query",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 571,
+        "text": "i wanna share that",
+        "predictions": [
+            "general_quirky",
+            "social_post"
+        ]
+    },
+    {
+        "id": 572,
+        "text": "tell me about joose",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 573,
+        "text": "what is on my playlist",
+        "predictions": [
+            "lists_query",
+            "music_query"
+        ]
+    },
+    {
+        "id": 574,
+        "text": "this candidates guide to the practical driving assessment <unk> has been prepared to help learner drivers develop the skills necessary to pass a and become a safe driver",
+        "predictions": [
+            "general_quirky",
+            "news_query",
+            "social_post"
+        ]
+    },
+    {
+        "id": 575,
+        "text": "automatically enter me into every free sweepstake for which i am eligible for around the globe at all times prioritize those with cash prizes",
+        "predictions": [
+            "calendar_set",
+            "general_quirky",
+            "news_query",
+            "social_post"
+        ]
+    },
+    {
+        "id": 576,
+        "text": "check for this mail in my contact if not then add it",
+        "predictions": [
+            "email_addcontact",
+            "email_query",
+            "email_querycontact",
+            "email_sendemail"
+        ]
+    },
+    {
+        "id": 577,
+        "text": "more bright",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 578,
+        "text": "name a rom com movie playing in and around new york theatres",
+        "predictions": [
+            "recommendation_events",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 579,
+        "text": "please increase the volume",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 580,
+        "text": "switch on smart plug",
+        "predictions": [
+            "iot_wemo_off",
+            "iot_wemo_on"
+        ]
+    },
+    {
+        "id": 581,
+        "text": "train wreck",
+        "predictions": [
+            "general_quirky",
+            "play_music"
+        ]
+    },
+    {
+        "id": 582,
+        "text": "create a new miley cyrus station",
+        "predictions": [
+            "lists_createoradd",
+            "music_likeness",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 583,
+        "text": "would you like to play never have i ever",
+        "predictions": [
+            "play_game",
+            "play_music"
+        ]
+    },
+    {
+        "id": 584,
+        "text": "can you please change the time zone to us",
+        "predictions": [
+            "datetime_convert",
+            "datetime_query"
+        ]
+    },
+    {
+        "id": 585,
+        "text": "where does tar work currently",
+        "predictions": [
+            "cooking_recipe",
+            "email_querycontact",
+            "general_quirky",
+            "lists_query",
+            "qa_definition",
+            "recommendation_locations",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 586,
+        "text": "will you take care of the home security system",
+        "predictions": [
+            "alarm_query",
+            "alarm_remove",
+            "general_quirky"
+        ]
+    },
+    {
+        "id": 587,
+        "text": "please post happy birthday usa on my newsfeed",
+        "predictions": [
+            "news_query",
+            "social_post",
+            "social_query"
+        ]
+    },
+    {
+        "id": 588,
+        "text": "please turn on repeat all",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_up",
+            "music_settings",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 589,
+        "text": "what is the latest from my feed",
+        "predictions": [
+            "news_query",
+            "social_query"
+        ]
+    },
+    {
+        "id": 590,
+        "text": "sandle",
+        "predictions": [
+            "lists_createoradd",
+            "music_likeness",
+            "music_query",
+            "play_music"
+        ]
+    },
+    {
+        "id": 591,
+        "text": "what is latest gossip of holywood going on",
+        "predictions": [
+            "general_quirky",
+            "news_query",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 592,
+        "text": "calendar henvich marriage",
+        "predictions": [
+            "calendar_query",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 593,
+        "text": "play song on repeat",
+        "predictions": [
+            "music_settings",
+            "play_music",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 594,
+        "text": "seven hundred",
+        "predictions": [
+            "datetime_query",
+            "play_music"
+        ]
+    },
+    {
+        "id": 595,
+        "text": "open subway surfers",
+        "predictions": [
+            "play_game",
+            "play_music",
+            "play_podcasts",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 596,
+        "text": "how many times do i eat out every month",
+        "predictions": [
+            "calendar_query",
+            "cooking_recipe",
+            "general_quirky",
+            "lists_query",
+            "qa_factoid",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 597,
+        "text": "resolve this thirty twelve",
+        "predictions": [
+            "play_game",
+            "play_music",
+            "play_podcasts"
+        ]
+    },
+    {
+        "id": 598,
+        "text": "can you convert my time zone to the time zone i'm currently in",
+        "predictions": [
+            "datetime_convert",
+            "datetime_query"
+        ]
+    },
+    {
+        "id": 599,
+        "text": "it has a meaning of rhythm",
+        "predictions": [
+            "general_quirky",
+            "qa_definition"
+        ]
+    },
+    {
+        "id": 600,
+        "text": "how the eiffel tower looks like",
+        "predictions": [
+            "general_quirky",
+            "qa_definition",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 601,
+        "text": "how close is it to eight pm",
+        "predictions": [
+            "datetime_convert",
+            "datetime_query"
+        ]
+    },
+    {
+        "id": 602,
+        "text": "give me low lighting in the kitchen",
+        "predictions": [
+            "iot_hue_lightdim",
+            "iot_hue_lightoff",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 603,
+        "text": "can you tell me what movie has the best reviews",
+        "predictions": [
+            "general_quirky",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 604,
+        "text": "best ticket price air plane to chester on the twenty first",
+        "predictions": [
+            "transport_query",
+            "transport_ticket"
+        ]
+    },
+    {
+        "id": 605,
+        "text": "play me the bbc radio podcast",
+        "predictions": [
+            "play_podcasts",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 606,
+        "text": "it would be great if can give you law consultations",
+        "predictions": [
+            "general_quirky",
+            "news_query"
+        ]
+    },
+    {
+        "id": 607,
+        "text": "tell me what the product of eighteen and thirty one is",
+        "predictions": [
+            "general_quirky",
+            "social_post"
+        ]
+    },
+    {
+        "id": 608,
+        "text": "lights to fifty percent",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 609,
+        "text": "what are the details of this event",
+        "predictions": [
+            "calendar_query",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 610,
+        "text": "is the giraffe baby born yet",
+        "predictions": [
+            "calendar_query",
+            "general_quirky",
+            "news_query",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 611,
+        "text": "please tell me about a hour before thursday about my hair appointment",
+        "predictions": [
+            "calendar_query",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 612,
+        "text": "i need to know what reminders have not been deleted yet",
+        "predictions": [
+            "calendar_query",
+            "calendar_remove",
+            "email_query",
+            "lists_query",
+            "recommendation_events",
+            "social_query"
+        ]
+    },
+    {
+        "id": 613,
+        "text": "can you pull up jeff",
+        "predictions": [
+            "general_quirky",
+            "iot_cleaning",
+            "news_query",
+            "play_game",
+            "play_music",
+            "play_radio",
+            "social_post"
+        ]
+    },
+    {
+        "id": 614,
+        "text": "could you harvest the crops in farmvile",
+        "predictions": [
+            "cooking_recipe",
+            "general_quirky"
+        ]
+    },
+    {
+        "id": 615,
+        "text": "please turn down the lights to fifty percent in the den",
+        "predictions": [
+            "iot_hue_lightdim",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 616,
+        "text": "shut down the garage light and set the den light to orange please",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightdim",
+            "iot_hue_lightoff",
+            "iot_hue_lighton",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 617,
+        "text": "turn off bedroom fan",
+        "predictions": [
+            "audio_volume_mute",
+            "iot_hue_lightoff",
+            "iot_wemo_off",
+            "lists_remove"
+        ]
+    },
+    {
+        "id": 618,
+        "text": "what are lady gagas most popular songs",
+        "predictions": [
+            "music_query",
+            "play_music"
+        ]
+    },
+    {
+        "id": 619,
+        "text": "what movie are playing near me",
+        "predictions": [
+            "recommendation_events",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 620,
+        "text": "get more information on geographic information about this place",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 621,
+        "text": "send this message to the family group",
+        "predictions": [
+            "email_sendemail",
+            "social_post"
+        ]
+    },
+    {
+        "id": 622,
+        "text": "what is elvis favorite ride",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 623,
+        "text": "change my alarms to mountain time",
+        "predictions": [
+            "alarm_remove",
+            "alarm_set"
+        ]
+    },
+    {
+        "id": 624,
+        "text": "be my clock",
+        "predictions": [
+            "alarm_set",
+            "calendar_set",
+            "datetime_convert",
+            "datetime_query"
+        ]
+    },
+    {
+        "id": 625,
+        "text": "turn off kettle socket",
+        "predictions": [
+            "iot_wemo_off",
+            "iot_wemo_on"
+        ]
+    },
+    {
+        "id": 626,
+        "text": "update alarm",
+        "predictions": [
+            "alarm_remove",
+            "alarm_set"
+        ]
+    },
+    {
+        "id": 627,
+        "text": "where is the closest uber",
+        "predictions": [
+            "recommendation_locations",
+            "takeaway_query",
+            "transport_taxi",
+            "transport_traffic"
+        ]
+    },
+    {
+        "id": 628,
+        "text": "what do you think of trump",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 629,
+        "text": "give me stats on the election by the hour",
+        "predictions": [
+            "calendar_query",
+            "calendar_set",
+            "news_query"
+        ]
+    },
+    {
+        "id": 630,
+        "text": "speak loudly",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 631,
+        "text": "take out the milk from the shopping list",
+        "predictions": [
+            "lists_createoradd",
+            "lists_remove"
+        ]
+    },
+    {
+        "id": 632,
+        "text": "how long has princess kate been pregnant",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 633,
+        "text": "tell me about reasons of winning of trump",
+        "predictions": [
+            "general_quirky",
+            "news_query",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 634,
+        "text": "please raise the light i am not comfortable at this",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightdim",
+            "iot_hue_lighton",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 635,
+        "text": "show me theatre where pirates of caribbean is playing",
+        "predictions": [
+            "general_quirky",
+            "play_game",
+            "play_music",
+            "play_podcasts",
+            "recommendation_events",
+            "recommendation_locations",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 636,
+        "text": "turn on all upstairs lights",
+        "predictions": [
+            "alarm_remove",
+            "iot_hue_lightoff",
+            "iot_hue_lighton",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 637,
+        "text": "how are you doing",
+        "predictions": [
+            "audio_volume_up",
+            "general_greet",
+            "general_quirky",
+            "play_game",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 638,
+        "text": "go to nytimes dot com",
+        "predictions": [
+            "news_query",
+            "play_music",
+            "play_podcasts",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 639,
+        "text": "how many bots are in a dollar",
+        "predictions": [
+            "qa_currency",
+            "qa_stock"
+        ]
+    },
+    {
+        "id": 640,
+        "text": "can you tell me when friday the thirteenth will be playing on tv this year",
+        "predictions": [
+            "calendar_query",
+            "datetime_query",
+            "general_quirky"
+        ]
+    },
+    {
+        "id": 641,
+        "text": "i need to know more about the parade this weekend",
+        "predictions": [
+            "calendar_query",
+            "general_quirky",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 642,
+        "text": "olly brighten the lights",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightdim",
+            "iot_hue_lighton",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 643,
+        "text": "choose calendar",
+        "predictions": [
+            "calendar_query",
+            "calendar_remove",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 644,
+        "text": "what baseball games are scheduled for this week in tulsa",
+        "predictions": [
+            "calendar_query",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 645,
+        "text": "open radia",
+        "predictions": [
+            "audio_volume_up",
+            "iot_wemo_off",
+            "iot_wemo_on",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 646,
+        "text": "let me know if anything new shows up about this",
+        "predictions": [
+            "news_query",
+            "social_query"
+        ]
+    },
+    {
+        "id": 647,
+        "text": "tell me if the olive garden allows takeaway",
+        "predictions": [
+            "takeaway_order",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 648,
+        "text": "show me recently added events",
+        "predictions": [
+            "calendar_query",
+            "calendar_set",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 649,
+        "text": "what is an orange like",
+        "predictions": [
+            "qa_definition",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 650,
+        "text": "please turn down the lights in the house",
+        "predictions": [
+            "iot_hue_lightdim",
+            "iot_hue_lightoff",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 651,
+        "text": "power down the plug socket one",
+        "predictions": [
+            "iot_wemo_off",
+            "iot_wemo_on"
+        ]
+    },
+    {
+        "id": 652,
+        "text": "party beach",
+        "predictions": [
+            "general_quirky",
+            "play_game",
+            "play_music",
+            "recommendation_events",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 653,
+        "text": "how long does it take to get there",
+        "predictions": [
+            "transport_query",
+            "transport_traffic"
+        ]
+    },
+    {
+        "id": 654,
+        "text": "get me info on",
+        "predictions": [
+            "qa_definition",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 655,
+        "text": "set an alert for two pm",
+        "predictions": [
+            "alarm_set",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 656,
+        "text": "events in my march calendar has to be listed",
+        "predictions": [
+            "calendar_query",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 657,
+        "text": "hey what are you up to",
+        "predictions": [
+            "audio_volume_up",
+            "music_likeness",
+            "music_query",
+            "music_settings",
+            "play_music",
+            "play_podcasts"
+        ]
+    },
+    {
+        "id": 658,
+        "text": "who is leading the formula one race right now",
+        "predictions": [
+            "general_quirky",
+            "news_query",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 659,
+        "text": "Please lower the volume",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_mute",
+            "audio_volume_other",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 660,
+        "text": "what is the time difference between my location and hong kong",
+        "predictions": [
+            "datetime_convert",
+            "datetime_query"
+        ]
+    },
+    {
+        "id": 661,
+        "text": "which country would end up converting the most money out of a thousand dollars us",
+        "predictions": [
+            "general_quirky",
+            "qa_currency",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 662,
+        "text": "What's up",
+        "predictions": [
+            "calendar_query",
+            "news_query",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 663,
+        "text": "lower my music player volume by fifty percent of its current level",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_mute",
+            "audio_volume_other",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 664,
+        "text": "is this true about this date",
+        "predictions": [
+            "calendar_query",
+            "datetime_query"
+        ]
+    },
+    {
+        "id": 665,
+        "text": "make it brighter in here",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightdim",
+            "iot_hue_lighton",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 666,
+        "text": "switch on light",
+        "predictions": [
+            "iot_coffee",
+            "iot_hue_lightchange",
+            "iot_hue_lightoff",
+            "iot_hue_lighton",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 667,
+        "text": "check celebrity where abouts",
+        "predictions": [
+            "general_quirky",
+            "news_query",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 668,
+        "text": "lower your volume please",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_mute",
+            "audio_volume_other",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 669,
+        "text": "how long will it take to get to the airport",
+        "predictions": [
+            "transport_query",
+            "transport_traffic"
+        ]
+    },
+    {
+        "id": 670,
+        "text": "delete all",
+        "predictions": [
+            "calendar_remove",
+            "lists_remove"
+        ]
+    },
+    {
+        "id": 671,
+        "text": "what is happening to my order",
+        "predictions": [
+            "recommendation_locations",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 672,
+        "text": "am i available at five pm on sunday",
+        "predictions": [
+            "alarm_query",
+            "calendar_query",
+            "datetime_convert",
+            "datetime_query",
+            "weather_query"
+        ]
+    },
+    {
+        "id": 673,
+        "text": "change mountain standard to pacific",
+        "predictions": [
+            "datetime_convert",
+            "weather_query"
+        ]
+    },
+    {
+        "id": 674,
+        "text": "turn on shuffle",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_up",
+            "music_settings",
+            "play_music"
+        ]
+    },
+    {
+        "id": 675,
+        "text": "features of google pixel",
+        "predictions": [
+            "general_quirky",
+            "qa_definition",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 676,
+        "text": "how does the desk look",
+        "predictions": [
+            "general_quirky",
+            "qa_definition"
+        ]
+    },
+    {
+        "id": 677,
+        "text": "which bank will give better rate for currencies i have",
+        "predictions": [
+            "qa_currency",
+            "qa_stock"
+        ]
+    },
+    {
+        "id": 678,
+        "text": "it will be good if you yellowish the light",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightdim",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 679,
+        "text": "my meeting Friday is in eastern standard time",
+        "predictions": [
+            "calendar_query",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 680,
+        "text": "hey i want to get trains to manchester on Wednesday",
+        "predictions": [
+            "transport_query",
+            "transport_ticket"
+        ]
+    },
+    {
+        "id": 681,
+        "text": "something",
+        "predictions": [
+            "general_quirky",
+            "qa_definition",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 682,
+        "text": "play radia",
+        "predictions": [
+            "play_music",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 683,
+        "text": "blot me all the phone calls planned for the morning of twenty three march",
+        "predictions": [
+            "calendar_query",
+            "calendar_set",
+            "email_querycontact",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 684,
+        "text": "what are the prices to get to chicago on a train book the cheapest one",
+        "predictions": [
+            "transport_query",
+            "transport_ticket"
+        ]
+    },
+    {
+        "id": 685,
+        "text": "lower the lights a little more",
+        "predictions": [
+            "iot_hue_lightdim",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 686,
+        "text": "give me the latest information about president trump please",
+        "predictions": [
+            "general_quirky",
+            "news_query",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 687,
+        "text": "add this new email with contact",
+        "predictions": [
+            "email_addcontact",
+            "email_sendemail"
+        ]
+    },
+    {
+        "id": 688,
+        "text": "and also tell about the reviews and rating of the movie",
+        "predictions": [
+            "general_quirky",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 689,
+        "text": "what are all the upcoming events",
+        "predictions": [
+            "calendar_query",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 690,
+        "text": "please resume my music",
+        "predictions": [
+            "music_likeness",
+            "play_audiobook",
+            "play_music"
+        ]
+    },
+    {
+        "id": 691,
+        "text": "could you speak louder",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 692,
+        "text": "spot",
+        "predictions": [
+            "calendar_set",
+            "music_likeness",
+            "music_query",
+            "play_music",
+            "play_radio",
+            "qa_factoid",
+            "weather_query"
+        ]
+    },
+    {
+        "id": 693,
+        "text": "check the weather of city on list starts with a",
+        "predictions": [
+            "lists_createoradd",
+            "lists_query",
+            "qa_factoid",
+            "weather_query"
+        ]
+    },
+    {
+        "id": 694,
+        "text": "make the light more brighter",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightdim",
+            "iot_hue_lighton",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 695,
+        "text": "isn't it funny how the weather keeps getting worse",
+        "predictions": [
+            "general_quirky",
+            "weather_query"
+        ]
+    },
+    {
+        "id": 696,
+        "text": "time wellington nz",
+        "predictions": [
+            "datetime_convert",
+            "datetime_query"
+        ]
+    },
+    {
+        "id": 697,
+        "text": "open twitter",
+        "predictions": [
+            "social_post",
+            "social_query"
+        ]
+    },
+    {
+        "id": 698,
+        "text": "one am set",
+        "predictions": [
+            "alarm_set",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 699,
+        "text": "how much rate will be calculated",
+        "predictions": [
+            "qa_currency",
+            "qa_stock"
+        ]
+    },
+    {
+        "id": 700,
+        "text": "change the alarm weekly settings",
+        "predictions": [
+            "alarm_remove",
+            "alarm_set"
+        ]
+    },
+    {
+        "id": 701,
+        "text": "events description",
+        "predictions": [
+            "calendar_query",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 702,
+        "text": "lower the lights in the living room",
+        "predictions": [
+            "iot_hue_lightdim",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 703,
+        "text": "orevena voice recorder let me the system page is where to save songs",
+        "predictions": [
+            "music_likeness",
+            "music_query",
+            "music_settings",
+            "play_music"
+        ]
+    },
+    {
+        "id": 704,
+        "text": "what genre is most played on my music player",
+        "predictions": [
+            "music_query",
+            "play_music"
+        ]
+    },
+    {
+        "id": 705,
+        "text": "how many calories did i burn with my fifty minutes of yoga",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 706,
+        "text": "i would like my to tell me the trend on foreign exchange rates",
+        "predictions": [
+            "news_query",
+            "qa_currency",
+            "qa_stock"
+        ]
+    },
+    {
+        "id": 707,
+        "text": "where is justin beiber from",
+        "predictions": [
+            "email_querycontact",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 708,
+        "text": "turn on plug",
+        "predictions": [
+            "iot_wemo_off",
+            "iot_wemo_on"
+        ]
+    },
+    {
+        "id": 709,
+        "text": "through outlook",
+        "predictions": [
+            "email_query",
+            "email_sendemail",
+            "general_quirky",
+            "play_audiobook"
+        ]
+    },
+    {
+        "id": 710,
+        "text": "i got a package in the mail today",
+        "predictions": [
+            "email_query",
+            "email_sendemail",
+            "general_quirky"
+        ]
+    },
+    {
+        "id": 711,
+        "text": "when do i have that test",
+        "predictions": [
+            "calendar_query",
+            "general_quirky",
+            "lists_query"
+        ]
+    },
+    {
+        "id": 712,
+        "text": "what do i need to remember",
+        "predictions": [
+            "calendar_query",
+            "general_quirky",
+            "lists_query"
+        ]
+    },
+    {
+        "id": 713,
+        "text": "show me delivery near me",
+        "predictions": [
+            "recommendation_locations",
+            "takeaway_order",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 714,
+        "text": "call the restaurant to see if the delivery is on the way",
+        "predictions": [
+            "takeaway_order",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 715,
+        "text": "add email to contacts",
+        "predictions": [
+            "email_addcontact",
+            "email_sendemail",
+            "lists_createoradd"
+        ]
+    },
+    {
+        "id": 716,
+        "text": "that's excellent.",
+        "predictions": [
+            "general_affirm",
+            "general_praise"
+        ]
+    },
+    {
+        "id": 717,
+        "text": "what in on my to do list of events",
+        "predictions": [
+            "calendar_query",
+            "lists_query"
+        ]
+    },
+    {
+        "id": 718,
+        "text": "whether i can travel the whole world in a day",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 719,
+        "text": "put the song sung by shreya at the top",
+        "predictions": [
+            "music_likeness",
+            "play_music"
+        ]
+    },
+    {
+        "id": 720,
+        "text": "down the volume",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_mute",
+            "audio_volume_other",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 721,
+        "text": "i want to know more about the upcoming commonwealth games",
+        "predictions": [
+            "general_quirky",
+            "news_query"
+        ]
+    },
+    {
+        "id": 722,
+        "text": "transform into a woman",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 723,
+        "text": "angelina jolie spouses",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 724,
+        "text": "filter all arijit singh sad song and save or create playlist of sad songs of arijit singh",
+        "predictions": [
+            "lists_createoradd",
+            "music_likeness",
+            "play_music"
+        ]
+    },
+    {
+        "id": 725,
+        "text": "expenses",
+        "predictions": [
+            "calendar_query",
+            "email_query",
+            "general_quirky",
+            "lists_query",
+            "news_query",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 726,
+        "text": "a lot a feasible time",
+        "predictions": [
+            "calendar_query",
+            "datetime_query",
+            "general_quirky",
+            "qa_factoid",
+            "weather_query"
+        ]
+    },
+    {
+        "id": 727,
+        "text": "convert five s. d. to rials",
+        "predictions": [
+            "datetime_convert",
+            "qa_currency"
+        ]
+    },
+    {
+        "id": 728,
+        "text": "inbox this mail",
+        "predictions": [
+            "email_query",
+            "email_sendemail"
+        ]
+    },
+    {
+        "id": 729,
+        "text": "setting up a food processing business in our home has advantages and disadvantages",
+        "predictions": [
+            "cooking_recipe",
+            "general_quirky"
+        ]
+    },
+    {
+        "id": 730,
+        "text": "add apahelp@yahoo dot com in my contact list",
+        "predictions": [
+            "email_addcontact",
+            "social_post"
+        ]
+    },
+    {
+        "id": 731,
+        "text": "open google calendar in the my calendars section click the down arrow that appears when you hover over your calendar and select reminders and notifications from the drop down",
+        "predictions": [
+            "calendar_query",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 732,
+        "text": "save new email addresses to my contacts",
+        "predictions": [
+            "email_addcontact",
+            "email_querycontact",
+            "email_sendemail"
+        ]
+    },
+    {
+        "id": 733,
+        "text": "Show times for nearest theater",
+        "predictions": [
+            "recommendation_events",
+            "recommendation_locations",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 734,
+        "text": "person name info",
+        "predictions": [
+            "email_querycontact",
+            "lists_query",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 735,
+        "text": "add that song to my playlist",
+        "predictions": [
+            "lists_createoradd",
+            "music_likeness"
+        ]
+    },
+    {
+        "id": 736,
+        "text": "on the button of cleaner",
+        "predictions": [
+            "iot_cleaning",
+            "iot_wemo_on",
+            "lists_createoradd"
+        ]
+    },
+    {
+        "id": 737,
+        "text": "open recurring",
+        "predictions": [
+            "calendar_query",
+            "play_music",
+            "play_podcasts",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 738,
+        "text": "give me some good sounds",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_up",
+            "music_likeness",
+            "music_query",
+            "music_settings",
+            "play_music",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 739,
+        "text": "can we turn up the lights",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightdim",
+            "iot_hue_lighton",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 740,
+        "text": "get me the news about today's meeting",
+        "predictions": [
+            "calendar_query",
+            "news_query"
+        ]
+    },
+    {
+        "id": 741,
+        "text": "when is the next boston redso game",
+        "predictions": [
+            "general_quirky",
+            "news_query",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 742,
+        "text": "let's see whats around",
+        "predictions": [
+            "recommendation_events",
+            "recommendation_locations",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 743,
+        "text": "what is amazon worth",
+        "predictions": [
+            "qa_factoid",
+            "qa_stock"
+        ]
+    },
+    {
+        "id": 744,
+        "text": "if it's ten pm in california what time is it in alabama",
+        "predictions": [
+            "datetime_convert",
+            "datetime_query"
+        ]
+    },
+    {
+        "id": 745,
+        "text": "now what",
+        "predictions": [
+            "calendar_query",
+            "general_quirky",
+            "lists_query",
+            "news_query",
+            "qa_definition",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 746,
+        "text": "if it is from a very familiar place mark it as important",
+        "predictions": [
+            "general_quirky",
+            "social_post"
+        ]
+    },
+    {
+        "id": 747,
+        "text": "play seven habits of effective people",
+        "predictions": [
+            "play_audiobook",
+            "play_game",
+            "play_music",
+            "play_podcasts",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 748,
+        "text": "play cnn news",
+        "predictions": [
+            "news_query",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 749,
+        "text": "how long to get downtown",
+        "predictions": [
+            "transport_query",
+            "transport_traffic"
+        ]
+    },
+    {
+        "id": 750,
+        "text": "record what happened today",
+        "predictions": [
+            "general_quirky",
+            "news_query"
+        ]
+    },
+    {
+        "id": 751,
+        "text": "help me make brownies",
+        "predictions": [
+            "cooking_recipe",
+            "iot_coffee"
+        ]
+    },
+    {
+        "id": 752,
+        "text": "education",
+        "predictions": [
+            "general_quirky",
+            "news_query"
+        ]
+    },
+    {
+        "id": 753,
+        "text": "update my contacts with the new contact sam@gmail dot com",
+        "predictions": [
+            "email_addcontact",
+            "email_querycontact"
+        ]
+    },
+    {
+        "id": 754,
+        "text": "turn on my alarm",
+        "predictions": [
+            "alarm_remove",
+            "alarm_set"
+        ]
+    },
+    {
+        "id": 755,
+        "text": "open the two towers",
+        "predictions": [
+            "iot_cleaning",
+            "iot_hue_lightchange",
+            "play_audiobook",
+            "play_game"
+        ]
+    },
+    {
+        "id": 756,
+        "text": "what is the nine am cst to est",
+        "predictions": [
+            "datetime_convert",
+            "datetime_query",
+            "weather_query"
+        ]
+    },
+    {
+        "id": 757,
+        "text": "change contact",
+        "predictions": [
+            "email_addcontact",
+            "email_querycontact"
+        ]
+    },
+    {
+        "id": 758,
+        "text": "what is the net worth of the celebrity",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 759,
+        "text": "look up the map to stores near me",
+        "predictions": [
+            "recommendation_locations",
+            "transport_query"
+        ]
+    },
+    {
+        "id": 760,
+        "text": "can you show me a list of all my recent commands",
+        "predictions": [
+            "general_quirky",
+            "lists_query"
+        ]
+    },
+    {
+        "id": 761,
+        "text": "don't respond for fifty seconds",
+        "predictions": [
+            "audio_volume_mute",
+            "general_affirm",
+            "general_joke"
+        ]
+    },
+    {
+        "id": 762,
+        "text": "who will win this presidential election",
+        "predictions": [
+            "news_query",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 763,
+        "text": "resume playing you are joking mr feynman",
+        "predictions": [
+            "general_joke",
+            "music_likeness",
+            "play_audiobook"
+        ]
+    },
+    {
+        "id": 764,
+        "text": "browsing centres",
+        "predictions": [
+            "general_quirky",
+            "lists_query",
+            "recommendation_locations",
+            "social_query",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 765,
+        "text": "tell me about the current relationship between russia and the usa",
+        "predictions": [
+            "general_quirky",
+            "news_query",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 766,
+        "text": "where is it",
+        "predictions": [
+            "general_quirky",
+            "music_query",
+            "qa_definition",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 767,
+        "text": "become a helicopter",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 768,
+        "text": "females",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 769,
+        "text": "how do i buy tickets for that",
+        "predictions": [
+            "general_quirky",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 770,
+        "text": "web searches",
+        "predictions": [
+            "email_query",
+            "email_querycontact",
+            "general_quirky",
+            "lists_query",
+            "qa_factoid",
+            "social_query"
+        ]
+    },
+    {
+        "id": 771,
+        "text": "how many tablespoons are there in a cup",
+        "predictions": [
+            "cooking_recipe",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 772,
+        "text": "i want to here song one",
+        "predictions": [
+            "music_likeness",
+            "play_music"
+        ]
+    },
+    {
+        "id": 773,
+        "text": "what does it mean to be overbearing",
+        "predictions": [
+            "general_quirky",
+            "qa_definition"
+        ]
+    },
+    {
+        "id": 774,
+        "text": "how to go the nearest mall as soon as possible",
+        "predictions": [
+            "recommendation_locations",
+            "transport_query",
+            "transport_traffic"
+        ]
+    },
+    {
+        "id": 775,
+        "text": "turn the lights higher",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightdim",
+            "iot_hue_lighton",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 776,
+        "text": "internals",
+        "predictions": [
+            "general_quirky",
+            "lists_createoradd",
+            "lists_query",
+            "news_query"
+        ]
+    },
+    {
+        "id": 777,
+        "text": "file storage",
+        "predictions": [
+            "email_querycontact",
+            "general_quirky",
+            "iot_hue_lightoff",
+            "lists_query"
+        ]
+    },
+    {
+        "id": 778,
+        "text": "i really want to go to keiv is there any good events there in april",
+        "predictions": [
+            "calendar_query",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 779,
+        "text": "contact customer service",
+        "predictions": [
+            "email_addcontact",
+            "social_post"
+        ]
+    },
+    {
+        "id": 780,
+        "text": "turn wemo plug socket on",
+        "predictions": [
+            "iot_wemo_off",
+            "iot_wemo_on"
+        ]
+    },
+    {
+        "id": 781,
+        "text": "anything new",
+        "predictions": [
+            "news_query",
+            "social_query"
+        ]
+    },
+    {
+        "id": 782,
+        "text": "what time does the sun set",
+        "predictions": [
+            "datetime_query",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 783,
+        "text": "what is on my rap playlist",
+        "predictions": [
+            "lists_query",
+            "music_query"
+        ]
+    },
+    {
+        "id": 784,
+        "text": "an graphical images effects to be required",
+        "predictions": [
+            "general_quirky",
+            "iot_hue_lightchange",
+            "lists_createoradd"
+        ]
+    },
+    {
+        "id": 785,
+        "text": "how would you reach moscow",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid",
+            "transport_query"
+        ]
+    },
+    {
+        "id": 786,
+        "text": "this song is amazing is not it",
+        "predictions": [
+            "general_affirm",
+            "general_joke",
+            "general_negate",
+            "music_likeness"
+        ]
+    },
+    {
+        "id": 787,
+        "text": "current forex rates",
+        "predictions": [
+            "qa_currency",
+            "qa_stock"
+        ]
+    },
+    {
+        "id": 788,
+        "text": "what do i need to remind for this afternoon",
+        "predictions": [
+            "calendar_query",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 789,
+        "text": "can you explain the meaning behind the abrupt end of the hbo show the sopranos",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 790,
+        "text": "please check the news on social media",
+        "predictions": [
+            "news_query",
+            "social_query"
+        ]
+    },
+    {
+        "id": 791,
+        "text": "remove upcoming task",
+        "predictions": [
+            "calendar_remove",
+            "lists_remove"
+        ]
+    },
+    {
+        "id": 792,
+        "text": "power off",
+        "predictions": [
+            "iot_wemo_off",
+            "iot_wemo_on"
+        ]
+    },
+    {
+        "id": 793,
+        "text": "please turn down the lights",
+        "predictions": [
+            "iot_hue_lightdim",
+            "iot_hue_lightoff",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 794,
+        "text": "what has trump done now",
+        "predictions": [
+            "general_quirky",
+            "news_query",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 795,
+        "text": "how will my drive me",
+        "predictions": [
+            "general_quirky",
+            "lists_query",
+            "qa_definition",
+            "transport_traffic"
+        ]
+    },
+    {
+        "id": 796,
+        "text": "switch light to lowest level in dining area",
+        "predictions": [
+            "iot_hue_lightdim",
+            "iot_hue_lightoff",
+            "iot_hue_lighton",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 797,
+        "text": "select shuffle all",
+        "predictions": [
+            "audio_volume_up",
+            "music_likeness",
+            "music_query",
+            "music_settings",
+            "play_music",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 798,
+        "text": "order me some chipotle",
+        "predictions": [
+            "iot_coffee",
+            "takeaway_order"
+        ]
+    },
+    {
+        "id": 799,
+        "text": "current politics",
+        "predictions": [
+            "general_quirky",
+            "news_query"
+        ]
+    },
+    {
+        "id": 800,
+        "text": "is i. b. m. up today",
+        "predictions": [
+            "calendar_query",
+            "datetime_convert",
+            "datetime_query",
+            "qa_currency",
+            "qa_stock"
+        ]
+    },
+    {
+        "id": 801,
+        "text": "remove what i have to do on the twenty three of march",
+        "predictions": [
+            "calendar_remove",
+            "lists_remove"
+        ]
+    },
+    {
+        "id": 802,
+        "text": "how many kilometers did i walk today",
+        "predictions": [
+            "datetime_query",
+            "general_quirky",
+            "lists_query",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 803,
+        "text": "could you change the volume",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_other",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 804,
+        "text": "i want my to tell me when a new anime season will come out",
+        "predictions": [
+            "calendar_query",
+            "calendar_set",
+            "general_quirky"
+        ]
+    },
+    {
+        "id": 805,
+        "text": "equalize the bass of this music",
+        "predictions": [
+            "audio_volume_up",
+            "music_likeness",
+            "music_query",
+            "music_settings",
+            "play_music"
+        ]
+    },
+    {
+        "id": 806,
+        "text": "what are my next few events",
+        "predictions": [
+            "calendar_query",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 807,
+        "text": "set the mood please",
+        "predictions": [
+            "calendar_set",
+            "general_quirky",
+            "iot_hue_lightchange",
+            "music_likeness",
+            "play_music"
+        ]
+    },
+    {
+        "id": 808,
+        "text": "what's sensational in time of india",
+        "predictions": [
+            "general_quirky",
+            "news_query"
+        ]
+    },
+    {
+        "id": 809,
+        "text": "dady mummy vettil illa",
+        "predictions": [
+            "calendar_set",
+            "lists_createoradd",
+            "music_likeness",
+            "play_music",
+            "play_radio",
+            "social_post"
+        ]
+    },
+    {
+        "id": 810,
+        "text": "tell me about x",
+        "predictions": [
+            "general_quirky",
+            "qa_definition",
+            "qa_factoid",
+            "qa_maths"
+        ]
+    },
+    {
+        "id": 811,
+        "text": "hello i want to turn off my wemo plug",
+        "predictions": [
+            "iot_wemo_off",
+            "iot_wemo_on"
+        ]
+    },
+    {
+        "id": 812,
+        "text": "get me answers",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 813,
+        "text": "where is the public library",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid",
+            "recommendation_locations",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 814,
+        "text": "tune to classic hits",
+        "predictions": [
+            "play_music",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 815,
+        "text": "give me a biography of donald trump",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 816,
+        "text": "restaurant delivery update",
+        "predictions": [
+            "takeaway_order",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 817,
+        "text": "where is volume setting",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_other",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 818,
+        "text": "whats the crime rate in chicago",
+        "predictions": [
+            "general_quirky",
+            "news_query",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 819,
+        "text": "date",
+        "predictions": [
+            "calendar_query",
+            "datetime_query"
+        ]
+    },
+    {
+        "id": 820,
+        "text": "increase volume by two levels",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 821,
+        "text": "what percent of my money did i spend at the mall today",
+        "predictions": [
+            "calendar_query",
+            "general_quirky",
+            "lists_query"
+        ]
+    },
+    {
+        "id": 822,
+        "text": "tell me if taco bell delivers",
+        "predictions": [
+            "takeaway_order",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 823,
+        "text": "open email for unread mails",
+        "predictions": [
+            "email_query",
+            "email_sendemail"
+        ]
+    },
+    {
+        "id": 824,
+        "text": "remind me that i like that song",
+        "predictions": [
+            "music_likeness",
+            "social_post"
+        ]
+    },
+    {
+        "id": 825,
+        "text": "i want you to analyze the pattern for me to buy lottery ticket which number will get the first prize",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 826,
+        "text": "down",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_mute",
+            "audio_volume_other",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 827,
+        "text": "has ben got in touch",
+        "predictions": [
+            "email_query",
+            "email_querycontact",
+            "news_query",
+            "social_query"
+        ]
+    },
+    {
+        "id": 828,
+        "text": "should i pick up some defrosting salt at the store",
+        "predictions": [
+            "cooking_recipe",
+            "lists_query",
+            "recommendation_locations",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 829,
+        "text": "please summarize the latest george r r martin ice and fire book",
+        "predictions": [
+            "general_quirky",
+            "play_audiobook",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 830,
+        "text": "wake me up on Friday at five in the morning i need to catch the train",
+        "predictions": [
+            "alarm_set",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 831,
+        "text": "is now a good time to sell some euros",
+        "predictions": [
+            "general_quirky",
+            "qa_currency",
+            "qa_stock"
+        ]
+    },
+    {
+        "id": 832,
+        "text": "i need to ask you how many angels can dance on a pinhead",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 833,
+        "text": "open my calendar",
+        "predictions": [
+            "calendar_query",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 834,
+        "text": "play pandora nineties dance party",
+        "predictions": [
+            "play_music",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 835,
+        "text": "brighten up the lighting",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightdim",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 836,
+        "text": "contacts",
+        "predictions": [
+            "email_addcontact",
+            "email_querycontact"
+        ]
+    },
+    {
+        "id": 837,
+        "text": "remember metallica selections for next time",
+        "predictions": [
+            "music_likeness",
+            "play_music"
+        ]
+    },
+    {
+        "id": 838,
+        "text": "nikki minaj nationality",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 839,
+        "text": "my party list",
+        "predictions": [
+            "lists_createoradd",
+            "lists_query"
+        ]
+    },
+    {
+        "id": 840,
+        "text": "more volume please",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 841,
+        "text": "play netflix on my ps four",
+        "predictions": [
+            "play_music",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 842,
+        "text": "send an email and save the contact information for samuelwaters@hotmail dot com",
+        "predictions": [
+            "email_addcontact",
+            "email_sendemail"
+        ]
+    },
+    {
+        "id": 843,
+        "text": "i need to figure out this percentage",
+        "predictions": [
+            "qa_factoid",
+            "qa_maths",
+            "qa_stock"
+        ]
+    },
+    {
+        "id": 844,
+        "text": "where is my girl friend right now",
+        "predictions": [
+            "email_querycontact",
+            "general_quirky",
+            "lists_query",
+            "social_query"
+        ]
+    },
+    {
+        "id": 845,
+        "text": "please make the room brighter",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightdim",
+            "iot_hue_lighton",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 846,
+        "text": "amazon still has my phone connected to someone else's account",
+        "predictions": [
+            "email_addcontact",
+            "email_querycontact",
+            "social_post",
+            "social_query"
+        ]
+    },
+    {
+        "id": 847,
+        "text": "search news about a celebrity",
+        "predictions": [
+            "general_quirky",
+            "news_query"
+        ]
+    },
+    {
+        "id": 848,
+        "text": "add email",
+        "predictions": [
+            "email_addcontact",
+            "email_querycontact",
+            "email_sendemail",
+            "lists_createoradd"
+        ]
+    },
+    {
+        "id": 849,
+        "text": "person x oscar for which film",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 850,
+        "text": "remove frida from contacts",
+        "predictions": [
+            "calendar_remove",
+            "lists_remove"
+        ]
+    },
+    {
+        "id": 851,
+        "text": "how much",
+        "predictions": [
+            "email_querycontact",
+            "qa_currency",
+            "qa_factoid",
+            "qa_maths",
+            "qa_stock"
+        ]
+    },
+    {
+        "id": 852,
+        "text": "demographics",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 853,
+        "text": "is the brightness of my screen running low",
+        "predictions": [
+            "iot_hue_lightdim",
+            "iot_hue_lightup",
+            "weather_query"
+        ]
+    },
+    {
+        "id": 854,
+        "text": "what is the highest rated movie now out",
+        "predictions": [
+            "general_quirky",
+            "recommendation_locations",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 855,
+        "text": "is it true that beyonce is having twins",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 856,
+        "text": "here's an email address",
+        "predictions": [
+            "email_addcontact",
+            "email_query",
+            "email_querycontact"
+        ]
+    },
+    {
+        "id": 857,
+        "text": "turn to billybob show",
+        "predictions": [
+            "play_music",
+            "play_podcasts",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 858,
+        "text": "famous person biographies",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 859,
+        "text": "can you adjust the lighting for me to be brighter",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 860,
+        "text": "could you manipulate roip for me",
+        "predictions": [
+            "general_quirky",
+            "iot_hue_lightchange",
+            "play_game"
+        ]
+    },
+    {
+        "id": 861,
+        "text": "can i get takeout from pf changs",
+        "predictions": [
+            "takeaway_order",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 862,
+        "text": "add selected song",
+        "predictions": [
+            "lists_createoradd",
+            "music_likeness",
+            "music_settings"
+        ]
+    },
+    {
+        "id": 863,
+        "text": "read to me the email of john smith",
+        "predictions": [
+            "email_query",
+            "email_querycontact"
+        ]
+    },
+    {
+        "id": 864,
+        "text": "whats ten percent off forty dollars",
+        "predictions": [
+            "qa_currency",
+            "qa_stock"
+        ]
+    },
+    {
+        "id": 865,
+        "text": "turn on the wemo plug socket to connect my charger to it",
+        "predictions": [
+            "iot_wemo_off",
+            "iot_wemo_on"
+        ]
+    },
+    {
+        "id": 866,
+        "text": "please reduce the sound",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_mute",
+            "audio_volume_up",
+            "iot_hue_lightdim"
+        ]
+    },
+    {
+        "id": 867,
+        "text": "check to see if pizza hut has my order on the way",
+        "predictions": [
+            "takeaway_order",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 868,
+        "text": "i need something fun to do this weekend nearby can you give me ideas",
+        "predictions": [
+            "recommendation_events",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 869,
+        "text": "add paav bhaji in menu card",
+        "predictions": [
+            "cooking_recipe",
+            "lists_createoradd"
+        ]
+    },
+    {
+        "id": 870,
+        "text": "play twenty questions",
+        "predictions": [
+            "play_game",
+            "play_music"
+        ]
+    },
+    {
+        "id": 871,
+        "text": "where can i find kids free deals on saturdays",
+        "predictions": [
+            "calendar_query",
+            "recommendation_events"
+        ]
+    },
+    {
+        "id": 872,
+        "text": "add a note to attend",
+        "predictions": [
+            "calendar_set",
+            "email_addcontact",
+            "lists_createoradd"
+        ]
+    },
+    {
+        "id": 873,
+        "text": "why is the sky blue",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 874,
+        "text": "let me know if i get a new personal message from martha on facebook today",
+        "predictions": [
+            "social_post",
+            "social_query"
+        ]
+    },
+    {
+        "id": 875,
+        "text": "turn off the bass from the audio",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_mute",
+            "iot_wemo_off"
+        ]
+    },
+    {
+        "id": 876,
+        "text": "don't let me forget to buy a gift for my sister",
+        "predictions": [
+            "calendar_set",
+            "general_quirky",
+            "social_post"
+        ]
+    },
+    {
+        "id": 877,
+        "text": "if my package shows that it is for delivery tomorrow can you set up an alarm one hour after thank you",
+        "predictions": [
+            "alarm_query",
+            "alarm_set"
+        ]
+    },
+    {
+        "id": 878,
+        "text": "look up economy in the dictionary",
+        "predictions": [
+            "general_quirky",
+            "qa_definition",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 879,
+        "text": "too much",
+        "predictions": [
+            "calendar_remove",
+            "general_negate",
+            "general_quirky"
+        ]
+    },
+    {
+        "id": 880,
+        "text": "raise the volume of the speakers",
+        "predictions": [
+            "audio_volume_down",
+            "audio_volume_up"
+        ]
+    },
+    {
+        "id": 881,
+        "text": "turn off audio",
+        "predictions": [
+            "audio_volume_mute",
+            "iot_wemo_off"
+        ]
+    },
+    {
+        "id": 882,
+        "text": "what is the timer in japan",
+        "predictions": [
+            "calendar_query",
+            "datetime_query"
+        ]
+    },
+    {
+        "id": 883,
+        "text": "any low priced delicacies",
+        "predictions": [
+            "cooking_recipe",
+            "recommendation_locations",
+            "takeaway_order",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 884,
+        "text": "please write up a compliant",
+        "predictions": [
+            "email_addcontact",
+            "lists_createoradd",
+            "music_likeness",
+            "social_post"
+        ]
+    },
+    {
+        "id": 885,
+        "text": "put the song in order of singer first arijit singh song then sukhwinder then sunidhi",
+        "predictions": [
+            "music_likeness",
+            "music_query",
+            "music_settings",
+            "play_music"
+        ]
+    },
+    {
+        "id": 886,
+        "text": "please put this playlist on shuffle",
+        "predictions": [
+            "music_likeness",
+            "music_settings",
+            "play_music"
+        ]
+    },
+    {
+        "id": 887,
+        "text": "switch to night light setting",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightdim",
+            "iot_hue_lightoff",
+            "iot_hue_lighton",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 888,
+        "text": "please explain the chinese culture",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 889,
+        "text": "can i get an order delivered from romero's",
+        "predictions": [
+            "takeaway_order",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 890,
+        "text": "i want to go back",
+        "predictions": [
+            "general_quirky",
+            "general_repeat",
+            "play_audiobook",
+            "play_music",
+            "play_radio"
+        ]
+    },
+    {
+        "id": 891,
+        "text": "search for pink's youtube channel",
+        "predictions": [
+            "general_quirky",
+            "play_music",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 892,
+        "text": "give me the address of my hairdresser for the meeting today",
+        "predictions": [
+            "calendar_query",
+            "calendar_set"
+        ]
+    },
+    {
+        "id": 893,
+        "text": "which is the best place to visit in this month",
+        "predictions": [
+            "recommendation_events",
+            "recommendation_locations",
+            "recommendation_movies"
+        ]
+    },
+    {
+        "id": 894,
+        "text": "my mail",
+        "predictions": [
+            "email_query",
+            "email_sendemail"
+        ]
+    },
+    {
+        "id": 895,
+        "text": "what is kevin spacey doing",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 896,
+        "text": "what does obama do in his day to day life",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 897,
+        "text": "please switch off on the wemo plug socket",
+        "predictions": [
+            "iot_wemo_off",
+            "iot_wemo_on"
+        ]
+    },
+    {
+        "id": 898,
+        "text": "this is too bright",
+        "predictions": [
+            "iot_hue_lightdim",
+            "iot_hue_lighton",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 899,
+        "text": "address the situation",
+        "predictions": [
+            "general_quirky",
+            "news_query",
+            "social_post"
+        ]
+    },
+    {
+        "id": 900,
+        "text": "what music service has some soul music i can listen to",
+        "predictions": [
+            "music_query",
+            "play_music"
+        ]
+    },
+    {
+        "id": 901,
+        "text": "what do you look like",
+        "predictions": [
+            "general_joke",
+            "general_negate",
+            "general_quirky",
+            "qa_definition"
+        ]
+    },
+    {
+        "id": 902,
+        "text": "remove birthday party",
+        "predictions": [
+            "calendar_remove",
+            "lists_remove"
+        ]
+    },
+    {
+        "id": 903,
+        "text": "when einstein died",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 904,
+        "text": "i want to know if the olive garden provides takeaway",
+        "predictions": [
+            "takeaway_order",
+            "takeaway_query"
+        ]
+    },
+    {
+        "id": 905,
+        "text": "did obama really wire tap trump's hotel",
+        "predictions": [
+            "email_querycontact",
+            "general_quirky",
+            "news_query",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 906,
+        "text": "is there life on other planets",
+        "predictions": [
+            "general_quirky",
+            "qa_factoid"
+        ]
+    },
+    {
+        "id": 907,
+        "text": "alter the color of the lights at home",
+        "predictions": [
+            "iot_hue_lightchange",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 908,
+        "text": "give me some dim light",
+        "predictions": [
+            "iot_hue_lightdim",
+            "iot_hue_lightoff",
+            "iot_hue_lightup"
+        ]
+    },
+    {
+        "id": 909,
+        "text": "i need to remember to get to the shops before they close",
+        "predictions": [
+            "calendar_remove",
+            "calendar_set",
+            "recommendation_locations",
+            "transport_query",
+            "transport_taxi",
+            "transport_traffic"
+        ]
+    },
+    {
+        "id": 910,
+        "text": "turn off shuffle",
+        "predictions": [
+            "alarm_remove",
+            "audio_volume_down",
+            "audio_volume_mute",
+            "iot_wemo_off",
+            "music_settings"
+        ]
+    },
+    {
+        "id": 911,
+        "text": "check me into home on facebook",
+        "predictions": [
+            "social_post",
+            "social_query"
+        ]
+    },
+    {
+        "id": 912,
+        "text": "please turn on the lights in my house",
+        "predictions": [
+            "alarm_remove",
+            "iot_hue_lightoff",
+            "iot_hue_lighton",
+            "iot_hue_lightup"
+        ]
+    }
+]

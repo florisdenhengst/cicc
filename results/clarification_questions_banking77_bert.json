@@ -1,0 +1,4265 @@
+[
+    {
+        "id": 0,
+        "text": "I transferred some money but the recipient is having trouble withdrawing.",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "failed_transfer",
+            "pending_cash_withdrawal",
+            "transfer_not_received_by_recipient"
+        ]
+    },
+    {
+        "id": 1,
+        "text": "When can I expect my new card to get here?",
+        "predictions": [
+            "card_arrival",
+            "card_delivery_estimate"
+        ]
+    },
+    {
+        "id": 2,
+        "text": "I transferred some money but it is not here yet",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer",
+            "transfer_not_received_by_recipient"
+        ]
+    },
+    {
+        "id": 3,
+        "text": "Why is my payment pending?",
+        "predictions": [
+            "pending_card_payment",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 4,
+        "text": "Help! My account doesn't show any funds. Is transferring funds an option I can use?",
+        "predictions": [
+            "automatic_top_up",
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer",
+            "transfer_into_account",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 5,
+        "text": "Can I use this app to exchange between dollars and pounds?",
+        "predictions": [
+            "atm_support",
+            "card_payment_wrong_exchange_rate",
+            "exchange_charge",
+            "exchange_via_app",
+            "fiat_currency_support",
+            "receiving_money",
+            "wrong_exchange_rate_for_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 6,
+        "text": "I thought I left my card at a restaurant, but they claim not to have it and now I don't have any idea where it is. I'm so worried that someone might be using it fraudulently. Is there any way to look into this?",
+        "predictions": [
+            "compromised_card",
+            "lost_or_stolen_card",
+            "lost_or_stolen_phone"
+        ]
+    },
+    {
+        "id": 7,
+        "text": "I recently purchased something and the seller says my money has not arrived yet. It was in EU's. How long does this take?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_card_payment",
+            "pending_top_up",
+            "pending_transfer",
+            "transfer_not_received_by_recipient"
+        ]
+    },
+    {
+        "id": 8,
+        "text": "Can I receive payments in another currency?",
+        "predictions": [
+            "receiving_money",
+            "supported_cards_and_currencies"
+        ]
+    },
+    {
+        "id": 9,
+        "text": "Can I use my social security card as a form of identity?",
+        "predictions": [
+            "unable_to_verify_identity",
+            "verify_my_identity",
+            "why_verify_identity"
+        ]
+    },
+    {
+        "id": 10,
+        "text": "Can you find out why my credit card didn't process payment? It was declined for top up so what's the deal?",
+        "predictions": [
+            "declined_card_payment",
+            "pending_top_up",
+            "top_up_failed",
+            "top_up_reverted"
+        ]
+    },
+    {
+        "id": 11,
+        "text": "I ordered my card and it isn't here yet. I need it ASAP. When can I expect to get it?",
+        "predictions": [
+            "card_arrival",
+            "card_delivery_estimate"
+        ]
+    },
+    {
+        "id": 12,
+        "text": "How long until the transfer is reflected on my account balance?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 13,
+        "text": "If my top-up didn't transfer, what went wrong?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "declined_transfer",
+            "failed_transfer",
+            "pending_top_up",
+            "top_up_failed",
+            "top_up_reverted"
+        ]
+    },
+    {
+        "id": 14,
+        "text": "Why was my new card declined?",
+        "predictions": [
+            "card_not_working",
+            "declined_card_payment"
+        ]
+    },
+    {
+        "id": 15,
+        "text": "Will there be additional costs of I make a withdrawal from a local ATM of British pounds? I need some cash to feel comfortable on the journey home",
+        "predictions": [
+            "cash_withdrawal_charge",
+            "wrong_exchange_rate_for_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 16,
+        "text": "I'm getting an error when trying to make a payment. I want to purchase a flat but my mortgage payment needs to go through. Can you help me?",
+        "predictions": [
+            "cancel_transfer",
+            "declined_transfer",
+            "failed_transfer"
+        ]
+    },
+    {
+        "id": 17,
+        "text": "I have found my lost or stolen card, would I still have to activate the new card that was sent to me through the mail in order to access my account?",
+        "predictions": [
+            "activate_my_card",
+            "card_linking"
+        ]
+    },
+    {
+        "id": 18,
+        "text": "Does it cost anything to top up?",
+        "predictions": [
+            "top_up_by_bank_transfer_charge",
+            "top_up_by_card_charge"
+        ]
+    },
+    {
+        "id": 19,
+        "text": "Hi I've been trying to top up my card for the past day but it gets declined, I need it topped up urgently! Can somebody get back to me to resolve this or explain any different ways I can top up my card?",
+        "predictions": [
+            "top_up_failed",
+            "top_up_reverted"
+        ]
+    },
+    {
+        "id": 20,
+        "text": "It appears I have a fee in my statement.",
+        "predictions": [
+            "card_payment_fee_charged",
+            "extra_charge_on_statement"
+        ]
+    },
+    {
+        "id": 21,
+        "text": "How long does it take for a payment to change from pending?",
+        "predictions": [
+            "pending_card_payment",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 22,
+        "text": "why is there a service fee on my statement?",
+        "predictions": [
+            "card_payment_fee_charged",
+            "extra_charge_on_statement"
+        ]
+    },
+    {
+        "id": 23,
+        "text": "There is a payment showing as pending and hasn't posted for a few days.  When will it post?",
+        "predictions": [
+            "pending_card_payment",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 24,
+        "text": "What is the refund process?",
+        "predictions": [
+            "Refund_not_showing_up",
+            "request_refund",
+            "terminate_account"
+        ]
+    },
+    {
+        "id": 25,
+        "text": "The card is non-functional.",
+        "predictions": [
+            "card_not_working",
+            "contactless_not_working",
+            "virtual_card_not_working"
+        ]
+    },
+    {
+        "id": 26,
+        "text": "Payment did not process",
+        "predictions": [
+            "declined_card_payment",
+            "reverted_card_payment?"
+        ]
+    },
+    {
+        "id": 27,
+        "text": "Is there a transfer fee?",
+        "predictions": [
+            "top_up_by_bank_transfer_charge",
+            "transfer_fee_charged"
+        ]
+    },
+    {
+        "id": 28,
+        "text": "How do I add money to my card?",
+        "predictions": [
+            "top_up_by_bank_transfer_charge",
+            "top_up_by_card_charge",
+            "topping_up_by_card"
+        ]
+    },
+    {
+        "id": 29,
+        "text": "My top up isnt working",
+        "predictions": [
+            "pending_top_up",
+            "top_up_failed"
+        ]
+    },
+    {
+        "id": 30,
+        "text": "I tried and tried, but I could not complete my transfer. Tell me what is wrong.",
+        "predictions": [
+            "declined_transfer",
+            "failed_transfer"
+        ]
+    },
+    {
+        "id": 31,
+        "text": "How do disposable cards work?",
+        "predictions": [
+            "disposable_card_limits",
+            "get_disposable_virtual_card"
+        ]
+    },
+    {
+        "id": 32,
+        "text": "My money is all gone. What ways are okay to add money to my account?",
+        "predictions": [
+            "top_up_failed",
+            "top_up_reverted",
+            "topping_up_by_card"
+        ]
+    },
+    {
+        "id": 33,
+        "text": "Why would you decline my card?",
+        "predictions": [
+            "card_not_working",
+            "declined_card_payment"
+        ]
+    },
+    {
+        "id": 34,
+        "text": "I transferred some money but it hasn't arrived yet",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer",
+            "transfer_not_received_by_recipient",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 35,
+        "text": "What do I do to stop unauthorized transactions on my card? I was never in the place from which the transactions on my bill were made and I never made them. Please help!",
+        "predictions": [
+            "card_payment_not_recognised",
+            "cash_withdrawal_not_recognised",
+            "compromised_card",
+            "direct_debit_payment_not_recognised",
+            "lost_or_stolen_card",
+            "lost_or_stolen_phone",
+            "transaction_charged_twice"
+        ]
+    },
+    {
+        "id": 36,
+        "text": "There was a charge made on my card from a couple weeks ago and I don't remember making the purchase. Nor do I remember the company itself. Can we trace this at all to confirm if I did it or not?",
+        "predictions": [
+            "card_payment_not_recognised",
+            "direct_debit_payment_not_recognised"
+        ]
+    },
+    {
+        "id": 37,
+        "text": "I haven't received my card and am worried it is lost.",
+        "predictions": [
+            "card_about_to_expire",
+            "card_arrival",
+            "card_delivery_estimate",
+            "card_not_working",
+            "lost_or_stolen_card"
+        ]
+    },
+    {
+        "id": 38,
+        "text": "Why was I unable to complete my transfer?",
+        "predictions": [
+            "declined_transfer",
+            "failed_transfer"
+        ]
+    },
+    {
+        "id": 39,
+        "text": "My top-up was revoked.",
+        "predictions": [
+            "top_up_failed",
+            "top_up_reverted"
+        ]
+    },
+    {
+        "id": 40,
+        "text": "How can I perform a dual money transferring from one account to another?",
+        "predictions": [
+            "automatic_top_up",
+            "beneficiary_not_allowed",
+            "transfer_into_account",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 41,
+        "text": "Help! When will the card arrive at my home?",
+        "predictions": [
+            "card_arrival",
+            "card_delivery_estimate",
+            "transfer_not_received_by_recipient"
+        ]
+    },
+    {
+        "id": 42,
+        "text": "I have a transfer that's pending and wanted to know how long it is going to take to process?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 43,
+        "text": "How long will it take my card to get here?",
+        "predictions": [
+            "card_arrival",
+            "card_delivery_estimate"
+        ]
+    },
+    {
+        "id": 44,
+        "text": "I have a confusing payment appear on my statement and I don't recognise it!",
+        "predictions": [
+            "card_payment_not_recognised",
+            "direct_debit_payment_not_recognised"
+        ]
+    },
+    {
+        "id": 45,
+        "text": "Why cant I transfer to my account?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "beneficiary_not_allowed",
+            "declined_transfer",
+            "failed_transfer",
+            "top_up_reverted",
+            "transfer_into_account"
+        ]
+    },
+    {
+        "id": 46,
+        "text": "When will my transfer be available in my account.",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 47,
+        "text": "This rate is too low. Are you sure your using the right exchange rate.",
+        "predictions": [
+            "card_payment_wrong_exchange_rate",
+            "wrong_exchange_rate_for_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 48,
+        "text": "Do charge fees for transfers?",
+        "predictions": [
+            "top_up_by_bank_transfer_charge",
+            "transfer_fee_charged"
+        ]
+    },
+    {
+        "id": 49,
+        "text": "How come my top-up didn't go through instantly, like it usually does?",
+        "predictions": [
+            "pending_top_up",
+            "top_up_failed",
+            "top_up_reverted"
+        ]
+    },
+    {
+        "id": 50,
+        "text": "What are acceptable documents to prove my identity?",
+        "predictions": [
+            "unable_to_verify_identity",
+            "verify_my_identity"
+        ]
+    },
+    {
+        "id": 51,
+        "text": "What stopped my transfer, from being accepted?",
+        "predictions": [
+            "beneficiary_not_allowed",
+            "declined_transfer",
+            "failed_transfer"
+        ]
+    },
+    {
+        "id": 52,
+        "text": "I have an outgoing transfer",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer",
+            "transfer_not_received_by_recipient",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 53,
+        "text": "Why is it taking so long for my pending transaction to post as cleared?",
+        "predictions": [
+            "pending_card_payment",
+            "pending_transfer",
+            "transfer_not_received_by_recipient"
+        ]
+    },
+    {
+        "id": 54,
+        "text": "How long does it take to get my card? Can I choose when to receive it?",
+        "predictions": [
+            "card_arrival",
+            "card_delivery_estimate"
+        ]
+    },
+    {
+        "id": 55,
+        "text": "Reason for my card to decline",
+        "predictions": [
+            "card_not_working",
+            "declined_card_payment"
+        ]
+    },
+    {
+        "id": 56,
+        "text": "What fees to you have for top ups?",
+        "predictions": [
+            "top_up_by_bank_transfer_charge",
+            "top_up_by_card_charge"
+        ]
+    },
+    {
+        "id": 57,
+        "text": "Can I transfer my paycheck to the account?",
+        "predictions": [
+            "receiving_money",
+            "top_up_by_bank_transfer_charge"
+        ]
+    },
+    {
+        "id": 58,
+        "text": "What do I do to Top up my card?",
+        "predictions": [
+            "top_up_by_card_charge",
+            "top_up_by_cash_or_cheque",
+            "topping_up_by_card"
+        ]
+    },
+    {
+        "id": 59,
+        "text": "Money transfer help? How long?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer",
+            "transfer_not_received_by_recipient",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 60,
+        "text": "How do I know if my top up worked?",
+        "predictions": [
+            "pending_top_up",
+            "top_up_failed"
+        ]
+    },
+    {
+        "id": 61,
+        "text": "I'm out of money, can I add money with my bank?",
+        "predictions": [
+            "automatic_top_up",
+            "top_up_by_bank_transfer_charge",
+            "top_up_by_cash_or_cheque",
+            "topping_up_by_card",
+            "transfer_into_account"
+        ]
+    },
+    {
+        "id": 62,
+        "text": "If someone sends me money, will I be charged?",
+        "predictions": [
+            "receiving_money",
+            "top_up_by_bank_transfer_charge"
+        ]
+    },
+    {
+        "id": 63,
+        "text": "What should I do with my stuck ATM?",
+        "predictions": [
+            "card_swallowed",
+            "declined_cash_withdrawal",
+            "lost_or_stolen_phone",
+            "pin_blocked"
+        ]
+    },
+    {
+        "id": 64,
+        "text": "show me how to top up",
+        "predictions": [
+            "automatic_top_up",
+            "top_up_by_cash_or_cheque",
+            "top_up_limits",
+            "topping_up_by_card",
+            "transfer_into_account",
+            "verify_top_up"
+        ]
+    },
+    {
+        "id": 65,
+        "text": "My transfer will not go through.",
+        "predictions": [
+            "beneficiary_not_allowed",
+            "declined_transfer",
+            "failed_transfer"
+        ]
+    },
+    {
+        "id": 66,
+        "text": "Hello. I bought an item a while ago, and have since requested a refund.  However, upon checking my online statements, it seems that I haven't been issued a refund yet.  How can this be remedied?",
+        "predictions": [
+            "direct_debit_payment_not_recognised",
+            "Refund_not_showing_up",
+            "request_refund",
+            "reverted_card_payment?"
+        ]
+    },
+    {
+        "id": 67,
+        "text": "I need to exchange a currency - can I do that here?",
+        "predictions": [
+            "exchange_via_app",
+            "fiat_currency_support"
+        ]
+    },
+    {
+        "id": 68,
+        "text": "Who can request disposable cards?",
+        "predictions": [
+            "disposable_card_limits",
+            "get_disposable_virtual_card"
+        ]
+    },
+    {
+        "id": 69,
+        "text": "Can I pay online with my card?",
+        "predictions": [
+            "card_acceptance",
+            "order_physical_card",
+            "visa_or_mastercard"
+        ]
+    },
+    {
+        "id": 70,
+        "text": "I believe you charged me too much to exchange my money",
+        "predictions": [
+            "card_payment_wrong_exchange_rate",
+            "exchange_charge",
+            "extra_charge_on_statement",
+            "transfer_fee_charged",
+            "wrong_exchange_rate_for_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 71,
+        "text": "I can't upload my identification.",
+        "predictions": [
+            "beneficiary_not_allowed",
+            "passcode_forgotten",
+            "unable_to_verify_identity",
+            "verify_my_identity",
+            "verify_top_up",
+            "why_verify_identity"
+        ]
+    },
+    {
+        "id": 72,
+        "text": "How long do I have to wait for the transfer to be finalized?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer",
+            "transfer_not_received_by_recipient",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 73,
+        "text": "Is there a longer processing time for international bank transfers?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer",
+            "transfer_into_account",
+            "transfer_not_received_by_recipient",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 74,
+        "text": "How long do I have to wait for my bank transfer to appear in my account?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "exchange_rate",
+            "pending_transfer",
+            "transfer_into_account",
+            "transfer_not_received_by_recipient",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 75,
+        "text": "Why hasn't my return cleared my account?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "balance_not_updated_after_cheque_or_cash_deposit",
+            "cash_withdrawal_not_recognised",
+            "Refund_not_showing_up",
+            "transfer_not_received_by_recipient",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 76,
+        "text": "Why and I being charged this fee?",
+        "predictions": [
+            "card_payment_fee_charged",
+            "cash_withdrawal_charge",
+            "extra_charge_on_statement",
+            "transfer_fee_charged"
+        ]
+    },
+    {
+        "id": 77,
+        "text": "Trouble transferring transaction contact for help",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "beneficiary_not_allowed",
+            "declined_transfer",
+            "failed_transfer",
+            "transfer_not_received_by_recipient"
+        ]
+    },
+    {
+        "id": 78,
+        "text": "When getting my ID checked, what are the steps involved?",
+        "predictions": [
+            "verify_my_identity",
+            "why_verify_identity"
+        ]
+    },
+    {
+        "id": 79,
+        "text": "Why was I blocked from withdrawing from the ATM?",
+        "predictions": [
+            "card_swallowed",
+            "declined_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 80,
+        "text": "My ATM card isn't working for a withdrawl",
+        "predictions": [
+            "declined_cash_withdrawal",
+            "pending_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 81,
+        "text": "Is my transfer pending?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 82,
+        "text": "Why did I only receive this much currency?",
+        "predictions": [
+            "card_payment_wrong_exchange_rate",
+            "wrong_amount_of_cash_received",
+            "wrong_exchange_rate_for_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 83,
+        "text": "I was trying to top up my account and it isn't working",
+        "predictions": [
+            "pending_top_up",
+            "top_up_failed"
+        ]
+    },
+    {
+        "id": 84,
+        "text": "Can friends I have top-up my account?",
+        "predictions": [
+            "top_up_by_cash_or_cheque",
+            "topping_up_by_card"
+        ]
+    },
+    {
+        "id": 85,
+        "text": "I want to top up my account. What payment methods are supported?",
+        "predictions": [
+            "supported_cards_and_currencies",
+            "top_up_by_cash_or_cheque"
+        ]
+    },
+    {
+        "id": 86,
+        "text": "What is the length of a transaction completion?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_card_payment",
+            "pending_transfer",
+            "transfer_not_received_by_recipient",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 87,
+        "text": "What methods can I use to top up my account?",
+        "predictions": [
+            "top_up_by_cash_or_cheque",
+            "topping_up_by_card",
+            "transfer_into_account"
+        ]
+    },
+    {
+        "id": 88,
+        "text": "I made a purchase a few weeks ago but wasn't happy with it so recently requested a refund from the supplier.  Can you check where the money is?",
+        "predictions": [
+            "cash_withdrawal_not_recognised",
+            "declined_transfer",
+            "direct_debit_payment_not_recognised",
+            "Refund_not_showing_up",
+            "request_refund",
+            "reverted_card_payment?",
+            "transfer_not_received_by_recipient"
+        ]
+    },
+    {
+        "id": 89,
+        "text": "I tried to do a transfer and it hasn't worked!",
+        "predictions": [
+            "declined_transfer",
+            "failed_transfer"
+        ]
+    },
+    {
+        "id": 90,
+        "text": "Why is the transaction to my friend still pending?",
+        "predictions": [
+            "pending_card_payment",
+            "pending_transfer",
+            "transfer_not_received_by_recipient"
+        ]
+    },
+    {
+        "id": 91,
+        "text": "How are the exchange rates for transfers calculated?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "exchange_rate",
+            "transfer_timing",
+            "wrong_exchange_rate_for_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 92,
+        "text": "How can I get paid in a different currency?",
+        "predictions": [
+            "exchange_via_app",
+            "receiving_money"
+        ]
+    },
+    {
+        "id": 93,
+        "text": "Is it possible to exchange currencies?",
+        "predictions": [
+            "exchange_via_app",
+            "fiat_currency_support"
+        ]
+    },
+    {
+        "id": 94,
+        "text": "how come my transfer didn't work",
+        "predictions": [
+            "declined_transfer",
+            "failed_transfer"
+        ]
+    },
+    {
+        "id": 95,
+        "text": "What is stopping my money from transferring?",
+        "predictions": [
+            "beneficiary_not_allowed",
+            "declined_transfer",
+            "failed_transfer"
+        ]
+    },
+    {
+        "id": 96,
+        "text": "i disagree with a charge",
+        "predictions": [
+            "card_payment_not_recognised",
+            "direct_debit_payment_not_recognised",
+            "transaction_charged_twice"
+        ]
+    },
+    {
+        "id": 97,
+        "text": "How long does it take for a transfer to finish pending?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 98,
+        "text": "My purchases from this morning are showing up as payment pending. Can you tell me why?",
+        "predictions": [
+            "pending_card_payment",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 99,
+        "text": "How do I go through the process of currency exchange?",
+        "predictions": [
+            "exchange_rate",
+            "exchange_via_app",
+            "fiat_currency_support"
+        ]
+    },
+    {
+        "id": 100,
+        "text": "how long does it take to reflect in my balance a top up",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_top_up",
+            "top_up_failed",
+            "top_up_reverted"
+        ]
+    },
+    {
+        "id": 101,
+        "text": "How long should my new card take to arrive?",
+        "predictions": [
+            "card_arrival",
+            "card_delivery_estimate"
+        ]
+    },
+    {
+        "id": 102,
+        "text": "how much you charge for exhcange",
+        "predictions": [
+            "exchange_charge",
+            "extra_charge_on_statement",
+            "receiving_money",
+            "top_up_by_bank_transfer_charge",
+            "top_up_by_card_charge",
+            "transfer_fee_charged"
+        ]
+    },
+    {
+        "id": 103,
+        "text": "I could not get the top-up to go through",
+        "predictions": [
+            "pending_top_up",
+            "top_up_failed",
+            "top_up_reverted"
+        ]
+    },
+    {
+        "id": 104,
+        "text": "Why does my top-up get cancelled?",
+        "predictions": [
+            "top_up_failed",
+            "top_up_reverted"
+        ]
+    },
+    {
+        "id": 105,
+        "text": "What happens if a merchant doesn't accept  you payment?",
+        "predictions": [
+            "declined_card_payment",
+            "reverted_card_payment?"
+        ]
+    },
+    {
+        "id": 106,
+        "text": "my card was refused, why?",
+        "predictions": [
+            "card_not_working",
+            "declined_card_payment"
+        ]
+    },
+    {
+        "id": 107,
+        "text": "My transfer was rejected",
+        "predictions": [
+            "declined_transfer",
+            "failed_transfer"
+        ]
+    },
+    {
+        "id": 108,
+        "text": "How can I find out the source of my available cash?",
+        "predictions": [
+            "atm_support",
+            "cash_withdrawal_not_recognised",
+            "lost_or_stolen_card",
+            "verify_source_of_funds"
+        ]
+    },
+    {
+        "id": 109,
+        "text": "Why was I overcharged a pound!?",
+        "predictions": [
+            "card_payment_wrong_exchange_rate",
+            "extra_charge_on_statement"
+        ]
+    },
+    {
+        "id": 110,
+        "text": "what is a virtual and how do i get one",
+        "predictions": [
+            "get_disposable_virtual_card",
+            "getting_virtual_card",
+            "order_physical_card"
+        ]
+    },
+    {
+        "id": 111,
+        "text": "How long does an item I bought show as pending?",
+        "predictions": [
+            "pending_card_payment",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 112,
+        "text": "There is a missing transfer on my account",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "failed_transfer",
+            "pending_transfer",
+            "transfer_not_received_by_recipient"
+        ]
+    },
+    {
+        "id": 113,
+        "text": "Who can have access to top up my account?",
+        "predictions": [
+            "top_up_by_cash_or_cheque",
+            "topping_up_by_card"
+        ]
+    },
+    {
+        "id": 114,
+        "text": "What happened to my Top-Up? It's not reflected.",
+        "predictions": [
+            "top_up_failed",
+            "top_up_reverted"
+        ]
+    },
+    {
+        "id": 115,
+        "text": "I was unable to transfer money from my account.",
+        "predictions": [
+            "beneficiary_not_allowed",
+            "declined_cash_withdrawal",
+            "declined_transfer",
+            "failed_transfer",
+            "transfer_into_account"
+        ]
+    },
+    {
+        "id": 116,
+        "text": "Help me verify my identity.",
+        "predictions": [
+            "unable_to_verify_identity",
+            "verify_my_identity",
+            "why_verify_identity"
+        ]
+    },
+    {
+        "id": 117,
+        "text": "I have heard about these disposable virtual cards but don't understand how they work.",
+        "predictions": [
+            "disposable_card_limits",
+            "get_disposable_virtual_card"
+        ]
+    },
+    {
+        "id": 118,
+        "text": "Is my PIN sent separably?",
+        "predictions": [
+            "get_physical_card",
+            "pin_blocked"
+        ]
+    },
+    {
+        "id": 119,
+        "text": "How can I Use thereto-top option?",
+        "predictions": [
+            "automatic_top_up",
+            "supported_cards_and_currencies",
+            "top_up_by_cash_or_cheque",
+            "top_up_limits",
+            "topping_up_by_card",
+            "transfer_into_account",
+            "verify_top_up"
+        ]
+    },
+    {
+        "id": 120,
+        "text": "cash deposit to my account has shown a red flag.",
+        "predictions": [
+            "balance_not_updated_after_cheque_or_cash_deposit",
+            "pending_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 121,
+        "text": "What currencies can my account be in?",
+        "predictions": [
+            "country_support",
+            "fiat_currency_support",
+            "supported_cards_and_currencies"
+        ]
+    },
+    {
+        "id": 122,
+        "text": "How many virtual cards do I get?",
+        "predictions": [
+            "disposable_card_limits",
+            "get_disposable_virtual_card",
+            "getting_spare_card",
+            "getting_virtual_card",
+            "order_physical_card"
+        ]
+    },
+    {
+        "id": 123,
+        "text": "My transfer hasn't gone through yet.",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer",
+            "transfer_not_received_by_recipient",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 124,
+        "text": "What happened to the cash that I tried to deposit into my account? It's gone!",
+        "predictions": [
+            "balance_not_updated_after_cheque_or_cash_deposit",
+            "cash_withdrawal_not_recognised",
+            "pending_cash_withdrawal",
+            "topping_up_by_card",
+            "wrong_amount_of_cash_received"
+        ]
+    },
+    {
+        "id": 125,
+        "text": "is there a fee for a transfer? if so how much will it be?",
+        "predictions": [
+            "top_up_by_bank_transfer_charge",
+            "transfer_fee_charged"
+        ]
+    },
+    {
+        "id": 126,
+        "text": "I don't think the charges made when I had currency exchanged are right.",
+        "predictions": [
+            "card_payment_wrong_exchange_rate",
+            "transfer_fee_charged",
+            "wrong_exchange_rate_for_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 127,
+        "text": "Today I was out eating and my card was declined. Why's that?",
+        "predictions": [
+            "card_not_working",
+            "declined_card_payment",
+            "declined_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 128,
+        "text": "What is this fee debit on my account?",
+        "predictions": [
+            "direct_debit_payment_not_recognised",
+            "Refund_not_showing_up"
+        ]
+    },
+    {
+        "id": 129,
+        "text": "What is taking so long on my transfer from the US?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 130,
+        "text": "What do I need to do to receive my payroll in the account?",
+        "predictions": [
+            "receiving_money",
+            "top_up_by_bank_transfer_charge"
+        ]
+    },
+    {
+        "id": 131,
+        "text": "I need an actual card that I can hold in my hand, how do I do that?",
+        "predictions": [
+            "getting_spare_card",
+            "order_physical_card"
+        ]
+    },
+    {
+        "id": 132,
+        "text": "What do the disposable cards do?",
+        "predictions": [
+            "disposable_card_limits",
+            "get_disposable_virtual_card"
+        ]
+    },
+    {
+        "id": 133,
+        "text": "The top-up is broken.",
+        "predictions": [
+            "pending_top_up",
+            "top_up_failed",
+            "top_up_reverted"
+        ]
+    },
+    {
+        "id": 134,
+        "text": "If I want to topup by card, how do I do it?",
+        "predictions": [
+            "top_up_by_cash_or_cheque",
+            "topping_up_by_card"
+        ]
+    },
+    {
+        "id": 135,
+        "text": "I have a problem with a transfer. It didn't work. Can you tell me why?",
+        "predictions": [
+            "beneficiary_not_allowed",
+            "declined_transfer",
+            "failed_transfer"
+        ]
+    },
+    {
+        "id": 136,
+        "text": "How long does it take for cards to be delivered after ordering them?",
+        "predictions": [
+            "card_arrival",
+            "card_delivery_estimate"
+        ]
+    },
+    {
+        "id": 137,
+        "text": "need to exchange currencies",
+        "predictions": [
+            "exchange_via_app",
+            "fiat_currency_support"
+        ]
+    },
+    {
+        "id": 138,
+        "text": "How do I activate and link my new card?",
+        "predictions": [
+            "activate_my_card",
+            "card_linking"
+        ]
+    },
+    {
+        "id": 139,
+        "text": "What is the fee to top-up my account",
+        "predictions": [
+            "top_up_by_bank_transfer_charge",
+            "top_up_by_card_charge"
+        ]
+    },
+    {
+        "id": 140,
+        "text": "how to get virtual card",
+        "predictions": [
+            "get_disposable_virtual_card",
+            "getting_virtual_card"
+        ]
+    },
+    {
+        "id": 141,
+        "text": "I want to transfer from accounts in order to Top up. What are the steps necessary.",
+        "predictions": [
+            "top_up_by_cash_or_cheque",
+            "transfer_into_account"
+        ]
+    },
+    {
+        "id": 142,
+        "text": "My top-up was declined",
+        "predictions": [
+            "top_up_failed",
+            "top_up_reverted"
+        ]
+    },
+    {
+        "id": 143,
+        "text": "There is a fee I don't recognize on my statement.",
+        "predictions": [
+            "card_payment_fee_charged",
+            "card_payment_not_recognised",
+            "extra_charge_on_statement"
+        ]
+    },
+    {
+        "id": 144,
+        "text": "How long does it take for the card to come?",
+        "predictions": [
+            "card_arrival",
+            "card_delivery_estimate"
+        ]
+    },
+    {
+        "id": 145,
+        "text": "Why is my payment in pending status?",
+        "predictions": [
+            "pending_card_payment",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 146,
+        "text": "my card details could be stolen, as i didnt make these transactions",
+        "predictions": [
+            "compromised_card",
+            "unable_to_verify_identity"
+        ]
+    },
+    {
+        "id": 147,
+        "text": "My disposable card seems not to be working am I doing something wrong?",
+        "predictions": [
+            "card_not_working",
+            "disposable_card_limits",
+            "get_disposable_virtual_card",
+            "virtual_card_not_working"
+        ]
+    },
+    {
+        "id": 148,
+        "text": "What are the reasons that my mortgage payment won't go through? I'm getting an error and don't know how to correct to get this transfer to go through.",
+        "predictions": [
+            "declined_transfer",
+            "failed_transfer"
+        ]
+    },
+    {
+        "id": 149,
+        "text": "What was the issue with my topping up?",
+        "predictions": [
+            "top_up_failed",
+            "top_up_reverted"
+        ]
+    },
+    {
+        "id": 150,
+        "text": "Can I have a friend send money directly to me?",
+        "predictions": [
+            "receiving_money",
+            "top_up_by_bank_transfer_charge"
+        ]
+    },
+    {
+        "id": 151,
+        "text": "Is there a top-up fee if you add money in USD?",
+        "predictions": [
+            "top_up_by_bank_transfer_charge",
+            "top_up_by_card_charge"
+        ]
+    },
+    {
+        "id": 152,
+        "text": "Why won't my top up go through?",
+        "predictions": [
+            "pending_top_up",
+            "top_up_failed",
+            "top_up_reverted"
+        ]
+    },
+    {
+        "id": 153,
+        "text": "I made a payment that seems to be stuck. It's been a couple of days already. Can you tell me how long it will take?",
+        "predictions": [
+            "pending_card_payment",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 154,
+        "text": "What does it mean if my payment is pending?",
+        "predictions": [
+            "pending_card_payment",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 155,
+        "text": "I made a transfer from France a couple days ago and don't see the transaction yet. How long does an international transfer take?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 156,
+        "text": "Why wasn't my top-up accepted and where did that money go? At first it said it was confirmed but now I can't find it.",
+        "predictions": [
+            "top_up_failed",
+            "top_up_reverted"
+        ]
+    },
+    {
+        "id": 157,
+        "text": "Physical cards are what I need more of",
+        "predictions": [
+            "getting_spare_card",
+            "order_physical_card"
+        ]
+    },
+    {
+        "id": 158,
+        "text": "Is there a way to top-up when it reaches a certain balance?",
+        "predictions": [
+            "automatic_top_up",
+            "top_up_by_cash_or_cheque",
+            "top_up_limits",
+            "topping_up_by_card",
+            "transfer_into_account",
+            "verify_top_up"
+        ]
+    },
+    {
+        "id": 159,
+        "text": "I transferred 7,000 to a receiver outside the EU and they received a lesser amount than what I sent, Unfortunately, now I must send an additional transfer to the receiver so that they can receive the full amount I initially sent.  I'm not sure why they received a lesser amount than what I initially sen, but can you please look into this and let me know what happened?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "card_payment_wrong_exchange_rate",
+            "extra_charge_on_statement",
+            "top_up_by_bank_transfer_charge",
+            "transfer_fee_charged"
+        ]
+    },
+    {
+        "id": 160,
+        "text": "I need more money in my account. Can I add more by transferring?",
+        "predictions": [
+            "top_up_by_bank_transfer_charge",
+            "transfer_into_account"
+        ]
+    },
+    {
+        "id": 161,
+        "text": "Hello,  I have recharged topup but account is not credited. Please help me in this, i guess there is some defect in system.",
+        "predictions": [
+            "top_up_failed",
+            "top_up_reverted"
+        ]
+    },
+    {
+        "id": 162,
+        "text": "Can you please help me in canceling my order.",
+        "predictions": [
+            "cancel_transfer",
+            "request_refund"
+        ]
+    },
+    {
+        "id": 163,
+        "text": "Why is a transaction still pending?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_card_payment",
+            "pending_transfer",
+            "transfer_not_received_by_recipient"
+        ]
+    },
+    {
+        "id": 164,
+        "text": "Which currencies are allowed?",
+        "predictions": [
+            "country_support",
+            "exchange_via_app",
+            "fiat_currency_support",
+            "supported_cards_and_currencies",
+            "visa_or_mastercard"
+        ]
+    },
+    {
+        "id": 165,
+        "text": "Can I verify my identity?",
+        "predictions": [
+            "verify_my_identity",
+            "why_verify_identity"
+        ]
+    },
+    {
+        "id": 166,
+        "text": "How do I cancel my card? There are charges on my account that I didn't make.",
+        "predictions": [
+            "card_payment_not_recognised",
+            "compromised_card",
+            "direct_debit_payment_not_recognised"
+        ]
+    },
+    {
+        "id": 167,
+        "text": "Can i receive transfers from my employer this way?",
+        "predictions": [
+            "receiving_money",
+            "top_up_by_bank_transfer_charge"
+        ]
+    },
+    {
+        "id": 168,
+        "text": "I have cash deposit to my account but it is experiencing a problem",
+        "predictions": [
+            "balance_not_updated_after_cheque_or_cash_deposit",
+            "pending_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 169,
+        "text": "What is the exchange fee that is charged?",
+        "predictions": [
+            "card_payment_wrong_exchange_rate",
+            "exchange_charge",
+            "extra_charge_on_statement",
+            "transfer_fee_charged",
+            "wrong_exchange_rate_for_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 170,
+        "text": "I've made a card payment a couple of days ago now but it looks like the money is stuck. How long does it typically take for the payment to go through?",
+        "predictions": [
+            "pending_card_payment",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 171,
+        "text": "My statement indicates I made a payment to an unfamiliar merchant.",
+        "predictions": [
+            "card_payment_not_recognised",
+            "direct_debit_payment_not_recognised"
+        ]
+    },
+    {
+        "id": 172,
+        "text": "I don't have my mobile device and am unable to make the payment because I forgot my details.",
+        "predictions": [
+            "card_not_working",
+            "lost_or_stolen_phone"
+        ]
+    },
+    {
+        "id": 173,
+        "text": "Can you explain your refund policy, please?",
+        "predictions": [
+            "direct_debit_payment_not_recognised",
+            "Refund_not_showing_up",
+            "request_refund",
+            "reverted_card_payment?",
+            "terminate_account"
+        ]
+    },
+    {
+        "id": 174,
+        "text": "My top-up was rejected by an app.",
+        "predictions": [
+            "top_up_failed",
+            "top_up_reverted"
+        ]
+    },
+    {
+        "id": 175,
+        "text": "Why has my card declined",
+        "predictions": [
+            "card_not_working",
+            "declined_card_payment"
+        ]
+    },
+    {
+        "id": 176,
+        "text": "Can I top up using an international card",
+        "predictions": [
+            "supported_cards_and_currencies",
+            "top_up_by_card_charge",
+            "topping_up_by_card"
+        ]
+    },
+    {
+        "id": 177,
+        "text": "How do I accept exchanges to EU?",
+        "predictions": [
+            "country_support",
+            "fiat_currency_support",
+            "supported_cards_and_currencies"
+        ]
+    },
+    {
+        "id": 178,
+        "text": "Can I only top-up digitally? Or could I use cash?",
+        "predictions": [
+            "automatic_top_up",
+            "top_up_by_cash_or_cheque",
+            "topping_up_by_card"
+        ]
+    },
+    {
+        "id": 179,
+        "text": "Three months ago I bought a new house for my cat, fluffy.  Unfortunately Fluffy was not a fan of the house and it had to be returned to Pet Smart last week.  They said they have sent a refund but it's not there, can you tell me where it is?",
+        "predictions": [
+            "cash_withdrawal_not_recognised",
+            "direct_debit_payment_not_recognised",
+            "Refund_not_showing_up",
+            "request_refund",
+            "reverted_card_payment?",
+            "transfer_not_received_by_recipient"
+        ]
+    },
+    {
+        "id": 180,
+        "text": "my atm transaction was wrong",
+        "predictions": [
+            "card_payment_wrong_exchange_rate",
+            "cash_withdrawal_charge",
+            "cash_withdrawal_not_recognised",
+            "declined_cash_withdrawal",
+            "pending_cash_withdrawal",
+            "wrong_amount_of_cash_received",
+            "wrong_exchange_rate_for_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 181,
+        "text": "Can my account be topped up by my friends?",
+        "predictions": [
+            "top_up_by_cash_or_cheque",
+            "topping_up_by_card"
+        ]
+    },
+    {
+        "id": 182,
+        "text": "Do you convert to Euro?",
+        "predictions": [
+            "country_support",
+            "exchange_via_app",
+            "fiat_currency_support",
+            "supported_cards_and_currencies"
+        ]
+    },
+    {
+        "id": 183,
+        "text": "My credit card seems to have been declined for top up. Why is it not going through? Can you tell me what's going on?",
+        "predictions": [
+            "pending_top_up",
+            "top_up_failed",
+            "top_up_reverted"
+        ]
+    },
+    {
+        "id": 184,
+        "text": "How much do I need to pay for a transfer?",
+        "predictions": [
+            "top_up_by_bank_transfer_charge",
+            "transfer_fee_charged"
+        ]
+    },
+    {
+        "id": 185,
+        "text": "can i use my app to get a virtual card",
+        "predictions": [
+            "get_disposable_virtual_card",
+            "getting_virtual_card"
+        ]
+    },
+    {
+        "id": 186,
+        "text": "Why did I get less from the ATM?",
+        "predictions": [
+            "cash_withdrawal_charge",
+            "cash_withdrawal_not_recognised",
+            "declined_cash_withdrawal",
+            "wrong_amount_of_cash_received",
+            "wrong_exchange_rate_for_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 187,
+        "text": "What do i need to verify my id?",
+        "predictions": [
+            "unable_to_verify_identity",
+            "verify_my_identity",
+            "why_verify_identity"
+        ]
+    },
+    {
+        "id": 188,
+        "text": "My card isn't letting me purchase something and I wanted to know why.",
+        "predictions": [
+            "declined_card_payment",
+            "declined_transfer",
+            "reverted_card_payment?"
+        ]
+    },
+    {
+        "id": 189,
+        "text": "The disposable cards - what are they for?",
+        "predictions": [
+            "disposable_card_limits",
+            "get_disposable_virtual_card"
+        ]
+    },
+    {
+        "id": 190,
+        "text": "How long does a transfer stay pending?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 191,
+        "text": "My card payment has been pending for a long time now. Why is it taking so long to take. It should have already made it through.",
+        "predictions": [
+            "pending_card_payment",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 192,
+        "text": "Fix your system. I can't make transfers, I've tried like 5 times already.",
+        "predictions": [
+            "declined_transfer",
+            "failed_transfer"
+        ]
+    },
+    {
+        "id": 193,
+        "text": "I'm happy with Mastercard and want to stick with just that credit card.",
+        "predictions": [
+            "card_acceptance",
+            "getting_spare_card",
+            "supported_cards_and_currencies",
+            "visa_or_mastercard"
+        ]
+    },
+    {
+        "id": 194,
+        "text": "My credit card transaction was declined for a loan payment.  Can you tell me why?",
+        "predictions": [
+            "declined_card_payment",
+            "declined_transfer",
+            "failed_transfer",
+            "reverted_card_payment?",
+            "top_up_failed"
+        ]
+    },
+    {
+        "id": 195,
+        "text": "When will the transfer go through?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer",
+            "transfer_not_received_by_recipient",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 196,
+        "text": "I have a transfer that is still pending.",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 197,
+        "text": "Why did you charge me more for my purchase? It was a foreign currency and you didn't offer market rate",
+        "predictions": [
+            "card_payment_wrong_exchange_rate",
+            "wrong_exchange_rate_for_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 198,
+        "text": "Is it possible to use an ATM when I am not in the country and make a withdraw with out extra fees?",
+        "predictions": [
+            "cash_withdrawal_charge",
+            "wrong_exchange_rate_for_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 199,
+        "text": "What should I do with my atm that got stuck?",
+        "predictions": [
+            "card_swallowed",
+            "declined_cash_withdrawal",
+            "lost_or_stolen_phone",
+            "pin_blocked"
+        ]
+    },
+    {
+        "id": 200,
+        "text": "Questionable transactions on my account.",
+        "predictions": [
+            "card_payment_not_recognised",
+            "compromised_card",
+            "direct_debit_payment_not_recognised"
+        ]
+    },
+    {
+        "id": 201,
+        "text": "The card that I have isn't working. This is the physical card.",
+        "predictions": [
+            "card_not_working",
+            "contactless_not_working"
+        ]
+    },
+    {
+        "id": 202,
+        "text": "Hi,  One of payment is still coming as pending for which i have already paid by card. I guess it did not processed, could you please check and update me.",
+        "predictions": [
+            "pending_card_payment",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 203,
+        "text": "Is the identity check part of bank policy?",
+        "predictions": [
+            "verify_my_identity",
+            "why_verify_identity"
+        ]
+    },
+    {
+        "id": 204,
+        "text": "Transaction refund missing from my statement.",
+        "predictions": [
+            "direct_debit_payment_not_recognised",
+            "Refund_not_showing_up"
+        ]
+    },
+    {
+        "id": 205,
+        "text": "My wallet was stolen, along with my cards. How do I put a freeze on my cards and order a new one?",
+        "predictions": [
+            "card_swallowed",
+            "cash_withdrawal_not_recognised",
+            "compromised_card",
+            "lost_or_stolen_card",
+            "lost_or_stolen_phone"
+        ]
+    },
+    {
+        "id": 206,
+        "text": "When do you charge fees on accounts? I just saw a charge on my statement.",
+        "predictions": [
+            "card_payment_fee_charged",
+            "card_payment_not_recognised",
+            "cash_withdrawal_charge",
+            "extra_charge_on_statement",
+            "transfer_fee_charged"
+        ]
+    },
+    {
+        "id": 207,
+        "text": "How is my ATM deposit not available yet?",
+        "predictions": [
+            "balance_not_updated_after_cheque_or_cash_deposit",
+            "pending_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 208,
+        "text": "Can you tell me more info about virtual disposable cards?",
+        "predictions": [
+            "disposable_card_limits",
+            "get_disposable_virtual_card"
+        ]
+    },
+    {
+        "id": 209,
+        "text": "I need to transfer to my account and cant.",
+        "predictions": [
+            "beneficiary_not_allowed",
+            "declined_transfer"
+        ]
+    },
+    {
+        "id": 210,
+        "text": "Why would the ATM machine fail to give me the cash withdrawal I requested?",
+        "predictions": [
+            "declined_card_payment",
+            "declined_cash_withdrawal",
+            "wrong_amount_of_cash_received",
+            "wrong_exchange_rate_for_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 211,
+        "text": "Why isn't my payment showing?",
+        "predictions": [
+            "pending_card_payment",
+            "pending_cash_withdrawal",
+            "pending_transfer",
+            "Refund_not_showing_up",
+            "reverted_card_payment?",
+            "transfer_not_received_by_recipient"
+        ]
+    },
+    {
+        "id": 212,
+        "text": "I am having a huge problem with my card being declined and it's really important that I top-up today.  Would you please look into this further and let me know how I can get this fixed?",
+        "predictions": [
+            "top_up_failed",
+            "top_up_reverted"
+        ]
+    },
+    {
+        "id": 213,
+        "text": "I was trying to purchase something at the store today and my card has been declined.  Why has this happened?",
+        "predictions": [
+            "card_not_working",
+            "declined_card_payment",
+            "declined_transfer",
+            "reverted_card_payment?"
+        ]
+    },
+    {
+        "id": 214,
+        "text": "I put in a payment a while ago and it has still not cleared and is showing up as \"pending\", how long does it take to clear?",
+        "predictions": [
+            "pending_card_payment",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 215,
+        "text": "How long do European transfers take?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 216,
+        "text": "My top up was denied in the app.",
+        "predictions": [
+            "top_up_failed",
+            "top_up_reverted"
+        ]
+    },
+    {
+        "id": 217,
+        "text": "I just looked at my app and it seems I was charged extra, why is that?",
+        "predictions": [
+            "card_payment_fee_charged",
+            "extra_charge_on_statement",
+            "transfer_fee_charged"
+        ]
+    },
+    {
+        "id": 218,
+        "text": "Can i receive transfers from my employer to this account?",
+        "predictions": [
+            "receiving_money",
+            "top_up_by_bank_transfer_charge",
+            "transfer_into_account"
+        ]
+    },
+    {
+        "id": 219,
+        "text": "MY transfer has still not appeared.",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 220,
+        "text": "Where is the money I topped off with?",
+        "predictions": [
+            "automatic_top_up",
+            "pending_top_up",
+            "top_up_by_card_charge",
+            "top_up_by_cash_or_cheque",
+            "top_up_failed",
+            "top_up_limits",
+            "topping_up_by_card"
+        ]
+    },
+    {
+        "id": 221,
+        "text": "How long does it take to verify a person's identity?",
+        "predictions": [
+            "transfer_not_received_by_recipient",
+            "unable_to_verify_identity",
+            "verify_my_identity",
+            "why_verify_identity"
+        ]
+    },
+    {
+        "id": 222,
+        "text": "Where can I use my card to pay?",
+        "predictions": [
+            "card_acceptance",
+            "order_physical_card"
+        ]
+    },
+    {
+        "id": 223,
+        "text": "Why caused my top up to not work?",
+        "predictions": [
+            "top_up_failed",
+            "top_up_reverted"
+        ]
+    },
+    {
+        "id": 224,
+        "text": "What are the fees for top ups?",
+        "predictions": [
+            "top_up_by_bank_transfer_charge",
+            "top_up_by_card_charge"
+        ]
+    },
+    {
+        "id": 225,
+        "text": "What are your policies for card transfers?",
+        "predictions": [
+            "automatic_top_up",
+            "top_up_by_bank_transfer_charge",
+            "transfer_fee_charged",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 226,
+        "text": "What is the normal time to make an international transfer? I made one a few days ago that still hasn't arrived.",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer",
+            "transfer_not_received_by_recipient",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 227,
+        "text": "Where can I find a list of descriptions the disposable cards have?",
+        "predictions": [
+            "disposable_card_limits",
+            "get_disposable_virtual_card",
+            "getting_virtual_card",
+            "verify_my_identity",
+            "why_verify_identity"
+        ]
+    },
+    {
+        "id": 228,
+        "text": "Can I get support?",
+        "predictions": [
+            "country_support",
+            "supported_cards_and_currencies"
+        ]
+    },
+    {
+        "id": 229,
+        "text": "What is happening?  I have tried to transfer money 5x already.  Is the system down?  This shouldnt be happening as this is a basic transfer.",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "failed_transfer",
+            "top_up_reverted"
+        ]
+    },
+    {
+        "id": 230,
+        "text": "My payment's stuck on pending.",
+        "predictions": [
+            "pending_card_payment",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 231,
+        "text": "The other bank confirmed a transfer I made, but this account is not reflecting it yet.",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer",
+            "transfer_not_received_by_recipient"
+        ]
+    },
+    {
+        "id": 232,
+        "text": "Can i make transactions before identity verification is complete?",
+        "predictions": [
+            "verify_my_identity",
+            "why_verify_identity"
+        ]
+    },
+    {
+        "id": 233,
+        "text": "I don't know where this transaction came from?",
+        "predictions": [
+            "card_payment_not_recognised",
+            "direct_debit_payment_not_recognised"
+        ]
+    },
+    {
+        "id": 234,
+        "text": "I have a trasnger that is pending and wondered about it.",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_card_payment",
+            "pending_top_up",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 235,
+        "text": "Hello, my transfers are getting failed continuously, in spite of the fact that all the recipient details are correct. Please advise.",
+        "predictions": [
+            "beneficiary_not_allowed",
+            "declined_transfer",
+            "failed_transfer"
+        ]
+    },
+    {
+        "id": 236,
+        "text": "My money transfer hasn't appeared yet.",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer",
+            "transfer_not_received_by_recipient"
+        ]
+    },
+    {
+        "id": 237,
+        "text": "How long will my payment be pending?",
+        "predictions": [
+            "pending_card_payment",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 238,
+        "text": "What am I supposed to do if the funds haven't show up from a transfer completed this morning?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "balance_not_updated_after_cheque_or_cash_deposit",
+            "pending_transfer",
+            "transfer_not_received_by_recipient",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 239,
+        "text": "My card was stolen and used to make several purchases. Please freeze my card so no one can use it.",
+        "predictions": [
+            "compromised_card",
+            "lost_or_stolen_card"
+        ]
+    },
+    {
+        "id": 240,
+        "text": "I topped up but it isn't in my account",
+        "predictions": [
+            "pending_top_up",
+            "topping_up_by_card"
+        ]
+    },
+    {
+        "id": 241,
+        "text": "How do I get started when I get my card?",
+        "predictions": [
+            "card_about_to_expire",
+            "card_arrival",
+            "card_delivery_estimate"
+        ]
+    },
+    {
+        "id": 242,
+        "text": "Where am I able to use the card?",
+        "predictions": [
+            "card_acceptance",
+            "order_physical_card"
+        ]
+    },
+    {
+        "id": 243,
+        "text": "I need some help now please! There are some transactions on my account that I do not remember purchasing. Can they be reversed? Can you please cancel or freeze my card so I don't keep getting charged?!",
+        "predictions": [
+            "card_payment_not_recognised",
+            "compromised_card",
+            "direct_debit_payment_not_recognised",
+            "transaction_charged_twice"
+        ]
+    },
+    {
+        "id": 244,
+        "text": "My payment has been declined several times.  Can you help me?",
+        "predictions": [
+            "declined_card_payment",
+            "declined_transfer"
+        ]
+    },
+    {
+        "id": 245,
+        "text": "What information am I going to have to have in order to do a transfer with my card?",
+        "predictions": [
+            "activate_my_card",
+            "top_up_limits",
+            "unable_to_verify_identity",
+            "verify_my_identity",
+            "verify_top_up",
+            "why_verify_identity"
+        ]
+    },
+    {
+        "id": 246,
+        "text": "Why was my top-up unsuccessful?",
+        "predictions": [
+            "top_up_failed",
+            "top_up_reverted"
+        ]
+    },
+    {
+        "id": 247,
+        "text": "The app declined my top up. What did I do wrong?",
+        "predictions": [
+            "top_up_failed",
+            "top_up_reverted"
+        ]
+    },
+    {
+        "id": 248,
+        "text": "Is there anyway to bypass identity verification?",
+        "predictions": [
+            "verify_my_identity",
+            "why_verify_identity"
+        ]
+    },
+    {
+        "id": 249,
+        "text": "Can I order a virtual card?",
+        "predictions": [
+            "get_disposable_virtual_card",
+            "getting_virtual_card"
+        ]
+    },
+    {
+        "id": 250,
+        "text": "What forms of ID work for verification?",
+        "predictions": [
+            "verify_my_identity",
+            "why_verify_identity"
+        ]
+    },
+    {
+        "id": 251,
+        "text": "Help! I need to transfer something to China.",
+        "predictions": [
+            "card_about_to_expire",
+            "country_support",
+            "fiat_currency_support",
+            "pending_transfer",
+            "transfer_into_account",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 252,
+        "text": "There's a payment showing in the app today even though I have not used my card at all. I want a refund.",
+        "predictions": [
+            "card_payment_not_recognised",
+            "direct_debit_payment_not_recognised",
+            "Refund_not_showing_up"
+        ]
+    },
+    {
+        "id": 253,
+        "text": "I paid for something in foreign currency but noticed the exchange rate is incorrect.",
+        "predictions": [
+            "card_payment_wrong_exchange_rate",
+            "wrong_exchange_rate_for_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 254,
+        "text": "I need a new card.",
+        "predictions": [
+            "card_about_to_expire",
+            "order_physical_card"
+        ]
+    },
+    {
+        "id": 255,
+        "text": "Please explain why my top-up didn't go through.",
+        "predictions": [
+            "top_up_failed",
+            "top_up_reverted"
+        ]
+    },
+    {
+        "id": 256,
+        "text": "I just did a money transaction but its not showing they received it",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer",
+            "transfer_not_received_by_recipient"
+        ]
+    },
+    {
+        "id": 257,
+        "text": "How do I verify my ID?",
+        "predictions": [
+            "lost_or_stolen_card",
+            "unable_to_verify_identity",
+            "verify_my_identity",
+            "why_verify_identity"
+        ]
+    },
+    {
+        "id": 258,
+        "text": "I don't see a money transfer yet",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer",
+            "transfer_not_received_by_recipient",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 259,
+        "text": "Is payment required to get a card of my own?",
+        "predictions": [
+            "getting_spare_card",
+            "order_physical_card"
+        ]
+    },
+    {
+        "id": 260,
+        "text": "My card payment has been stuck on pending. What is the problem? It should have gone through by now.",
+        "predictions": [
+            "pending_card_payment",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 261,
+        "text": "How do I make an exchange from one currency to another?",
+        "predictions": [
+            "exchange_via_app",
+            "fiat_currency_support"
+        ]
+    },
+    {
+        "id": 262,
+        "text": "I transferred money yesterday, but it still isn't available?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer",
+            "transfer_not_received_by_recipient",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 263,
+        "text": "I think something went wrong with my exchange between Russian Ruble and UK pounds. I was overcharged during the swap.",
+        "predictions": [
+            "card_payment_wrong_exchange_rate",
+            "wrong_exchange_rate_for_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 264,
+        "text": "How can I pay for top-ups?",
+        "predictions": [
+            "receiving_money",
+            "supported_cards_and_currencies",
+            "top_up_by_bank_transfer_charge",
+            "top_up_by_card_charge",
+            "top_up_by_cash_or_cheque",
+            "topping_up_by_card"
+        ]
+    },
+    {
+        "id": 265,
+        "text": "Do you offer account's for minors?",
+        "predictions": [
+            "age_limit",
+            "getting_spare_card"
+        ]
+    },
+    {
+        "id": 266,
+        "text": "I have a fee and I don't know why",
+        "predictions": [
+            "card_payment_fee_charged",
+            "cash_withdrawal_charge",
+            "extra_charge_on_statement",
+            "transfer_fee_charged"
+        ]
+    },
+    {
+        "id": 267,
+        "text": "i know i entered the right info, but my top up isn't in my balance",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_top_up",
+            "top_up_failed",
+            "top_up_reverted",
+            "topping_up_by_card"
+        ]
+    },
+    {
+        "id": 268,
+        "text": "My credit card got declined for top up! What's going on? Can you check on why it didn't go through?",
+        "predictions": [
+            "top_up_failed",
+            "top_up_reverted"
+        ]
+    },
+    {
+        "id": 269,
+        "text": "I had to pay a pound more than I anticipated!",
+        "predictions": [
+            "card_payment_wrong_exchange_rate",
+            "extra_charge_on_statement"
+        ]
+    },
+    {
+        "id": 270,
+        "text": "What forms of payment do you accept?",
+        "predictions": [
+            "receiving_money",
+            "supported_cards_and_currencies",
+            "top_up_by_cash_or_cheque",
+            "visa_or_mastercard"
+        ]
+    },
+    {
+        "id": 271,
+        "text": "ATM apparently not working?  Couldn't access funds in my account?",
+        "predictions": [
+            "declined_cash_withdrawal",
+            "pending_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 272,
+        "text": "I believe my card has been compromised as there are funds showing that I did not receive.",
+        "predictions": [
+            "card_payment_not_recognised",
+            "cash_withdrawal_not_recognised",
+            "compromised_card",
+            "direct_debit_payment_not_recognised"
+        ]
+    },
+    {
+        "id": 273,
+        "text": "How long will it take for the card to arrive?",
+        "predictions": [
+            "card_arrival",
+            "card_delivery_estimate"
+        ]
+    },
+    {
+        "id": 274,
+        "text": "I made a big purchase that I regretted and cancelled, the merchant said that my refund was submitted. Can you confirm to me that all of my money was truly returned to me?",
+        "predictions": [
+            "cash_withdrawal_not_recognised",
+            "declined_transfer",
+            "direct_debit_payment_not_recognised",
+            "Refund_not_showing_up",
+            "request_refund",
+            "reverted_card_payment?",
+            "transfer_not_received_by_recipient"
+        ]
+    },
+    {
+        "id": 275,
+        "text": "In the past month I often used this account to manage payments for my new holiday villa. Now all of a sudden your fees have increased exorbitantly! Don't you have a rewards programme for frequent users?",
+        "predictions": [
+            "card_payment_wrong_exchange_rate",
+            "transfer_fee_charged"
+        ]
+    },
+    {
+        "id": 276,
+        "text": "The attempted transfer failed.",
+        "predictions": [
+            "declined_transfer",
+            "failed_transfer"
+        ]
+    },
+    {
+        "id": 277,
+        "text": "I have waited 15 days, but my payment still hasn't cleared.",
+        "predictions": [
+            "pending_card_payment",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 278,
+        "text": "What currencies and methods can i use to top up my account?",
+        "predictions": [
+            "supported_cards_and_currencies",
+            "top_up_by_cash_or_cheque"
+        ]
+    },
+    {
+        "id": 279,
+        "text": "I desperately need to top-up my card, so why is it being declined? Can you solve this for me? I need to use my card immediately!",
+        "predictions": [
+            "pending_top_up",
+            "top_up_failed"
+        ]
+    },
+    {
+        "id": 280,
+        "text": "How much longer do I have to wait until my transaction is complete? I transferred money to another country many hours ago and the transaction is still pending.",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 281,
+        "text": "Tell me why my transfer is pending.",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 282,
+        "text": "the money i transferred didnt arrive",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "balance_not_updated_after_cheque_or_cash_deposit",
+            "pending_transfer",
+            "transfer_not_received_by_recipient",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 283,
+        "text": "Why is my disposable card not working?",
+        "predictions": [
+            "disposable_card_limits",
+            "get_disposable_virtual_card",
+            "virtual_card_not_working"
+        ]
+    },
+    {
+        "id": 284,
+        "text": "Is there any way to verify who I am?",
+        "predictions": [
+            "unable_to_verify_identity",
+            "verify_my_identity"
+        ]
+    },
+    {
+        "id": 285,
+        "text": "How long will my transfer be pending?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 286,
+        "text": "Why do you need me to do an identity check?",
+        "predictions": [
+            "verify_my_identity",
+            "why_verify_identity"
+        ]
+    },
+    {
+        "id": 287,
+        "text": "I was told to verify my identity, how do I do that?",
+        "predictions": [
+            "verify_my_identity",
+            "why_verify_identity"
+        ]
+    },
+    {
+        "id": 288,
+        "text": "How much is ok for me to top up with?",
+        "predictions": [
+            "supported_cards_and_currencies",
+            "top_up_by_bank_transfer_charge",
+            "top_up_by_card_charge",
+            "top_up_by_cash_or_cheque",
+            "top_up_limits"
+        ]
+    },
+    {
+        "id": 289,
+        "text": "My PIN tries have run out. Now what?",
+        "predictions": [
+            "change_pin",
+            "get_physical_card",
+            "pin_blocked"
+        ]
+    },
+    {
+        "id": 290,
+        "text": "My daughter need a card from this account. Is that possible?",
+        "predictions": [
+            "getting_spare_card",
+            "order_physical_card"
+        ]
+    },
+    {
+        "id": 291,
+        "text": "Why wasn't my card payment accepted?",
+        "predictions": [
+            "declined_card_payment",
+            "reverted_card_payment?"
+        ]
+    },
+    {
+        "id": 292,
+        "text": "Can I receive my card anywhere?",
+        "predictions": [
+            "card_acceptance",
+            "order_physical_card"
+        ]
+    },
+    {
+        "id": 293,
+        "text": "Please could you give me a refund",
+        "predictions": [
+            "Refund_not_showing_up",
+            "request_refund"
+        ]
+    },
+    {
+        "id": 294,
+        "text": "Can I exchange currency to Europe?",
+        "predictions": [
+            "exchange_via_app",
+            "fiat_currency_support"
+        ]
+    },
+    {
+        "id": 295,
+        "text": "Money that I have transferred hasn't arrived yet",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer",
+            "transfer_not_received_by_recipient"
+        ]
+    },
+    {
+        "id": 296,
+        "text": "A withdrawal is showing that I don't recognize",
+        "predictions": [
+            "cash_withdrawal_not_recognised",
+            "pending_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 297,
+        "text": "I have been charged an extra fee when buying from your store. Why is this?",
+        "predictions": [
+            "card_payment_fee_charged",
+            "card_payment_wrong_exchange_rate",
+            "cash_withdrawal_charge",
+            "extra_charge_on_statement",
+            "transfer_fee_charged"
+        ]
+    },
+    {
+        "id": 298,
+        "text": "Can I make a withdraw if I am out of country from with out any fees at an ATM?",
+        "predictions": [
+            "cash_withdrawal_charge",
+            "wrong_exchange_rate_for_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 299,
+        "text": "After I make a payment, how long will it be before it transitions from \"pending\" to complete?",
+        "predictions": [
+            "pending_card_payment",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 300,
+        "text": "A transfer to my account was denied.",
+        "predictions": [
+            "beneficiary_not_allowed",
+            "declined_cash_withdrawal",
+            "declined_transfer",
+            "failed_transfer"
+        ]
+    },
+    {
+        "id": 301,
+        "text": "Are there any places that I can't use the disposable cards at?",
+        "predictions": [
+            "disposable_card_limits",
+            "get_disposable_virtual_card"
+        ]
+    },
+    {
+        "id": 302,
+        "text": "I transferred some money but the receiver can't pick it up for some reason.",
+        "predictions": [
+            "beneficiary_not_allowed",
+            "declined_transfer",
+            "failed_transfer"
+        ]
+    },
+    {
+        "id": 303,
+        "text": "My credit card has been declined.",
+        "predictions": [
+            "declined_card_payment",
+            "top_up_failed"
+        ]
+    },
+    {
+        "id": 304,
+        "text": "What if I need multiple disposable cards?",
+        "predictions": [
+            "disposable_card_limits",
+            "get_disposable_virtual_card"
+        ]
+    },
+    {
+        "id": 305,
+        "text": "When will I get my card?",
+        "predictions": [
+            "card_arrival",
+            "card_delivery_estimate"
+        ]
+    },
+    {
+        "id": 306,
+        "text": "I haven't received my cash yet.",
+        "predictions": [
+            "balance_not_updated_after_cheque_or_cash_deposit",
+            "pending_cash_withdrawal",
+            "transfer_not_received_by_recipient"
+        ]
+    },
+    {
+        "id": 307,
+        "text": "is there a fee for swift transfer",
+        "predictions": [
+            "top_up_by_bank_transfer_charge",
+            "transfer_fee_charged"
+        ]
+    },
+    {
+        "id": 308,
+        "text": "what is the virtual card",
+        "predictions": [
+            "get_disposable_virtual_card",
+            "getting_virtual_card"
+        ]
+    },
+    {
+        "id": 309,
+        "text": "Why is this payment pending?",
+        "predictions": [
+            "pending_card_payment",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 310,
+        "text": "I want this amount reversed out of my account.",
+        "predictions": [
+            "direct_debit_payment_not_recognised",
+            "Refund_not_showing_up",
+            "request_refund",
+            "reverted_card_payment?",
+            "terminate_account"
+        ]
+    },
+    {
+        "id": 311,
+        "text": "Why isn't the transferred money there?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "transfer_not_received_by_recipient",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 312,
+        "text": "Why won't my top up work",
+        "predictions": [
+            "top_up_failed",
+            "top_up_reverted"
+        ]
+    },
+    {
+        "id": 313,
+        "text": "My payment still hasn't processed!",
+        "predictions": [
+            "pending_card_payment",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 314,
+        "text": "Can i get payed through this system?",
+        "predictions": [
+            "receiving_money",
+            "supported_cards_and_currencies"
+        ]
+    },
+    {
+        "id": 315,
+        "text": "Please help to explain to me why my new card was declined when I tried to use it at my grocery store this morning to pay for the items I needed.  I tried three times to use it and it kept being declined.  I was very embarrassed standing there trying to buy my groceries.",
+        "predictions": [
+            "card_not_working",
+            "declined_card_payment",
+            "declined_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 316,
+        "text": "The fee charged when I changed rubles into British pounds was too much.",
+        "predictions": [
+            "card_payment_wrong_exchange_rate",
+            "exchange_charge",
+            "extra_charge_on_statement",
+            "transfer_fee_charged",
+            "wrong_exchange_rate_for_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 317,
+        "text": "I transferred some funds but I don't see it",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer",
+            "transfer_not_received_by_recipient"
+        ]
+    },
+    {
+        "id": 318,
+        "text": "What currencies do you offer?",
+        "predictions": [
+            "fiat_currency_support",
+            "supported_cards_and_currencies"
+        ]
+    },
+    {
+        "id": 319,
+        "text": "Why can't my transfer complete?",
+        "predictions": [
+            "declined_transfer",
+            "failed_transfer"
+        ]
+    },
+    {
+        "id": 320,
+        "text": "What works for identity verification?",
+        "predictions": [
+            "verify_my_identity",
+            "why_verify_identity"
+        ]
+    },
+    {
+        "id": 321,
+        "text": "Am I allowed to use different currencies?",
+        "predictions": [
+            "exchange_via_app",
+            "fiat_currency_support",
+            "supported_cards_and_currencies"
+        ]
+    },
+    {
+        "id": 322,
+        "text": "What do I do if the bank machine won't accept my PIN attempts anymore?",
+        "predictions": [
+            "card_swallowed",
+            "pin_blocked"
+        ]
+    },
+    {
+        "id": 323,
+        "text": "How long will the transfer take?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_card_payment",
+            "pending_transfer",
+            "transfer_not_received_by_recipient",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 324,
+        "text": "My top up didn't go through",
+        "predictions": [
+            "pending_top_up",
+            "top_up_failed",
+            "top_up_reverted"
+        ]
+    },
+    {
+        "id": 325,
+        "text": "Why can't I make multiple payments with my virtual card?",
+        "predictions": [
+            "disposable_card_limits",
+            "get_disposable_virtual_card",
+            "virtual_card_not_working"
+        ]
+    },
+    {
+        "id": 326,
+        "text": "Will you charge me if I top up by card?",
+        "predictions": [
+            "top_up_by_bank_transfer_charge",
+            "top_up_by_card_charge"
+        ]
+    },
+    {
+        "id": 327,
+        "text": "Why am I still waiting for a transfer?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 328,
+        "text": "My transfer did not work, what was the reason?",
+        "predictions": [
+            "declined_transfer",
+            "failed_transfer"
+        ]
+    },
+    {
+        "id": 329,
+        "text": "Is there an allowance on cards?",
+        "predictions": [
+            "getting_spare_card",
+            "order_physical_card",
+            "visa_or_mastercard"
+        ]
+    },
+    {
+        "id": 330,
+        "text": "What is the first step that I should take after my card has been stolen?",
+        "predictions": [
+            "compromised_card",
+            "lost_or_stolen_card",
+            "lost_or_stolen_phone"
+        ]
+    },
+    {
+        "id": 331,
+        "text": "How long does it take for a transfer to be in my account?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 332,
+        "text": "Hi, My card withdrawal was declined this morning. It was working fine till yesterday. Please check and inform me.",
+        "predictions": [
+            "declined_cash_withdrawal",
+            "pending_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 333,
+        "text": "My transfer is still pending",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 334,
+        "text": "there is money in my account that i didnt put there",
+        "predictions": [
+            "card_payment_not_recognised",
+            "cash_withdrawal_not_recognised"
+        ]
+    },
+    {
+        "id": 335,
+        "text": "I found my card that I thought I had lost, I need to reactive it, please help.",
+        "predictions": [
+            "card_linking",
+            "lost_or_stolen_card"
+        ]
+    },
+    {
+        "id": 336,
+        "text": "How can I deposit money to my account?",
+        "predictions": [
+            "receiving_money",
+            "supported_cards_and_currencies",
+            "top_up_by_bank_transfer_charge",
+            "top_up_by_cash_or_cheque",
+            "topping_up_by_card",
+            "transfer_into_account"
+        ]
+    },
+    {
+        "id": 337,
+        "text": "How do I reset my PIN, I can't seem to use my card?",
+        "predictions": [
+            "change_pin",
+            "get_physical_card",
+            "lost_or_stolen_phone",
+            "pin_blocked"
+        ]
+    },
+    {
+        "id": 338,
+        "text": "There has been a transfer pending in my account and I wanted to know how long it is going to take to go  through.",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 339,
+        "text": "I haven't used my card all day but there is a payment showing in the app. Please cancel it!",
+        "predictions": [
+            "card_payment_not_recognised",
+            "cash_withdrawal_not_recognised",
+            "direct_debit_payment_not_recognised",
+            "reverted_card_payment?"
+        ]
+    },
+    {
+        "id": 340,
+        "text": "I won't be pleased unless I get a Mastercard.",
+        "predictions": [
+            "card_acceptance",
+            "visa_or_mastercard"
+        ]
+    },
+    {
+        "id": 341,
+        "text": "I made a transfer and am still waiting.",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer",
+            "transfer_not_received_by_recipient",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 342,
+        "text": "how long does delivery take?",
+        "predictions": [
+            "card_arrival",
+            "card_delivery_estimate"
+        ]
+    },
+    {
+        "id": 343,
+        "text": "How long does it take for a top-up?",
+        "predictions": [
+            "pending_top_up",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 344,
+        "text": "Can I reset my PIN?",
+        "predictions": [
+            "change_pin",
+            "pin_blocked"
+        ]
+    },
+    {
+        "id": 345,
+        "text": "What are the steps for depositing cash into my account?",
+        "predictions": [
+            "top_up_by_cash_or_cheque",
+            "transfer_into_account"
+        ]
+    },
+    {
+        "id": 346,
+        "text": "What's the deal with no cryptocurrency on your app?",
+        "predictions": [
+            "beneficiary_not_allowed",
+            "contactless_not_working",
+            "virtual_card_not_working"
+        ]
+    },
+    {
+        "id": 347,
+        "text": "Please help me with my card payments which keeps getting reverted whenever i do online shopping. I am having this problem since last two weeks.",
+        "predictions": [
+            "declined_card_payment",
+            "declined_transfer",
+            "reverted_card_payment?"
+        ]
+    },
+    {
+        "id": 348,
+        "text": "I checked my account today and it said I was out of money. How do I transfer money into my account?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "balance_not_updated_after_cheque_or_cash_deposit",
+            "failed_transfer",
+            "pending_transfer",
+            "top_up_reverted",
+            "transfer_not_received_by_recipient",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 349,
+        "text": "I couldnt transfer money from my account.",
+        "predictions": [
+            "beneficiary_not_allowed",
+            "declined_card_payment",
+            "declined_cash_withdrawal",
+            "declined_transfer",
+            "failed_transfer"
+        ]
+    },
+    {
+        "id": 350,
+        "text": "Can you tell me why my transfer is pending still?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 351,
+        "text": "I have arranged a transfer, but no longer need to send it. How do I stop the transfer?",
+        "predictions": [
+            "cancel_transfer",
+            "request_refund"
+        ]
+    },
+    {
+        "id": 352,
+        "text": "Why did I get charged a fee, I thought it was free?",
+        "predictions": [
+            "card_payment_fee_charged",
+            "cash_withdrawal_charge",
+            "extra_charge_on_statement"
+        ]
+    },
+    {
+        "id": 353,
+        "text": "Causes of top-up cancellation",
+        "predictions": [
+            "top_up_failed",
+            "top_up_reverted"
+        ]
+    },
+    {
+        "id": 354,
+        "text": "Why is the payment I made still pending?",
+        "predictions": [
+            "pending_card_payment",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 355,
+        "text": "How can correct Top up with the app to work correctly?",
+        "predictions": [
+            "pending_top_up",
+            "top_up_failed",
+            "top_up_reverted",
+            "topping_up_by_card"
+        ]
+    },
+    {
+        "id": 356,
+        "text": "My credit card was just denied for top up! Can you tell me why this happened and what's going on?",
+        "predictions": [
+            "top_up_failed",
+            "top_up_reverted"
+        ]
+    },
+    {
+        "id": 357,
+        "text": "I would like to refill my account using SWIFT.",
+        "predictions": [
+            "automatic_top_up",
+            "receiving_money",
+            "supported_cards_and_currencies",
+            "top_up_by_bank_transfer_charge",
+            "top_up_by_card_charge",
+            "topping_up_by_card"
+        ]
+    },
+    {
+        "id": 358,
+        "text": "Am I the only one who can top-up my account?",
+        "predictions": [
+            "automatic_top_up",
+            "top_up_by_cash_or_cheque",
+            "top_up_limits",
+            "topping_up_by_card",
+            "transfer_into_account",
+            "verify_top_up"
+        ]
+    },
+    {
+        "id": 359,
+        "text": "A couple weeks ago some money was deducted from my account by some seller that I don't remember. I'm pretty sure I didn't do that, but is it possible to trace back who that is just to make sure?",
+        "predictions": [
+            "card_payment_not_recognised",
+            "cash_withdrawal_not_recognised",
+            "declined_transfer",
+            "direct_debit_payment_not_recognised",
+            "Refund_not_showing_up",
+            "reverted_card_payment?",
+            "transaction_charged_twice"
+        ]
+    },
+    {
+        "id": 360,
+        "text": "how long and how much does it cost for new card",
+        "predictions": [
+            "card_about_to_expire",
+            "card_arrival",
+            "contactless_not_working",
+            "order_physical_card"
+        ]
+    },
+    {
+        "id": 361,
+        "text": "how do i add money from my amex card to top up",
+        "predictions": [
+            "supported_cards_and_currencies",
+            "top_up_by_card_charge"
+        ]
+    },
+    {
+        "id": 362,
+        "text": "Show me where I can see the PIN?",
+        "predictions": [
+            "get_physical_card",
+            "pin_blocked"
+        ]
+    },
+    {
+        "id": 363,
+        "text": "What do I do when a charge has been made that I did not make?",
+        "predictions": [
+            "card_payment_not_recognised",
+            "direct_debit_payment_not_recognised"
+        ]
+    },
+    {
+        "id": 364,
+        "text": "What should I do if I've tried to enter my PIN too often?",
+        "predictions": [
+            "get_physical_card",
+            "pin_blocked"
+        ]
+    },
+    {
+        "id": 365,
+        "text": "How do I find out why my card won't work?",
+        "predictions": [
+            "card_not_working",
+            "declined_card_payment"
+        ]
+    },
+    {
+        "id": 366,
+        "text": "Do I get a card to keep in my wallet?",
+        "predictions": [
+            "card_acceptance",
+            "getting_spare_card",
+            "order_physical_card"
+        ]
+    },
+    {
+        "id": 367,
+        "text": "How can I change my password?",
+        "predictions": [
+            "change_pin",
+            "passcode_forgotten"
+        ]
+    },
+    {
+        "id": 368,
+        "text": "I just saw some charges on my card from the past days that I dont recognize, I need to freeze the card asap! Will I be able to get my money back?",
+        "predictions": [
+            "card_payment_not_recognised",
+            "direct_debit_payment_not_recognised"
+        ]
+    },
+    {
+        "id": 369,
+        "text": "I was wondering how long does it take for a payment to go thru? It seems my last payment is stuck and hasn't moved.",
+        "predictions": [
+            "card_about_to_expire",
+            "pending_card_payment",
+            "pending_cash_withdrawal",
+            "pending_transfer",
+            "reverted_card_payment?",
+            "top_up_reverted"
+        ]
+    },
+    {
+        "id": 370,
+        "text": "How long do transfers to international banks take? I made one to france a couple of days ago, but it's still not there.",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 371,
+        "text": "What steps do I need to take to exchange currencies?",
+        "predictions": [
+            "exchange_via_app",
+            "fiat_currency_support",
+            "supported_cards_and_currencies"
+        ]
+    },
+    {
+        "id": 372,
+        "text": "How do I use a card to top up?",
+        "predictions": [
+            "supported_cards_and_currencies",
+            "top_up_by_card_charge",
+            "top_up_by_cash_or_cheque",
+            "topping_up_by_card"
+        ]
+    },
+    {
+        "id": 373,
+        "text": "how do i dispute a payment I didnt make",
+        "predictions": [
+            "card_payment_not_recognised",
+            "direct_debit_payment_not_recognised"
+        ]
+    },
+    {
+        "id": 374,
+        "text": "I can't see my top up in my wallet!",
+        "predictions": [
+            "top_up_by_cash_or_cheque",
+            "topping_up_by_card"
+        ]
+    },
+    {
+        "id": 375,
+        "text": "Where can I pay with my card?",
+        "predictions": [
+            "card_acceptance",
+            "order_physical_card"
+        ]
+    },
+    {
+        "id": 376,
+        "text": "I will not be able to verify my identity.",
+        "predictions": [
+            "unable_to_verify_identity",
+            "why_verify_identity"
+        ]
+    },
+    {
+        "id": 377,
+        "text": "I had an unexpected fee",
+        "predictions": [
+            "card_payment_fee_charged",
+            "cash_withdrawal_charge",
+            "extra_charge_on_statement",
+            "transfer_fee_charged"
+        ]
+    },
+    {
+        "id": 378,
+        "text": "I want to top up by card",
+        "predictions": [
+            "top_up_by_card_charge",
+            "topping_up_by_card"
+        ]
+    },
+    {
+        "id": 379,
+        "text": "Why is my identity verification process not working?",
+        "predictions": [
+            "unable_to_verify_identity",
+            "why_verify_identity"
+        ]
+    },
+    {
+        "id": 380,
+        "text": "My purchase from this morning still is pending.",
+        "predictions": [
+            "pending_card_payment",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 381,
+        "text": "Why is a transfer I have still pending?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 382,
+        "text": "I am having to wait for my transfer to be fully processed. It seems to be taking a very long time in the pending phase. What is the normal turn around time that I can expect to see it completed?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 383,
+        "text": "I am still waiting for a money transfer to process.",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 384,
+        "text": "Can I get the Mastercard?",
+        "predictions": [
+            "card_acceptance",
+            "visa_or_mastercard"
+        ]
+    },
+    {
+        "id": 385,
+        "text": "I'm starting to think my card is lost because it still hasn't arrived, can you help?",
+        "predictions": [
+            "card_arrival",
+            "lost_or_stolen_card"
+        ]
+    },
+    {
+        "id": 386,
+        "text": "I saw money was taken out of my account by a seller a while back. I do not recognize the seller, but I'm pretty certain I didn't make that payment. Can you track who the seller is?",
+        "predictions": [
+            "direct_debit_payment_not_recognised",
+            "Refund_not_showing_up"
+        ]
+    },
+    {
+        "id": 387,
+        "text": "I am still waiting for a money transfer to appear.",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 388,
+        "text": "What does the decline message mean",
+        "predictions": [
+            "card_not_working",
+            "declined_card_payment",
+            "declined_cash_withdrawal",
+            "declined_transfer",
+            "top_up_failed"
+        ]
+    },
+    {
+        "id": 389,
+        "text": "Why wont the other bank take my money?? Is it not good enough?? There's sufficient funds but I keep getting denied a standard transfer. Ive tried 5 times!",
+        "predictions": [
+            "beneficiary_not_allowed",
+            "declined_transfer",
+            "failed_transfer"
+        ]
+    },
+    {
+        "id": 390,
+        "text": "I did a transfer but it is still pending.",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 391,
+        "text": "I'm really stuck. I don't know why but my card payment has not gone through.",
+        "predictions": [
+            "card_not_working",
+            "declined_card_payment",
+            "pending_card_payment",
+            "reverted_card_payment?"
+        ]
+    },
+    {
+        "id": 392,
+        "text": "When I tried to transfer funds to my friend today I was unable to do so, why?",
+        "predictions": [
+            "beneficiary_not_allowed",
+            "declined_transfer",
+            "failed_transfer",
+            "transfer_not_received_by_recipient"
+        ]
+    },
+    {
+        "id": 393,
+        "text": "Can i get a single use virtual card",
+        "predictions": [
+            "disposable_card_limits",
+            "get_disposable_virtual_card"
+        ]
+    },
+    {
+        "id": 394,
+        "text": "I was so embarrassed. Why didn't my payment clear?",
+        "predictions": [
+            "card_payment_not_recognised",
+            "declined_card_payment",
+            "pending_card_payment",
+            "reverted_card_payment?",
+            "transfer_not_received_by_recipient"
+        ]
+    },
+    {
+        "id": 395,
+        "text": "What is the handling fee for transfer?",
+        "predictions": [
+            "top_up_by_bank_transfer_charge",
+            "transfer_fee_charged"
+        ]
+    },
+    {
+        "id": 396,
+        "text": "show me how to top up with my card",
+        "predictions": [
+            "top_up_by_cash_or_cheque",
+            "topping_up_by_card"
+        ]
+    },
+    {
+        "id": 397,
+        "text": "The funds I transferred are not in my account",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "transfer_not_received_by_recipient",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 398,
+        "text": "Why am I not allowed to verify my id?",
+        "predictions": [
+            "unable_to_verify_identity",
+            "why_verify_identity"
+        ]
+    },
+    {
+        "id": 399,
+        "text": "My accounts been charged a payment for something I didn't make.",
+        "predictions": [
+            "card_payment_not_recognised",
+            "direct_debit_payment_not_recognised"
+        ]
+    },
+    {
+        "id": 400,
+        "text": "What currencies do you do exchanges for?",
+        "predictions": [
+            "exchange_rate",
+            "exchange_via_app",
+            "fiat_currency_support"
+        ]
+    },
+    {
+        "id": 401,
+        "text": "I recently bought an item using my card and I was charged an extra fee why is this?",
+        "predictions": [
+            "card_payment_fee_charged",
+            "extra_charge_on_statement",
+            "transfer_fee_charged"
+        ]
+    },
+    {
+        "id": 402,
+        "text": "Where is my top-up generated from?",
+        "predictions": [
+            "automatic_top_up",
+            "top_up_by_cash_or_cheque",
+            "topping_up_by_card",
+            "transfer_into_account",
+            "verify_top_up"
+        ]
+    },
+    {
+        "id": 403,
+        "text": "The app won't let me top up my account",
+        "predictions": [
+            "apple_pay_or_google_pay",
+            "automatic_top_up",
+            "top_up_by_cash_or_cheque",
+            "top_up_failed",
+            "topping_up_by_card",
+            "verify_top_up"
+        ]
+    },
+    {
+        "id": 404,
+        "text": "Will a transfer incur a fee?",
+        "predictions": [
+            "top_up_by_bank_transfer_charge",
+            "transfer_fee_charged"
+        ]
+    },
+    {
+        "id": 405,
+        "text": "Why does my payment appear as pending?",
+        "predictions": [
+            "pending_card_payment",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 406,
+        "text": "Are there virtual cards",
+        "predictions": [
+            "get_disposable_virtual_card",
+            "getting_virtual_card"
+        ]
+    },
+    {
+        "id": 407,
+        "text": "When I travel, what will it cost to switch for my currency?",
+        "predictions": [
+            "exchange_charge",
+            "top_up_by_card_charge"
+        ]
+    },
+    {
+        "id": 408,
+        "text": "I have been trying unsuccessfully to top-up my card.  Is the system down or not working properly?",
+        "predictions": [
+            "pending_top_up",
+            "top_up_failed",
+            "top_up_reverted",
+            "topping_up_by_card"
+        ]
+    },
+    {
+        "id": 409,
+        "text": "The exchange rate seems off on this transaction",
+        "predictions": [
+            "card_payment_wrong_exchange_rate",
+            "wrong_exchange_rate_for_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 410,
+        "text": "my identity hasn't been verified and i can't edit my details, what's next",
+        "predictions": [
+            "change_pin",
+            "edit_personal_details",
+            "verify_my_identity",
+            "why_verify_identity"
+        ]
+    },
+    {
+        "id": 411,
+        "text": "which identity details are required",
+        "predictions": [
+            "unable_to_verify_identity",
+            "verify_my_identity",
+            "why_verify_identity"
+        ]
+    },
+    {
+        "id": 412,
+        "text": "What do you need my identity details for?",
+        "predictions": [
+            "verify_my_identity",
+            "why_verify_identity"
+        ]
+    },
+    {
+        "id": 413,
+        "text": "I do not see the money I transferred into this account",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 414,
+        "text": "I tried to get cash out of the ATM but it is taking too long",
+        "predictions": [
+            "declined_cash_withdrawal",
+            "pending_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 415,
+        "text": "I am a new customer, and I happened to look at my app and there is a charge I am not familiar with.  Could you tell me why the extra charge is there?",
+        "predictions": [
+            "card_payment_fee_charged",
+            "extra_charge_on_statement",
+            "transfer_fee_charged"
+        ]
+    },
+    {
+        "id": 416,
+        "text": "I have a question regarding the PIN of the card?",
+        "predictions": [
+            "get_physical_card",
+            "pin_blocked"
+        ]
+    },
+    {
+        "id": 417,
+        "text": "Can I transfer money to my account with the app?",
+        "predictions": [
+            "receiving_money",
+            "topping_up_by_card",
+            "transfer_into_account"
+        ]
+    },
+    {
+        "id": 418,
+        "text": "So much time has gone by, the pending status shouldn't still be there shouldn't it?",
+        "predictions": [
+            "pending_card_payment",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 419,
+        "text": "My card was declined at a restaurant today and I don't know what the problem is.",
+        "predictions": [
+            "card_not_working",
+            "declined_card_payment"
+        ]
+    },
+    {
+        "id": 420,
+        "text": "The cash I wanted wasn't there.",
+        "predictions": [
+            "cash_withdrawal_not_recognised",
+            "wrong_amount_of_cash_received"
+        ]
+    },
+    {
+        "id": 421,
+        "text": "Do you offer services that hold money in different types of currency?",
+        "predictions": [
+            "exchange_via_app",
+            "fiat_currency_support",
+            "receiving_money",
+            "supported_cards_and_currencies"
+        ]
+    },
+    {
+        "id": 422,
+        "text": "I bought something and already paid for it but now I don't see it.",
+        "predictions": [
+            "pending_card_payment",
+            "Refund_not_showing_up",
+            "request_refund",
+            "reverted_card_payment?",
+            "top_up_reverted",
+            "transfer_not_received_by_recipient"
+        ]
+    },
+    {
+        "id": 423,
+        "text": "You accepts my card?",
+        "predictions": [
+            "card_acceptance",
+            "country_support",
+            "supported_cards_and_currencies",
+            "visa_or_mastercard"
+        ]
+    },
+    {
+        "id": 424,
+        "text": "Which cards and currencies do you support?",
+        "predictions": [
+            "fiat_currency_support",
+            "supported_cards_and_currencies"
+        ]
+    },
+    {
+        "id": 425,
+        "text": "How can I resolve a problem where my card won't go through at all?",
+        "predictions": [
+            "card_not_working",
+            "declined_card_payment"
+        ]
+    },
+    {
+        "id": 426,
+        "text": "Why does my transfer still say it is pending?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 427,
+        "text": "Are there any charges for top ups?",
+        "predictions": [
+            "top_up_by_bank_transfer_charge",
+            "top_up_by_card_charge"
+        ]
+    },
+    {
+        "id": 428,
+        "text": "how much does it cost to add money",
+        "predictions": [
+            "top_up_by_bank_transfer_charge",
+            "top_up_by_card_charge"
+        ]
+    },
+    {
+        "id": 429,
+        "text": "How does a transfer work?",
+        "predictions": [
+            "receiving_money",
+            "top_up_by_bank_transfer_charge",
+            "transfer_into_account",
+            "transfer_timing",
+            "verify_source_of_funds"
+        ]
+    },
+    {
+        "id": 430,
+        "text": "Why are all my transfers failing?  I have the details right and they won't complete.  I've been trying all day and they still won't go through, this is URGENT, please help.",
+        "predictions": [
+            "beneficiary_not_allowed",
+            "declined_transfer",
+            "failed_transfer"
+        ]
+    },
+    {
+        "id": 431,
+        "text": "How long until my new card gets here?",
+        "predictions": [
+            "card_arrival",
+            "card_delivery_estimate"
+        ]
+    },
+    {
+        "id": 432,
+        "text": "Will my employer be able to pay me with this service",
+        "predictions": [
+            "receiving_money",
+            "top_up_by_bank_transfer_charge"
+        ]
+    },
+    {
+        "id": 433,
+        "text": "Can cash be used in physical locations to top up?",
+        "predictions": [
+            "atm_support",
+            "top_up_by_cash_or_cheque"
+        ]
+    },
+    {
+        "id": 434,
+        "text": "how do I speed up identity verification?",
+        "predictions": [
+            "verify_my_identity",
+            "why_verify_identity"
+        ]
+    },
+    {
+        "id": 435,
+        "text": "This card payment isn't is recognition.",
+        "predictions": [
+            "card_payment_not_recognised",
+            "direct_debit_payment_not_recognised"
+        ]
+    },
+    {
+        "id": 436,
+        "text": "Can my account have different types of currency in it.",
+        "predictions": [
+            "exchange_via_app",
+            "fiat_currency_support",
+            "receiving_money",
+            "supported_cards_and_currencies"
+        ]
+    },
+    {
+        "id": 437,
+        "text": "why couldn't I use my card at a store?",
+        "predictions": [
+            "card_not_working",
+            "declined_card_payment"
+        ]
+    },
+    {
+        "id": 438,
+        "text": "Please tell me about SWIFT transfers at this bank.",
+        "predictions": [
+            "top_up_by_bank_transfer_charge",
+            "transfer_fee_charged"
+        ]
+    },
+    {
+        "id": 439,
+        "text": "I tried to transfer some money and it hasn't done it yet - what's going on?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "failed_transfer",
+            "pending_transfer",
+            "transfer_not_received_by_recipient",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 440,
+        "text": "I did a transfer but its still pending",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 441,
+        "text": "I've made a transfer from France two days ago but I was wondering if international transfers take longer to arrive because it hasn't made it yet.",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 442,
+        "text": "I tried to do a transfer but it didn't go through.",
+        "predictions": [
+            "declined_transfer",
+            "failed_transfer"
+        ]
+    },
+    {
+        "id": 443,
+        "text": "When will my payment go through?",
+        "predictions": [
+            "pending_card_payment",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 444,
+        "text": "The new card that was just sent to me was declined multiple times yesterday when I tried to use it at a restaurant to pay for my dinner.  I am really disappointed  and embarrassed that my card was denied when I tried to use it to pay for my friend's birthday dinner.",
+        "predictions": [
+            "card_not_working",
+            "declined_card_payment"
+        ]
+    },
+    {
+        "id": 445,
+        "text": "How can I top up my card with another card?",
+        "predictions": [
+            "supported_cards_and_currencies",
+            "top_up_by_card_charge",
+            "top_up_by_cash_or_cheque",
+            "top_up_limits",
+            "topping_up_by_card"
+        ]
+    },
+    {
+        "id": 446,
+        "text": "My transfer went through, but it seems to be caught up in a pending status.  This was very important that it got done quickly, can you give me a status update on how long it will take?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 447,
+        "text": "My identity can't be verified for some reason",
+        "predictions": [
+            "unable_to_verify_identity",
+            "why_verify_identity"
+        ]
+    },
+    {
+        "id": 448,
+        "text": "explain the virtual card",
+        "predictions": [
+            "get_disposable_virtual_card",
+            "getting_virtual_card"
+        ]
+    },
+    {
+        "id": 449,
+        "text": "Can I add other people to my account, so they can top up?",
+        "predictions": [
+            "top_up_by_cash_or_cheque",
+            "topping_up_by_card",
+            "transfer_into_account"
+        ]
+    },
+    {
+        "id": 450,
+        "text": "Why is the exchange rate on my card wrong?",
+        "predictions": [
+            "card_payment_wrong_exchange_rate",
+            "wrong_exchange_rate_for_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 451,
+        "text": "What physical locations can I use cash to top up?",
+        "predictions": [
+            "atm_support",
+            "top_up_by_cash_or_cheque"
+        ]
+    },
+    {
+        "id": 452,
+        "text": "What are the disposable cards for?",
+        "predictions": [
+            "disposable_card_limits",
+            "get_disposable_virtual_card"
+        ]
+    },
+    {
+        "id": 453,
+        "text": "I completed a transfer that isn't showing up on my account.",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer",
+            "transfer_not_received_by_recipient"
+        ]
+    },
+    {
+        "id": 454,
+        "text": "How do I top up my card?",
+        "predictions": [
+            "top_up_by_cash_or_cheque",
+            "topping_up_by_card",
+            "transfer_into_account"
+        ]
+    },
+    {
+        "id": 455,
+        "text": "How long does it take to authorise a payment?",
+        "predictions": [
+            "pending_card_payment",
+            "pending_transfer",
+            "transfer_not_received_by_recipient",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 456,
+        "text": "Why did I get charged for something I bought online? Even though it was international, I thought it would be covered.",
+        "predictions": [
+            "card_payment_fee_charged",
+            "card_payment_wrong_exchange_rate",
+            "exchange_charge",
+            "extra_charge_on_statement",
+            "top_up_by_bank_transfer_charge",
+            "transfer_fee_charged",
+            "wrong_exchange_rate_for_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 457,
+        "text": "I did a bank transfer to top up, but the money is not available.",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 458,
+        "text": "My wallet was taken and I see that someone is using my card!   Please help me!",
+        "predictions": [
+            "card_payment_not_recognised",
+            "card_swallowed",
+            "cash_withdrawal_not_recognised",
+            "compromised_card",
+            "direct_debit_payment_not_recognised",
+            "lost_or_stolen_card",
+            "lost_or_stolen_phone"
+        ]
+    },
+    {
+        "id": 459,
+        "text": "Can you get me my card fast?",
+        "predictions": [
+            "card_arrival",
+            "card_delivery_estimate"
+        ]
+    },
+    {
+        "id": 460,
+        "text": "My money transfer has not yet occurred",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "pending_transfer",
+            "transfer_not_received_by_recipient",
+            "transfer_timing"
+        ]
+    },
+    {
+        "id": 461,
+        "text": "I've got charges on my account I did not authorize. Can I get this money back from the last couple of days that it's been coming out? I also need to freeze my card.",
+        "predictions": [
+            "card_payment_not_recognised",
+            "direct_debit_payment_not_recognised"
+        ]
+    },
+    {
+        "id": 462,
+        "text": "Why was my exchange rate a different amount than usual?",
+        "predictions": [
+            "card_payment_wrong_exchange_rate",
+            "wrong_exchange_rate_for_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 463,
+        "text": "I didn't receive the correct amount of cash when I exchanged it overseas.",
+        "predictions": [
+            "wrong_amount_of_cash_received",
+            "wrong_exchange_rate_for_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 464,
+        "text": "I would like to know why my purchases from this morning are still pending.",
+        "predictions": [
+            "pending_card_payment",
+            "pending_transfer"
+        ]
+    },
+    {
+        "id": 465,
+        "text": "Hello. Please, would you tell me if you have or have not received funds for a refund that I recently requested for a big purchase? I've contacted the merchant, but I can't tell that they have taken any action on it.",
+        "predictions": [
+            "direct_debit_payment_not_recognised",
+            "Refund_not_showing_up"
+        ]
+    },
+    {
+        "id": 466,
+        "text": "I used foreign currency to buy something and I think the rate applied is incorrect.",
+        "predictions": [
+            "card_payment_wrong_exchange_rate",
+            "wrong_exchange_rate_for_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 467,
+        "text": "I changed the currency, but why is it costing more?",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "card_payment_wrong_exchange_rate",
+            "exchange_charge",
+            "extra_charge_on_statement",
+            "transfer_fee_charged",
+            "wrong_exchange_rate_for_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 468,
+        "text": "Do you support direct deposits from my employer?",
+        "predictions": [
+            "receiving_money",
+            "supported_cards_and_currencies",
+            "top_up_by_bank_transfer_charge",
+            "top_up_by_cash_or_cheque"
+        ]
+    },
+    {
+        "id": 469,
+        "text": "If I can't choose my card type will I be able to use it everywhere?",
+        "predictions": [
+            "card_acceptance",
+            "order_physical_card",
+            "visa_or_mastercard"
+        ]
+    },
+    {
+        "id": 470,
+        "text": "I wanted to know what discounts were offered for current exchanges as it is something that occurs frequently.",
+        "predictions": [
+            "balance_not_updated_after_bank_transfer",
+            "card_payment_wrong_exchange_rate",
+            "exchange_charge",
+            "exchange_rate",
+            "extra_charge_on_statement",
+            "transfer_fee_charged",
+            "wrong_exchange_rate_for_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 471,
+        "text": "how can i exchange currencies",
+        "predictions": [
+            "exchange_via_app",
+            "fiat_currency_support"
+        ]
+    },
+    {
+        "id": 472,
+        "text": "Which ATMs accept this bill of fare ?",
+        "predictions": [
+            "atm_support",
+            "card_payment_fee_charged",
+            "cash_withdrawal_charge",
+            "declined_cash_withdrawal",
+            "top_up_by_cash_or_cheque",
+            "wrong_exchange_rate_for_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 473,
+        "text": "Can I order a new card with the app?",
+        "predictions": [
+            "card_linking",
+            "order_physical_card"
+        ]
+    },
+    {
+        "id": 474,
+        "text": "I'm noticing a payment/purchase at a company that I don't recognise.",
+        "predictions": [
+            "card_payment_not_recognised",
+            "direct_debit_payment_not_recognised"
+        ]
+    },
+    {
+        "id": 475,
+        "text": "Is there something wrong with my ATM Card?  Tried using it earlier and it did not work.",
+        "predictions": [
+            "card_swallowed",
+            "declined_cash_withdrawal"
+        ]
+    },
+    {
+        "id": 476,
+        "text": "I tried to make a transfer, but it didn't work.",
+        "predictions": [
+            "declined_transfer",
+            "failed_transfer"
+        ]
+    },
+    {
+        "id": 477,
+        "text": "It appears my top-ups have been canceled.",
+        "predictions": [
+            "top_up_failed",
+            "top_up_reverted"
+        ]
+    },
+    {
+        "id": 478,
+        "text": "How can I tell if my top-up has been cancelled?",
+        "predictions": [
+            "top_up_failed",
+            "top_up_reverted"
+        ]
+    }
+]

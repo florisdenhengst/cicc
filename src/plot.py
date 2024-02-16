@@ -56,7 +56,19 @@ def plot_coverages_widths(alpha, coverage, width_mean, method, ssc=None, plot_ss
     plt.savefig('results/{}_{}_{}.png'.format(dataset, model, method), dpi=1200)
     plt.show()
 
-def plot_coverages_widths_multi(alpha, coverages, width_means, methods, legend, sscs=None, plot_ssc=False, hlines=[], markers=None, dataset="ds", model="model", title='mytitle'):
+def plot_coverages_widths_multi(
+        alpha,
+        coverages,
+        width_means,
+        methods,
+        legend,
+        sscs=None,
+        plot_ssc=False,
+        hlines=[],
+        markers=None,
+        dataset="ds",
+        model="model",
+        title='mytitle'):
     """
     Verify coverage, size-stratified class-conditional coverage and width mean)
     """

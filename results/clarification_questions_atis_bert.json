@@ -1,0 +1,241 @@
+[
+    {
+        "id": 0,
+        "text": "what is the flight number for the continental flight which leaves denver at 1220 pm and goes to san francisco",
+        "predictions": [
+            "capacity",
+            "flight_no",
+            "flight_time",
+            "quantity"
+        ]
+    },
+    {
+        "id": 1,
+        "text": "what time zone is denver in",
+        "predictions": [
+            "city",
+            "distance",
+            "flight_time"
+        ]
+    },
+    {
+        "id": 2,
+        "text": "where is lester pearson airport",
+        "predictions": [
+            "airport",
+            "city"
+        ]
+    },
+    {
+        "id": 3,
+        "text": "flight number from dallas to houston",
+        "predictions": [
+            "capacity",
+            "flight+airfare",
+            "flight_no",
+            "flight_time",
+            "quantity"
+        ]
+    },
+    {
+        "id": 4,
+        "text": "how much is the ground transportation between atlanta and downtown",
+        "predictions": [
+            "ground_fare",
+            "ground_service"
+        ]
+    },
+    {
+        "id": 5,
+        "text": "what is the minimum connection time for houston intercontinental",
+        "predictions": [
+            "distance",
+            "flight_time",
+            "ground_fare",
+            "ground_service"
+        ]
+    },
+    {
+        "id": 6,
+        "text": "us 201",
+        "predictions": [
+            "abbreviation",
+            "distance",
+            "ground_service"
+        ]
+    },
+    {
+        "id": 7,
+        "text": "where is general mitchell international located",
+        "predictions": [
+            "airport",
+            "city"
+        ]
+    },
+    {
+        "id": 8,
+        "text": "please list information regarding san francisco airport",
+        "predictions": [
+            "airport",
+            "city",
+            "ground_service"
+        ]
+    },
+    {
+        "id": 9,
+        "text": "i need a plane that arrives in san francisco by 9 o'clock pm on friday and leaves from baltimore",
+        "predictions": [
+            "aircraft",
+            "flight"
+        ]
+    },
+    {
+        "id": 10,
+        "text": "how long does the ground transportation take from the salt lake city airport",
+        "predictions": [
+            "distance",
+            "ground_service"
+        ]
+    },
+    {
+        "id": 11,
+        "text": "what meals are served on american flight 665 673 from milwaukee to seattle",
+        "predictions": [
+            "capacity",
+            "meal"
+        ]
+    },
+    {
+        "id": 12,
+        "text": "is there a plane from boston to washington",
+        "predictions": [
+            "aircraft",
+            "flight"
+        ]
+    },
+    {
+        "id": 13,
+        "text": "show me city served both by nationair and canadian airlines international",
+        "predictions": [
+            "airport",
+            "city"
+        ]
+    },
+    {
+        "id": 14,
+        "text": "what days of the week do flights from san jose to nashville fly on",
+        "predictions": [
+            "city",
+            "flight_time"
+        ]
+    },
+    {
+        "id": 15,
+        "text": "what cities does northwest fly to",
+        "predictions": [
+            "airport",
+            "city"
+        ]
+    },
+    {
+        "id": 16,
+        "text": "where is mco",
+        "predictions": [
+            "airport",
+            "city"
+        ]
+    },
+    {
+        "id": 17,
+        "text": "when are the american flights from phoenix to milwaukee",
+        "predictions": [
+            "flight",
+            "flight_time"
+        ]
+    },
+    {
+        "id": 18,
+        "text": "flight numbers from chicago to seattle on continental",
+        "predictions": [
+            "capacity",
+            "flight+airfare",
+            "flight_no",
+            "flight_time"
+        ]
+    },
+    {
+        "id": 19,
+        "text": "what are my meal options from boston to denver",
+        "predictions": [
+            "capacity",
+            "meal"
+        ]
+    },
+    {
+        "id": 20,
+        "text": "show me the cities served by canadian airlines international",
+        "predictions": [
+            "airport",
+            "city"
+        ]
+    },
+    {
+        "id": 21,
+        "text": "which is the flight number for the us air flight from philadelphia to boston is it 279 or is it 137338",
+        "predictions": [
+            "capacity",
+            "flight_no",
+            "quantity"
+        ]
+    },
+    {
+        "id": 22,
+        "text": "what are the flights and prices from la to charlotte for monday morning",
+        "predictions": [
+            "airfare",
+            "flight+airfare"
+        ]
+    },
+    {
+        "id": 23,
+        "text": "show me the connecting flights between boston and denver and the types of aircraft used",
+        "predictions": [
+            "aircraft",
+            "flight"
+        ]
+    },
+    {
+        "id": 24,
+        "text": "what are the cities that american airlines serves",
+        "predictions": [
+            "airport",
+            "city"
+        ]
+    },
+    {
+        "id": 25,
+        "text": "show me all the cities that midwest express serves",
+        "predictions": [
+            "airport",
+            "city"
+        ]
+    },
+    {
+        "id": 26,
+        "text": "i need a reservation from baltimore to san francisco",
+        "predictions": [
+            "airfare",
+            "flight",
+            "ground_service"
+        ]
+    },
+    {
+        "id": 27,
+        "text": "what is the number of first class flights on american airlines",
+        "predictions": [
+            "capacity",
+            "flight_no",
+            "quantity"
+        ]
+    }
+]

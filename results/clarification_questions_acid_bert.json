@@ -1,0 +1,4003 @@
+[
+    {
+        "id": 0,
+        "text": "If another vehicle destroys my yard do I have coverage",
+        "predictions": [
+            "INFO_ADD_REMOVE_VEHICLE",
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_GEN_POLICY_COV_QUESTION"
+        ]
+    },
+    {
+        "id": 1,
+        "text": "verify employment with american family insurance",
+        "predictions": [
+            "INFO_CFR_QUESTION_GENERAL",
+            "INFO_CONFIRM_COVERAGE",
+            "INFO_EMPLOYMENT_VERIFY",
+            "ST_GENERAL_REQUEST",
+            "ST_WHERE_DOES_ABBY_LIVE"
+        ]
+    },
+    {
+        "id": 2,
+        "text": "I was wondering what kind of policy you guys have with using safelite I was driving down the highway and some idiot tires spun rocks at my windshield and cracked it",
+        "predictions": [
+            "INFO_CL_GLASS_SAFELITE",
+            "INFO_GLASS_COV"
+        ]
+    },
+    {
+        "id": 3,
+        "text": "Why hasnt my payment been taken out of my account It was due March rd and you have taken no action for my payment",
+        "predictions": [
+            "INFO_BILL_DUE_DATE",
+            "INFO_CL_CHECK_STATUS",
+            "INFO_PYMT_CONFIRM",
+            "INFO_PYMT_ERROR",
+            "INFO_PYMT_NOT_ONTIME",
+            "INFO_PYMT_TIME"
+        ]
+    },
+    {
+        "id": 4,
+        "text": "i just went through the whole online quote process for auto insurance and i want to confirm first the numbers and secondary how do i purchase the policy",
+        "predictions": [
+            "INFO_AST_PURCHASE",
+            "INFO_AST_QUOTE",
+            "INFO_GET_A_QUOTE_AUTO",
+            "INFO_INS_CARD_PRINT"
+        ]
+    },
+    {
+        "id": 5,
+        "text": "active automatic app",
+        "predictions": [
+            "INFO_KNOWYOURDRIVE",
+            "INFO_KNOWYOURDRIVE_DEVICE_ACTIVATE",
+            "INFO_PROFILE_SECTION",
+            "ST_IS_ABBY_REAL"
+        ]
+    },
+    {
+        "id": 6,
+        "text": "Does my rental policy cover fire damage if it was due to electrical issues in the structure",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_GEN_POLICY_COV_QUESTION"
+        ]
+    },
+    {
+        "id": 7,
+        "text": "do i hve em rd sd srvc",
+        "predictions": [
+            "INFO_EMPLOYMENT_VERIFY",
+            "INFO_KNOWYOURDRIVE_ERRORS",
+            "INFO_srtwentytwo",
+            "ST_GENERAL_REQUEST",
+            "ST_THANK_YOU",
+            "YES"
+        ]
+    },
+    {
+        "id": 8,
+        "text": "Are you happy",
+        "predictions": [
+            "INFO_EMPLOYMENT_VERIFY",
+            "NO",
+            "ST_HELLO",
+            "ST_HOW_IS_ABBY",
+            "ST_IS_ABBY_REAL",
+            "ST_WHERE_DOES_ABBY_LIVE",
+            "YES"
+        ]
+    },
+    {
+        "id": 9,
+        "text": "I need to insure my business",
+        "predictions": [
+            "INFO_BUSINESS_POLICY_CANT_SEE",
+            "INFO_CFR_QUESTION_GENERAL",
+            "INFO_GET_A_QUOTE_CFR"
+        ]
+    },
+    {
+        "id": 10,
+        "text": "Can I change my auto coverage",
+        "predictions": [
+            "INFO_ADD_REMOVE_INSURED",
+            "INFO_AUTO_COV_QUESTION"
+        ]
+    },
+    {
+        "id": 11,
+        "text": "How do i find out about the deductibels in my car insurance",
+        "predictions": [
+            "INFO_DEDUCTIBLE",
+            "INFO_DED_EXPLAN"
+        ]
+    },
+    {
+        "id": 12,
+        "text": "How do I get reimbursed for roadside assistance",
+        "predictions": [
+            "INFO_CL_FNOL_AUTO_HAIL",
+            "INFO_ERS",
+            "INFO_ERS_CONTACT",
+            "INFO_ERS_REIMBURSE"
+        ]
+    },
+    {
+        "id": 13,
+        "text": "Dream Keep rewards",
+        "predictions": [
+            "INFO_DREAMKEEP_REWARDS",
+            "INFO_DREAMKEEP_REWARDS_ERRORS"
+        ]
+    },
+    {
+        "id": 14,
+        "text": "file claim for hail damage to car",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_CL_DOCS_SEND",
+            "INFO_CL_FNOL",
+            "INFO_CL_FNOL_AUTO_HAIL"
+        ]
+    },
+    {
+        "id": 15,
+        "text": "Hi Abby Am I still able to pay my bill online without logging into my account I have not been able to log into my account for a long time",
+        "predictions": [
+            "INFO_LOGIN_ERROR",
+            "INFO_ONE_TIME_PYMT",
+            "INFO_PYMT_ERROR"
+        ]
+    },
+    {
+        "id": 16,
+        "text": "Im having difficulty setting up an account so I can make a payment",
+        "predictions": [
+            "INFO_LOGIN_ERROR",
+            "INFO_ONE_TIME_PYMT",
+            "INFO_PYMT_ERROR"
+        ]
+    },
+    {
+        "id": 17,
+        "text": "how do i go about receiving paper bills",
+        "predictions": [
+            "INFO_PAPERLESS_DOCS_SETUP",
+            "INFO_PAPERLESS_DOCS_STOP"
+        ]
+    },
+    {
+        "id": 18,
+        "text": "Where is my claim payment",
+        "predictions": [
+            "INFO_CL_CHECK_STATUS",
+            "INFO_CL_SHOP_SEND_ESTIMATE"
+        ]
+    },
+    {
+        "id": 19,
+        "text": "i am trying to see if i can get a quote for an auto well for  autos",
+        "predictions": [
+            "INFO_AST_PURCHASE",
+            "INFO_GET_A_QUOTE_AUTO",
+            "INFO_GET_A_QUOTE_OTHER"
+        ]
+    },
+    {
+        "id": 20,
+        "text": "Could I get both electronic copies and paper copies of my bill",
+        "predictions": [
+            "INFO_PAPERLESS_DOCS_STOP",
+            "INFO_PAPERLESS_MAIL"
+        ]
+    },
+    {
+        "id": 21,
+        "text": "where online can i change to paperless statements",
+        "predictions": [
+            "INFO_PAPERLESS_DOCS_SETUP",
+            "INFO_PAPERLESS_DOCS_STOP"
+        ]
+    },
+    {
+        "id": 22,
+        "text": "Change my billing to hard copy again",
+        "predictions": [
+            "INFO_ADD_VEHICLE_PROPERTY_PAPERLESS_BILLING",
+            "INFO_PAPERLESS_DOCS_STOP"
+        ]
+    },
+    {
+        "id": 23,
+        "text": "Need help to login to my account",
+        "predictions": [
+            "INFO_LOGIN_ERROR",
+            "INFO_SET_UP_ACCT"
+        ]
+    },
+    {
+        "id": 24,
+        "text": "My windshield is broken and I wanted to see about getting it replaced",
+        "predictions": [
+            "INFO_CL_GLASS_SAFELITE",
+            "INFO_GLASS_COV"
+        ]
+    },
+    {
+        "id": 25,
+        "text": "I LOOKING TO SEE I WE HAVE AN ESTIMATE WRITTENON CLAIMxxxxxxxxxxxx FOR Customer Name ON HER  CHEV SILVERADO",
+        "predictions": [
+            "INFO_CL_CHECK_STATUS",
+            "INFO_CL_DOCS_SEND",
+            "INFO_CL_DRP_ASSIGN",
+            "INFO_CL_SHOP_ADD_WORK",
+            "INFO_CL_SHOP_SEND_ESTIMATE"
+        ]
+    },
+    {
+        "id": 26,
+        "text": "Can you help me make a payment I forgot my login Its on my work computer Policy",
+        "predictions": [
+            "INFO_ONE_TIME_PYMT",
+            "INFO_PYMT_ERROR"
+        ]
+    },
+    {
+        "id": 27,
+        "text": "how can i get my bills online",
+        "predictions": [
+            "INFO_PAPERLESS_DOCS_SETUP",
+            "INFO_PAPERLESS_DOCS_STOP"
+        ]
+    },
+    {
+        "id": 28,
+        "text": "no My third car isnt listed there other than as a family car",
+        "predictions": [
+            "INFO_ADD_REMOVE_VEHICLE",
+            "INFO_AUTO_POLICY_CANT_SEE_IN_ACCT",
+            "INFO_GET_A_QUOTE_AUTO",
+            "INFO_NEW_VEHICLE_GRACE_PERIOD"
+        ]
+    },
+    {
+        "id": 29,
+        "text": "My car broke down and I need assistance",
+        "predictions": [
+            "INFO_ERS",
+            "INFO_ERS_CONTACT",
+            "INFO_ERS_REIMBURSE"
+        ]
+    },
+    {
+        "id": 30,
+        "text": "I am needing a proof of insurance for the last  months on my Galleon home Policy X",
+        "predictions": [
+            "INFO_CANT_SEE_POLICY",
+            "INFO_INS_CARD_PRINT",
+            "INFO_INS_CARD_PROOF",
+            "INFO_INS_CARD_SEND",
+            "INFO_LETTER_OF_EXPERIENCE",
+            "INFO_POI_OLD",
+            "INFO_POLICY_DOC_NEEDED"
+        ]
+    },
+    {
+        "id": 31,
+        "text": "I want my life insurance to go to my daughter",
+        "predictions": [
+            "INFO_ADD_REMOVE_INSURED",
+            "INFO_LIFE_BENEFICIARY_CHANGE",
+            "INFO_LIFE_QUESTION_GENERAL"
+        ]
+    },
+    {
+        "id": 32,
+        "text": "how do i switch to electronic billing",
+        "predictions": [
+            "INFO_ADD_VEHICLE_PROPERTY_PAPERLESS_BILLING",
+            "INFO_PAPERLESS_DOCS_SETUP",
+            "INFO_PAPERLESS_DOCS_STOP"
+        ]
+    },
+    {
+        "id": 33,
+        "text": "I broke my leg in todays accident and need to claim fast",
+        "predictions": [
+            "INFO_CL_FNOL",
+            "INFO_CL_STATUS"
+        ]
+    },
+    {
+        "id": 34,
+        "text": "car insurance hidden my account",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_AUTO_POLICY_CANT_SEE_IN_ACCT"
+        ]
+    },
+    {
+        "id": 35,
+        "text": "Can you help me with my claim",
+        "predictions": [
+            "INFO_CL_ADJUSTER_INFO",
+            "INFO_CL_STATUS"
+        ]
+    },
+    {
+        "id": 36,
+        "text": "I want a bill mailed to me Can I get one even though I signed up for electric bills",
+        "predictions": [
+            "INFO_PAPERLESS_DOCS_STOP",
+            "INFO_PAPERLESS_MAIL"
+        ]
+    },
+    {
+        "id": 37,
+        "text": "I would like a new agent please",
+        "predictions": [
+            "INFO_AGENT_WRONG",
+            "INFO_CHANGE_AGENT"
+        ]
+    },
+    {
+        "id": 38,
+        "text": "What is the purpose of collision coverage",
+        "predictions": [
+            "INFO_CL_FNOL_AUTO_HAIL",
+            "INFO_CL_GLASS_SAFELITE",
+            "INFO_COLL_COV_EXPLAN",
+            "NO"
+        ]
+    },
+    {
+        "id": 39,
+        "text": "Hi Abby can you email a copy of the insurance card for the Honda pilot In need to send it to my bank",
+        "predictions": [
+            "INFO_INS_CARD_PRINT",
+            "INFO_INS_CARD_PROOF",
+            "INFO_INS_CARD_SEND"
+        ]
+    },
+    {
+        "id": 40,
+        "text": "no you did not",
+        "predictions": [
+            "NO",
+            "ST_THANK_YOU",
+            "YES"
+        ]
+    },
+    {
+        "id": 41,
+        "text": "I need to know why my account is debited twice for the same Bill",
+        "predictions": [
+            "INFO_DELETE_DUPE_PYMT",
+            "INFO_DIFFERENT_AMTS"
+        ]
+    },
+    {
+        "id": 42,
+        "text": "Im trying to complete the form for email payment Its not letting me complete the form",
+        "predictions": [
+            "INFO_FORGOT_EMAIL",
+            "INFO_LOGIN_ERROR",
+            "INFO_PYMT_ERROR"
+        ]
+    },
+    {
+        "id": 43,
+        "text": "Thank you",
+        "predictions": [
+            "NO",
+            "ST_THANK_YOU"
+        ]
+    },
+    {
+        "id": 44,
+        "text": "I cant remember my user name and password combination and when I click on forgot password or forgot username it wont load a page",
+        "predictions": [
+            "INFO_FORGOT_PASSWORD",
+            "INFO_FORGOT_USERID",
+            "INFO_LOGIN_ERROR"
+        ]
+    },
+    {
+        "id": 45,
+        "text": "I am looking to get some info on my coverage",
+        "predictions": [
+            "INFO_ERS",
+            "INFO_GEN_POLICY_COV_QUESTION"
+        ]
+    },
+    {
+        "id": 46,
+        "text": "The General auto insurance",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_GET_A_QUOTE_AUTO",
+            "INFO_GET_A_QUOTE_AUTO_NONOWNER",
+            "INFO_THE_GENERAL_CONTACT"
+        ]
+    },
+    {
+        "id": 47,
+        "text": "I am canceling becauce the agent is an arogant idiot I will not contact him",
+        "predictions": [
+            "INFO_AGT_NOT_RESPONDING",
+            "INFO_CANCEL_INS_POLICY"
+        ]
+    },
+    {
+        "id": 48,
+        "text": "Please tel me the my policy benifts with emergency roadside service",
+        "predictions": [
+            "INFO_ERS",
+            "INFO_ERS_CONTACT"
+        ]
+    },
+    {
+        "id": 49,
+        "text": "Is there a manager that I can talk to about my claim",
+        "predictions": [
+            "INFO_CL_ADJUSTER_INFO",
+            "INFO_CL_COMPLAINT"
+        ]
+    },
+    {
+        "id": 50,
+        "text": "How to move to paper billing",
+        "predictions": [
+            "INFO_PAPERLESS_DOCS_SETUP",
+            "INFO_PAPERLESS_DOCS_STOP"
+        ]
+    },
+    {
+        "id": 51,
+        "text": "How do I set up to receive my statements on line",
+        "predictions": [
+            "INFO_PAPERLESS_DOCS_SETUP",
+            "INFO_PAPERLESS_DOCS_STOP"
+        ]
+    },
+    {
+        "id": 52,
+        "text": "Im using firefox is that why I cant see my policy",
+        "predictions": [
+            "INFO_AUTO_POLICY_CANT_SEE_IN_ACCT",
+            "INFO_CANT_SEE_POLICY"
+        ]
+    },
+    {
+        "id": 53,
+        "text": "HI received a notice of cancelation for our property GL policies for non payment of premium As far as I know we sent full payment at time of binding Can you please check on that",
+        "predictions": [
+            "INFO_CANCEL_CONFIRM",
+            "INFO_CL_CHECK_STATUS",
+            "INFO_CONFIRM_COVERAGE",
+            "INFO_PYMT_CONFIRM",
+            "INFO_PYMT_NOT_ONTIME"
+        ]
+    },
+    {
+        "id": 54,
+        "text": "I changed jobs and had my account set up on a work email that i no longer have access to to reset my password",
+        "predictions": [
+            "INFO_BILLING_DEPT_CONTACT",
+            "INFO_FORGOT_EMAIL",
+            "INFO_FORGOT_PASSWORD",
+            "INFO_LOGIN_ERROR",
+            "INFO_UPDATE_EMAIL"
+        ]
+    },
+    {
+        "id": 55,
+        "text": "I prefer to receive a paper statement each month when its time to receive the bill",
+        "predictions": [
+            "INFO_PAPERLESS_DOCS_SETUP",
+            "INFO_PAPERLESS_DOCS_STOP",
+            "INFO_PAPERLESS_MAIL"
+        ]
+    },
+    {
+        "id": 56,
+        "text": "No one is taking responsibility for my claim I need action and I talk to whom",
+        "predictions": [
+            "INFO_CL_ADJUSTER_INFO",
+            "INFO_CL_COMPLAINT"
+        ]
+    },
+    {
+        "id": 57,
+        "text": "How much are my passengers covered for",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_CANCEL_FEE",
+            "INFO_GEN_POLICY_COV_QUESTION",
+            "INFO_GET_A_QUOTE_OTHER",
+            "INFO_RENTERS_COV_EXPLAN"
+        ]
+    },
+    {
+        "id": 58,
+        "text": "Are you American Family Standard Insurance",
+        "predictions": [
+            "INFO_GET_A_QUOTE_OTHER",
+            "INFO_INS_NOT_AVAILABLE",
+            "INFO_OPERATING_AREA",
+            "INFO_OPERATING_CO"
+        ]
+    },
+    {
+        "id": 59,
+        "text": "do you offer coverage in Arkansas I live in  zip Considering leaving State Farm",
+        "predictions": [
+            "INFO_CANT_SEE_FARM_RANCH_POLICY",
+            "INFO_INS_NOT_AVAILABLE",
+            "INFO_OPERATING_AREA"
+        ]
+    },
+    {
+        "id": 60,
+        "text": "Could you please help me get verification of the fact that Ive had insurance",
+        "predictions": [
+            "INFO_CONFIRM_COVERAGE",
+            "INFO_LETTER_OF_EXPERIENCE"
+        ]
+    },
+    {
+        "id": 61,
+        "text": "i would like to add roadside assistance to my policy for my van",
+        "predictions": [
+            "INFO_ADD_REMOVE_VEHICLE",
+            "INFO_ERS",
+            "INFO_ERS_CONTACT"
+        ]
+    },
+    {
+        "id": 62,
+        "text": "want full summary of my policy details",
+        "predictions": [
+            "INFO_ERS",
+            "INFO_GEN_POLICY_COV_QUESTION",
+            "INFO_POLICY_DOC_NEEDED"
+        ]
+    },
+    {
+        "id": 63,
+        "text": "How to receive paper bills",
+        "predictions": [
+            "INFO_PAPERLESS_DOCS_SETUP",
+            "INFO_PAPERLESS_DOCS_STOP"
+        ]
+    },
+    {
+        "id": 64,
+        "text": "What is the name of my adjuyster",
+        "predictions": [
+            "INFO_CL_ADJUSTER_INFO",
+            "INFO_SPEAK_TO_REP"
+        ]
+    },
+    {
+        "id": 65,
+        "text": "if i didnt pay my insurance payment and will my policy get canceled how long do i have",
+        "predictions": [
+            "INFO_BILL_DUE_DATE",
+            "INFO_CANCEL_CONFIRM",
+            "INFO_NEW_VEHICLE_GRACE_PERIOD",
+            "INFO_PYMT_NOT_ONTIME",
+            "INFO_WHY_WAS_POLICY_CANCELLED"
+        ]
+    },
+    {
+        "id": 66,
+        "text": "Online paperless billing wont take my password",
+        "predictions": [
+            "INFO_FORGOT_PASSWORD",
+            "INFO_LOGIN_ERROR"
+        ]
+    },
+    {
+        "id": 67,
+        "text": "How long does it usually take to here whats going on with a car accident claim",
+        "predictions": [
+            "INFO_CL_FILE_CLAIM",
+            "INFO_CL_FNOL",
+            "INFO_CL_STATUS"
+        ]
+    },
+    {
+        "id": 68,
+        "text": "Im from a body shop and need a copy of the estimate for claim",
+        "predictions": [
+            "INFO_CL_CHECK_STATUS",
+            "INFO_CL_DOCS_SEND",
+            "INFO_CL_DRP_ASSIGN",
+            "INFO_CL_SHOP_ADD_WORK",
+            "INFO_CL_SHOP_SEND_ESTIMATE",
+            "INFO_CL_UPDATE_INFO"
+        ]
+    },
+    {
+        "id": 69,
+        "text": "I want a paper bill but I signed up for paperless",
+        "predictions": [
+            "INFO_PAPERLESS_DOCS_SETUP",
+            "INFO_PAPERLESS_MAIL"
+        ]
+    },
+    {
+        "id": 70,
+        "text": "Hi",
+        "predictions": [
+            "ST_GENERAL_REQUEST",
+            "ST_HELLO"
+        ]
+    },
+    {
+        "id": 71,
+        "text": "I want to go back to paper billing statement",
+        "predictions": [
+            "INFO_PAPERLESS_DOCS_SETUP",
+            "INFO_PAPERLESS_DOCS_STOP"
+        ]
+    },
+    {
+        "id": 72,
+        "text": "sign up for Teen Safe Driver",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_TEEN_SAFE_DRIVER_SIGNUP"
+        ]
+    },
+    {
+        "id": 73,
+        "text": "need to delete a payment",
+        "predictions": [
+            "INFO_AUTO_PYMT_CANCEL",
+            "INFO_DELETE_DUPE_PYMT"
+        ]
+    },
+    {
+        "id": 74,
+        "text": "How do I switch agents I moved to a new town",
+        "predictions": [
+            "INFO_AGENT_WRONG",
+            "INFO_CHANGE_AGENT",
+            "INFO_WHO_IS_MY_AGENT"
+        ]
+    },
+    {
+        "id": 75,
+        "text": "Can you help me for reverse my dublicate payment",
+        "predictions": [
+            "INFO_AUTO_PYMT_CANCEL",
+            "INFO_DELETE_DUPE_PYMT",
+            "INFO_PYMT_PROCESS_CHANGE"
+        ]
+    },
+    {
+        "id": 76,
+        "text": "I was calling to check if I can get a rental bc my car was hit yesterday",
+        "predictions": [
+            "INFO_CL_RENTAL",
+            "INFO_POLICY_TRANS_TO_RENTAL"
+        ]
+    },
+    {
+        "id": 77,
+        "text": "Are tires covered",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_ERS"
+        ]
+    },
+    {
+        "id": 78,
+        "text": "Yesterday I got a quote from AMFAM and I would like to proceed with that",
+        "predictions": [
+            "INFO_AST_PURCHASE",
+            "INFO_AST_QUOTE",
+            "INFO_GET_A_QUOTE_OTHER"
+        ]
+    },
+    {
+        "id": 79,
+        "text": "Does my car insurance cover me in Ontario Canada",
+        "predictions": [
+            "INFO_AUTO_INS_CANADA",
+            "INFO_INS_NOT_AVAILABLE"
+        ]
+    },
+    {
+        "id": 80,
+        "text": "Hi I requested that my policy be changed April th so I was just curious how much I owe this month I dont believe that the amount is updated online",
+        "predictions": [
+            "INFO_AMT_DUE",
+            "INFO_DIFFERENT_AMTS"
+        ]
+    },
+    {
+        "id": 81,
+        "text": "Who can I call to get my windshield repaired",
+        "predictions": [
+            "INFO_CL_FNOL_AUTO_HAIL",
+            "INFO_CL_GLASS_SAFELITE",
+            "INFO_GLASS_COV"
+        ]
+    },
+    {
+        "id": 82,
+        "text": "On the back of my life insurance billing statement is says I can go online to pay the bill I cant figure out how to do it",
+        "predictions": [
+            "INFO_LIFE_POLICY_AMT_DUE",
+            "INFO_LIFE_POLICY_AUTO_PYMT",
+            "INFO_PAY_LIFE_INS"
+        ]
+    },
+    {
+        "id": 83,
+        "text": "When is my policy being cancelled",
+        "predictions": [
+            "INFO_CANCEL_CONFIRM",
+            "INFO_CANCEL_INS_POLICY",
+            "INFO_WHY_WAS_POLICY_CANCELLED"
+        ]
+    },
+    {
+        "id": 84,
+        "text": "Do you sell insurance in the state of CA",
+        "predictions": [
+            "INFO_INS_NOT_AVAILABLE",
+            "INFO_OPERATING_AREA"
+        ]
+    },
+    {
+        "id": 85,
+        "text": "My account doesnt recognize my email and I dont remember setting up an account online ever",
+        "predictions": [
+            "INFO_FORGOT_EMAIL",
+            "INFO_LOGIN_ERROR"
+        ]
+    },
+    {
+        "id": 86,
+        "text": "Have you ever had your policy cancelled",
+        "predictions": [
+            "INFO_CANCEL_CONFIRM",
+            "INFO_WHY_WAS_POLICY_CANCELLED"
+        ]
+    },
+    {
+        "id": 87,
+        "text": "Want to make sure I still have insurance",
+        "predictions": [
+            "INFO_CONFIRM_COVERAGE",
+            "INFO_LETTER_OF_EXPERIENCE"
+        ]
+    },
+    {
+        "id": 88,
+        "text": "My auto policy need to modification How to get it done",
+        "predictions": [
+            "INFO_ADD_REMOVE_INSURED",
+            "INFO_AUTO_COV_QUESTION"
+        ]
+    },
+    {
+        "id": 89,
+        "text": "I talked with an adjuster earlier and am sending him pictures but the email didnt work He said to send to estimtesamfamcom Can you verify the address If not I can call him back",
+        "predictions": [
+            "INFO_CL_ADJUSTER_INFO",
+            "INFO_CL_DOCS_EMAIL",
+            "INFO_CL_DOCS_MAIL",
+            "INFO_CL_DOCS_SEND",
+            "INFO_CL_SHOP_SEND_ESTIMATE",
+            "INFO_CL_UPDATE_INFO"
+        ]
+    },
+    {
+        "id": 90,
+        "text": "How close is my payment due",
+        "predictions": [
+            "INFO_AMT_DUE",
+            "INFO_BILL_DUE_DATE",
+            "INFO_PYMT_NOT_ONTIME"
+        ]
+    },
+    {
+        "id": 91,
+        "text": "I am a current AmFam customer and want an estimate on a  Honda Pilot AWD EXL which will be replacing the Nissan Altima in  days",
+        "predictions": [
+            "INFO_ADD_REMOVE_VEHICLE",
+            "INFO_AST_PURCHASE",
+            "INFO_GET_A_QUOTE_AUTO",
+            "INFO_NEW_VEHICLE_GRACE_PERIOD"
+        ]
+    },
+    {
+        "id": 92,
+        "text": "I cannot currently call in due to work I was wanting an update on my current accident I believe the other vehicle involved is suing meAmerican Family IS there a way I can get an update",
+        "predictions": [
+            "INFO_CL_ADJUSTER_INFO",
+            "INFO_CL_CHECK_STATUS",
+            "INFO_CL_CLAIM_FILED",
+            "INFO_CL_COMPLAINT",
+            "INFO_CL_DOCS_SEND",
+            "INFO_CL_FNOL",
+            "INFO_CL_STATUS"
+        ]
+    },
+    {
+        "id": 93,
+        "text": "Hi there I cannot reach my agent and I need to add another car to my policy this afternoon What do I do",
+        "predictions": [
+            "INFO_ADD_REMOVE_VEHICLE",
+            "INFO_AGT_NOT_RESPONDING",
+            "INFO_NEW_VEHICLE_GRACE_PERIOD"
+        ]
+    },
+    {
+        "id": 94,
+        "text": "Cost for my car insurance",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_GET_A_QUOTE_AUTO"
+        ]
+    },
+    {
+        "id": 95,
+        "text": "I have a question about what comprehensive covers",
+        "predictions": [
+            "INFO_COMP_COV_EXPLAN",
+            "INFO_CONFIRM_COVERAGE",
+            "INFO_ERS"
+        ]
+    },
+    {
+        "id": 96,
+        "text": "theres something wrong with me car can you help",
+        "predictions": [
+            "INFO_ADD_REMOVE_INSURED",
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_ERS",
+            "INFO_ERS_CONTACT"
+        ]
+    },
+    {
+        "id": 97,
+        "text": "how do i get to my business poliy online",
+        "predictions": [
+            "INFO_BUSINESS_POLICY_CANT_SEE",
+            "INFO_CFR_QUESTION_GENERAL"
+        ]
+    },
+    {
+        "id": 98,
+        "text": "Does my insurance work in Canada",
+        "predictions": [
+            "INFO_AUTO_INS_CANADA",
+            "INFO_INS_NOT_AVAILABLE"
+        ]
+    },
+    {
+        "id": 99,
+        "text": "like to borrow my car for the day Is he covered",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_NEW_VEHICLE_GRACE_PERIOD",
+            "INFO_POLICY_TRANS_TO_RENTAL"
+        ]
+    },
+    {
+        "id": 100,
+        "text": "how to get more insurance coverage",
+        "predictions": [
+            "INFO_GET_A_QUOTE_OTHER",
+            "INFO_LIFE_INCR_COV"
+        ]
+    },
+    {
+        "id": 101,
+        "text": "Can I rent a car until my claim is processed",
+        "predictions": [
+            "INFO_CL_RENTAL",
+            "INFO_POLICY_TRANS_TO_RENTAL"
+        ]
+    },
+    {
+        "id": 102,
+        "text": "I do not want these electronic statementstoo confusingI want paper statements",
+        "predictions": [
+            "INFO_PAPERLESS_DOCS_SETUP",
+            "INFO_PAPERLESS_DOCS_STOP"
+        ]
+    },
+    {
+        "id": 103,
+        "text": "I noticed on my account that it says the my automatic payment discount is about to expire and that i need to edit my payment method however when i went in there it is all accurat",
+        "predictions": [
+            "INFO_AUTO_PYMT_CANCEL",
+            "INFO_DISCOUNTS",
+            "INFO_PYMT_PROCESS_CHANGE",
+            "INFO_PYMT_SETUP_AUTO_PYMT"
+        ]
+    },
+    {
+        "id": 104,
+        "text": "I cant find a tax document for my sons Life Insurance policy that I am owner",
+        "predictions": [
+            "INFO_LIFE_POLICY_CANNOT_SEE",
+            "INFO_LIFE_QUESTION_GENERAL"
+        ]
+    },
+    {
+        "id": 105,
+        "text": "replace agent",
+        "predictions": [
+            "INFO_AGENT_WRONG",
+            "INFO_CHANGE_AGENT"
+        ]
+    },
+    {
+        "id": 106,
+        "text": "Oh sorry I was just on with someone else with a question and I found the answer Her name was Lindsey Sorry about that",
+        "predictions": [
+            "INFO_AST_QUOTE",
+            "INFO_CL_STATUS",
+            "ST_GENERAL_REQUEST",
+            "ST_HELLO",
+            "ST_WHAT_CAN_ABBY_DO",
+            "YES"
+        ]
+    },
+    {
+        "id": 107,
+        "text": "Will my policy cover the replacement of smoke detectors",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_ERS",
+            "INFO_GEN_POLICY_COV_QUESTION",
+            "INFO_GLASS_COV"
+        ]
+    },
+    {
+        "id": 108,
+        "text": "My online insurance quote was good how do I sign up",
+        "predictions": [
+            "INFO_AST_PURCHASE",
+            "INFO_AST_QUOTE",
+            "INFO_GET_A_QUOTE_OTHER"
+        ]
+    },
+    {
+        "id": 109,
+        "text": "I just wanted to know if I can insure a vehicle that has a salvage title",
+        "predictions": [
+            "INFO_CL_DRP_JOIN",
+            "INFO_SALVAGE_VEHICLE"
+        ]
+    },
+    {
+        "id": 110,
+        "text": "Give me the process for making payment",
+        "predictions": [
+            "INFO_MAKE_PYMT",
+            "INFO_PYMT_PROCESS_CHANGE"
+        ]
+    },
+    {
+        "id": 111,
+        "text": "Do you do insurance policies for business owners",
+        "predictions": [
+            "INFO_CFR_QUESTION_GENERAL",
+            "INFO_GET_A_QUOTE_CFR"
+        ]
+    },
+    {
+        "id": 112,
+        "text": "planning a road trip am I covered in other states if I breakdown",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_ERS",
+            "INFO_GEN_POLICY_COV_QUESTION",
+            "INFO_OPERATING_AREA"
+        ]
+    },
+    {
+        "id": 113,
+        "text": "I HAVE A FLAT TIRE ON MY VEHICLE AT MY HOUSE HOWEVER I AM AT WORK CAN MY FIANCE BE THERE TO HAVE ROADSIDE COME AND CHANGE TIRE OR DO I NEED TO ME THERE",
+        "predictions": [
+            "INFO_ERS",
+            "INFO_ERS_CONTACT"
+        ]
+    },
+    {
+        "id": 114,
+        "text": "I think automatic payment would be better for me",
+        "predictions": [
+            "INFO_AUTO_PYMT_CANCEL",
+            "INFO_PYMT_SETUP_AUTO_PYMT"
+        ]
+    },
+    {
+        "id": 115,
+        "text": "Are you feeling okay",
+        "predictions": [
+            "INFO_CL_STATUS",
+            "INFO_CONFIRM_COVERAGE",
+            "ST_HOW_IS_ABBY",
+            "ST_IS_ABBY_REAL"
+        ]
+    },
+    {
+        "id": 116,
+        "text": "does my policy cover fires",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_GEN_POLICY_COV_QUESTION"
+        ]
+    },
+    {
+        "id": 117,
+        "text": "Online bills are too hard to use",
+        "predictions": [
+            "INFO_PAPERLESS_DOCS_SETUP",
+            "INFO_PAPERLESS_DOCS_STOP",
+            "INFO_PAPERLESS_MAIL",
+            "INFO_PYMT_ERROR"
+        ]
+    },
+    {
+        "id": 118,
+        "text": "i hope there is no error in the payment i just made",
+        "predictions": [
+            "INFO_DELETE_DUPE_PYMT",
+            "INFO_DIFFERENT_AMTS",
+            "INFO_PYMT_CONFIRM",
+            "INFO_PYMT_ERROR",
+            "INFO_PYMT_HISTORY",
+            "INFO_PYMT_PROCESS_CHANGE"
+        ]
+    },
+    {
+        "id": 119,
+        "text": "Why cant I access my homeowners policy online How do I get an electronic copy of my HO policy",
+        "predictions": [
+            "INFO_CANT_SEE_POLICY",
+            "INFO_POLICY_DOC_NEEDED"
+        ]
+    },
+    {
+        "id": 120,
+        "text": "Where do I send the police report for the accedent",
+        "predictions": [
+            "INFO_CL_DOCS_EMAIL",
+            "INFO_CL_DOCS_MAIL",
+            "INFO_CL_DOCS_SEND",
+            "INFO_CL_SHOP_SEND_ESTIMATE"
+        ]
+    },
+    {
+        "id": 121,
+        "text": "Can you give me a few days to make payment after my due date",
+        "predictions": [
+            "INFO_BILL_DUE_DATE",
+            "INFO_PYMT_NOT_ONTIME"
+        ]
+    },
+    {
+        "id": 122,
+        "text": "are trips to ontario covered",
+        "predictions": [
+            "INFO_AUTO_INS_CANADA",
+            "INFO_INS_NOT_AVAILABLE"
+        ]
+    },
+    {
+        "id": 123,
+        "text": "Can i replace my old glass with auto glass breakage policy",
+        "predictions": [
+            "INFO_CL_GLASS_SAFELITE",
+            "INFO_GLASS_COV"
+        ]
+    },
+    {
+        "id": 124,
+        "text": "I dont understand a deductible",
+        "predictions": [
+            "INFO_DEDUCTIBLE",
+            "INFO_DED_EXPLAN"
+        ]
+    },
+    {
+        "id": 125,
+        "text": "What in ATV coverage",
+        "predictions": [
+            "INFO_ATV_INS_EXPLAN",
+            "INFO_RV_INS_EXPLAN"
+        ]
+    },
+    {
+        "id": 126,
+        "text": "Thank you Goodbye",
+        "predictions": [
+            "NO",
+            "ST_THANK_YOU"
+        ]
+    },
+    {
+        "id": 127,
+        "text": "Provide me with renters quotes",
+        "predictions": [
+            "INFO_GET_A_QUOTE_RENTERS",
+            "INFO_GET_A_QUOTE_RENTERS_PURCHASE",
+            "INFO_RENTERS_COV_EXPLAN"
+        ]
+    },
+    {
+        "id": 128,
+        "text": "want a renters insurance quote",
+        "predictions": [
+            "INFO_GET_A_QUOTE_RENTERS",
+            "INFO_GET_A_QUOTE_RENTERS_PURCHASE",
+            "INFO_RENTERS_COV_EXPLAN"
+        ]
+    },
+    {
+        "id": 129,
+        "text": "if my house is struck by lightening what do I do",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_GEN_POLICY_COV_QUESTION"
+        ]
+    },
+    {
+        "id": 130,
+        "text": "What happens if my car breaks down",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_ERS",
+            "INFO_ERS_CONTACT"
+        ]
+    },
+    {
+        "id": 131,
+        "text": "No autoresponses representative only",
+        "predictions": [
+            "INFO_ADD_REMOVE_INSURED",
+            "INFO_CANCEL_INS_POLICY",
+            "INFO_SPEAK_TO_REP"
+        ]
+    },
+    {
+        "id": 132,
+        "text": "Does my coverage include my children",
+        "predictions": [
+            "INFO_ADD_REMOVE_INSURED",
+            "INFO_GEN_POLICY_COV_QUESTION"
+        ]
+    },
+    {
+        "id": 133,
+        "text": "how do I sign up for Teen safe driver",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_TEEN_SAFE_DRIVER_SIGNUP"
+        ]
+    },
+    {
+        "id": 134,
+        "text": "I would like to make a payment online",
+        "predictions": [
+            "INFO_MAKE_PYMT",
+            "ST_GENERAL_REQUEST"
+        ]
+    },
+    {
+        "id": 135,
+        "text": "Im wondering if the bank I have a HELOC with should be listed on my homeowners policy as payee My original mortgage is paid off",
+        "predictions": [
+            "INFO_CHANGE_BANK_ACCT",
+            "INFO_CL_CHECK_STATUS",
+            "INFO_MORTGAGE_CO_POI",
+            "INFO_PYMT_TIME",
+            "INFO_SET_UP_ACCT",
+            "INFO_TRANSFER_ACCT_BALANCE"
+        ]
+    },
+    {
+        "id": 136,
+        "text": "I had an auto policy and renters policy with AmFam in  and I need proof of the two policies I do not see them on the account any longer",
+        "predictions": [
+            "INFO_AUTO_POLICY_CANT_SEE_IN_ACCT",
+            "INFO_CANT_SEE_POLICY",
+            "INFO_INS_CARD_PROOF",
+            "INFO_INS_CARD_SEND",
+            "INFO_POI_OLD",
+            "INFO_POLICY_DOC_NEEDED"
+        ]
+    },
+    {
+        "id": 137,
+        "text": "i want paperless billing for my boat",
+        "predictions": [
+            "INFO_ADD_VEHICLE_PROPERTY_PAPERLESS_BILLING",
+            "INFO_BOAT_COV_EXPLAN",
+            "INFO_PAPERLESS_DOCS_SETUP",
+            "INFO_PAPERLESS_DOCS_STOP",
+            "INFO_PAPERLESS_MAIL"
+        ]
+    },
+    {
+        "id": 138,
+        "text": "number to call for safelite auto glass",
+        "predictions": [
+            "INFO_CL_GLASS_SAFELITE",
+            "INFO_GLASS_COV"
+        ]
+    },
+    {
+        "id": 139,
+        "text": "I no longer want to recieve a hard copy of my bill I want to view them electronically",
+        "predictions": [
+            "INFO_PAPERLESS_DOCS_SETUP",
+            "INFO_PAPERLESS_DOCS_STOP"
+        ]
+    },
+    {
+        "id": 140,
+        "text": "Nope all good",
+        "predictions": [
+            "NO",
+            "ST_HELLO",
+            "ST_HOW_IS_ABBY",
+            "ST_THANK_YOU",
+            "YES"
+        ]
+    },
+    {
+        "id": 141,
+        "text": "I made s payment of  on what policy was that for",
+        "predictions": [
+            "INFO_AMT_DUE",
+            "INFO_AUTO_PYMT_MIN_BALANCE",
+            "INFO_MAKE_PYMT",
+            "INFO_PAY_LIFE_INS",
+            "INFO_PREMIUM_BREAKDOWN",
+            "INFO_PYMT_NOT_ONTIME",
+            "INFO_PYMT_PROCESS_CHANGE"
+        ]
+    },
+    {
+        "id": 142,
+        "text": "Can you provide me with information on my claim",
+        "predictions": [
+            "INFO_CL_STATUS",
+            "INFO_CL_UPDATE_INFO"
+        ]
+    },
+    {
+        "id": 143,
+        "text": "I want my agent to answer the phone",
+        "predictions": [
+            "INFO_AGT_NOT_RESPONDING",
+            "INFO_WHO_IS_MY_AGENT"
+        ]
+    },
+    {
+        "id": 144,
+        "text": "I want to work in your company What do I do",
+        "predictions": [
+            "INFO_CAREERS",
+            "INFO_CFR_QUESTION_GENERAL",
+            "INFO_EMPLOYMENT_VERIFY",
+            "INFO_OPERATING_CO",
+            "ST_WHAT_CAN_ABBY_DO"
+        ]
+    },
+    {
+        "id": 145,
+        "text": "what is covered with my renters policy",
+        "predictions": [
+            "INFO_GEN_POLICY_COV_QUESTION",
+            "INFO_GET_A_QUOTE_RENTERS",
+            "INFO_GET_A_QUOTE_RENTERS_PURCHASE",
+            "INFO_POLICY_TRANS_TO_RENTAL",
+            "INFO_RENTERS_COV_EXPLAN"
+        ]
+    },
+    {
+        "id": 146,
+        "text": "What site do I use to register for online automobile billing",
+        "predictions": [
+            "INFO_ADD_VEHICLE_PROPERTY_PAPERLESS_BILLING",
+            "INFO_PAPERLESS_DOCS_SETUP"
+        ]
+    },
+    {
+        "id": 147,
+        "text": "I am trying to locate a summary of all of the medical payments that were made on a closed claim Is there a way to see this online",
+        "predictions": [
+            "INFO_CL_CHECK_STATUS",
+            "INFO_CL_DOCS_SEND",
+            "INFO_CL_SHOP_SEND_ESTIMATE",
+            "INFO_PYMT_HISTORY"
+        ]
+    },
+    {
+        "id": 148,
+        "text": "report a hail claim for my truck",
+        "predictions": [
+            "INFO_CL_FNOL",
+            "INFO_CL_FNOL_AUTO_HAIL"
+        ]
+    },
+    {
+        "id": 149,
+        "text": "Can you email me a copy of my old insurance card",
+        "predictions": [
+            "INFO_INS_CARD_SEND",
+            "INFO_POI_OLD"
+        ]
+    },
+    {
+        "id": 150,
+        "text": "What is renters insurance",
+        "predictions": [
+            "INFO_CREDIT_CARD_FEE",
+            "INFO_GEN_POLICY_COV_QUESTION",
+            "INFO_GET_A_QUOTE_RENTERS",
+            "INFO_GET_A_QUOTE_RENTERS_PURCHASE",
+            "INFO_POLICY_TRANS_TO_RENTAL",
+            "INFO_RENTERS_COV_EXPLAN"
+        ]
+    },
+    {
+        "id": 151,
+        "text": "Where do I go to find a document showing what I pay for each policy",
+        "predictions": [
+            "INFO_AMT_DUE",
+            "INFO_PREMIUM_BREAKDOWN"
+        ]
+    },
+    {
+        "id": 152,
+        "text": "My house was struck by lightning is that covered in my policy",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_GEN_POLICY_COV_QUESTION"
+        ]
+    },
+    {
+        "id": 153,
+        "text": "Tell me the deductible on my auto policy",
+        "predictions": [
+            "INFO_DEDUCTIBLE",
+            "INFO_DED_EXPLAN"
+        ]
+    },
+    {
+        "id": 154,
+        "text": "How old were you when you got your first job",
+        "predictions": [
+            "INFO_BILL_DUE_DATE",
+            "INFO_CAREERS",
+            "INFO_PYMT_DUEDATE_CHANGE",
+            "ST_HOW_OLD_IS_ABBY"
+        ]
+    },
+    {
+        "id": 155,
+        "text": "I have a question about my policy It says Homesite on it",
+        "predictions": [
+            "INFO_ADD_HOUSE",
+            "INFO_GET_A_QUOTE_RENTERS",
+            "INFO_GET_A_QUOTE_RENTERS_PURCHASE",
+            "INFO_HOMESITE_CONTACT",
+            "INFO_MORTGAGE_CO_POI",
+            "ST_GENERAL_REQUEST"
+        ]
+    },
+    {
+        "id": 156,
+        "text": "Please list the costs by policy types",
+        "predictions": [
+            "INFO_ERS",
+            "INFO_GEN_POLICY_COV_QUESTION",
+            "INFO_GET_A_QUOTE_OTHER",
+            "INFO_PREMIUM_BREAKDOWN"
+        ]
+    },
+    {
+        "id": 157,
+        "text": "Whom should I email with the repair estimate for my car",
+        "predictions": [
+            "INFO_CL_DOCS_EMAIL",
+            "INFO_CL_SHOP_SEND_ESTIMATE"
+        ]
+    },
+    {
+        "id": 158,
+        "text": "What is your birth city",
+        "predictions": [
+            "INFO_INS_NOT_AVAILABLE",
+            "ST_HOW_OLD_IS_ABBY",
+            "ST_WHERE_DOES_ABBY_LIVE"
+        ]
+    },
+    {
+        "id": 159,
+        "text": "Im trying to pay online but it wont accept my email address",
+        "predictions": [
+            "INFO_LOGIN_ERROR",
+            "INFO_PYMT_ERROR"
+        ]
+    },
+    {
+        "id": 160,
+        "text": "I want to return my device",
+        "predictions": [
+            "INFO_CL_DRP_JOIN",
+            "INFO_KNOWYOURDRIVE_DEVICE_ACTIVATE",
+            "INFO_KNOWYOURDRIVE_DEVICE_RETURN",
+            "INFO_KNOWYOURDRIVE_ERRORS",
+            "INFO_PYMT_ERROR",
+            "INFO_SALVAGE_VEHICLE"
+        ]
+    },
+    {
+        "id": 161,
+        "text": "Paperless billing irritates me how can k get the old one back",
+        "predictions": [
+            "INFO_ADD_VEHICLE_PROPERTY_PAPERLESS_BILLING",
+            "INFO_PAPERLESS_DOCS_SETUP",
+            "INFO_PAPERLESS_DOCS_STOP",
+            "INFO_REINSTATE_INS_POLICY"
+        ]
+    },
+    {
+        "id": 162,
+        "text": "my policies are being renewed and I still see the old amounts and cards but not the new ones I would like to know what each one is currently",
+        "predictions": [
+            "INFO_AMT_DUE",
+            "INFO_COMBINE_PYMTS",
+            "INFO_DIFFERENT_AMTS",
+            "INFO_PREMIUM_BREAKDOWN",
+            "INFO_PYMT_PROCESS_CHANGE"
+        ]
+    },
+    {
+        "id": 163,
+        "text": "Give me quote for house hold goods damage or stolen",
+        "predictions": [
+            "INFO_GEN_POLICY_COV_QUESTION",
+            "INFO_GET_A_QUOTE_CFR",
+            "INFO_GET_A_QUOTE_OTHER",
+            "INFO_GET_A_QUOTE_RENTERS"
+        ]
+    },
+    {
+        "id": 164,
+        "text": "I want to talk to someone about my current policy",
+        "predictions": [
+            "INFO_ADD_REMOVE_INSURED",
+            "INFO_CANCEL_INS_POLICY",
+            "INFO_GEN_POLICY_COV_QUESTION",
+            "INFO_SPEAK_TO_REP"
+        ]
+    },
+    {
+        "id": 165,
+        "text": "I just want to make sure I still have insurance",
+        "predictions": [
+            "INFO_CONFIRM_COVERAGE",
+            "INFO_LETTER_OF_EXPERIENCE"
+        ]
+    },
+    {
+        "id": 166,
+        "text": "join direct repair program",
+        "predictions": [
+            "INFO_CL_DRP_ASSIGN",
+            "INFO_CL_DRP_JOIN",
+            "INFO_CL_SHOP_ADD_WORK",
+            "INFO_ERS_REIMBURSE",
+            "INFO_GET_A_QUOTE_AUTO_NONOWNER",
+            "INFO_SALVAGE_VEHICLE"
+        ]
+    },
+    {
+        "id": 167,
+        "text": "I have a cancellation notice for our homeowners account and was wondering if I could get an extension till  I am able to pay that day",
+        "predictions": [
+            "INFO_CANCEL_CONFIRM",
+            "INFO_CANCEL_FEE",
+            "INFO_CANCEL_INS_POLICY",
+            "INFO_PYMT_NOT_ONTIME",
+            "INFO_WHY_WAS_POLICY_CANCELLED"
+        ]
+    },
+    {
+        "id": 168,
+        "text": "I got a new car and need a quote",
+        "predictions": [
+            "INFO_ADD_REMOVE_VEHICLE",
+            "INFO_AST_PURCHASE",
+            "INFO_GET_A_QUOTE_AUTO",
+            "INFO_NEW_VEHICLE_GRACE_PERIOD"
+        ]
+    },
+    {
+        "id": 169,
+        "text": "is it free to cancel my policy",
+        "predictions": [
+            "INFO_CANCEL_FEE",
+            "INFO_CANCEL_INS_POLICY"
+        ]
+    },
+    {
+        "id": 170,
+        "text": "I just need the address to submit my doctors bills",
+        "predictions": [
+            "INFO_CL_DOCS_MAIL",
+            "INFO_MAIL_PYMT_ADDRESS"
+        ]
+    },
+    {
+        "id": 171,
+        "text": "Im needing a new id number",
+        "predictions": [
+            "INFO_CHANGE_USERID",
+            "INFO_UPDATE_PHONE_NUM"
+        ]
+    },
+    {
+        "id": 172,
+        "text": "Can you help people remove cars from their insurance",
+        "predictions": [
+            "INFO_ADD_REMOVE_INSURED",
+            "INFO_ADD_REMOVE_VEHICLE"
+        ]
+    },
+    {
+        "id": 173,
+        "text": "I just did a quote online and want to double check the coverages for my buick",
+        "predictions": [
+            "INFO_AST_PURCHASE",
+            "INFO_AST_QUOTE",
+            "INFO_CL_DRP_ASSIGN",
+            "INFO_GET_A_QUOTE_AUTO",
+            "INFO_GET_A_QUOTE_OTHER",
+            "INFO_SALVAGE_VEHICLE"
+        ]
+    },
+    {
+        "id": 174,
+        "text": "Im trying to pull up my policies online and the only one that Im seeing is my home owners policy What happened to my car insurance",
+        "predictions": [
+            "INFO_AUTO_POLICY_CANT_SEE_IN_ACCT",
+            "INFO_CANT_SEE_POLICY"
+        ]
+    },
+    {
+        "id": 175,
+        "text": "Need paper bills but signed up for paperless documents",
+        "predictions": [
+            "INFO_PAPERLESS_DOCS_SETUP",
+            "INFO_PAPERLESS_DOCS_STOP",
+            "INFO_PAPERLESS_MAIL"
+        ]
+    },
+    {
+        "id": 176,
+        "text": "I have a flat can you help",
+        "predictions": [
+            "INFO_ERS",
+            "INFO_ERS_CONTACT"
+        ]
+    },
+    {
+        "id": 177,
+        "text": "I forgot the renew date and policy got cancelled what to do",
+        "predictions": [
+            "INFO_CANCEL_CONFIRM",
+            "INFO_WHY_WAS_POLICY_CANCELLED"
+        ]
+    },
+    {
+        "id": 178,
+        "text": "What do I have to do to make a life insurance payment",
+        "predictions": [
+            "INFO_LIFE_POLICY_AMT_DUE",
+            "INFO_PAY_LIFE_INS"
+        ]
+    },
+    {
+        "id": 179,
+        "text": "RV insurance",
+        "predictions": [
+            "INFO_ATV_INS_EXPLAN",
+            "INFO_BOAT_COV_EXPLAN",
+            "INFO_CL_DRP_ASSIGN",
+            "INFO_RV_INS_EXPLAN",
+            "INFO_TRAVEL_INS_EXPLAN"
+        ]
+    },
+    {
+        "id": 180,
+        "text": "Ive got a different email",
+        "predictions": [
+            "INFO_FORGOT_EMAIL",
+            "INFO_UPDATE_EMAIL"
+        ]
+    },
+    {
+        "id": 181,
+        "text": "my payments are supposed to be at the end of the month I didnt even know that it was due let alone past due",
+        "predictions": [
+            "INFO_AMT_DUE",
+            "INFO_BILL_DUE_DATE",
+            "INFO_PYMT_NOT_ONTIME"
+        ]
+    },
+    {
+        "id": 182,
+        "text": "How do I reach someone at Homesite",
+        "predictions": [
+            "INFO_HOMESITE_CONTACT",
+            "INFO_MORTGAGE_CO_POI"
+        ]
+    },
+    {
+        "id": 183,
+        "text": "My family only has this one car between us and we need to fix it because of the accident Is there any claim filed",
+        "predictions": [
+            "INFO_ADD_REMOVE_VEHICLE",
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_CL_CLAIM_FILED",
+            "INFO_CL_FILE_CLAIM",
+            "INFO_CL_FNOL"
+        ]
+    },
+    {
+        "id": 184,
+        "text": "How do I change agents",
+        "predictions": [
+            "INFO_AGENT_WRONG",
+            "INFO_CHANGE_AGENT"
+        ]
+    },
+    {
+        "id": 185,
+        "text": "The Know Your Drive app says there is an error",
+        "predictions": [
+            "INFO_AUTO_POLICY_CANT_SEE_IN_ACCT",
+            "INFO_KNOWYOURDRIVE",
+            "INFO_KNOWYOURDRIVE_DEVICE_ACTIVATE",
+            "INFO_KNOWYOURDRIVE_DEVICE_RETURN",
+            "INFO_KNOWYOURDRIVE_ERRORS",
+            "INFO_LOGIN_ERROR",
+            "INFO_PYMT_ERROR"
+        ]
+    },
+    {
+        "id": 186,
+        "text": "but i have rentalcar insurance in that state with america family",
+        "predictions": [
+            "INFO_OPERATING_AREA",
+            "INFO_POLICY_TRANS_TO_RENTAL"
+        ]
+    },
+    {
+        "id": 187,
+        "text": "Can I split up the payments",
+        "predictions": [
+            "INFO_COMBINE_PYMTS",
+            "INFO_PREMIUM_BREAKDOWN"
+        ]
+    },
+    {
+        "id": 188,
+        "text": "I need the current copy of the insurance for the GMC Acadia Greg and Debbie mielak",
+        "predictions": [
+            "INFO_INS_CARD_PROOF",
+            "INFO_POLICY_DOC_NEEDED"
+        ]
+    },
+    {
+        "id": 189,
+        "text": "i dont know my agents name",
+        "predictions": [
+            "INFO_AGENT_WRONG",
+            "INFO_FIND_AGENT",
+            "INFO_WHO_IS_MY_AGENT"
+        ]
+    },
+    {
+        "id": 190,
+        "text": "Will my policy cover my minor children",
+        "predictions": [
+            "INFO_ADD_REMOVE_INSURED",
+            "INFO_GEN_POLICY_COV_QUESTION"
+        ]
+    },
+    {
+        "id": 191,
+        "text": "I wanting to check on a quote for adding  cars to my current policy",
+        "predictions": [
+            "INFO_ADD_REMOVE_VEHICLE",
+            "INFO_GET_A_QUOTE_AUTO"
+        ]
+    },
+    {
+        "id": 192,
+        "text": "how to set multiple phone numbers in account",
+        "predictions": [
+            "INFO_PHONE_NUM",
+            "INFO_PHONE_NUM_INTERNATIONAL",
+            "INFO_UPDATE_PHONE_NUM"
+        ]
+    },
+    {
+        "id": 193,
+        "text": "Why should I signup for Dream Keep rewards",
+        "predictions": [
+            "INFO_DREAMKEEP_REWARDS",
+            "INFO_DREAMKEEP_REWARDS_ERRORS",
+            "INFO_DREAMS_FOUNDATION"
+        ]
+    },
+    {
+        "id": 194,
+        "text": "where can i send the accident medical bill and claim documents",
+        "predictions": [
+            "INFO_CL_DOCS_EMAIL",
+            "INFO_CL_DOCS_MAIL",
+            "INFO_CL_DOCS_SEND",
+            "INFO_CL_SHOP_SEND_ESTIMATE"
+        ]
+    },
+    {
+        "id": 195,
+        "text": "How much time do I have before I need to add my new car to my existing policy and still be covered",
+        "predictions": [
+            "INFO_ADD_REMOVE_VEHICLE",
+            "INFO_NEW_VEHICLE_GRACE_PERIOD"
+        ]
+    },
+    {
+        "id": 196,
+        "text": "If I go paperless will that be the end of monthly mailed bills",
+        "predictions": [
+            "INFO_PAPERLESS_DOCS_STOP",
+            "INFO_PAPERLESS_MAIL"
+        ]
+    },
+    {
+        "id": 197,
+        "text": "I submitted a claim last Thursday and havent been contacted by a adjuster yet",
+        "predictions": [
+            "INFO_CL_ADJUSTER_INFO",
+            "INFO_CL_STATUS",
+            "INFO_CL_UPDATE_INFO"
+        ]
+    },
+    {
+        "id": 198,
+        "text": "activate KnowYour Drive app",
+        "predictions": [
+            "INFO_DREAMKEEP_REWARDS",
+            "INFO_DREAMKEEP_REWARDS_ERRORS",
+            "INFO_KNOWYOURDRIVE",
+            "INFO_KNOWYOURDRIVE_DEVICE_ACTIVATE",
+            "INFO_KNOWYOURDRIVE_DEVICE_RETURN",
+            "INFO_PROFILE_SECTION",
+            "ST_IS_ABBY_REAL"
+        ]
+    },
+    {
+        "id": 199,
+        "text": "i need information regarding my insurance",
+        "predictions": [
+            "INFO_ERS",
+            "INFO_GEN_POLICY_COV_QUESTION",
+            "INFO_GET_A_QUOTE_OTHER",
+            "INFO_HEALTH_INS_QUOTE"
+        ]
+    },
+    {
+        "id": 200,
+        "text": "I work at collision center Were going to be repair car for claim Email us the estimate",
+        "predictions": [
+            "INFO_CL_DOCS_EMAIL",
+            "INFO_CL_DOCS_MAIL",
+            "INFO_CL_DOCS_SEND",
+            "INFO_CL_DRP_ASSIGN",
+            "INFO_CL_SHOP_SEND_ESTIMATE",
+            "INFO_CL_UPDATE_INFO"
+        ]
+    },
+    {
+        "id": 201,
+        "text": "I got married last and i need to update my wifes name",
+        "predictions": [
+            "INFO_ADD_REMOVE_INSURED",
+            "INFO_NAME_CHANGE"
+        ]
+    },
+    {
+        "id": 202,
+        "text": "My proof of insurance card got burned in a house fire",
+        "predictions": [
+            "INFO_CL_FNOL",
+            "INFO_CL_STATUS",
+            "INFO_INS_CARD_PROOF"
+        ]
+    },
+    {
+        "id": 203,
+        "text": "Shall I send my claim documents through email if that so please provide me the address",
+        "predictions": [
+            "INFO_CL_DOCS_EMAIL",
+            "INFO_CL_DOCS_MAIL",
+            "INFO_CL_DOCS_SEND"
+        ]
+    },
+    {
+        "id": 204,
+        "text": "I need to call but I cant find the number",
+        "predictions": [
+            "INFO_PHONE_NUM",
+            "INFO_PHONE_NUM_INTERNATIONAL",
+            "INFO_UPDATE_PHONE_NUM"
+        ]
+    },
+    {
+        "id": 205,
+        "text": "I cant access online bills anymore",
+        "predictions": [
+            "INFO_PAPERLESS_DOCS_SETUP",
+            "INFO_PAPERLESS_DOCS_STOP",
+            "INFO_PAPERLESS_MAIL",
+            "INFO_PYMT_ERROR"
+        ]
+    },
+    {
+        "id": 206,
+        "text": "I just received an email at personalbisgmailcom and I do not have insurance with American Family Pleasse remove my email address Thanks",
+        "predictions": [
+            "INFO_DO_NOT_CONTACT",
+            "INFO_FORGOT_EMAIL"
+        ]
+    },
+    {
+        "id": 207,
+        "text": "What is the last day to pay without penalty",
+        "predictions": [
+            "INFO_BILL_DUE_DATE",
+            "INFO_PYMT_NOT_ONTIME"
+        ]
+    },
+    {
+        "id": 208,
+        "text": "Needing to get login information",
+        "predictions": [
+            "INFO_FORGOT_USERID",
+            "INFO_LOGIN_ERROR",
+            "INFO_SET_UP_ACCT"
+        ]
+    },
+    {
+        "id": 209,
+        "text": "Whats the phone number for emergency roadside assistance",
+        "predictions": [
+            "INFO_ERS",
+            "INFO_ERS_CONTACT"
+        ]
+    },
+    {
+        "id": 210,
+        "text": "I need to know who my agent is and their phone number Long story lol",
+        "predictions": [
+            "INFO_FIND_AGENT",
+            "INFO_WHO_IS_MY_AGENT"
+        ]
+    },
+    {
+        "id": 211,
+        "text": "interesting in joining your direct repair program for body shops",
+        "predictions": [
+            "INFO_CL_DRP_ASSIGN",
+            "INFO_CL_DRP_JOIN",
+            "INFO_CL_SHOP_ADD_WORK",
+            "INFO_CL_SHOP_SEND_ESTIMATE",
+            "INFO_CL_UPDATE_INFO",
+            "INFO_ERS_REIMBURSE",
+            "INFO_SALVAGE_VEHICLE"
+        ]
+    },
+    {
+        "id": 212,
+        "text": "we just completed mitigation for one of your customers I need the adjusters information",
+        "predictions": [
+            "INFO_CL_ADJUSTER_INFO",
+            "INFO_CL_CHECK_STATUS",
+            "INFO_CL_SHOP_SEND_ESTIMATE",
+            "INFO_CL_STATUS",
+            "INFO_CL_UPDATE_INFO"
+        ]
+    },
+    {
+        "id": 213,
+        "text": "Im broken down on the side of the road can you tow me",
+        "predictions": [
+            "INFO_ERS",
+            "INFO_ERS_CONTACT"
+        ]
+    },
+    {
+        "id": 214,
+        "text": "Im trying to make a payment but it will not allow it",
+        "predictions": [
+            "INFO_LOGIN_ERROR",
+            "INFO_PYMT_ERROR"
+        ]
+    },
+    {
+        "id": 215,
+        "text": "Unable to get through to my agent is my car being covered in the already existing policy",
+        "predictions": [
+            "INFO_AGT_NOT_RESPONDING",
+            "INFO_AUTO_COV_QUESTION"
+        ]
+    },
+    {
+        "id": 216,
+        "text": "I had an adjuster come to my house to assess some wind damage on  and havent heard anything since I am just curious as to the status",
+        "predictions": [
+            "INFO_CL_CHECK_STATUS",
+            "INFO_CL_STATUS"
+        ]
+    },
+    {
+        "id": 217,
+        "text": "Does my car insurance include any deductible",
+        "predictions": [
+            "INFO_DEDUCTIBLE",
+            "INFO_DED_EXPLAN"
+        ]
+    },
+    {
+        "id": 218,
+        "text": "Can you let me know when my payment is confirmed",
+        "predictions": [
+            "INFO_AUTO_PYMT_SCHEDULE",
+            "INFO_BILL_DUE_DATE",
+            "INFO_CANCEL_CONFIRM",
+            "INFO_CL_CHECK_STATUS",
+            "INFO_PYMT_CONFIRM",
+            "INFO_PYMT_NOT_ONTIME",
+            "INFO_PYMT_TIME"
+        ]
+    },
+    {
+        "id": 219,
+        "text": "Im a UW Alum Tell me about the discount",
+        "predictions": [
+            "INFO_CL_HRP_JOIN",
+            "INFO_DISCOUNTS",
+            "INFO_UW_ALUMNI_DISCOUNT"
+        ]
+    },
+    {
+        "id": 220,
+        "text": "Do you know where I should send the photos from my accident",
+        "predictions": [
+            "INFO_CL_DOCS_MAIL",
+            "INFO_CL_DOCS_SEND"
+        ]
+    },
+    {
+        "id": 221,
+        "text": "Good morning Each month I am able to make a payment in my account around the nd that is when I will receive funds again",
+        "predictions": [
+            "INFO_BILL_DUE_DATE",
+            "INFO_PYMT_ERROR",
+            "INFO_PYMT_NOT_ONTIME",
+            "INFO_PYMT_TIME"
+        ]
+    },
+    {
+        "id": 222,
+        "text": "I am trying to change the way I receive billing statements so I dont get charged",
+        "predictions": [
+            "INFO_PAPERLESS_DOCS_SETUP",
+            "INFO_PAPERLESS_DOCS_STOP"
+        ]
+    },
+    {
+        "id": 223,
+        "text": "dwelling limits",
+        "predictions": [
+            "INFO_GEN_POLICY_COV_QUESTION",
+            "INFO_GET_A_QUOTE_OTHER"
+        ]
+    },
+    {
+        "id": 224,
+        "text": "a damage in my windsheild covers my policy",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_GEN_POLICY_COV_QUESTION",
+            "INFO_GLASS_COV"
+        ]
+    },
+    {
+        "id": 225,
+        "text": "Can I incraese my life insurance coverage",
+        "predictions": [
+            "INFO_LIFE_BENEFICIARY_CHANGE",
+            "INFO_LIFE_INCR_COV",
+            "INFO_LIFE_POLICY_CANCEL"
+        ]
+    },
+    {
+        "id": 226,
+        "text": "How soon I need to add the vehicle in existing policy after buying it",
+        "predictions": [
+            "INFO_ADD_REMOVE_VEHICLE",
+            "INFO_NEW_VEHICLE_GRACE_PERIOD"
+        ]
+    },
+    {
+        "id": 227,
+        "text": "I have some paperwork regarding my crash to send Where does that go",
+        "predictions": [
+            "INFO_CL_DOCS_EMAIL",
+            "INFO_CL_DOCS_MAIL",
+            "INFO_CL_DOCS_SEND",
+            "INFO_CL_SHOP_SEND_ESTIMATE"
+        ]
+    },
+    {
+        "id": 228,
+        "text": "How can I learn more about your charitable giving",
+        "predictions": [
+            "INFO_CL_GLASS_SAFELITE",
+            "INFO_DREAMS_FOUNDATION",
+            "ST_GENERAL_REQUEST"
+        ]
+    },
+    {
+        "id": 229,
+        "text": "how can I call you",
+        "predictions": [
+            "INFO_CUSTOMER_SERVICE_HOURS",
+            "INFO_PHONE_NUM"
+        ]
+    },
+    {
+        "id": 230,
+        "text": "Someone cut me off and I veered into a tree to avoid the person Am I covered",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_ERS"
+        ]
+    },
+    {
+        "id": 231,
+        "text": "I want to dispute a late fee",
+        "predictions": [
+            "INFO_HANDLING_FEE_REMOVE",
+            "INFO_PYMT_NOT_ONTIME"
+        ]
+    },
+    {
+        "id": 232,
+        "text": "Can I get insured with you in Canada",
+        "predictions": [
+            "INFO_AUTO_INS_CANADA",
+            "INFO_INS_NOT_AVAILABLE"
+        ]
+    },
+    {
+        "id": 233,
+        "text": "Can I get my statements and policy documents online instead of by mail",
+        "predictions": [
+            "INFO_ADD_VEHICLE_PROPERTY_PAPERLESS_BILLING",
+            "INFO_PAPERLESS_DOCS_SETUP",
+            "INFO_PAPERLESS_DOCS_STOP",
+            "INFO_PAPERLESS_MAIL"
+        ]
+    },
+    {
+        "id": 234,
+        "text": "Trying to make my payment U got permission to pay  days past due But it wont let me submit my payment",
+        "predictions": [
+            "INFO_PYMT_ERROR",
+            "INFO_PYMT_NOT_ONTIME"
+        ]
+    },
+    {
+        "id": 235,
+        "text": "I just created an online account I have pulled up the auto policy but only showing one of the cars we have insured Am I missing something",
+        "predictions": [
+            "INFO_AUTO_POLICY_CANT_SEE_IN_ACCT",
+            "INFO_CANT_SEE_POLICY"
+        ]
+    },
+    {
+        "id": 236,
+        "text": "Hi I need to get a certification of completion on my claim  It was back in",
+        "predictions": [
+            "INFO_CONFIRM_COVERAGE",
+            "INFO_LETTER_OF_EXPERIENCE",
+            "INFO_REINSTATE_INS_POLICY"
+        ]
+    },
+    {
+        "id": 237,
+        "text": "I have a policy on my musical instruments but I cannot find the annual amount I pay Need this info for my tax prep",
+        "predictions": [
+            "INFO_AMT_DUE",
+            "INFO_LIFE_POLICY_AMT_DUE",
+            "INFO_PREMIUM_BREAKDOWN",
+            "INFO_PYMT_HISTORY"
+        ]
+    },
+    {
+        "id": 238,
+        "text": "Is there something special I need to do to get the UW Alumni discount",
+        "predictions": [
+            "INFO_CL_HRP_JOIN",
+            "INFO_DISCOUNTS",
+            "INFO_UW_ALUMNI_DISCOUNT"
+        ]
+    },
+    {
+        "id": 239,
+        "text": "stop paper billing",
+        "predictions": [
+            "INFO_PAPERLESS_DOCS_SETUP",
+            "INFO_PAPERLESS_DOCS_STOP"
+        ]
+    },
+    {
+        "id": 240,
+        "text": "I need to print out a copy of my policy",
+        "predictions": [
+            "INFO_DEC_PAGE_NEEDED",
+            "INFO_INS_CARD_PRINT",
+            "INFO_PAPERLESS_MAIL",
+            "INFO_POLICY_DOC_NEEDED"
+        ]
+    },
+    {
+        "id": 241,
+        "text": "Hello can i please have the number for roadside assistance for las vegas nv I have a business matter to handle from a tow i paid them for last week",
+        "predictions": [
+            "INFO_ERS",
+            "INFO_ERS_CONTACT",
+            "INFO_ERS_REIMBURSE"
+        ]
+    },
+    {
+        "id": 242,
+        "text": "Having trouble with my email",
+        "predictions": [
+            "INFO_FORGOT_EMAIL",
+            "INFO_LOGIN_ERROR"
+        ]
+    },
+    {
+        "id": 243,
+        "text": "I have been trying to get ahold of my American Family branch for the past  hours nobody answers I try the  number and for some reason its impossible to speak with a representative",
+        "predictions": [
+            "INFO_AGT_NOT_RESPONDING",
+            "INFO_SPEAK_TO_REP"
+        ]
+    },
+    {
+        "id": 244,
+        "text": "Hi I have a question Can I get an insurance with the permit with you guys Or do I have to have the driver license",
+        "predictions": [
+            "INFO_ADD_REMOVE_INSURED",
+            "INFO_AUTO_COV_QUESTION"
+        ]
+    },
+    {
+        "id": 245,
+        "text": "I need to find out if its possible to pay my bill on the th of the month",
+        "predictions": [
+            "INFO_BILL_DUE_DATE",
+            "INFO_PYMT_DUEDATE_CHANGE",
+            "INFO_PYMT_NOT_ONTIME"
+        ]
+    },
+    {
+        "id": 246,
+        "text": "Take out life insurance policy funds",
+        "predictions": [
+            "INFO_LIFE_CASH_OUT",
+            "INFO_LIFE_POLICY_CANCEL"
+        ]
+    },
+    {
+        "id": 247,
+        "text": "What is the deductible for my flood insurance",
+        "predictions": [
+            "INFO_DEDUCTIBLE",
+            "INFO_DED_EXPLAN"
+        ]
+    },
+    {
+        "id": 248,
+        "text": "DreamKeep rewards access error",
+        "predictions": [
+            "INFO_AGENT_WRONG",
+            "INFO_DELETE_DUPE_PYMT",
+            "INFO_DREAMKEEP_REWARDS",
+            "INFO_DREAMKEEP_REWARDS_ERRORS",
+            "INFO_PYMT_ERROR"
+        ]
+    },
+    {
+        "id": 249,
+        "text": "Is there a way to print insurancecards online",
+        "predictions": [
+            "INFO_INS_CARD_PRINT",
+            "INFO_PAPERLESS_MAIL"
+        ]
+    },
+    {
+        "id": 250,
+        "text": "i need to pay my bill This is my second time trying to get through via chat",
+        "predictions": [
+            "INFO_ONE_TIME_PYMT",
+            "INFO_PYMT_ERROR"
+        ]
+    },
+    {
+        "id": 251,
+        "text": "please provide me with information regarding the cancellation of my insurance policy",
+        "predictions": [
+            "INFO_CANCEL_CONFIRM",
+            "INFO_CANCEL_FEE",
+            "INFO_CANCEL_INS_POLICY",
+            "INFO_WHY_WAS_POLICY_CANCELLED"
+        ]
+    },
+    {
+        "id": 252,
+        "text": "Is there any way you can mail me my renewal auto insurance cards",
+        "predictions": [
+            "INFO_INS_CARD_PRINT",
+            "INFO_INS_CARD_SEND"
+        ]
+    },
+    {
+        "id": 253,
+        "text": "I just want to pay my bill but it is asking me to do auto pay",
+        "predictions": [
+            "INFO_MAKE_PYMT",
+            "INFO_PYMT_SETUP_AUTO_PYMT"
+        ]
+    },
+    {
+        "id": 254,
+        "text": "whom is in charge of the ST Louis Claims office and how do i contact them and who is the overall claims supervisor and his contact number",
+        "predictions": [
+            "INFO_CL_ADJUSTER_INFO",
+            "INFO_CL_COMPLAINT"
+        ]
+    },
+    {
+        "id": 255,
+        "text": "is insurance the same in canada",
+        "predictions": [
+            "INFO_AUTO_INS_CANADA",
+            "INFO_INS_NOT_AVAILABLE"
+        ]
+    },
+    {
+        "id": 256,
+        "text": "I have misplaced my insurance policy",
+        "predictions": [
+            "INFO_BUSINESS_POLICY_CANT_SEE",
+            "INFO_CANT_SEE_POLICY",
+            "INFO_POLICY_DOC_NEEDED"
+        ]
+    },
+    {
+        "id": 257,
+        "text": "I am unable to go online and set up My Account It stops me at the page where I set up a password I want to set up autopay",
+        "predictions": [
+            "INFO_LOGIN_ERROR",
+            "INFO_PYMT_ERROR"
+        ]
+    },
+    {
+        "id": 258,
+        "text": "addess to send my payment",
+        "predictions": [
+            "INFO_MAIL_PYMT_ADDRESS",
+            "INFO_MAKE_PYMT"
+        ]
+    },
+    {
+        "id": 259,
+        "text": "can i have paperwless billing for my boat",
+        "predictions": [
+            "INFO_ADD_VEHICLE_PROPERTY_PAPERLESS_BILLING",
+            "INFO_BOAT_COV_EXPLAN",
+            "INFO_PAPERLESS_DOCS_SETUP",
+            "INFO_PAPERLESS_DOCS_STOP",
+            "INFO_PAPERLESS_MAIL"
+        ]
+    },
+    {
+        "id": 260,
+        "text": "i am locked out of my account",
+        "predictions": [
+            "INFO_LOGIN_ERROR",
+            "INFO_LOG_OUT"
+        ]
+    },
+    {
+        "id": 261,
+        "text": "I just bought a house and want to add it to the rest of my policies",
+        "predictions": [
+            "INFO_ADD_HOUSE",
+            "INFO_CL_HRP_JOIN"
+        ]
+    },
+    {
+        "id": 262,
+        "text": "I need to print out a copy of one of my insurance cards I can do so for one of my policiescars online but the one I need is not available to access Is there a way I can access it and print it out",
+        "predictions": [
+            "INFO_ADD_VEHICLE_PROPERTY_PAPERLESS_BILLING",
+            "INFO_INS_CARD_PRINT",
+            "INFO_INS_CARD_SEND",
+            "INFO_PAPERLESS_MAIL"
+        ]
+    },
+    {
+        "id": 263,
+        "text": "Is there work around here",
+        "predictions": [
+            "INFO_CAREERS",
+            "INFO_EMPLOYMENT_VERIFY",
+            "INFO_INS_NOT_AVAILABLE",
+            "INFO_OPERATING_AREA",
+            "INFO_OPERATING_CO",
+            "ST_WHAT_CAN_ABBY_DO",
+            "ST_WHERE_DOES_ABBY_LIVE"
+        ]
+    },
+    {
+        "id": 264,
+        "text": "I need a downloadable copy of my auto policy emailed to me",
+        "predictions": [
+            "INFO_DEC_PAGE_NEEDED",
+            "INFO_POLICY_DOC_NEEDED"
+        ]
+    },
+    {
+        "id": 265,
+        "text": "my windshield has a crack in it I called my agent and they said to call you to arrange to get it replaced",
+        "predictions": [
+            "INFO_CL_CHECK_STATUS",
+            "INFO_CL_FNOL_AUTO_HAIL",
+            "INFO_CL_GLASS_SAFELITE",
+            "INFO_GLASS_COV"
+        ]
+    },
+    {
+        "id": 266,
+        "text": "My question has to do with setting up my account online It tells me that I cannot use my email address",
+        "predictions": [
+            "INFO_FORGOT_EMAIL",
+            "INFO_LOGIN_ERROR"
+        ]
+    },
+    {
+        "id": 267,
+        "text": "its for a mortgage notice of requirement to provide insurance",
+        "predictions": [
+            "INFO_HOMESITE_CONTACT",
+            "INFO_MORTGAGE_CO_POI",
+            "ST_GENERAL_REQUEST"
+        ]
+    },
+    {
+        "id": 268,
+        "text": "For some reason its not allowing me to use either of my email addresses to get a link to reset my username or password",
+        "predictions": [
+            "INFO_FORGOT_EMAIL",
+            "INFO_LOGIN_ERROR"
+        ]
+    },
+    {
+        "id": 269,
+        "text": "I need to login in my account via internet but cant find my policy number",
+        "predictions": [
+            "INFO_FORGOT_USERID",
+            "INFO_POLICY_NUM"
+        ]
+    },
+    {
+        "id": 270,
+        "text": "Good afternoon My name is Teri and I am with Citi I was hoping that you would be able to either email for fax me a copy of a dec page for a policy",
+        "predictions": [
+            "INFO_CL_DOCS_FAX",
+            "INFO_DEC_PAGE_NEEDED",
+            "INFO_POLICY_DOC_NEEDED"
+        ]
+    },
+    {
+        "id": 271,
+        "text": "how much would it be for whole life insurance",
+        "predictions": [
+            "INFO_LIFE_CASH_OUT",
+            "INFO_LIFE_INCR_COV",
+            "INFO_LIFE_POLICY_AMT_DUE"
+        ]
+    },
+    {
+        "id": 272,
+        "text": "setting up automatic payments Should I choose account balance or minimum due",
+        "predictions": [
+            "INFO_AUTO_PYMT_MIN_BALANCE",
+            "INFO_PYMT_SETUP_AUTO_PYMT"
+        ]
+    },
+    {
+        "id": 273,
+        "text": "printable proof of insurance",
+        "predictions": [
+            "INFO_INS_CARD_PRINT",
+            "INFO_INS_CARD_SEND"
+        ]
+    },
+    {
+        "id": 274,
+        "text": "Im potentially purchasing a new vehicle this week Id like to get it loaded into the system so that I can turn up coverage quickly if I do purchase it",
+        "predictions": [
+            "INFO_ADD_REMOVE_VEHICLE",
+            "INFO_NEW_VEHICLE_GRACE_PERIOD"
+        ]
+    },
+    {
+        "id": 275,
+        "text": "I know that it wont take the password that I put in on the registered page",
+        "predictions": [
+            "INFO_FORGOT_PASSWORD",
+            "INFO_LOGIN_ERROR"
+        ]
+    },
+    {
+        "id": 276,
+        "text": "Is it possible to extend my policy to rental cars",
+        "predictions": [
+            "INFO_CL_RENTAL",
+            "INFO_NEW_VEHICLE_GRACE_PERIOD",
+            "INFO_POLICY_TRANS_TO_RENTAL"
+        ]
+    },
+    {
+        "id": 277,
+        "text": "wrong agent showing up",
+        "predictions": [
+            "INFO_AGENT_WRONG",
+            "INFO_AGT_NOT_RESPONDING",
+            "INFO_CHANGE_AGENT",
+            "INFO_FIND_AGENT",
+            "INFO_WHO_IS_MY_AGENT"
+        ]
+    },
+    {
+        "id": 278,
+        "text": "How can i locate information about deductibles in my current four wheeler insurnce",
+        "predictions": [
+            "INFO_DEDUCTIBLE",
+            "INFO_DED_EXPLAN"
+        ]
+    },
+    {
+        "id": 279,
+        "text": "is my car insurance available in Canada",
+        "predictions": [
+            "INFO_AUTO_INS_CANADA",
+            "INFO_INS_NOT_AVAILABLE"
+        ]
+    },
+    {
+        "id": 280,
+        "text": "What changed in my payment",
+        "predictions": [
+            "INFO_DIFFERENT_AMTS",
+            "INFO_PYMT_DUEDATE_CHANGE",
+            "INFO_PYMT_PROCESS_CHANGE"
+        ]
+    },
+    {
+        "id": 281,
+        "text": "Im trying to set up my paperless discount and it wont let me",
+        "predictions": [
+            "INFO_DISCOUNTS",
+            "INFO_KNOWYOURDRIVE_ERRORS",
+            "INFO_LOGIN_ERROR",
+            "INFO_PAPERLESS_DOCS_SETUP",
+            "INFO_PAPERLESS_DOCS_STOP",
+            "INFO_PAPERLESS_MAIL",
+            "INFO_PYMT_ERROR"
+        ]
+    },
+    {
+        "id": 282,
+        "text": "Is my car insurance okay for a drive to New Brunswick",
+        "predictions": [
+            "INFO_AUTO_INS_CANADA",
+            "INFO_INS_NOT_AVAILABLE"
+        ]
+    },
+    {
+        "id": 283,
+        "text": "I am trying to get a quote on renters and auto insurance and the website will not let me put in my address it says it is invalid",
+        "predictions": [
+            "INFO_CANT_SEE_POLICY",
+            "INFO_CHANGE_USERID",
+            "INFO_DEC_PAGE_NEEDED",
+            "INFO_FORGOT_USERID",
+            "INFO_LIFE_UPDATE_CONTACT_INFO",
+            "INFO_LOGIN_ERROR",
+            "INFO_UPDATE_CONTACT_INFO"
+        ]
+    },
+    {
+        "id": 284,
+        "text": "Hello I want to know if I can continue to receive paper invoices by mail if I subscribe to paperless documents",
+        "predictions": [
+            "INFO_PAPERLESS_DOCS_STOP",
+            "INFO_PAPERLESS_MAIL"
+        ]
+    },
+    {
+        "id": 285,
+        "text": "I was hit by a girl whose father and the police officer stated you were her insurance company how do I find out",
+        "predictions": [
+            "INFO_CL_CLAIM_FILED",
+            "INFO_CL_FNOL"
+        ]
+    },
+    {
+        "id": 286,
+        "text": "I cant get my truck to start Who can I call to tow it to a shop",
+        "predictions": [
+            "INFO_ERS",
+            "INFO_ERS_CONTACT"
+        ]
+    },
+    {
+        "id": 287,
+        "text": "Can I get renters insurance from you",
+        "predictions": [
+            "INFO_GET_A_QUOTE_RENTERS",
+            "INFO_GET_A_QUOTE_RENTERS_PURCHASE",
+            "INFO_RENTERS_COV_EXPLAN"
+        ]
+    },
+    {
+        "id": 288,
+        "text": "Hi I have Dewitt as a mortgage borrower and wanted to obtain the DEC Page",
+        "predictions": [
+            "INFO_DEC_PAGE_NEEDED",
+            "INFO_MORTGAGE_CO_POI"
+        ]
+    },
+    {
+        "id": 289,
+        "text": "Did the insured receive a check for the repairs",
+        "predictions": [
+            "INFO_CL_CHECK_STATUS",
+            "INFO_CL_SHOP_ADD_WORK"
+        ]
+    },
+    {
+        "id": 290,
+        "text": "do i need to pay this month",
+        "predictions": [
+            "INFO_AMT_DUE",
+            "INFO_BILL_DUE_DATE"
+        ]
+    },
+    {
+        "id": 291,
+        "text": "Whats wrong with my car policy",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_ERS"
+        ]
+    },
+    {
+        "id": 292,
+        "text": "can you see my payment yet",
+        "predictions": [
+            "INFO_CL_CHECK_STATUS",
+            "INFO_PYMT_CONFIRM"
+        ]
+    },
+    {
+        "id": 293,
+        "text": "cant get the my account create new account to work",
+        "predictions": [
+            "INFO_LOGIN_ERROR",
+            "INFO_SET_UP_ACCT"
+        ]
+    },
+    {
+        "id": 294,
+        "text": "I received notice of amount due on a policy for a rental house I own however I do not see this account listed when I log in to the amfam site I only see my car and primary residence",
+        "predictions": [
+            "INFO_ADD_VEHICLE_PROPERTY_PAPERLESS_BILLING",
+            "INFO_AMT_DUE",
+            "INFO_BUSINESS_POLICY_CANT_SEE",
+            "INFO_CANT_SEE_POLICY",
+            "INFO_POLICY_TRANS_TO_RENTAL",
+            "INFO_PREMIUM_BREAKDOWN"
+        ]
+    },
+    {
+        "id": 295,
+        "text": "Id like to confirm coverage",
+        "predictions": [
+            "INFO_CONFIRM_COVERAGE",
+            "INFO_LETTER_OF_EXPERIENCE"
+        ]
+    },
+    {
+        "id": 296,
+        "text": "I was in a crash back in july and never made a claim is it possible to do so",
+        "predictions": [
+            "INFO_CL_CLAIM_FILED",
+            "INFO_CL_FILE_CLAIM",
+            "INFO_CL_FNOL",
+            "INFO_CL_STATUS"
+        ]
+    },
+    {
+        "id": 297,
+        "text": "I have a couple questions about my account When I look online at the billingpayments info It says a payment was made on our account on  for over  What is that",
+        "predictions": [
+            "INFO_AMT_DUE",
+            "INFO_DIFFERENT_AMTS",
+            "INFO_PYMT_CONFIRM",
+            "INFO_PYMT_HISTORY"
+        ]
+    },
+    {
+        "id": 298,
+        "text": "help me log in to the account",
+        "predictions": [
+            "INFO_LOGIN_ERROR",
+            "INFO_SET_UP_ACCT"
+        ]
+    },
+    {
+        "id": 299,
+        "text": "I need to add a house to my policy",
+        "predictions": [
+            "INFO_ADD_HOUSE",
+            "INFO_CL_HRP_JOIN"
+        ]
+    },
+    {
+        "id": 300,
+        "text": "I am unable to log into my account to set up a payment Nothing has changed but I cant get into your system and calling the  has been difficult cant get into anything Were you hacked",
+        "predictions": [
+            "INFO_LOGIN_ERROR",
+            "INFO_PYMT_ERROR"
+        ]
+    },
+    {
+        "id": 301,
+        "text": "What is my current life insurance amount and can I raise it",
+        "predictions": [
+            "INFO_LIFE_INCR_COV",
+            "INFO_LIFE_POLICY_AMT_DUE"
+        ]
+    },
+    {
+        "id": 302,
+        "text": "justfinishedchattingwithanotheragenttobeabletologintomyaccounttoprintoffproofofinsurancecards",
+        "predictions": [
+            "INFO_INS_CARD_PRINT",
+            "INFO_INS_CARD_SEND"
+        ]
+    },
+    {
+        "id": 303,
+        "text": "i have a reference mwlg foe a quote i tried getting",
+        "predictions": [
+            "INFO_AST_PURCHASE",
+            "INFO_AST_QUOTE"
+        ]
+    },
+    {
+        "id": 304,
+        "text": "I need to follow up on a quote I received online",
+        "predictions": [
+            "INFO_AST_PURCHASE",
+            "INFO_AST_QUOTE",
+            "INFO_GET_A_QUOTE_OTHER"
+        ]
+    },
+    {
+        "id": 305,
+        "text": "Policy",
+        "predictions": [
+            "INFO_ERS",
+            "INFO_GEN_POLICY_COV_QUESTION"
+        ]
+    },
+    {
+        "id": 306,
+        "text": "I have questions about my online auto quote",
+        "predictions": [
+            "INFO_AST_PURCHASE",
+            "INFO_AST_QUOTE",
+            "INFO_CL_DRP_ASSIGN",
+            "INFO_GET_A_QUOTE_AUTO"
+        ]
+    },
+    {
+        "id": 307,
+        "text": "Im by the side of the road I need help with my car is this covered",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_ERS"
+        ]
+    },
+    {
+        "id": 308,
+        "text": "We suffered an accident on Saturday by one of your insured drivers where we were severely rearended and of course we our out of a vehicle What do I need to do to obtain a rental",
+        "predictions": [
+            "INFO_CL_RENTAL",
+            "INFO_POLICY_TRANS_TO_RENTAL",
+            "ST_GENERAL_REQUEST"
+        ]
+    },
+    {
+        "id": 309,
+        "text": "Im setting up auto pay Is minimum due a monthly payment",
+        "predictions": [
+            "INFO_AUTO_PYMT_MIN_BALANCE",
+            "INFO_AUTO_PYMT_SCHEDULE",
+            "INFO_LIFE_POLICY_AUTO_PYMT",
+            "INFO_MAKE_PYMT",
+            "INFO_PYMT_SETUP_AUTO_PYMT"
+        ]
+    },
+    {
+        "id": 310,
+        "text": "Just a quick question about my bill It says I have payments past due but I submitted a full payment on  My current bill still says that I have something that was due on that date",
+        "predictions": [
+            "INFO_AMT_DUE",
+            "INFO_PYMT_CONFIRM",
+            "INFO_PYMT_HISTORY"
+        ]
+    },
+    {
+        "id": 311,
+        "text": "Who do I need to talk to to see what I pay for each policy",
+        "predictions": [
+            "INFO_AMT_DUE",
+            "INFO_PREMIUM_BREAKDOWN"
+        ]
+    },
+    {
+        "id": 312,
+        "text": "Charge my card for the next billing cycle",
+        "predictions": [
+            "INFO_CREDIT_CARD_FEE",
+            "INFO_DELETE_DUPE_PYMT",
+            "INFO_MAKE_PYMT",
+            "INFO_PYMT_PROCESS_CHANGE"
+        ]
+    },
+    {
+        "id": 313,
+        "text": "quote for nonowner auto insurance",
+        "predictions": [
+            "INFO_CL_DRP_JOIN",
+            "INFO_GET_A_QUOTE_AUTO_NONOWNER"
+        ]
+    },
+    {
+        "id": 314,
+        "text": "I want to be reimbursed for using emergency roadside service for a tow truck",
+        "predictions": [
+            "INFO_ERS",
+            "INFO_ERS_CONTACT",
+            "INFO_ERS_REIMBURSE"
+        ]
+    },
+    {
+        "id": 315,
+        "text": "can someone else drive my car",
+        "predictions": [
+            "INFO_ADD_REMOVE_INSURED",
+            "INFO_ADD_REMOVE_VEHICLE",
+            "INFO_AUTO_COV_QUESTION"
+        ]
+    },
+    {
+        "id": 316,
+        "text": "How can I get help if my car breaks down",
+        "predictions": [
+            "INFO_ERS",
+            "INFO_ERS_CONTACT"
+        ]
+    },
+    {
+        "id": 317,
+        "text": "Im a New Jersey resident and am looking to buy insurance",
+        "predictions": [
+            "INFO_INS_NOT_AVAILABLE",
+            "INFO_OPERATING_AREA"
+        ]
+    },
+    {
+        "id": 318,
+        "text": "I am thinking about purchasing a new vehicle can you help me with a quote on what insurance would be on the new vehicle",
+        "predictions": [
+            "INFO_ADD_REMOVE_VEHICLE",
+            "INFO_GET_A_QUOTE_AUTO"
+        ]
+    },
+    {
+        "id": 319,
+        "text": "repair facility looking to be a direct repair shop for you",
+        "predictions": [
+            "INFO_CL_DRP_ASSIGN",
+            "INFO_CL_DRP_JOIN",
+            "INFO_CL_SHOP_ADD_WORK",
+            "INFO_ERS_REIMBURSE",
+            "INFO_SALVAGE_VEHICLE"
+        ]
+    },
+    {
+        "id": 320,
+        "text": "I hate these multiple statements for my multiple policies Can you help me",
+        "predictions": [
+            "INFO_ADD_REMOVE_INSURED",
+            "INFO_ADD_VEHICLE_PROPERTY_PAPERLESS_BILLING",
+            "INFO_CANCEL_INS_POLICY",
+            "INFO_COMBINE_PYMTS",
+            "INFO_PAPERLESS_DOCS_STOP"
+        ]
+    },
+    {
+        "id": 321,
+        "text": "I want to know what email i can send my receipt to",
+        "predictions": [
+            "INFO_CL_DOCS_EMAIL",
+            "INFO_FORGOT_EMAIL"
+        ]
+    },
+    {
+        "id": 322,
+        "text": "change my agent",
+        "predictions": [
+            "INFO_AGENT_WRONG",
+            "INFO_CHANGE_AGENT"
+        ]
+    },
+    {
+        "id": 323,
+        "text": "Good Morning Abby My agent Maureen Mullen retired Who replaces her as my agent and can you provide their email address please",
+        "predictions": [
+            "INFO_AGENT_WRONG",
+            "INFO_CHANGE_AGENT",
+            "INFO_WHO_IS_MY_AGENT"
+        ]
+    },
+    {
+        "id": 324,
+        "text": "It is probably not a billing question but is there a way for me to get my user ID changed for logging into my account online",
+        "predictions": [
+            "INFO_CHANGE_USERID",
+            "INFO_FORGOT_USERID"
+        ]
+    },
+    {
+        "id": 325,
+        "text": "Hello Id like to get a quote for renters insurance",
+        "predictions": [
+            "INFO_GET_A_QUOTE_RENTERS",
+            "INFO_GET_A_QUOTE_RENTERS_PURCHASE",
+            "INFO_RENTERS_COV_EXPLAN"
+        ]
+    },
+    {
+        "id": 326,
+        "text": "Im looking to mail an insurance premium check Can you please confirm if the payee should be American Family Insurance or Homesite Insurance Company The payment address provided is for Homesite",
+        "predictions": [
+            "INFO_BILL_DUE_DATE",
+            "INFO_CL_DOCS_MAIL",
+            "INFO_HOMESITE_CONTACT",
+            "INFO_MAIL_PYMT_ADDRESS",
+            "INFO_MORTGAGE_CO_POI"
+        ]
+    },
+    {
+        "id": 327,
+        "text": "Why is the wrong agent showing up in my account",
+        "predictions": [
+            "INFO_AGENT_WRONG",
+            "INFO_AGT_NOT_RESPONDING",
+            "INFO_AMERICAN_STAR",
+            "INFO_CHANGE_AGENT",
+            "INFO_FIND_AGENT",
+            "INFO_WHO_IS_MY_AGENT",
+            "NO"
+        ]
+    },
+    {
+        "id": 328,
+        "text": "Where can I file a claim if I was in an accident",
+        "predictions": [
+            "INFO_CL_CLAIM_FILED",
+            "INFO_CL_FNOL"
+        ]
+    },
+    {
+        "id": 329,
+        "text": "Can I use my credit card for free",
+        "predictions": [
+            "INFO_CREDIT_CARD_CHANGE_NUM",
+            "INFO_CREDIT_CARD_FEE"
+        ]
+    },
+    {
+        "id": 330,
+        "text": "Here is my new address for claims please enter it",
+        "predictions": [
+            "INFO_CL_DOCS_MAIL",
+            "INFO_CL_UPDATE_INFO"
+        ]
+    },
+    {
+        "id": 331,
+        "text": "am i covered if i lend my auto to my neighbor or friend",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_GEN_POLICY_COV_QUESTION",
+            "INFO_POLICY_TRANS_TO_RENTAL"
+        ]
+    },
+    {
+        "id": 332,
+        "text": "Never got my security questions to complete registration",
+        "predictions": [
+            "INFO_CANT_SEE_POLICY",
+            "INFO_DEC_PAGE_NEEDED",
+            "INFO_FORGOT_USERID",
+            "INFO_LOGIN_ERROR",
+            "INFO_SET_UP_ACCT"
+        ]
+    },
+    {
+        "id": 333,
+        "text": "I have recently changed my option of auto payment",
+        "predictions": [
+            "INFO_AUTO_PYMT_CANCEL",
+            "INFO_PYMT_SETUP_AUTO_PYMT"
+        ]
+    },
+    {
+        "id": 334,
+        "text": "Hello I have a claim that supposed of been paid and have an you did not",
+        "predictions": [
+            "INFO_CL_CHECK_STATUS",
+            "INFO_CL_CLAIM_FILED",
+            "INFO_CL_STATUS",
+            "INFO_PYMT_CONFIRM"
+        ]
+    },
+    {
+        "id": 335,
+        "text": "When is customer service available",
+        "predictions": [
+            "INFO_AUTO_PYMT_SCHEDULE",
+            "INFO_COMP_COV_EXPLAN",
+            "INFO_CUSTOMER_SERVICE_HOURS",
+            "INFO_PHONE_NUM",
+            "INFO_PYMT_TIME"
+        ]
+    },
+    {
+        "id": 336,
+        "text": "I want to add roadside assistance",
+        "predictions": [
+            "INFO_ERS",
+            "INFO_ERS_CONTACT"
+        ]
+    },
+    {
+        "id": 337,
+        "text": "I have auto insurance with u and Im late on my payment I was on vacation and for got can I still pay it and continue coverage",
+        "predictions": [
+            "INFO_LETTER_OF_EXPERIENCE",
+            "INFO_PYMT_NOT_ONTIME",
+            "INFO_REINSTATE_INS_POLICY"
+        ]
+    },
+    {
+        "id": 338,
+        "text": "What is the least I can pay",
+        "predictions": [
+            "INFO_AMT_DUE",
+            "INFO_BILL_DUE_DATE",
+            "INFO_LIFE_POLICY_AMT_DUE",
+            "INFO_MAKE_PYMT",
+            "INFO_PYMT_NOT_ONTIME"
+        ]
+    },
+    {
+        "id": 339,
+        "text": "How can I reach you without using an  number",
+        "predictions": [
+            "INFO_DO_NOT_CONTACT",
+            "INFO_LOG_OUT",
+            "INFO_ONE_TIME_PYMT",
+            "INFO_PHONE_NUM",
+            "INFO_PHONE_NUM_INTERNATIONAL",
+            "INFO_SPEAK_TO_REP"
+        ]
+    },
+    {
+        "id": 340,
+        "text": "activate KnowYourDrive device",
+        "predictions": [
+            "INFO_KNOWYOURDRIVE",
+            "INFO_KNOWYOURDRIVE_DEVICE_ACTIVATE",
+            "INFO_KNOWYOURDRIVE_DEVICE_RETURN",
+            "ST_IS_ABBY_REAL"
+        ]
+    },
+    {
+        "id": 341,
+        "text": "I dont want paperless billing systems I want paper bill",
+        "predictions": [
+            "INFO_PAPERLESS_DOCS_SETUP",
+            "INFO_PAPERLESS_DOCS_STOP"
+        ]
+    },
+    {
+        "id": 342,
+        "text": "Help me to call you I have no access to a  number from here",
+        "predictions": [
+            "INFO_PHONE_NUM",
+            "INFO_PHONE_NUM_INTERNATIONAL"
+        ]
+    },
+    {
+        "id": 343,
+        "text": "What can I do to get a new agent",
+        "predictions": [
+            "INFO_AGENT_WRONG",
+            "INFO_CHANGE_AGENT"
+        ]
+    },
+    {
+        "id": 344,
+        "text": "So my payment is due on the th or th and i dont get paid till the th i was wondering is there any kind of way my payment date be extended",
+        "predictions": [
+            "INFO_BILL_DUE_DATE",
+            "INFO_PYMT_NOT_ONTIME"
+        ]
+    },
+    {
+        "id": 345,
+        "text": "How high is my deductible",
+        "predictions": [
+            "INFO_DEDUCTIBLE",
+            "INFO_DED_EXPLAN"
+        ]
+    },
+    {
+        "id": 346,
+        "text": "Am I covered for an accident that happened if I was dui and found guilty",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_GEN_POLICY_COV_QUESTION"
+        ]
+    },
+    {
+        "id": 347,
+        "text": "new method to pay",
+        "predictions": [
+            "INFO_MAKE_PYMT",
+            "INFO_PYMT_PROCESS_CHANGE"
+        ]
+    },
+    {
+        "id": 348,
+        "text": "Kindly check the accident claim submitted by me yesterday",
+        "predictions": [
+            "INFO_CL_CLAIM_FILED",
+            "INFO_CL_STATUS"
+        ]
+    },
+    {
+        "id": 349,
+        "text": "when should I make the payment for renewal",
+        "predictions": [
+            "INFO_BILL_DUE_DATE",
+            "INFO_PYMT_DUEDATE_CHANGE",
+            "INFO_PYMT_NOT_ONTIME",
+            "INFO_PYMT_TIME"
+        ]
+    },
+    {
+        "id": 350,
+        "text": "Is there a delay in my policy being online",
+        "predictions": [
+            "INFO_CANT_SEE_POLICY",
+            "INFO_WHY_WAS_POLICY_CANCELLED"
+        ]
+    },
+    {
+        "id": 351,
+        "text": "Help me find a responsible person in your organization to take care of my claim properly",
+        "predictions": [
+            "INFO_CL_ADJUSTER_INFO",
+            "INFO_CL_COMPLAINT"
+        ]
+    },
+    {
+        "id": 352,
+        "text": "I am receiving an error when i try to access my DreamKeep rewards",
+        "predictions": [
+            "INFO_AGENT_WRONG",
+            "INFO_DREAMKEEP_REWARDS",
+            "INFO_DREAMKEEP_REWARDS_ERRORS",
+            "INFO_PYMT_ERROR"
+        ]
+    },
+    {
+        "id": 353,
+        "text": "must have my past insurance card",
+        "predictions": [
+            "INFO_INS_CARD_PRINT",
+            "INFO_INS_CARD_PROOF",
+            "INFO_INS_CARD_SEND",
+            "INFO_LETTER_OF_EXPERIENCE",
+            "INFO_POI_OLD",
+            "INFO_srtwentytwo"
+        ]
+    },
+    {
+        "id": 354,
+        "text": "I put in a claim after my house was robbed last week Whats going on with it",
+        "predictions": [
+            "INFO_CL_FNOL",
+            "INFO_CL_STATUS"
+        ]
+    },
+    {
+        "id": 355,
+        "text": "if there is an earthquake how much damage will be covered",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_GEN_POLICY_COV_QUESTION"
+        ]
+    },
+    {
+        "id": 356,
+        "text": "We received check xxxxxxxx for the amount of xxxxx for claim xxxxxxxxxx and I was having trouble finding it in my system to post the payment to",
+        "predictions": [
+            "INFO_CL_CHECK_STATUS",
+            "INFO_PYMT_CONFIRM"
+        ]
+    },
+    {
+        "id": 357,
+        "text": "I have emergency road service on my policy Does this cover unlocking my car after I locked the keys in it",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_ERS"
+        ]
+    },
+    {
+        "id": 358,
+        "text": "How can I set up electronic payments for my utilities",
+        "predictions": [
+            "INFO_PAPERLESS_DOCS_SETUP",
+            "INFO_PYMT_SETUP_AUTO_PYMT"
+        ]
+    },
+    {
+        "id": 359,
+        "text": "I already set up the online account But this does not offer access to my policy information",
+        "predictions": [
+            "INFO_CANT_SEE_POLICY",
+            "INFO_LOGIN_ERROR",
+            "INFO_POLICY_DOC_NEEDED",
+            "INFO_SET_UP_ACCT"
+        ]
+    },
+    {
+        "id": 360,
+        "text": "are my personal belongings insured in an accident",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_GEN_POLICY_COV_QUESTION"
+        ]
+    },
+    {
+        "id": 361,
+        "text": "Need information on how a life policy pays out",
+        "predictions": [
+            "INFO_LIFE_CASH_OUT",
+            "INFO_LIFE_POLICY_AMT_DUE",
+            "INFO_PAY_LIFE_INS"
+        ]
+    },
+    {
+        "id": 362,
+        "text": "is this a real person",
+        "predictions": [
+            "INFO_SPEAK_TO_REP",
+            "ST_IS_ABBY_REAL"
+        ]
+    },
+    {
+        "id": 363,
+        "text": "I am buying a car today and need to know if I can get car insurance just for the drive home until I get it licensed",
+        "predictions": [
+            "INFO_ADD_REMOVE_VEHICLE",
+            "INFO_GET_A_QUOTE_AUTO",
+            "INFO_NEW_VEHICLE_GRACE_PERIOD"
+        ]
+    },
+    {
+        "id": 364,
+        "text": "quote for property",
+        "predictions": [
+            "INFO_GET_A_QUOTE_CFR",
+            "INFO_GET_A_QUOTE_OTHER"
+        ]
+    },
+    {
+        "id": 365,
+        "text": "What does flood ins cover me for",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_COMP_COV_EXPLAN",
+            "INFO_FLOOD_INS_EXPLAN",
+            "INFO_GEN_POLICY_COV_QUESTION",
+            "INFO_GLASS_COV"
+        ]
+    },
+    {
+        "id": 366,
+        "text": "Please show me where I can access my policy to download",
+        "predictions": [
+            "INFO_CANT_SEE_POLICY",
+            "INFO_POLICY_DOC_NEEDED"
+        ]
+    },
+    {
+        "id": 367,
+        "text": "Hi its me Erin Vieyra again so I cant figure out my password to my email what can i do",
+        "predictions": [
+            "INFO_CL_DOCS_EMAIL",
+            "INFO_FORGOT_EMAIL",
+            "INFO_FORGOT_PASSWORD",
+            "INFO_LOGIN_ERROR",
+            "INFO_UPDATE_EMAIL"
+        ]
+    },
+    {
+        "id": 368,
+        "text": "Where should I send something regarding my claim",
+        "predictions": [
+            "INFO_CL_CHECK_STATUS",
+            "INFO_CL_DOCS_MAIL",
+            "INFO_CL_DOCS_SEND",
+            "INFO_CL_DRP_ASSIGN",
+            "INFO_CL_SHOP_SEND_ESTIMATE"
+        ]
+    },
+    {
+        "id": 369,
+        "text": "What is the amount I can claim for water damage",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_GEN_POLICY_COV_QUESTION"
+        ]
+    },
+    {
+        "id": 370,
+        "text": "Help me csh out my life policy",
+        "predictions": [
+            "INFO_LIFE_CASH_OUT",
+            "INFO_LIFE_POLICY_CANCEL",
+            "INFO_LIFE_POLICY_CANNOT_SEE",
+            "INFO_LIFE_QUESTION_GENERAL"
+        ]
+    },
+    {
+        "id": 371,
+        "text": "will my coverage pay for stuff like oil changes",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_ERS"
+        ]
+    },
+    {
+        "id": 372,
+        "text": "Will i receive some sort of alert indicating my policies cancellation",
+        "predictions": [
+            "INFO_CANCEL_CONFIRM",
+            "INFO_CANCEL_FEE",
+            "INFO_CANCEL_INS_POLICY",
+            "INFO_WHY_WAS_POLICY_CANCELLED"
+        ]
+    },
+    {
+        "id": 373,
+        "text": "How can I reach you",
+        "predictions": [
+            "INFO_CUSTOMER_SERVICE_HOURS",
+            "INFO_PHONE_NUM",
+            "INFO_PHONE_NUM_INTERNATIONAL"
+        ]
+    },
+    {
+        "id": 374,
+        "text": "I was curious to learn more about submitting claims online",
+        "predictions": [
+            "INFO_CL_DOCS_EMAIL",
+            "INFO_CL_DOCS_SEND",
+            "INFO_CL_FILE_CLAIM",
+            "INFO_CL_FNOL",
+            "INFO_CL_FNOL_AUTO_HAIL",
+            "INFO_CL_STATUS",
+            "INFO_CL_UPDATE_INFO"
+        ]
+    },
+    {
+        "id": 375,
+        "text": "can I get paper copies of my statements",
+        "predictions": [
+            "INFO_PAPERLESS_DOCS_SETUP",
+            "INFO_PAPERLESS_DOCS_STOP"
+        ]
+    },
+    {
+        "id": 376,
+        "text": "Yes but they dont show our names on the ones in front and when I pull up id cards it only shows it good until",
+        "predictions": [
+            "INFO_AUTO_POLICY_CANT_SEE_IN_ACCT",
+            "INFO_CANT_SEE_POLICY",
+            "INFO_FORGOT_USERID",
+            "INFO_INS_CARD_PROOF"
+        ]
+    },
+    {
+        "id": 377,
+        "text": "I have a question about my business policy",
+        "predictions": [
+            "INFO_BUSINESS_POLICY_CANT_SEE",
+            "INFO_CFR_QUESTION_GENERAL"
+        ]
+    },
+    {
+        "id": 378,
+        "text": "Karen Im hoping to acquire some info on whether my life insurance payment was received Policy",
+        "predictions": [
+            "INFO_CONFIRM_COVERAGE",
+            "INFO_PYMT_CONFIRM"
+        ]
+    },
+    {
+        "id": 379,
+        "text": "adding homeowners insurance to my existing policies",
+        "predictions": [
+            "INFO_ADD_HOUSE",
+            "INFO_CL_HRP_JOIN",
+            "INFO_HOMESITE_CONTACT"
+        ]
+    },
+    {
+        "id": 380,
+        "text": "Make payment now",
+        "predictions": [
+            "INFO_MAKE_PYMT",
+            "INFO_ONE_TIME_PYMT"
+        ]
+    },
+    {
+        "id": 381,
+        "text": "I want to have my bills sent to my email since my agent is no longer sending me bills through the mail How do I do this",
+        "predictions": [
+            "INFO_AGT_NOT_RESPONDING",
+            "INFO_PAPERLESS_DOCS_SETUP",
+            "INFO_PAPERLESS_DOCS_STOP",
+            "INFO_PAPERLESS_MAIL"
+        ]
+    },
+    {
+        "id": 382,
+        "text": "Where can I send you my claims report",
+        "predictions": [
+            "INFO_CL_DOCS_EMAIL",
+            "INFO_CL_DOCS_MAIL",
+            "INFO_CL_DOCS_SEND",
+            "INFO_CL_SHOP_SEND_ESTIMATE"
+        ]
+    },
+    {
+        "id": 383,
+        "text": "Who else can I contact other than my agent",
+        "predictions": [
+            "INFO_AGENT_WRONG",
+            "INFO_AGT_NOT_RESPONDING",
+            "INFO_CHANGE_AGENT",
+            "INFO_FIND_AGENT",
+            "INFO_WHO_IS_MY_AGENT"
+        ]
+    },
+    {
+        "id": 384,
+        "text": "I am interested in finding out how much the deductible is on my auto policy",
+        "predictions": [
+            "INFO_DEDUCTIBLE",
+            "INFO_DED_EXPLAN"
+        ]
+    },
+    {
+        "id": 385,
+        "text": "did something happen to my auto policy",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_AUTO_POLICY_CANT_SEE_IN_ACCT"
+        ]
+    },
+    {
+        "id": 386,
+        "text": "Im looking to purchase a car but it has a salvage title Will you be able to insure it still",
+        "predictions": [
+            "INFO_ADD_REMOVE_VEHICLE",
+            "INFO_CL_DRP_ASSIGN",
+            "INFO_CL_DRP_JOIN",
+            "INFO_SALVAGE_VEHICLE"
+        ]
+    },
+    {
+        "id": 387,
+        "text": "I am trying to add my policies to my online account and cannot get them added",
+        "predictions": [
+            "INFO_CANT_SEE_POLICY",
+            "INFO_LOGIN_ERROR",
+            "INFO_SET_UP_ACCT"
+        ]
+    },
+    {
+        "id": 388,
+        "text": "I cant log in even though my password is correct",
+        "predictions": [
+            "INFO_FORGOT_PASSWORD",
+            "INFO_LOGIN_ERROR"
+        ]
+    },
+    {
+        "id": 389,
+        "text": "I want to know how long I have to pay",
+        "predictions": [
+            "INFO_AMT_DUE",
+            "INFO_BILL_DUE_DATE",
+            "INFO_PYMT_NOT_ONTIME"
+        ]
+    },
+    {
+        "id": 390,
+        "text": "file claim for hail damage to my car",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_CL_DOCS_SEND",
+            "INFO_CL_FNOL",
+            "INFO_CL_FNOL_AUTO_HAIL"
+        ]
+    },
+    {
+        "id": 391,
+        "text": "Do I have insurance in Canada",
+        "predictions": [
+            "INFO_AUTO_INS_CANADA",
+            "INFO_INS_NOT_AVAILABLE"
+        ]
+    },
+    {
+        "id": 392,
+        "text": "I just added a new vehicle to my policy and I wanted to see how much a month full coverage would be",
+        "predictions": [
+            "INFO_ADD_REMOVE_VEHICLE",
+            "INFO_NEW_VEHICLE_GRACE_PERIOD"
+        ]
+    },
+    {
+        "id": 393,
+        "text": "Renters insurance quote",
+        "predictions": [
+            "INFO_GET_A_QUOTE_RENTERS",
+            "INFO_GET_A_QUOTE_RENTERS_PURCHASE",
+            "INFO_RENTERS_COV_EXPLAN"
+        ]
+    },
+    {
+        "id": 394,
+        "text": "Gimme Customer Service",
+        "predictions": [
+            "INFO_AGT_NOT_RESPONDING",
+            "INFO_CUSTOMER_SERVICE_HOURS",
+            "INFO_EMPLOYMENT_VERIFY",
+            "INFO_PHONE_NUM",
+            "INFO_PHONE_NUM_INTERNATIONAL",
+            "INFO_SPEAK_TO_REP",
+            "ST_IS_ABBY_REAL"
+        ]
+    },
+    {
+        "id": 395,
+        "text": "how do i get emergency roadside assistance for my vechicle",
+        "predictions": [
+            "INFO_ERS",
+            "INFO_ERS_CONTACT"
+        ]
+    },
+    {
+        "id": 396,
+        "text": "Can I buy renters ins through chat",
+        "predictions": [
+            "INFO_GET_A_QUOTE_RENTERS",
+            "INFO_GET_A_QUOTE_RENTERS_PURCHASE",
+            "INFO_HOMESITE_CONTACT",
+            "INFO_INS_CARD_PRINT",
+            "INFO_RENTERS_COV_EXPLAN"
+        ]
+    },
+    {
+        "id": 397,
+        "text": "How much is travel ins",
+        "predictions": [
+            "INFO_AUTO_INS_CANADA",
+            "INFO_RV_INS_EXPLAN",
+            "INFO_TRAVEL_INS_EXPLAN"
+        ]
+    },
+    {
+        "id": 398,
+        "text": "OH JUST CHECKING IF THE INSURED WAS ISSUED ANY PAYMENTS",
+        "predictions": [
+            "INFO_CL_CHECK_STATUS",
+            "INFO_CL_CLAIM_FILED",
+            "INFO_CONFIRM_COVERAGE",
+            "INFO_PYMT_CONFIRM"
+        ]
+    },
+    {
+        "id": 399,
+        "text": "how do i update my account name",
+        "predictions": [
+            "INFO_BILLING_ACCT_NAME_EDIT",
+            "INFO_NAME_CHANGE"
+        ]
+    },
+    {
+        "id": 400,
+        "text": "Would you remind me for renewal of emargency road service",
+        "predictions": [
+            "INFO_ERS",
+            "INFO_ERS_CONTACT",
+            "INFO_ERS_REIMBURSE",
+            "INFO_KNOWYOURDRIVE",
+            "INFO_LETTER_OF_EXPERIENCE",
+            "INFO_REINSTATE_INS_POLICY"
+        ]
+    },
+    {
+        "id": 401,
+        "text": "I do not want mailed bills",
+        "predictions": [
+            "INFO_PAPERLESS_DOCS_SETUP",
+            "INFO_PAPERLESS_DOCS_STOP"
+        ]
+    },
+    {
+        "id": 402,
+        "text": "I am not the borrower I am the mortgage company",
+        "predictions": [
+            "INFO_HOMESITE_CONTACT",
+            "INFO_MORTGAGE_CO_POI",
+            "ST_GENERAL_REQUEST"
+        ]
+    },
+    {
+        "id": 403,
+        "text": "I need my agent to get back to me",
+        "predictions": [
+            "INFO_AGENT_WRONG",
+            "INFO_AGT_NOT_RESPONDING",
+            "INFO_CHANGE_AGENT",
+            "INFO_WHO_IS_MY_AGENT"
+        ]
+    },
+    {
+        "id": 404,
+        "text": "life bill might be overdue please help",
+        "predictions": [
+            "INFO_LIFE_CASH_OUT",
+            "INFO_LIFE_POLICY_AMT_DUE",
+            "INFO_PAY_LIFE_INS"
+        ]
+    },
+    {
+        "id": 405,
+        "text": "I have a bill due today and I was wondering how much will it be if I can pay it on nd",
+        "predictions": [
+            "INFO_AMT_DUE",
+            "INFO_BILL_DUE_DATE",
+            "INFO_MAKE_PYMT",
+            "INFO_PYMT_NOT_ONTIME"
+        ]
+    },
+    {
+        "id": 406,
+        "text": "How long will it take for my cancellation policy to complete",
+        "predictions": [
+            "INFO_CANCEL_CONFIRM",
+            "INFO_CANCEL_INS_POLICY",
+            "INFO_WHY_WAS_POLICY_CANCELLED"
+        ]
+    },
+    {
+        "id": 407,
+        "text": "Am I covered for earthquake damage",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_GEN_POLICY_COV_QUESTION"
+        ]
+    },
+    {
+        "id": 408,
+        "text": "Has there been any claim filed My car has to be fixed before i can use it for work",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_CL_CLAIM_FILED",
+            "INFO_CL_FILE_CLAIM",
+            "INFO_CL_FNOL",
+            "INFO_CL_STATUS"
+        ]
+    },
+    {
+        "id": 409,
+        "text": "my policy says deductible What is that",
+        "predictions": [
+            "INFO_DEDUCTIBLE",
+            "INFO_DED_EXPLAN"
+        ]
+    },
+    {
+        "id": 410,
+        "text": "I want to help save the environment What other possessions can I add to my paperless statements",
+        "predictions": [
+            "INFO_ADD_VEHICLE_PROPERTY_PAPERLESS_BILLING",
+            "INFO_PAPERLESS_DOCS_SETUP"
+        ]
+    },
+    {
+        "id": 411,
+        "text": "I have a general question about my life policy",
+        "predictions": [
+            "INFO_LIFE_POLICY_CANNOT_SEE",
+            "INFO_LIFE_QUESTION_GENERAL"
+        ]
+    },
+    {
+        "id": 412,
+        "text": "I cannot find my policy can you please help me locate it",
+        "predictions": [
+            "INFO_CANT_SEE_POLICY",
+            "INFO_POLICY_DOC_NEEDED"
+        ]
+    },
+    {
+        "id": 413,
+        "text": "Text my insurance cards",
+        "predictions": [
+            "INFO_INS_CARD_PRINT",
+            "INFO_INS_CARD_PROOF",
+            "INFO_INS_CARD_SEND"
+        ]
+    },
+    {
+        "id": 414,
+        "text": "How can I pay my bill through customer care number",
+        "predictions": [
+            "INFO_BILLING_ACCT_NUM",
+            "INFO_COLLECTIONS",
+            "INFO_CUSTOMER_SERVICE_HOURS",
+            "INFO_ERS_CONTACT",
+            "INFO_MAIL_PYMT_ADDRESS",
+            "INFO_PHONE_NUM",
+            "INFO_POLICY_NUM"
+        ]
+    },
+    {
+        "id": 415,
+        "text": "I am under my fathers insurance and have just recently got a new car was wondering if I am able to switch the car out or if it is him that has to do it",
+        "predictions": [
+            "INFO_ADD_REMOVE_INSURED",
+            "INFO_ADD_REMOVE_VEHICLE"
+        ]
+    },
+    {
+        "id": 416,
+        "text": "why a deductible",
+        "predictions": [
+            "INFO_DEDUCTIBLE",
+            "INFO_DED_EXPLAN",
+            "INFO_KNOWYOURDRIVE"
+        ]
+    },
+    {
+        "id": 417,
+        "text": "shop supplement for claim repair",
+        "predictions": [
+            "INFO_CL_CHECK_STATUS",
+            "INFO_CL_DRP_ASSIGN",
+            "INFO_CL_DRP_JOIN",
+            "INFO_CL_SHOP_ADD_WORK",
+            "INFO_CL_SHOP_SEND_ESTIMATE",
+            "INFO_CL_UPDATE_INFO"
+        ]
+    },
+    {
+        "id": 418,
+        "text": "Do I stop receiving paper bills when I sign up for paperless documents",
+        "predictions": [
+            "INFO_PAPERLESS_DOCS_SETUP",
+            "INFO_PAPERLESS_MAIL"
+        ]
+    },
+    {
+        "id": 419,
+        "text": "has the claim been filed please update",
+        "predictions": [
+            "INFO_CL_CLAIM_FILED",
+            "INFO_CL_FNOL",
+            "INFO_CL_STATUS"
+        ]
+    },
+    {
+        "id": 420,
+        "text": "If I have to call for a jump start is that covered",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_ERS",
+            "INFO_ERS_CONTACT"
+        ]
+    },
+    {
+        "id": 421,
+        "text": "Is it possible to extend my insurance to multiple vehicles",
+        "predictions": [
+            "INFO_ADD_REMOVE_VEHICLE",
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_NEW_VEHICLE_GRACE_PERIOD"
+        ]
+    },
+    {
+        "id": 422,
+        "text": "Need to get a copy of my proof of insurance document",
+        "predictions": [
+            "INFO_INS_CARD_PROOF",
+            "INFO_POLICY_DOC_NEEDED"
+        ]
+    },
+    {
+        "id": 423,
+        "text": "where can i find the agent",
+        "predictions": [
+            "INFO_FIND_AGENT",
+            "INFO_WHO_IS_MY_AGENT"
+        ]
+    },
+    {
+        "id": 424,
+        "text": "I need to change what account in which my automatic payment comes from How do I do this",
+        "predictions": [
+            "INFO_AUTO_PYMT_CANCEL",
+            "INFO_PYMT_SETUP_AUTO_PYMT"
+        ]
+    },
+    {
+        "id": 425,
+        "text": "my policy is due today but if i dont make the payment when will the policy be terminated",
+        "predictions": [
+            "INFO_BILL_DUE_DATE",
+            "INFO_PYMT_NOT_ONTIME"
+        ]
+    },
+    {
+        "id": 426,
+        "text": "Life insurance bill",
+        "predictions": [
+            "INFO_LIFE_POLICY_AMT_DUE",
+            "INFO_PAY_LIFE_INS"
+        ]
+    },
+    {
+        "id": 427,
+        "text": "email or something like that to send you the documents",
+        "predictions": [
+            "INFO_BILLING_DEPT_CONTACT",
+            "INFO_CL_DOCS_EMAIL",
+            "INFO_FORGOT_EMAIL",
+            "INFO_PAPERLESS_MAIL"
+        ]
+    },
+    {
+        "id": 428,
+        "text": "I just want to know do you cover vehicles in the state of Michigan",
+        "predictions": [
+            "INFO_INS_NOT_AVAILABLE",
+            "INFO_OPERATING_AREA"
+        ]
+    },
+    {
+        "id": 429,
+        "text": "mexican insurance",
+        "predictions": [
+            "INFO_INS_NOT_AVAILABLE",
+            "INFO_MEXICO_AUTO_INS"
+        ]
+    },
+    {
+        "id": 430,
+        "text": "My  year old hit on a tree will it cover my policy",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_GEN_POLICY_COV_QUESTION"
+        ]
+    },
+    {
+        "id": 431,
+        "text": "Do you guys accept calls at anytime",
+        "predictions": [
+            "INFO_CUSTOMER_SERVICE_HOURS",
+            "INFO_EMPLOYMENT_VERIFY",
+            "INFO_ERS_CONTACT",
+            "INFO_PHONE_NUM",
+            "INFO_PHONE_NUM_INTERNATIONAL",
+            "ST_HELLO",
+            "ST_THANK_YOU"
+        ]
+    },
+    {
+        "id": 432,
+        "text": "how to find info on coverage",
+        "predictions": [
+            "INFO_ERS",
+            "INFO_GEN_POLICY_COV_QUESTION"
+        ]
+    },
+    {
+        "id": 433,
+        "text": "Payment method options please",
+        "predictions": [
+            "INFO_MAKE_PYMT",
+            "INFO_PYMT_PROCESS_CHANGE"
+        ]
+    },
+    {
+        "id": 434,
+        "text": "whats wrong with my business insurance policy",
+        "predictions": [
+            "INFO_BUSINESS_POLICY_CANT_SEE",
+            "INFO_CFR_QUESTION_GENERAL"
+        ]
+    },
+    {
+        "id": 435,
+        "text": "can you please email me a copy of the Declaration for my homeowners policy",
+        "predictions": [
+            "INFO_DEC_PAGE_NEEDED",
+            "INFO_POLICY_DOC_NEEDED"
+        ]
+    },
+    {
+        "id": 436,
+        "text": "I JUST NEEDED TO SEE WHO MY INSURANCE AGENT IS",
+        "predictions": [
+            "INFO_FIND_AGENT",
+            "INFO_WHO_IS_MY_AGENT"
+        ]
+    },
+    {
+        "id": 437,
+        "text": "non owner insurance",
+        "predictions": [
+            "INFO_GET_A_QUOTE_AUTO_NONOWNER",
+            "INFO_THE_GENERAL_CONTACT"
+        ]
+    },
+    {
+        "id": 438,
+        "text": "how do i restart my account",
+        "predictions": [
+            "INFO_CHANGE_BANK_ACCT",
+            "INFO_REINSTATE_INS_POLICY",
+            "INFO_SET_UP_ACCT"
+        ]
+    },
+    {
+        "id": 439,
+        "text": "I was wondering about what my next payment amount will be for my account on the auto policy",
+        "predictions": [
+            "INFO_AMT_DUE",
+            "INFO_AUTO_PYMT_MIN_BALANCE",
+            "INFO_BILL_DUE_DATE",
+            "INFO_GET_A_QUOTE_AUTO",
+            "INFO_LIFE_POLICY_AMT_DUE",
+            "INFO_PREMIUM_BREAKDOWN",
+            "INFO_PYMT_NOT_ONTIME"
+        ]
+    },
+    {
+        "id": 440,
+        "text": "I have a scratched car Is it covered by my insurance",
+        "predictions": [
+            "INFO_AUTO_COV_QUESTION",
+            "INFO_CL_FILE_CLAIM"
+        ]
+    },
+    {
+        "id": 441,
+        "text": "I need to make sure my card has gone through",
+        "predictions": [
+            "INFO_CONFIRM_COVERAGE",
+            "INFO_PYMT_CONFIRM",
+            "YES"
+        ]
+    },
+    {
+        "id": 442,
+        "text": "I want to delay my payments",
+        "predictions": [
+            "INFO_AUTO_PYMT_CANCEL",
+            "INFO_CHANGE_AUTOPAY_DATE",
+            "INFO_PYMT_NOT_ONTIME"
+        ]
+    },
+    {
+        "id": 443,
+        "text": "where can i find agent",
+        "predictions": [
+            "INFO_AGENT_WRONG",
+            "INFO_FIND_AGENT",
+            "INFO_WHO_IS_MY_AGENT"
+        ]
+    }
+]

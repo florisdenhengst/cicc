@@ -1,0 +1,1033 @@
+[
+    {
+        "id": 0,
+        "text": "please make the timer for cooking for for 2 hours",
+        "predictions": [
+            "timer",
+            "cook_time"
+        ]
+    },
+    {
+        "id": 1,
+        "text": "my card will work until what month",
+        "predictions": [
+            "expiration_date",
+            "replacement_card_duration"
+        ]
+    },
+    {
+        "id": 2,
+        "text": "what's the status of my vacation days",
+        "predictions": [
+            "pto_request_status",
+            "pto_balance"
+        ]
+    },
+    {
+        "id": 3,
+        "text": "how can i look at rewards for my amex card",
+        "predictions": [
+            "redeem_rewards",
+            "rewards_balance"
+        ]
+    },
+    {
+        "id": 4,
+        "text": "what items do i have on my amex card this month",
+        "predictions": [
+            "bill_balance",
+            "credit_limit",
+            "bill_due",
+            "transactions",
+            "payday"
+        ]
+    },
+    {
+        "id": 5,
+        "text": "i want to update you name, please",
+        "predictions": [
+            "change_ai_name",
+            "what_is_your_name"
+        ]
+    },
+    {
+        "id": 6,
+        "text": "i'm desperate to know about my cc processing",
+        "predictions": [
+            "pin_change",
+            "replacement_card_duration",
+            "w2"
+        ]
+    },
+    {
+        "id": 7,
+        "text": "do i overspend when it comes to fast food",
+        "predictions": [
+            "bill_balance",
+            "spending_history"
+        ]
+    },
+    {
+        "id": 8,
+        "text": "what is on my calander for valentines day",
+        "predictions": [
+            "nutrition_info",
+            "shopping_list",
+            "food_last",
+            "calendar",
+            "date",
+            "gas",
+            "ingredients_list"
+        ]
+    },
+    {
+        "id": 9,
+        "text": "did they process the credit card i applied for",
+        "predictions": [
+            "new_card",
+            "application_status"
+        ]
+    },
+    {
+        "id": 10,
+        "text": "tell me some things i can do to secure my credit rating",
+        "predictions": [
+            "improve_credit_score",
+            "credit_score"
+        ]
+    },
+    {
+        "id": 11,
+        "text": "lost report card, need new one",
+        "predictions": [
+            "report_lost_card",
+            "damaged_card"
+        ]
+    },
+    {
+        "id": 12,
+        "text": "were you born in a hospital",
+        "predictions": [
+            "where_are_you_from",
+            "how_old_are_you"
+        ]
+    },
+    {
+        "id": 13,
+        "text": "how much paid time off have i earned to date",
+        "predictions": [
+            "pto_balance",
+            "pto_used"
+        ]
+    },
+    {
+        "id": 14,
+        "text": "it's definitely a maybe for that",
+        "predictions": [
+            "yes",
+            "maybe"
+        ]
+    },
+    {
+        "id": 15,
+        "text": "is the expressway slow this morning",
+        "predictions": [
+            "traffic",
+            "distance"
+        ]
+    },
+    {
+        "id": 16,
+        "text": "i don't remember buying this",
+        "predictions": [
+            "report_lost_card",
+            "balance",
+            "shopping_list",
+            "transactions",
+            "replacement_card_duration"
+        ]
+    },
+    {
+        "id": 17,
+        "text": "i spent 34 dollars for 12 gallons of paint what is the average price for each gallon",
+        "predictions": [
+            "measurement_conversion",
+            "exchange_rate",
+            "calculator"
+        ]
+    },
+    {
+        "id": 18,
+        "text": "the name is nick",
+        "predictions": [
+            "change_ai_name",
+            "change_user_name"
+        ]
+    },
+    {
+        "id": 19,
+        "text": "merci beaucoup",
+        "predictions": [
+            "restaurant_reviews",
+            "change_ai_name",
+            "greeting",
+            "goodbye"
+        ]
+    },
+    {
+        "id": 20,
+        "text": "when is my next direct deposit from my job",
+        "predictions": [
+            "transactions",
+            "direct_deposit"
+        ]
+    },
+    {
+        "id": 21,
+        "text": "let me know the credit card application status",
+        "predictions": [
+            "new_card",
+            "application_status"
+        ]
+    },
+    {
+        "id": 22,
+        "text": "what type of socker conveters do i need in africa",
+        "predictions": [
+            "gas_type",
+            "car_rental",
+            "plug_type"
+        ]
+    },
+    {
+        "id": 23,
+        "text": "am i scheduled for any gatherings today",
+        "predictions": [
+            "meeting_schedule",
+            "calendar"
+        ]
+    },
+    {
+        "id": 24,
+        "text": "where would i get my rewards for my master card",
+        "predictions": [
+            "redeem_rewards",
+            "rewards_balance"
+        ]
+    },
+    {
+        "id": 25,
+        "text": "i saw suspicious activity on my bank account",
+        "predictions": [
+            "account_blocked",
+            "freeze_account",
+            "report_fraud"
+        ]
+    },
+    {
+        "id": 26,
+        "text": "i can't answer that",
+        "predictions": [
+            "no",
+            "maybe"
+        ]
+    },
+    {
+        "id": 27,
+        "text": "tell me how many much fat is in the hamburger",
+        "predictions": [
+            "nutrition_info",
+            "ingredients_list",
+            "calories"
+        ]
+    },
+    {
+        "id": 28,
+        "text": "what does it say on the clock",
+        "predictions": [
+            "time",
+            "timer",
+            "calendar"
+        ]
+    },
+    {
+        "id": 29,
+        "text": "what's tomorrow on the calender",
+        "predictions": [
+            "calendar",
+            "date"
+        ]
+    },
+    {
+        "id": 30,
+        "text": "i need to know the due date for my credit card",
+        "predictions": [
+            "expiration_date",
+            "replacement_card_duration"
+        ]
+    },
+    {
+        "id": 31,
+        "text": "how come my credit card isn't working",
+        "predictions": [
+            "card_declined",
+            "damaged_card"
+        ]
+    },
+    {
+        "id": 32,
+        "text": "tell me the highest amount i can spend on my discover card",
+        "predictions": [
+            "credit_limit",
+            "min_payment"
+        ]
+    },
+    {
+        "id": 33,
+        "text": "what is my vacation schedule look like",
+        "predictions": [
+            "pto_request_status",
+            "pto_balance"
+        ]
+    },
+    {
+        "id": 34,
+        "text": "what is the distance to austin city limits from my hotel , the holiday inn at austin",
+        "predictions": [
+            "directions",
+            "distance"
+        ]
+    },
+    {
+        "id": 35,
+        "text": "how much is the irs going to get from me",
+        "predictions": [
+            "bill_balance",
+            "income",
+            "taxes"
+        ]
+    },
+    {
+        "id": 36,
+        "text": "that might be the case",
+        "predictions": [
+            "no",
+            "yes",
+            "maybe"
+        ]
+    },
+    {
+        "id": 37,
+        "text": "who is responsible for who you are",
+        "predictions": [
+            "who_do_you_work_for",
+            "who_made_you"
+        ]
+    },
+    {
+        "id": 38,
+        "text": "bump some jams",
+        "predictions": [
+            "play_music",
+            "update_playlist"
+        ]
+    },
+    {
+        "id": 39,
+        "text": "schedule my meeting with jim at 3pm",
+        "predictions": [
+            "schedule_meeting",
+            "meeting_schedule"
+        ]
+    },
+    {
+        "id": 40,
+        "text": "put a meeting on my schedule with pam for 3:00pm on february 11th",
+        "predictions": [
+            "schedule_meeting",
+            "meeting_schedule",
+            "calendar",
+            "calendar_update"
+        ]
+    },
+    {
+        "id": 41,
+        "text": "did i get my day off",
+        "predictions": [
+            "pto_request_status",
+            "pto_balance",
+            "next_holiday",
+            "pto_used"
+        ]
+    },
+    {
+        "id": 42,
+        "text": "can you see if i have any vacation days available for a request",
+        "predictions": [
+            "pto_request",
+            "pto_request_status",
+            "pto_balance"
+        ]
+    },
+    {
+        "id": 43,
+        "text": "i need to get 3 riders to union station",
+        "predictions": [
+            "uber",
+            "book_flight"
+        ]
+    },
+    {
+        "id": 44,
+        "text": "write down appointment for tomorrow on my calendar",
+        "predictions": [
+            "calendar",
+            "calendar_update"
+        ]
+    },
+    {
+        "id": 45,
+        "text": "when can i expect meal of salmon to be finished",
+        "predictions": [
+            "cook_time",
+            "how_busy"
+        ]
+    },
+    {
+        "id": 46,
+        "text": "x needs to be called by me",
+        "predictions": [
+            "change_ai_name",
+            "change_user_name"
+        ]
+    },
+    {
+        "id": 47,
+        "text": "please lower your volume",
+        "predictions": [
+            "whisper_mode",
+            "change_volume"
+        ]
+    },
+    {
+        "id": 48,
+        "text": "can we please",
+        "predictions": [
+            "repeat",
+            "greeting",
+            "yes",
+            "maybe",
+            "cancel",
+            "change_volume"
+        ]
+    },
+    {
+        "id": 49,
+        "text": "ai, how long have you been working",
+        "predictions": [
+            "what_are_your_hobbies",
+            "last_maintenance",
+            "who_do_you_work_for",
+            "how_old_are_you",
+            "pto_balance",
+            "pto_used"
+        ]
+    },
+    {
+        "id": 50,
+        "text": "what does it take to make buttermilk pancakes",
+        "predictions": [
+            "recipe",
+            "ingredients_list"
+        ]
+    },
+    {
+        "id": 51,
+        "text": "what appointments do i have tomorrow after 1:00pm",
+        "predictions": [
+            "meeting_schedule",
+            "calendar"
+        ]
+    },
+    {
+        "id": 52,
+        "text": "what could help me locate myself",
+        "predictions": [
+            "share_location",
+            "current_location"
+        ]
+    },
+    {
+        "id": 53,
+        "text": "how much was my last target trip",
+        "predictions": [
+            "spending_history",
+            "pto_used"
+        ]
+    },
+    {
+        "id": 54,
+        "text": "hey, how do i call your attention",
+        "predictions": [
+            "smart_home",
+            "whisper_mode",
+            "change_ai_name",
+            "what_is_your_name",
+            "greeting"
+        ]
+    },
+    {
+        "id": 55,
+        "text": "speak it again slowly",
+        "predictions": [
+            "repeat",
+            "change_speed"
+        ]
+    },
+    {
+        "id": 56,
+        "text": "i don't think so",
+        "predictions": [
+            "no",
+            "maybe"
+        ]
+    },
+    {
+        "id": 57,
+        "text": "where can i find measurement conversions",
+        "predictions": [
+            "measurement_conversion",
+            "w2",
+            "apr",
+            "calculator"
+        ]
+    },
+    {
+        "id": 58,
+        "text": "might be true, might be false",
+        "predictions": [
+            "no",
+            "maybe"
+        ]
+    },
+    {
+        "id": 59,
+        "text": "do you think my name is jeff",
+        "predictions": [
+            "user_name",
+            "change_user_name"
+        ]
+    },
+    {
+        "id": 60,
+        "text": "where is the closest target",
+        "predictions": [
+            "directions",
+            "distance",
+            "current_location"
+        ]
+    },
+    {
+        "id": 61,
+        "text": "is the bill due",
+        "predictions": [
+            "bill_balance",
+            "bill_due"
+        ]
+    },
+    {
+        "id": 62,
+        "text": "can you assist me on my fradulent activity on my chase card",
+        "predictions": [
+            "account_blocked",
+            "freeze_account",
+            "transactions",
+            "report_fraud",
+            "international_fees"
+        ]
+    },
+    {
+        "id": 63,
+        "text": "i'm drawing a blank",
+        "predictions": [
+            "repeat",
+            "no",
+            "maybe"
+        ]
+    },
+    {
+        "id": 64,
+        "text": "increase your voice box",
+        "predictions": [
+            "change_speed",
+            "change_volume"
+        ]
+    },
+    {
+        "id": 65,
+        "text": "they sold out of tacos at the buffet",
+        "predictions": [
+            "order",
+            "restaurant_reservation",
+            "cancel_reservation",
+            "how_busy",
+            "shopping_list_update"
+        ]
+    },
+    {
+        "id": 66,
+        "text": "where can i find information on oil changes for my car",
+        "predictions": [
+            "oil_change_how",
+            "oil_change_when"
+        ]
+    },
+    {
+        "id": 67,
+        "text": "alternatives to white wine in food",
+        "predictions": [
+            "ingredients_list",
+            "ingredient_substitution"
+        ]
+    },
+    {
+        "id": 68,
+        "text": "go back to normal mode please",
+        "predictions": [
+            "whisper_mode",
+            "cancel"
+        ]
+    },
+    {
+        "id": 69,
+        "text": "when can i receive rewards on my visa card",
+        "predictions": [
+            "redeem_rewards",
+            "expiration_date",
+            "rewards_balance"
+        ]
+    },
+    {
+        "id": 70,
+        "text": "what questions are you programmed to answer",
+        "predictions": [
+            "who_made_you",
+            "are_you_a_bot"
+        ]
+    },
+    {
+        "id": 71,
+        "text": "i wish you were here earlier",
+        "predictions": [
+            "repeat",
+            "goodbye",
+            "thank_you",
+            "cancel"
+        ]
+    },
+    {
+        "id": 72,
+        "text": "can you send me a new credit card please mine is getting old and unusable",
+        "predictions": [
+            "expiration_date",
+            "card_declined",
+            "damaged_card",
+            "replacement_card_duration"
+        ]
+    },
+    {
+        "id": 73,
+        "text": "are you my insubordinate",
+        "predictions": [
+            "meaning_of_life",
+            "no",
+            "are_you_a_bot",
+            "definition"
+        ]
+    },
+    {
+        "id": 74,
+        "text": "time to order and receive a new credit card",
+        "predictions": [
+            "order_status",
+            "replacement_card_duration"
+        ]
+    },
+    {
+        "id": 75,
+        "text": "use your indoor voice please",
+        "predictions": [
+            "whisper_mode",
+            "change_accent",
+            "change_speed"
+        ]
+    },
+    {
+        "id": 76,
+        "text": "what do i take home",
+        "predictions": [
+            "balance",
+            "transactions",
+            "income",
+            "what_can_i_ask_you",
+            "travel_suggestion"
+        ]
+    },
+    {
+        "id": 77,
+        "text": "how bad is my current credit score",
+        "predictions": [
+            "improve_credit_score",
+            "credit_score"
+        ]
+    },
+    {
+        "id": 78,
+        "text": "that's a possibility",
+        "predictions": [
+            "yes",
+            "maybe"
+        ]
+    },
+    {
+        "id": 79,
+        "text": "vacation request please",
+        "predictions": [
+            "pto_request",
+            "pto_request_status"
+        ]
+    },
+    {
+        "id": 80,
+        "text": "idk",
+        "predictions": [
+            "no",
+            "yes",
+            "maybe"
+        ]
+    },
+    {
+        "id": 81,
+        "text": "until next time!",
+        "predictions": [
+            "repeat",
+            "flip_coin",
+            "greeting",
+            "goodbye",
+            "next_song",
+            "next_holiday",
+            "cancel"
+        ]
+    },
+    {
+        "id": 82,
+        "text": "how much did i spend on my most recent transaction",
+        "predictions": [
+            "bill_balance",
+            "transactions",
+            "spending_history"
+        ]
+    },
+    {
+        "id": 83,
+        "text": "gps coordinates share with home",
+        "predictions": [
+            "share_location",
+            "current_location"
+        ]
+    },
+    {
+        "id": 84,
+        "text": "go ahead and say all of the points on my list of to-do's please",
+        "predictions": [
+            "redeem_rewards",
+            "todo_list",
+            "rewards_balance"
+        ]
+    },
+    {
+        "id": 85,
+        "text": "call me by my name",
+        "predictions": [
+            "user_name",
+            "change_user_name"
+        ]
+    },
+    {
+        "id": 86,
+        "text": "whats my bank accounts look like",
+        "predictions": [
+            "account_blocked",
+            "balance"
+        ]
+    },
+    {
+        "id": 87,
+        "text": "does the bellagio have any reservations",
+        "predictions": [
+            "accept_reservations",
+            "restaurant_reservation",
+            "confirm_reservation"
+        ]
+    },
+    {
+        "id": 88,
+        "text": "please let's do it",
+        "predictions": [
+            "yes",
+            "maybe",
+            "cancel"
+        ]
+    },
+    {
+        "id": 89,
+        "text": "where is the closest gas station to glendale",
+        "predictions": [
+            "directions",
+            "distance"
+        ]
+    },
+    {
+        "id": 90,
+        "text": "what can i put on my bank of america card",
+        "predictions": [
+            "credit_limit",
+            "pin_change",
+            "new_card"
+        ]
+    },
+    {
+        "id": 91,
+        "text": "how long until delta is at the gate",
+        "predictions": [
+            "distance",
+            "flight_status"
+        ]
+    },
+    {
+        "id": 92,
+        "text": "inform carl that he is an awful human being",
+        "predictions": [
+            "text",
+            "reminder_update",
+            "change_ai_name"
+        ]
+    },
+    {
+        "id": 93,
+        "text": "i need a clear calendar for april 15",
+        "predictions": [
+            "calendar",
+            "calendar_update"
+        ]
+    },
+    {
+        "id": 94,
+        "text": "if i lose my credit card, will i get a replacement immediately",
+        "predictions": [
+            "damaged_card",
+            "replacement_card_duration"
+        ]
+    },
+    {
+        "id": 95,
+        "text": "i want to update you name",
+        "predictions": [
+            "change_ai_name",
+            "what_is_your_name"
+        ]
+    },
+    {
+        "id": 96,
+        "text": "can i get a reservation at melting pot tomorrow",
+        "predictions": [
+            "accept_reservations",
+            "restaurant_reservation"
+        ]
+    },
+    {
+        "id": 97,
+        "text": "how long will it take to make the wings",
+        "predictions": [
+            "distance",
+            "cook_time"
+        ]
+    },
+    {
+        "id": 98,
+        "text": "who do you think i am",
+        "predictions": [
+            "user_name",
+            "are_you_a_bot"
+        ]
+    },
+    {
+        "id": 99,
+        "text": "that answer's above my pay scale",
+        "predictions": [
+            "redeem_rewards",
+            "improve_credit_score",
+            "payday",
+            "income",
+            "min_payment"
+        ]
+    },
+    {
+        "id": 100,
+        "text": "what your numerical digit to display as your age",
+        "predictions": [
+            "how_old_are_you",
+            "w2",
+            "calculator"
+        ]
+    },
+    {
+        "id": 101,
+        "text": "how close is a gas station to mcdonalds",
+        "predictions": [
+            "directions",
+            "distance"
+        ]
+    },
+    {
+        "id": 102,
+        "text": "how many years have you been operating",
+        "predictions": [
+            "last_maintenance",
+            "how_old_are_you"
+        ]
+    },
+    {
+        "id": 103,
+        "text": "help with credit card application status",
+        "predictions": [
+            "new_card",
+            "application_status"
+        ]
+    },
+    {
+        "id": 104,
+        "text": "open yesterday's last payment",
+        "predictions": [
+            "bill_due",
+            "payday"
+        ]
+    },
+    {
+        "id": 105,
+        "text": "do you want me to shop for peanut butter",
+        "predictions": [
+            "order",
+            "shopping_list"
+        ]
+    },
+    {
+        "id": 106,
+        "text": "why won't you let me pay with my credit card",
+        "predictions": [
+            "card_declined",
+            "pay_bill"
+        ]
+    },
+    {
+        "id": 107,
+        "text": "can i fly with my razors or are there restrictions",
+        "predictions": [
+            "carry_on",
+            "flight_status"
+        ]
+    },
+    {
+        "id": 108,
+        "text": "get happy on my rb playlist",
+        "predictions": [
+            "play_music",
+            "update_playlist"
+        ]
+    },
+    {
+        "id": 109,
+        "text": "how can i get my rewards for my master card",
+        "predictions": [
+            "redeem_rewards",
+            "rewards_balance"
+        ]
+    },
+    {
+        "id": 110,
+        "text": "dates for my car in the shop",
+        "predictions": [
+            "last_maintenance",
+            "oil_change_when",
+            "schedule_maintenance"
+        ]
+    },
+    {
+        "id": 111,
+        "text": "never mind, don't do that",
+        "predictions": [
+            "no",
+            "cancel"
+        ]
+    },
+    {
+        "id": 112,
+        "text": "can you tell me the credit card application status",
+        "predictions": [
+            "new_card",
+            "application_status"
+        ]
+    },
+    {
+        "id": 113,
+        "text": "do you know when my card will come in",
+        "predictions": [
+            "expiration_date",
+            "replacement_card_duration"
+        ]
+    },
+    {
+        "id": 114,
+        "text": "how can i claim my rewards for my visa card",
+        "predictions": [
+            "redeem_rewards",
+            "rewards_balance"
+        ]
+    },
+    {
+        "id": 115,
+        "text": "let's change what you respond to",
+        "predictions": [
+            "repeat",
+            "change_accent",
+            "change_ai_name",
+            "translate",
+            "change_speed",
+            "definition"
+        ]
+    },
+    {
+        "id": 116,
+        "text": "make a quarterly payment on my life insurance premium",
+        "predictions": [
+            "pay_bill",
+            "min_payment"
+        ]
+    },
+    {
+        "id": 117,
+        "text": "could you insert broken by evanescence to my music",
+        "predictions": [
+            "play_music",
+            "update_playlist"
+        ]
+    },
+    {
+        "id": 118,
+        "text": "how do i get help with a vacation itinerary",
+        "predictions": [
+            "pto_request",
+            "pto_request_status"
+        ]
+    }
+]

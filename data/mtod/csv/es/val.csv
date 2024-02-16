@@ -1,0 +1,1984 @@
+utterance,labels
+Configurar mi alarma por 60 minutos ,set_alarm
+Cancelar todas las alarmas ,cancel_alarm
+Cuánto tiempo falta para la alarma,time_left_on_alarm
+Mostrar todas las alarmas prestablecidas ,show_alarms
+Apagar alarma por favor ,cancel_alarm
+Establecer alarma para las 5 pm,set_alarm
+Borrar alarma para las 5 pm ,cancel_alarm
+Establecer alarma cada 4 horas ,set_alarm
+Cambiar mi alarma de las 7 en punto a seis y treienta ,modify_alarm
+Establecer alarma por cada 10 minutos ,set_alarm
+Establecer alarma para que se suene en una hora.,set_alarm
+Establecer alarma para las 10 am ,set_alarm
+Establecer alarma por cada 15 minutos por una hora ,set_alarm
+Cuántas alarmas tengo configuradas?,show_alarms
+Borrar alarma establecida para las 7:00 am,cancel_alarm
+Muéstrame todas las alarmas ,show_alarms
+Encender mi alarma ,set_alarm
+Mostrar alarmas restantes ,show_alarms
+Cancelar la última alarma ,cancel_alarm
+Cuánto minutos más flatan para que suene mi alarma?,time_left_on_alarm
+Establecer alarma para las 6am,set_alarm
+Establecer alarma para esta noche a las 3 pm,set_alarm
+Cancelar mi alarma de las 6:30,cancel_alarm
+Para cuándo está programada mi alarma?,show_alarms
+Configurar alarma para las 9pm por favor,set_alarm
+Cambiar la hora de la alarma de mañana a las 8 am,modify_alarm
+Cancelar todas las alarmas,cancel_alarm
+Configurar alarma para las 8 am mañana,set_alarm
+Programar una alarma el martes en la mañana ,set_alarm
+Cancelar mis alarmas,cancel_alarm
+Programar una alarma para cada viernes a las 4 pm,set_alarm
+Programar una alarma para cada 20 minutos,set_alarm
+Programar una alarma para medianoche,set_alarm
+Programar alarma para las 6 am de cada dia de la semana ,set_alarm
+Cancelar mi alarma de mañana en la mañana ,cancel_alarm
+Canclar mi alarma de las 9 am,cancel_alarm
+Programar una alarma para mañana a las 6 am ,set_alarm
+Muéstrame todas las alarmas de hoy por favor,show_alarms
+Crear alarma por cada 20 minutos desde hora,set_alarm
+"Programar tres alarmas, con 20 minutos de diferencia entre cada una, comenzando en 20 minutos a partir de ahora",set_alarm
+Muestra la hora de la alarma del martes ,show_alarms
+Programando alarma para las 6am,set_alarm
+Borrar la alarma de las 4 am por los próximos dos días por favor ,cancel_alarm
+Cancelar mi alarma de las 5 am ,cancel_alarm
+Cancelar todas las alarmas ,cancel_alarm
+Programar alarma para las 10PM,set_alarm
+Cancelar alarma para esta noche a las 7 pm ,cancel_alarm
+Programar una alarma para el primero de septiembre a las 12 del medio día ,set_alarm
+Programar alarma para mañana ,set_alarm
+Nueva alarma para el domingo a las 10 am ,set_alarm
+Programar alarma de mañana a las 10 am ,set_alarm
+Cancelar todas las alarmas ,cancel_alarm
+Cancelar alarma del martes a las 5 am,cancel_alarm
+Cancelar alarma conectada al recordatorio del medicamento,cancel_alarm
+Crear alarma para los fines de semana a las 2 pm ,set_alarm
+Cancelar todas las alarmas de verano,cancel_alarm
+Programar alarma para las 9:00 am,set_alarm
+Programar alarma de la cena en una 1 hora ,set_alarm
+Programar una alarma por 45 minutos desde ahora ,set_alarm
+Eliminar todas las alarmas ,cancel_alarm
+Programar una alarma para las seis de la mañana mañana,set_alarm
+Programar mi alarma para mañana a las 5:45 am,set_alarm
+Apagar mi alarma ,cancel_alarm
+Cancelar alarma ,cancel_alarm
+Programar la alarma para las 8 pm ,set_alarm
+Programar alarma por cada 30 segundos ,set_alarm
+Desactivar mi alarma para mañana ,cancel_alarm
+repetir esta alarma 7 dias por semana,modify_alarm
+tengo una alarma por la mañana?,show_alarms
+configurar alarma para las 7,set_alarm
+desconectar todas las alarmas,cancel_alarm
+configurar la alarma de las 5 a.m. todos los días excepto los domingos,set_alarm
+Programar una alarma para mañana a las 6 am ,set_alarm
+Cuántas alarma tengo programas para mañana ,show_alarms
+Programar una alarma en una hora desde ahora.,set_alarm
+configurar alarma para las 6:00 AM mañana,set_alarm
+cuando mi alarma va a buzinar,show_alarms
+configurar una alarma,set_alarm
+Cuánto tiempo queda para mis alarmas,time_left_on_alarm
+Programar alarma para las 5 am ,set_alarm
+Encender alarma ,set_alarm
+Programar una alarma para las 7 am ,set_alarm
+¿Configuré una alarma para las 9pm?,show_alarms
+Programar alarma todos los días a las 5 pm ,set_alarm
+Borrar alarma de los viernes ,cancel_alarm
+Programar esta nueva alarma para las 6 am ,set_alarm
+configurar mi alarma para cada 25 minutos,set_alarm
+configurar mi alarma para las 15:00/ 3 p.m,set_alarm
+configurar alarma para las 730 am,set_alarm
+borrar mi alarma,cancel_alarm
+configurar la alarma para que se borre de cada 30 segundos para 5 minutos,set_alarm
+cancelar alarma,cancel_alarm
+configurar alarma llamada Christie Sheldon para las 9:55pm hoy por la noche,set_alarm
+configurar la alarma para cuatro horas,set_alarm
+a que hora esta mi alarma configurada?,show_alarms
+configurar una alarma para cada 5 minutos,set_alarm
+cambia la alarma para las 10 am,modify_alarm
+enseñar todas mis alarmas para mañana,show_alarms
+¿Cuánto tiempo tengo hasta que suene mi próxima alarma?,time_left_on_alarm
+desconectar la alarma hasta Lunes por la mañana,cancel_alarm
+configurar una alarma para lunes a las 3 am,set_alarm
+alarma lista en 30 segudnos,set_alarm
+configurar una alarma para las 8am,set_alarm
+borrar todas las alarmas,cancel_alarm
+configurar la alarma para las 4 am mañana,set_alarm
+me gustaría configurar una alarma por 54 minutos,set_alarm
+configurar alarma para las 8 am mañana,set_alarm
+configurar mi alarma para las 4 am,set_alarm
+cancelar la alarma para esta tarde,cancel_alarm
+configurar una 2ª alarma para las 6am.,set_alarm
+configurar alarma para cada 10 minutos,set_alarm
+cancelar la alarma para las 8pm en los viernes,cancel_alarm
+configura alarma para las 7 pm todos los dias para este mês,set_alarm
+configurar alarma cada minuto por 8 minutos,set_alarm
+configurar alarma para martes 1am,set_alarm
+configurar nueva alarma para Miercoles el 15 a las 12 pm,set_alarm
+configurar la alarma para las 8 pm,set_alarm
+enseñar todas las alarmas para la proxima semana,show_alarms
+configurar alarma Para cada 3 minutos,set_alarm
+cuales son mis alarmas,show_alarms
+necesito que se me configure una alarma,set_alarm
+cancelar todas las alarmas por favor,cancel_alarm
+configurar alarma para las 11 am en los fin de semanas,set_alarm
+no repetir alarmas,cancel_alarm
+configurar alarma para las 6 am mañana,set_alarm
+cancelar mi alarma para mañana por la mañana,cancel_alarm
+borrar alarmas para el jueves,cancel_alarm
+enseñar todas mis alarmas para mañana,show_alarms
+se podria borrar la ultima alarma,cancel_alarm
+configurar alarma para lunes a las 5:00 pm,set_alarm
+configurar alarma para las 9 a.m.,set_alarm
+cancelar alarma para las 4 pm mañana.,cancel_alarm
+configurar alarma para las 7 am mañana,set_alarm
+configurar alarma para las 6:30am,set_alarm
+configurar alarma para las 8:17am.,set_alarm
+configurar alarma para las 11am mañana.,set_alarm
+nueva alarma para mañana a las 10:30 am por favor,set_alarm
+conectar todas las alarmas,set_alarm
+cancelar mi alarma por la mañana,cancel_alarm
+Borrar todas las alarmas establecidas.,cancel_alarm
+cancelar alarma para las 10:00 PM,cancel_alarm
+por favor configurar alarma para las 5 am de Lunes a Viernes,set_alarm
+programar una alarma diaria para las 7:30 p.m hasta que se borre,set_alarm
+configurar alarma para las 7 am de Lunes hasta Viernes.,set_alarm
+cancelar mi alarma en mi cumpleaños,cancel_alarm
+configurar alarma para las 6 pm Jueves,set_alarm
+configurar alarma para recordarme de preparar mis comidas.,set_alarm
+cancelar alarma para el Martes por la noche,cancel_alarm
+cuales alarmas yo tengo configuradas para mañana?,show_alarms
+configurar una nueva alarma para las 11pm.,set_alarm
+cancelar mi alarma para las 12 pm,cancel_alarm
+agregar una alarma para las 9:30am para Viernes,set_alarm
+necesito de configurar una nueva alarma,set_alarm
+a que hora es mi primera alarma mañana?,show_alarms
+Cuál es la próxima alarma configurada ,show_alarms
+"cancelar todas mis alarmas, por favor",cancel_alarm
+cancelar todas las alarmas despues del 21 st..,cancel_alarm
+cambiar la alarma de mañana por la mañana a las 6 am.,modify_alarm
+configurar alarma para las 430am el martes y jeuves de la proxima semana,set_alarm
+cuanto tiempo hasta que buzine la alarma,time_left_on_alarm
+configurar la alarma par alas 10 pm y nombreale tiempo de dormir,set_alarm
+configurar mi alarma para las 6pm el Miercoles,set_alarm
+enseñar todas mis alarmas,show_alarms
+Apagar alarma,cancel_alarm
+Establecer una alarma para mañana en la mañana a las 5.,set_alarm
+configurar alarma para las 7pm el martes,set_alarm
+configurar alarma cada minutos por 30 minutos.,set_alarm
+configurar alarma para las 6:50 pm,set_alarm
+enseñar todas mis alarmas para Lunes,show_alarms
+configurar una alarma para llamar a mi hermano,set_alarm
+cuantos minutos hasta que suena la alarma,time_left_on_alarm
+configurar alarma para las 10 am,set_alarm
+alarma de cada cinco minutos para cada 20 minutos por favor,set_alarm
+cancelar alarmas de los fin de semana,cancel_alarm
+cambiar alarma de las 5:00a.m para las 5:00p.m,modify_alarm
+Quiero que agregues una nueva alarma para las 8:30AM,set_alarm
+cancelar mi alarma del martes de despertar,cancel_alarm
+borrar mi alarma de las 6 pm,cancel_alarm
+hacer una nueva alarma para Jueves a la 1pm.,set_alarm
+posponer alarma por 2 minutos,snooze_alarm
+configurar alarma cada 30 minutos por 2 horas,set_alarm
+estan todas las alarmas establecidas para la semana,show_alarms
+cuánto tiempo hasta que mi alarma se apaga,time_left_on_alarm
+por favor posponer mi alarma por otros 10 minutos.,snooze_alarm
+cancelar alarma para mañana,cancel_alarm
+configurar alarma para las 10am,set_alarm
+posponer alarma por 10 minutos por favor,snooze_alarm
+posponer alarma por 10 minutos ,snooze_alarm
+configurar alarma cada 30 minutos,set_alarm
+canceçar alarma para mañana por la mañana,cancel_alarm
+detener alarma para las 6:00 am,cancel_alarm
+tiempo de alarma restante,time_left_on_alarm
+posponer alarma,snooze_alarm
+descartar todas las alarmas,cancel_alarm
+configurar alarma para las 4:15 am,set_alarm
+cancelar alarma para el domingo,cancel_alarm
+configurar alarma para la reunión de las pesadillas,set_alarm
+configurar alarma para las 4:30,set_alarm
+desconectar alarma de las 8 am,cancel_alarm
+por favor configurar alarma para las 6 am hoy,set_alarm
+por favor configurar mi alarma nocturna para las 7pm,set_alarm
+crear una alarma para cada 30 minutos desde ahora.,set_alarm
+configurar alarma para 80 minutos desde ahora.,set_alarm
+cancelar mi alarma para mañana por la mañana,cancel_alarm
+cambiar alarma de cada cinco minutos para cada seis minutos,modify_alarm
+configurar alarma por 15 minutos,set_alarm
+Cancelar mi minutero de las 4 p.m. ,cancel_alarm
+cancelar alarma,cancel_alarm
+configurar una alarma para cada 10 minutos despues de las 6 am,set_alarm
+empezar alarma,set_alarm
+"configurar 2 alarmas, una para las 5 am y otra para las 5:30 am.",set_alarm
+cancelar todas las alarmas,cancel_alarm
+configurar una alarma par alas 1pm mañana,set_alarm
+enseñar todas mis alarmas,show_alarms
+configurar alarma para las 6 am,set_alarm
+me podrias enseñarme las alarmas?,show_alarms
+"configurar nuevas alarmas, cada 30 segundos, para la proxima hora",set_alarm
+enseñarme todas mis alarmas,show_alarms
+posponer mis alarms por cinco minutos,snooze_alarm
+cancelar mi alarma para mañana por la mañana,cancel_alarm
+configurar alarma cada 30 minutos por 3 horas,set_alarm
+configurar alarma para el Domingo por 5 minutos,set_alarm
+despiertame a alas 7am.,set_alarm
+configuré una alarma para mañana?,show_alarms
+¿Dime cuándo están configuradas todas las alarmas?,show_alarms
+¿A qué hora tengo configurada una alarma?,show_alarms
+configurar alarmas para mi medicina a las 8 pm,set_alarm
+configurar alarma para las 7am todos los días,set_alarm
+configurar una alarma para als 9:00 am en el fin de semana,set_alarm
+dime cuales alarmas tengo configuradas,show_alarms
+configurar alarma para las 6pm,set_alarm
+borrar alarma de las 4pm,cancel_alarm
+configurar nueva alarma para las 5 pm hoy por la noche,set_alarm
+Apagar alarma,cancel_alarm
+Posponer todas las alarmas,snooze_alarm
+Configurar alarma para las 01:00 am,set_alarm
+Configurar alarma para el domingo para las 08:00 am,set_alarm
+Apagar todas las alarmas,cancel_alarm
+Eliminar todas las alarmas,cancel_alarm
+Configurar alarma a las 06:00 pm para mañana,set_alarm
+Establecer una alarma recurrente para las 06:25 am,set_alarm
+Configurar una alarma a las 06:00 am,set_alarm
+A que hora configuré mi alarma de mañana por la mañana?,show_alarms
+Configurar una alarma por cada cinco minutos durante la próxima hora.,set_alarm
+Necesito una alarma para un desayuno a las 9 am,set_alarm
+Cuando es la alarma del día siguiente,show_alarms
+Configurar mi alarma para las 07:00 am mañana por favor,set_alarm
+Para todas las alarmas,cancel_alarm
+Mostrar todas las alarmas,show_alarms
+Configurar mi alarma por favor para salir a las 9 am el miércoles,set_alarm
+Configurar alarma las 06:00 am cada mañana,set_alarm
+Eliminar mi alarma para las 5 en punto,cancel_alarm
+Cuándo tengo mi alarma configurada?,show_alarms
+Para alarma,cancel_alarm
+Configurar alarma para las 06:00 am,set_alarm
+Que hora queda en la alarma?,time_left_on_alarm
+Configurar alarma para las 06:00 am,set_alarm
+Configurar alarma para las 05:00 pm esta noche,set_alarm
+Eliminar todas las alarmas,cancel_alarm
+Configurar alarma por 5 minutos,set_alarm
+Puedes configurar mi alarma para las 7:30 de la mañana?,set_alarm
+Encender una alarma,set_alarm
+Por favor cancelar todas las alarmas,cancel_alarm
+Qué alarmas he establecido la próxima semana?,show_alarms
+Cancelar todas las alarmas,cancel_alarm
+Configurar una alarma para las 8 mañana en la mañana,set_alarm
+Configurar una alarma para 5:50 para terminar con la práctica de voleibol y derribar las redes,set_alarm
+Necesito una alarma para las 05:00 pm,set_alarm
+Configurar la alarma a las siente y siete quince,set_alarm
+Posponer la alarma,snooze_alarm
+Posponer alarma por 10 minutos,snooze_alarm
+Borra mis alarmas para la próxima semana,cancel_alarm
+"Configurar dos alarmas, separadas por 1 hora.",set_alarm
+Borrar mi útima alarma,cancel_alarm
+Mostrar todas mis alarmas,show_alarms
+Configurar una alarma para recordarme despertar a John en una hora,set_alarm
+Borra mi alarma de mañana a las 6 a.m. ,cancel_alarm
+Configurar una alarma en 6 minutos a partir de ahora,set_alarm
+Configurar alarma a las 5:45pm,set_alarm
+Restablecer esta alarma ahora y que comience a las 2 pm,cancel_alarm
+Muestra las alarmas,show_alarms
+Cancelar todas las alarmas,cancel_alarm
+Apagar todas las alarmas por completo,cancel_alarm
+Cambiar la alarma de las 6am a las 6:30,modify_alarm
+Cancelar la alarma de la cena,cancel_alarm
+Posponer alarma por 15 minutos,snooze_alarm
+"Establecer alarma para el Lunes, Martes, Miércoles, Jueves y Viernes a las 7am",set_alarm
+Establecer alarma para las 6 am por favor,set_alarm
+Cancelar alarma del sábado,cancel_alarm
+Establecer alarma para las 10pm,set_alarm
+Apagar mi alarma.,cancel_alarm
+Repetir alarma de lun-vie a las 6:45 AM,modify_alarm
+Posponer mi alarma,snooze_alarm
+Cancelar todas las alarmas del domingo,cancel_alarm
+Cancelar alarmas,cancel_alarm
+Cancelar todas mis alarmas,cancel_alarm
+Establecer alarma entre semana a las 5 am,set_alarm
+Necesito una alarma todos los días a las 3pm,set_alarm
+Cancelar alarma,cancel_alarm
+Establecer una alarma para las 5:30 am el sábado ,set_alarm
+Configurar una alarma para esta noche a las 8:00AM por favor,set_alarm
+Puedes establer una alarma para despertar a las 6 am,set_alarm
+Cancelar mi alarma para las 5:15am del martes,cancel_alarm
+Establecer alarma para mañana a las 9 am,set_alarm
+Establecer alarma para las 6:48am,set_alarm
+Cancelar la alarma del jueves en la mañana por favor,cancel_alarm
+"Establecer una alarma por cada diez minutos, comenzando a las 5:30 y terminando a las 6 a. m.",set_alarm
+Establecer alarma durante 2 horas,set_alarm
+Establecer alarma para las 3am,set_alarm
+Establecer alarma para las 7am,set_alarm
+Establecer mi alarma para las 8pm de mañana en la noche,set_alarm
+Activar mi alarma de la iglesia ,set_alarm
+Me gustaría crear una nueva alarma para las 8:45 de mañana en la mañana,set_alarm
+Posponer alarma por 3 minutos,snooze_alarm
+Establecer una alarma durante tres horas antes de que mi vuelo esté programado para partir.,set_alarm
+Establecer alarma cada 19 minutos hasta que la apague ,set_alarm
+Establecer alarma para mañana a las 5 am ,set_alarm
+Cuántas alarmas tengo establecidas para este domingo?,show_alarms
+Establecer una alarma cada 2 minutos por 20 minutos ,set_alarm
+Cancelar mi alarma para 1 hora desde ahora,cancel_alarm
+Establecer la alarma para los lunes al mediodía únicamente ,set_alarm
+Establecer alarma para las 2:00 am,set_alarm
+Establecer mi alarma para las 4am de este sábado por favor ,set_alarm
+Establecer alarma para hoy a las 3 pm,set_alarm
+Cancelar todas las alarmas de hoy ,cancel_alarm
+Cancelar todas las alarmas por hoy,cancel_alarm
+Cancelar la alarma para esta noche ,cancel_alarm
+Establecer una nueva alarma ,set_alarm
+Establecer alarma por cada 30 minutos ,set_alarm
+Establecr una alarma para el miércoles a las 6 am ,set_alarm
+Establecer una alarma para el domingo a las 11:00 am ,set_alarm
+Establecer una alarma para el martes a las 9 am ,set_alarm
+Ajustar mi alarma de mañana a las 10 am ,modify_alarm
+Configurar alarma a las 07:00 am del domingo,set_alarm
+Configurar una alarma a las 10:00 pm para las galletas,set_alarm
+Configurar una alarma cada 30 minutos por 2 horas,set_alarm
+Apaga todas las alarmas,cancel_alarm
+Posponer la alarma por 15 minutos,snooze_alarm
+Configurar la alarma para las 11:00 pm esta noche,set_alarm
+Encender alarma,set_alarm
+Configurar una alarma por quince minutos,set_alarm
+Configurar la alarma al final del período de 45 minutos,set_alarm
+Cancelar todas las alarmas,cancel_alarm
+Configurar una alarma en una hora,set_alarm
+Configurar una nueva alarma,set_alarm
+Muestra todas las alarmas,show_alarms
+Muestra todas las alarmas,show_alarms
+Cambiar mi alarma matutina de 06:00 am a las 07:15 am,modify_alarm
+Configurar mi alarma para las 06:00 am,set_alarm
+Cuánto tiempo queda en la alarma?,time_left_on_alarm
+Cancelar todas mis alarmas esta semana,cancel_alarm
+Configurar una alarma para las 06:00 pm,set_alarm
+Configurar alarmas para los miércoles a las 02:00 pm y nuevamente para los jueves,set_alarm
+Posponer la alarma por 15 minutos,snooze_alarm
+Configurar alarma para las 09:00 am mañana,set_alarm
+Olvidar la alarma de mañana,cancel_alarm
+Cuando es mi próxima alarma?,show_alarms
+Cuánto tiempo queda para la próxima alarma?,time_left_on_alarm
+Configurar alarma para cada minuto por 5 minutos,set_alarm
+Cancelar la alarma,cancel_alarm
+Cancerlar mi alarma de la mañana,cancel_alarm
+Configurar la alarma para que suene cada 20 minutos,set_alarm
+Crear una alarma para las 01:06 horas,set_alarm
+Configurar alarma para las 02:00 am,set_alarm
+Configurar alarma para las 07:00 am cada miércoles y jueves,set_alarm
+Cancelar todas las alarmas programadas,cancel_alarm
+Cuantas alarmas están configuradas para hoy?,show_alarms
+Configura la alarma del temporizador para 15 minutos después de empezar,set_alarm
+Crear una nueva alarmar para las 07:30 pm de hoy,set_alarm
+Configurar mi alarma para las 06:00 am el viernes,set_alarm
+Muestra todas las alarmas,show_alarms
+Configurar alarma para las 08:00 am,set_alarm
+Configurar una alarmas para las 07:00 am de mañana,set_alarm
+Borrar todas las alarmas,cancel_alarm
+Configurar la alarma cada minutos por 20 minutos,set_alarm
+Cancelar mi alarma del sábado,cancel_alarm
+Configurar una alarma para las 07:00 am,set_alarm
+Configurar la alarma para las 06:00 am cada día,set_alarm
+Mostrar todas mis alarmas,show_alarms
+Configurar una alarma para las 10:00 am y las 10:00 pm,set_alarm
+Configurar alarma para 40 minutos,set_alarm
+Configurar alarma para las 04:00 am del lunes,set_alarm
+Configurar alarma para esta noche a las 05:00 pm,set_alarm
+Configurar una alarma para las 04:00 am,set_alarm
+Configurar una alarma cada 60 segundos por 10 minutos,set_alarm
+Cuánto tiempo queda hasta que suene la alarma?,time_left_on_alarm
+Cuánto tiempo queda en mi alarma?,time_left_on_alarm
+Cancelar la alarma de las 05:00 pm,cancel_alarm
+Configurar una alarma cada 5 minutos empezando a las 06:00 am,set_alarm
+Agregar 30 segundos a la alarma,modify_alarm
+Configurar una alarma para las 09:00 am de lunes a viernes,set_alarm
+Muestrame todas mis alarmas para las próximas 48 horas,show_alarms
+Configurar una alarma para las 09:00 pm mañana,set_alarm
+Configurar alarma para las 07:00 pm para ver mi show,set_alarm
+Configurar una alarma cada 30 minutos entre las 07:00 am y 11:00 am,set_alarm
+Por favor configurar una alarma para las 07:00 pm esta noche,set_alarm
+Configurar mi alarma para las 07:00 am,set_alarm
+Configurar una alarma para las 08:30 am,set_alarm
+Configurar alarma para cada hora,set_alarm
+Posponer alarma por 1 hora,snooze_alarm
+Cancelar la última alarma,cancel_alarm
+Configurar alarma para las 10:00 am,set_alarm
+Configurar alarma diariamente para las 11:00 am,set_alarm
+Configurar alarma para cada nueve minutos,set_alarm
+Configurar una alarma por 40 minutos,set_alarm
+Cuánto tiempo dura mi alarma?,time_left_on_alarm
+Reanudar la alarma ahora,set_alarm
+Configurar alarma para las 05:00 esta noche,set_alarm
+Muesta todas mis alarmas activas,show_alarms
+Configurar alarma para 30 minutos antes del primer evento en mi calendario,set_alarm
+Configurar una alarma para mañana a las 05:00 am,set_alarm
+Configurar una alarma para las 05:25,set_alarm
+Cancelar mi alarma de las 05:00 pm,cancel_alarm
+Configurar la alarma para una hora,set_alarm
+Eliminar todas las alarmas para el domingo,cancel_alarm
+Configurar mi alarma por 2 horas desde ahora,set_alarm
+Por favor posponer la alarma por 10 minutos más,snooze_alarm
+Necesito una alarma que me recuerde salir por la puerta a las 07:00 am,set_alarm
+Configurar una nueva alarma a las 06:00 pm el 21,set_alarm
+Configurar una alarma para que se apague dentro de 45 minutos,set_alarm
+Posponer por 5 minutos,snooze_alarm
+Posponer 10 minutos,snooze_alarm
+Configurar una alarma para las 05:08 cada día,set_alarm
+Apagar alarma,cancel_alarm
+Configurar alarma por 15 minutos,set_alarm
+A que hora está configurada mi alarma?,show_alarms
+Desactivar mi alarma más temprana durante los próximos tres días,cancel_alarm
+Configurar una alarma para despertarme a las 07:0 am de mañana,set_alarm
+Configurar alarma por 10 minutos,set_alarm
+Configurar alarma cada minuto por 11 minutos,set_alarm
+Configurar mi alarma para las 09:00 am,set_alarm
+Cuánto tiempo le queda la alarma?,time_left_on_alarm
+Configurar alarma para las 05:00 am,set_alarm
+A qué hora es mi alarma?,show_alarms
+Posponer la alarma por 5 minutos,snooze_alarm
+Apagar todas las alarmas para mañana,cancel_alarm
+Configurar alarma para las 06:00 am,set_alarm
+Configurar el posponer por 7 minutos,snooze_alarm
+Configurar alarma por 30 minutos,set_alarm
+Descartar mi próxima alarma,cancel_alarm
+"Configurar alarma para las 06:30 del lunes, martes y viernes?",set_alarm
+Configurar alarma para las 06:30 am mañana,set_alarm
+Mostrar todas las alarmas,show_alarms
+Configurar una alarma por 2 minutos por favor,set_alarm
+Que alarmas tengo configuradas?,show_alarms
+Pon una alarma cada 8 minutos por favor,set_alarm
+Configurar alarma cada 30 minutos por una hora,set_alarm
+Cuál es mi alarma más reciente?,show_alarms
+Mostrar todas las alarmas,show_alarms
+Cuantas alarmas tengo configuradas para el lunes?,show_alarms
+Configurar una alarma para las 06:00 pm,set_alarm
+Recuérdame recoger café para la reunión mañana en la mañana para el trabajo,set_reminder
+Configurar un recordatorio de oración por cada 3 horas del día.,set_reminder
+Eliminar mi recordatorio para mañana,cancel_reminder
+Apagar los recordatorios para hoy,cancel_reminder
+Cancelar mi recordatorio para le dentista,cancel_reminder
+Recuérdame desligar mi computadora esta tarde,set_reminder
+Mostrar todos los recordatorios para el viernes,show_reminders
+Recuérdame en una hora,set_reminder
+Recuérdame cuando tenga que ir a Target para recoger un cepillo de dientes,set_reminder
+Configurar recordatorio para aclarar el color del cabello,set_reminder
+Recuérdame la reunión con Toni a las 10 de mañana,set_reminder
+Cancelar mi recordatorio de venta de pasteles,cancel_reminder
+Parar los recordatorios para mañana,cancel_reminder
+Recuérdame que necesito crema de afeitar cuando esté de compras,set_reminder
+Recuérdame comer a las 5pm,set_reminder
+Recuérdame ir al doctor mañana,set_reminder
+Recuérdame hacer una cita para el oculista,set_reminder
+Ver recordatorios para esta semana,show_reminders
+Recuérdame lavar mis pies,set_reminder
+Recuérdame comprar azucar,set_reminder
+Cancelar todos los recordatorios,cancel_reminder
+Recuérdame hacer mi trabajo en inglés antes del viernes.,set_reminder
+Recuérdame sacar el pollo en una hora,set_reminder
+Recuérdame sobre la boda,set_reminder
+Recuérdame sobre este correo mañana,set_reminder
+Recuérdame llamar al dentista a las 4pm de hoy,set_reminder
+Recuérdame llamar al salón de uñas mañana,set_reminder
+Nuevo recordatorio: Llamar al doctor mañana al mediodía,set_reminder
+Recuérdame hacer la cita del doctor mañana,set_reminder
+Configurar un recordatorio para comprar entradas del conciertos mañana en la tarde,set_reminder
+Recuérdame vestir casual para trabajar mañana en la mañana,set_reminder
+Recuérdame mañana para llamar a Andrea,set_reminder
+Recuérdame para por alimentos en la via a casa,set_reminder
+Recuérdame que recogeré a mamá en el aeropuerto mañana,set_reminder
+Qué se supone que me recuerdas que haga hoy?,show_reminders
+Configurar recordatorio para pasear al perro,set_reminder
+Configurar un recordatorio para la visita de Bobby el 5 de Octubre,set_reminder
+Recuérdame comprar cena esta noche,set_reminder
+Recuérdame de salir en 5 minutos,set_reminder
+Recuérdame reprogramar la reunión del jueves,set_reminder
+Muestra mis recordatorios para hoy,show_reminders
+Agregar un recordatorio para lavar los platos.,set_reminder
+Cancelar mi recordatorio de recoger a Rob,cancel_reminder
+Configurar un recordatorio para el juego de beísbol de Mason el martes a las 6pm,set_reminder
+Apagar recordatorio,cancel_reminder
+Retirar recordatorios,show_reminders
+Configurar un recordatorio para esta noche,set_reminder
+Recuérdame de pagar la cuenta de electricidad mañana,set_reminder
+Recuérdame enviar mis planes de lecciones todos los lunes al final del día,set_reminder
+Cancelar mi recordatorio para la cita con el doctor,cancel_reminder
+Recuérdame cambiar la ropa en una hora,set_reminder
+Recuérdame que compre una tarjeta de cumpleaños,set_reminder
+Configurar un recordatorio para ir el sábado a las 2 a la tienda de alimentos,set_reminder
+Necesito que establezcas un recordatorio para las 6 p.m.,set_reminder
+Cancelar todos los recordatorios para hoy,cancel_reminder
+Configurar recordatorio para las 2am mañana,set_reminder
+Recuérdame llamar a la fuerza de trabajo mañana en la mañana ,set_reminder
+Establecer recordatorio el cumpleaños de Mikeel 6 de Agosto,set_reminder
+Cuántos recordatorios tengo para hoy?,show_reminders
+Borrar los recordatorios sin importancia ,cancel_reminder
+Recuérdame establecer una alarma a las 6 am ,set_reminder
+Recuérdame de recoger a los niños después del colegio,set_reminder
+Recordatorio para enviar los documentos a Karen mañana al mediodía,set_reminder
+Recuérdame hacer la cita del doctor ,set_reminder
+Recuérdame un deseo para mamá el dia de las madres,set_reminder
+Cancelar el recordatorio antes de mi cita con el oculista,cancel_reminder
+Recuérdame llamar a Stacy más tarde,set_reminder
+Cancelar todos mis recordatorios ,cancel_reminder
+Recordar comprar leche esta noche ,set_reminder
+Recuérdame recoger a mi hijo de la escuela a las 3pm,set_reminder
+Recuérdame ,set_reminder
+Cancelar mis recordatorios,cancel_reminder
+Recuérdame llamar a Jill a las 5:00pm mañana,set_reminder
+Cancelar mis recordatorios la próxima semana ,cancel_reminder
+Recuérdame sobre mi cita con el doctor el miércoles a las 2,set_reminder
+Mostrar mi recordatorio,show_reminders
+Recuérdame alimentar a los perros esta noche ,set_reminder
+Cuáles son mis recordatorios?,show_reminders
+Mostrar todos los recordatorios,show_reminders
+Cancelar todos los recordatorios,cancel_reminder
+Programar una alarma de recordatorio para el 7 de octubre ,set_reminder
+Recuérdame llamar al plomero a las 3,set_reminder
+Configurar recordatorio para ir por la limpieza en seco,set_reminder
+Léeme todos los recordatorios por favor ,show_reminders
+Por favor mostrarme mis recordatorios para mañana,show_reminders
+Recuérdame para en la oficina de correos,set_reminder
+Recuérdame ir al dentista el próximo lunes ,set_reminder
+Recuérdame el cumpleaños de mamá,show_reminders
+Muestrame todos mis recordatorios,show_reminders
+Recuérdame comprar café en Starbucks esta tarde,set_reminder
+Recuérdame sacar el pollo,set_reminder
+Recuérdame comprar pañales mañana ,set_reminder
+Recuérdame a las 5pm,set_reminder
+Configurar recordatorio para ir a la bodega esta noche,set_reminder
+Borrar mi recordatorio para recoger a Patrick del colegio mañana ,cancel_reminder
+Recuérdame comprar leche de almendras en la estación de gasolina el día 11 y sur,set_reminder
+Recuérdame ir a la oficina de correo,set_reminder
+"Configurar recordatorio ""Sub clase de yoga el martes por la noche en Bala"" para mañana",set_reminder
+Mostrar mi recordatorio ,show_reminders
+"Recuérdame esto en 2 semanas, tengo que comprar mi libros de escuela",set_reminder
+Recuérdame visitar el mercado granjero el domingo ,set_reminder
+Recuérdame la próxima cita con el médico ,set_reminder
+Cancelar mi recordatorio,cancel_reminder
+Establecer recordatorio para ir a la tienda a las 8 am ,set_reminder
+Cuánto tiempo queda para mi próximo recordatorio?,show_reminders
+Recuérdame regar el jardín cuando llegue a casa,set_reminder
+"Programar recordatorio recurrente para el lunes a las 9:00 am hasa el 1 de Abril, 2017",set_reminder
+Recuérdame ir por pan y jugo de naranja,set_reminder
+Mostrar mis recordatorios para el viernes ,show_reminders
+Configurar un recordatorio para 3:30 el martes,set_reminder
+Recuérdame que necesito ir por café hoy ,set_reminder
+Cancelar recordatorio para mañana,cancel_reminder
+Recuérdame ejecutar mis informes todos los lunes,set_reminder
+Recuérdame hacer té frío ,set_reminder
+Cancelar recordatorio para el veterinario,cancel_reminder
+Recuérdame ir a la reunión todos los días mañana a las 3 pm ,set_reminder
+Recuérdame comprar los tickets de Lotto,set_reminder
+Recuérdame ingresar horas facturables,set_reminder
+Recuérdame llamar a mi hermana a las 2 pm,set_reminder
+Recuérdame cerrar mi puerta cuando me vaya de casa,set_reminder
+Puedes cancelar todos mis recordatorios?,cancel_reminder
+Mostrar todos mis recordatorios,show_reminders
+Mostrar todos los recordatorios para la siguiente semana ,show_reminders
+Mostrar los recordatorios de esta noche,show_reminders
+Mostrar todos los recordatorios,show_reminders
+Configurar un recordatorio para ir a Publix,set_reminder
+Cancelar mi recordatorio para comprar ropa mañana ,cancel_reminder
+Mostrar los recordatorios de la escuela ,show_reminders
+Recuérdame de verificar mi programación para el siguiente mes,set_reminder
+Programar un recordatorio a las 5 pm hoy para llamar a Kim ,set_reminder
+Recuérdame que la temporada de Stranger Things comienza este fin de semana ,set_reminder
+Recuédame sobre la clase de bici mañana ,set_reminder
+Cancelar recordatorio de la cita del doctor del martes ,cancel_reminder
+Recuérdame sacar la basura,set_reminder
+Eliminar recordatorios configurados para el viernes,cancel_reminder
+Agregar un recordatorio para hoy a las 4 pm,set_reminder
+Recuérdame que recoja los suministros para fiestas,set_reminder
+Recuérdame comprar pañales en la tienda ,set_reminder
+Recuérdame recoger a Glenda en el aeropuerto a las 3:00 ,set_reminder
+Recuérdame llamar a mamá hoy a las 2 pm,set_reminder
+Dime mis recordatorios para mañana,set_reminder
+Recuérdame un correo para Gina sobre el incidiente del EVS,set_reminder
+Recuérdame llamar a mamá mañana ,set_reminder
+Recuérdame la cita del doctor un día antes ,set_reminder
+Muestrame todos mis recordatorios para hoy,show_reminders
+Léeme todos mis recordatorios ,show_reminders
+Programar un recordatorio el viernes a las 3:45 pm ,set_reminder
+Recuérdame mañana a esta hora programar la cita del doctor ,set_reminder
+Cancelar recordatorio para el 4 de Julio ahora,cancel_reminder
+Crear un recordatorio para finalizar mi proyecto el miércoles,set_reminder
+Cancelar todos los recordatorios después de las 5pm,cancel_reminder
+Cancelar recordatorios de alimentos,cancel_reminder
+Recuérdame el torneo de voleybol el próximo viernes a las 8am,set_reminder
+Establecerr recordatorio para recoger a Charles ,set_reminder
+Configurar recordatorio para el fútbol el sábado,set_reminder
+Cancelar mi recordatorio de alimentar el perro,cancel_reminder
+Muéstrame los recordatorios de la semana pasada,show_reminders
+Programar un recordatorio para la reunión del almuerzo,set_reminder
+Dame un recordatorio para el cierre de la casa a las 10 am de mañana.,set_reminder
+Recuérdame visitar el mecánico el viernes a las 9am,set_reminder
+CANCELAR EL RECORDATORIO DE LA PRÁCTICA DE SOCCER,cancel_reminder
+Borrar mi recordatorio de la bodega por favor ,cancel_reminder
+"Recuérdame ver ""Game of Thrones"" cada domingo en la mañana y en la noche",set_reminder
+Cancelar mis recodatorios de mañana ,cancel_reminder
+Necesito eliminar el recordatorio de la leche ,cancel_reminder
+"Recuérdame llamar a Leslie si estoy dentro de un radio de 5 millas de Big-Sur, CA",set_reminder
+Programar recordatorio para los shows de esta noche en abc ,set_reminder
+Cuál es mi úlitmo recordatorio? ,show_reminders
+Cancelar mi recordatorio para ir a la campo de pelota a las 5 pm ,cancel_reminder
+Cancelar mi tercer recordatorio en la lista ,cancel_reminder
+Configurar un recordatorio para llamar a mi escuela el lunes a las 4pm,set_reminder
+Recuérdame comprar gas ,set_reminder
+"La cena está programada para el viernes a las 7, por favor recuérdamelo ",set_reminder
+Apagar recordatorio para recoger a los niños después del colegio,cancel_reminder
+Tengo algún recordatorio preparado para la siguiente semana?,show_reminders
+Abrir todos los recordatorios,show_reminders
+Eliminar recordatorios,cancel_reminder
+Agregar un recordatorio para pedir notas de agradecimiento,set_reminder
+Configurar mi recordatorio para 1 hora antes de mi cita del martes,set_reminder
+Qué recordatorios tengo para el viernes?,show_reminders
+Mostrarme recordatorios,show_reminders
+Cancelar recordatorio para la tarea,cancel_reminder
+Los recordatorios de hoy ,show_reminders
+Muestrame mis últimos recordatorios para comprar alimentos,show_reminders
+Configurar semanalmente un recordatorio para alimentos,set_reminder
+Recuérdame hacer una cita con el dentista mañana en la mañana ,set_reminder
+Configurar un recordatorio por tres horas de que es hora de irse,set_reminder
+Recuérdame de comprar huevos en la bodega,set_reminder
+Recuérdame que obtenga un regalo de agradecimiento para el maestro este fin de semana,set_reminder
+Recordatorio para programar nuevas alarmas el primero de septiembre,set_reminder
+Recuérdame cada 6 meses desde hoy reemplazar las baterías de los detectores de humo,set_reminder
+Programar recordatorio para comprar leche en la vía a la casa ,set_reminder
+Mostrar todos los recordatorios de las próximas reuniones ,show_reminders
+Recuérdame comprar un jabón facial,set_reminder
+Mostrar mi último recordatorio,show_reminders
+Recuérdame sacar la basura mañana en la mañana,set_reminder
+Recuérdame pasear a los perros en dos horas ,set_reminder
+Recuérdame hacer la cita del doctor el próximo mes ,set_reminder
+Recuérdame limpiar el carro ,set_reminder
+Recuérdame llamar a mi mamá,set_reminder
+Recuérdame llamar a Amy a las 5:00 pm,set_reminder
+Recuérdame de comprar soda,set_reminder
+Cancelar todos mis recordatorios para las próximas 6 horas ,cancel_reminder
+Déjame ver todos mis recordatorios para el jueves,show_reminders
+Recuérdame parar en la bodega esta noche ,set_reminder
+Tengo algún recordatorio programado?,show_reminders
+Recuérdame poner la cena en el horno a las 5,set_reminder
+Cancelar todos los recordatorios ,cancel_reminder
+Recuérdame parar en la tienda antes de llegar a casa ,set_reminder
+Recuérdame alimentar los perros esta noche,set_reminder
+Programar un recordatorio para comprar queso en la bodega ,set_reminder
+Programar un recordatorio para la perrarina el lunes ,set_reminder
+Recuérdame recoger la ropa de la tintorería a las 4 pm ,set_reminder
+Cancelar todos mis recordatorios ,cancel_reminder
+Colocar un recordatorio para el cumpleaños de Allison el día 29 de Mayo ,set_reminder
+Recuérdame llamar a mamá,set_reminder
+Muéstrame todos mis recordatorios del martes ,show_reminders
+Recuérdame comprar pan y leche ,set_reminder
+Establecer recordatorio en 30 minutos desde ahora ,set_reminder
+Muéstrame los recordatorios de hoy ,show_reminders
+Programar un recordatorio para el cumpleaños de Max ,set_reminder
+Recuérdame configurar mi alarma antes de ir a dormir ,set_reminder
+Cuáles son mis recordatorios?,show_reminders
+Necesito un recordatorio para pagar la factura del cable mañana ,set_reminder
+Muéstrame mi recordatorio de hoy ,show_reminders
+Recuérdame sobre la cita de Kita ,set_reminder
+Recuérdame comprar la comida de gato ,set_reminder
+Recuérdame verificar la tarea de Jake ,set_reminder
+Crear un recordatorio para ir de compras a la escuela el jueves ,set_reminder
+Recuérdame comprar café brasileño en la tienda de café ,set_reminder
+Programa un recordatorio en 6 meses para cambiar el filtro por favor.,set_reminder
+Recuérdame verificar los horarios de vuelo,set_reminder
+Mostrar todos los recordatorios ,show_reminders
+Recuérdame ir a la oficina de correos mañana por favor ,set_reminder
+Programar recordatorio para la cita de fisioterapia de este viernes a las 9:30 am ,set_reminder
+Recuérame comer cada 3 horas ,set_reminder
+Mostrar todos mis recordatorios de hoy ,show_reminders
+Cancela mi recordatorio de comprar papel sanitario ,cancel_reminder
+Muéstrame mis recordatorios ,show_reminders
+Mostrar mi recordatorio ,show_reminders
+Recuérdame mañana a las 8:00 am llevar mi bolso de la computadora,set_reminder
+Recuérdame llevar a mis padres al aeropuerto a las 6 pm por favor ,set_reminder
+Cancelar mi recordatorio ,cancel_reminder
+Mostrar todos los recordatorios por favor ,show_reminders
+Cuáles son mi recordatorios?,show_reminders
+Cancela todos mis recordatorios ,cancel_reminder
+Qué recordatorios tengo próximos?,show_reminders
+Programar un recordatorio para ir a la reunión de negocios mañana a la 1:00 pm ,set_reminder
+Borrar mi recordatorio para comprar leche de almendra ,cancel_reminder
+Recuérdame a la 1 que tengo que salir al dentista.,set_reminder
+Qué recordatorio tengo para mañana?,show_reminders
+Programar un recordatorio para alimentar a la tortuga todos los domingos ,set_reminder
+Recuérdame programar la alarma de la casa cada noche ,set_reminder
+Recuérdme ir al dr el lun a las 4pm,set_reminder
+Recuérdame comprar huevos esta noche ,set_reminder
+Recuérdame mi cita el jueves ,set_reminder
+Programar mi recordatorio para mi tarea el viernes ,set_reminder
+Recuérdame enviarle un correo a Gina sobre el incidente EVS ,set_reminder
+Recuérdame conseguir un cheque en blanco ,set_reminder
+Recuérdame cambiar el aceite el sábado ,set_reminder
+Cancelar recordatorios ,cancel_reminder
+Recuérdame la cita de mi cabello a las 11 am ,set_reminder
+Recuérdame comprar huevos después ,set_reminder
+Recuérdame llevar al perro al peluquero el martes a las 3 pm ,set_reminder
+Cancelar recordatorio de la medicina para las pulgas de Brady,cancel_reminder
+Cancelar el recordatorio de la cita de hoy,cancel_reminder
+Recuérdame sacar la basara esta noche antes de ir a la cama ,set_reminder
+Recuérdame comprar sellos,set_reminder
+Establecer un recordatorio para ir a la tienda de mascotas el jueves,set_reminder
+Recuérdame el sábado empezar mi ayuno de dos días cuando la alarma suene a las 4,set_reminder
+Recuérdame dejarle el papel a Sarah en camino a casa ,set_reminder
+Recuérdame responderle el correo a Linda mañana a las 9,set_reminder
+Cuántos recordatorios tengo programados para hoy ,show_reminders
+Ayúdame a cancelar mi recordatorio de la fiesta ,cancel_reminder
+Mostrar mis recordatorios recurrentes mensualmente,show_reminders
+Puedes mostrarme mi calendario con mis citas y recordatorios?,show_reminders
+Cancelar recordatorios para comprar zanahorias,cancel_reminder
+Recuérdame conseguir hojas de papel en la tienda mañana ,set_reminder
+Cancelar mi recordatorio para la cita del doctor de mañana ,cancel_reminder
+Repetir todos los recordatorios diariamente ,set_reminder
+Cancelar mi recordatorio para escribirle a papá ,cancel_reminder
+Recuérdame comprar pañales camino a casa,set_reminder
+Necesito un recordatorio para la llamada de conferencia a las 10 am,set_reminder
+Recuérdame afeitarme las piernas hoy a las 11 am ,set_reminder
+Colocar un recordatorio en el teléfono para comprar helado de nueces ,set_reminder
+Establecer recordatorio 15 minutos antes del evento ,set_reminder
+Recuérdame sacar la basura esta noche a las 5 pm ,set_reminder
+Mostrar todos los recordatorios por favor ,show_reminders
+Establezcer un recordatorio para el oftalmólogo para el día 25,set_reminder
+Mostrar todos los recordatorios,show_reminders
+Recuérdame mi cita con el Dr. Meadows a las 10:25 del lunes,set_reminder
+Eliminar recordatorio en toallitas,cancel_reminder
+Recuérdame poner la ropa en la secadora,set_reminder
+Recuérdame verificar el correo en 10 minutos,set_reminder
+Recuérdame la reunión del presupuesto el lunes a las 10 am ,set_reminder
+Recuérdam parar en casa de mi padres mañana a las 9 am.,set_reminder
+Recuérdame pagar la cuenta de electricidad mañana,set_reminder
+Recuérdame guardar mi almuerzo antes de irme a la cama.,set_reminder
+Dame un recordatorio para alimentar a los gatos esta noche a las 3 pm ,set_reminder
+Establecer recordatorio para la cita del doctor todos los miércoles,set_reminder
+Mostrar mi recordatorio ,show_reminders
+"Configurar recordatorio a la 05:00 pm para recoger huevos, leche y pan",set_reminder
+Recuérdame ir a la bodega mañana,set_reminder
+Recuérdame mañana el correo a Kate,set_reminder
+Crear un recordatorio para comprar leche mañana ,set_reminder
+Recuérdame hablar con Ben sobre Georgia,set_reminder
+Mostrar todos los recordatorios ,show_reminders
+Recuérdame recoger algo de pan esta noche,set_reminder
+Recuérdame de hacer tarea a las 5 pm,set_reminder
+Recuérdame que saque las llaves del auto,set_reminder
+Recuérdame despertarme alrededor de las 6 am mañana ,set_reminder
+Configurar el recordatorio para llamar a mi mamá hoy,set_reminder
+Necesito que me recuerdes comprar pimienta,set_reminder
+Borrar el recordatorio de bañar a los perros hoy,cancel_reminder
+Configurar el recordatorio diario para tomar medicina a las 08:00 am,set_reminder
+Muéstrame todos mis recordatorios ,show_reminders
+Muéstrame mis recordatorios para octubre,show_reminders
+Recuérdame comprar alimentos,set_reminder
+Borrar todos mis recordatorios y alarmas,cancel_reminder
+Eliminar mi último recordatorio,cancel_reminder
+Recuérdame que me reúna con el grupo en el Tap Room a las 7:45 PM para tomar una copa,set_reminder
+Configurar el recordatorio para mañana a las 5pm,set_reminder
+Recuérdame verificar el pollo en 20 mins,set_reminder
+Necesito hacer un recordatorio ,set_reminder
+Cancelar mi recordatorio sobre esquiar el sábado,cancel_reminder
+Quiero configurar el recordatorio para ir por algo de leche esta tarde,set_reminder
+Establecer recordatorio para tener una charla con Jake,set_reminder
+Eliminar los últimos dos recordatorios en mi lista,cancel_reminder
+Recuérdame programar mi cita con el dentista,set_reminder
+Recuérdame recoger a Leah del autobús a las 02:15 pm,set_reminder
+Recuérdame alimentar al gato,set_reminder
+Recuérdame de llamar a Natalie mañana,set_reminder
+Configurar el recordatorio,set_reminder
+Muéstrame un recordatorio diariamente,show_reminders
+Cuántos recordatorios tengo para hoy?,show_reminders
+Por favor recuérdame que llame a mi receta una semana a partir de hoy?,set_reminder
+Recuérdame recoger la ropa de la tintorería ,set_reminder
+"Mañana, recuérdame llevar mi carro",set_reminder
+Recuérdame llamar a Stephanie el martes ,set_reminder
+Cancelar el recordatorio para la reunión en el albergue ,cancel_reminder
+A qué hora debo recordar mis deberes?,show_reminders
+Configurar el recordatorio para llamar al doctor mañana a las 08:00 am,set_reminder
+La cita del odontólogo está en mi recordatorio?,show_reminders
+Configura recordatorio para comprar shampoo,set_reminder
+Recuérdame beber suficiente agua,set_reminder
+Establecer recordatorio para la medicación de mamá a las 10 pm,set_reminder
+Configurar mi recordatorio para recoger mi hermana,set_reminder
+"En realidad, ya conseguí comestibles, cancele el recordatorio.",cancel_reminder
+Recuérdame comprar aperitivos para el almuerzo de mañana,set_reminder
+Cancelar mis recordatorios para mañana ,cancel_reminder
+Cancelar el recordatorio para comprar leche,cancel_reminder
+Recuérdame sobre la cita del veterinario de Vito mañana en la tarde,set_reminder
+Recuérdame comprar entradas para el concierto del miércoles ,set_reminder
+Muéstrame mis recordatorios para el día 15,show_reminders
+Muéstrame todos los recordatorios ,show_reminders
+Recuérdame preparar la mesa a las 6pm,set_reminder
+Recuérdame recoger el correo ,set_reminder
+Recuérdame recoger a Ashley a las 3 pm,set_reminder
+Léeme mi recordatorio ,show_reminders
+Recuérdame la reunión de trabajo mañana ,set_reminder
+Cancelar el recordatorio de mi pedido,cancel_reminder
+Recuérdame comprar mantequilla,set_reminder
+Enviarme un recordatorio una semana antes del cumpleaños de mi mamá,set_reminder
+Programar recordatorio para comprar gas,set_reminder
+Eliminar recordatorios,cancel_reminder
+Recuérdame que tengo que ir al dentista el viernes a las 3,set_reminder
+Recuérdame ir a la cama a las 10 pm,set_reminder
+Recuérdame recoger a Reese de la escuela el lunes ,set_reminder
+Borrar último recordatorio ,cancel_reminder
+Mostrar todos los recordatorios de esta semana,show_reminders
+Configurar un recordatorio para cambiar la caja de arena el 17 de agosto de 2017.,set_reminder
+Recuérdame hacer el pago del carro el próximo lunes a las 10am,set_reminder
+Recuérdame cambiar mi ropa interior mañana ,set_reminder
+Cada 3 meses recuérdame verificar el termoestato,set_reminder
+Recuérdame mi clases de pilates cada domingo,set_reminder
+Recuérdame devolver la pala de mike,set_reminder
+"Configurar recordatorio para ver ""The Colts"" una hora antes de comenzar el juego",set_reminder
+Cancelar recordatorio del juego de softball ,cancel_reminder
+Recuérdame comprar sopa de miso en Whole Foods esta noche.,set_reminder
+Recuérdame después ,set_reminder
+Recuérdame poner medicinas para pulgas en mi gato esta noche,set_reminder
+Recuérdame visitar al doctor el jueves a las 12 pm,set_reminder
+Recuérdame recoger las flores para Jen en nuestro aniversario el día 28,set_reminder
+Recuérdame para estudiar a las 8pm,set_reminder
+Recuérdame cuándo sean las 5pm ,set_reminder
+Recuérdame llamar a mi mamá esta noche ,set_reminder
+Cuáles son mis recordatorios hoy?,show_reminders
+Configurar un recordatorio para ir a la oficina de correo hoy a la 1 pm ,set_reminder
+Qué recordatorios tengo configurados?,show_reminders
+Recuérdame comprar pan esta noche ,set_reminder
+Reecuérdame comprar hielo ,set_reminder
+Recuérdame almorzar el lunes a las 11 am ,set_reminder
+Recuérdame hacer la cita del doctor mañana.,set_reminder
+Recuérdame que recoja mi limpieza en seco.,set_reminder
+Mostrarme mis recordatorios para hoy,show_reminders
+Mostrar todos los recordatorios,show_reminders
+Configurar el recordatorio para comer el almuerzo,set_reminder
+Configurar un recordatorio para salir por 5 para el aeropuerto.,set_reminder
+Mostrar mi recordatorio sobre el primer día de escuela,show_reminders
+"Recuérdame para ver ""Twin Peaks"" a las 7",set_reminder
+Recuérdame responder los correos del trabajo esta noche,set_reminder
+Recuérdame hacer la cita el martes en la tarde ,set_reminder
+Recuérdame ir por gas,set_reminder
+Cancelar recordatorio del concierto ,cancel_reminder
+Recuérdame comprar agua en la tienda esta noche ,set_reminder
+Eliminar mi cita quiropráctica,cancel_reminder
+Recuérdame llenar el tanque el miércoles ,set_reminder
+Recuérdame pagar matrícula,set_reminder
+Necesito un recordatorio para recoger a Lisa ,set_reminder
+Configurarme un recordatorio diario para tomar medicamentos para la próxima semana,set_reminder
+Recuérdame comprar algunas naranjas en la tienda hoy,set_reminder
+Recuérdame comprar un presente a Jana,set_reminder
+Recuérdame que saque el pastel en 21 minutos,set_reminder
+Establecer un recordatorio para sacar la basura a las 7 am ,set_reminder
+Recuérdame mi próxima cita ,set_reminder
+Puedes recordarme tomar mis pastillas antes del mediodía,set_reminder
+Programar un recordatorio para recoger la cena a las 5 pm ,set_reminder
+Cancelar mi recordatorio de comprar baterías en la tienda ,cancel_reminder
+Cancelar todos los recordatorios,cancel_reminder
+Recuérdame configurar la alarma ,set_reminder
+Eliminar los recordatorios del domingo,cancel_reminder
+Recuérdame pasear a mi perro mañana a las 8:00 am ,set_reminder
+Comenzar un nuevo recordatorio,set_reminder
+Recuérdame programar mi cita de seguimiento en dos semanas ,set_reminder
+Cancelar mi recordatorio para mi cita del dentista ,cancel_reminder
+Está húmedo?,find
+La temperatura superó los 100 hoy?,find
+Va a llover hoy?,find
+Estará soleado mañana?,find
+Cuál será la máxima temperatura hoy?,find
+Hoy es un buen día de playa en wild wood?,find
+Cómo se ve el clima en navidad?,find
+Muéstrame el pronóstico del día 10,find
+A qué hora será el atardecer esta noche?,checkSunset
+Cuándo comenzará a estar más fresco?,find
+Dime el pronóstico de 3 días,find
+va a llover esta semana,find
+podria obtener el pronostico actualizado de Orlando,find
+Todavía estamos bajo condiciones de sequía?,find
+habrá una tormenta hoy?,find
+Estaré frío esta noche si no llevo una chaqueta?,find
+Cuál es el pronóstico del tiempo para Cleveland?,find
+Qué temperatura habrá en washington dc esta semana?,find
+necesito de un paraguas para mas tarde hoy?,find
+Cuál es el pronóstico promedio para septiembre?,find
+Cómo está el clima hoy?,find
+es supuesto que llueva todo el dia?,find
+Cuándo recibiremos nuestras próximas lluvias?,find
+¿Alguna vez va a ponerse soleado hoy?,find
+Cuándo es el día más soleado de la próxima semana?,find
+Necesito traer un abrigo conmigo?,find
+¿Se esperan tormentas esta noche?,find
+Cuáles son las probabilidades de que nieve este fin de semana?,find
+¿Hay una tierra o una brisa marina en Ocean City hoy?,find
+Se supone que va a hacer viento hoy?,find
+deberia de traer chamarra hoy por la noche?,find
+¿Hay lluvia en el centro de la ciudad?,find
+Qué tan fuerte será el viento?,find
+¿Qué hará el clima en Washington DC la próxima semana?,find
+llovera este fin de semana?,find
+está lloviendo en St. Louis en este momento,find
+Cómo estará el clima este fin de semana?,find
+va a llover la proxima semana,find
+¿Hay granizo predicho hoy,find
+¿Cuánta lluvia esperamos esta semana?,find
+Va a llover el sábado?,find
+¿Hay algún problema de niebla de qué preocuparse esta mañana?,find
+¿Necesitaré un abrigo hoy?,find
+cual es la temperatura maxima para hoy?,find
+¿Cuál es el clima maximo para hoy?,find
+¿Están las carreteras heladas?,find
+Cuántas semanas hasta que el clima comience a enfriarse?,find
+¿Cuál es el pronóstico de 5 días?,find
+¿Cuáles son las probabilidades de nieve para Flagstaff esta semana?,find
+¿Debo traer una chamarra de invierno hoy?,find
+Qué tan caliente es?,find
+va a llover hoy?,find
+Habrá algún tiempo nublado la próxima semana?,find
+¿Está lloviendo nuevamente hoy en la tarde?,find
+Continuará nevando esta semana?,find
+¿Cuándo terminará la lluvia?,find
+¿Cómo está el clima de Portland esta semana?,find
+¿Recibiremos granizo más tarde hoy?,find
+Cuál es la temperatura para el viernes en Seattle?,find
+Cuál es el pronóstico para la próxima semana?,find
+son los caminos cubiertos de hielo,find
+cómo es el clima hoy,find
+Cuántos pies de nieve tendremos?,find
+dame el pronostico de la proxima semana.,find
+Será húmedo hoy?,find
+Hay lluvia en el pronóstico para el martes?,find
+Cuál es el pronóstico de la próxima semana,find
+¿Como esta el tiempo hoy?,find
+Muéstrame mis recordatorios a las 8 am ,show_reminders
+Cómo es el clima en Alaska?,find
+Va a nevar?,find
+Leer el pronóstico del tiempo de hoy,find
+Será en los 90 la próxima semana?,find
+Cuál es la temperatura más alta hoy?,find
+Estará la temperatura por debajo del punto de congelación esta noche?,find
+Cuál es el pronóstico del tiempo severo?,find
+Cómo estará el clima en Nueva York esta semana?,find
+Qué tan frío está ahora en Canadá?,find
+Cual es la temperatura actual?,find
+Cuál es la alta temperatura de hoy?,find
+Cuánta lluvia se espera mañana?,find
+Se congelará debajo de esta noche?,find
+Actualizaciones del clima,find
+El clima va a estar bueno este fin de semana,find
+Cómo esta el tiempo hoy?,find
+Debería usar gafas de sol mañana?,find
+Cuál es el pronóstico para el martes?,find
+Qué tan frío va a estar?,find
+Dame actualizaciones del clima,find
+Qué tan caliente va a ser hoy?,find
+"Cuál es la temperatura de Austin, Texas?",find
+Se supone que hay mucho viento en Chicago hoy?,find
+Cuánto tiempo se espera que llueva hoy?,find
+Va a estar caliente hoy?,find
+"Cuál es la temperatura en Jacksonville, Florida hoy?",find
+"El tiempo en Bryan, Texas hoy",find
+Cuál es el pronóstico del tiempo de esta semana?,find
+Pronóstico de la tarde,find
+Cuándo se predice la siguiente gran tormenta de nieve para la próxima semana?,find
+Alguna posibilidad de lluvia el sábado?,find
+Cuál será la temperatura a las 8 pm?,find
+Nevará este fin de semana?,find
+Cuál es el clima en Bali?,find
+Cuántas precipitaciones se esperan en Bantam?,find
+Qué tan frío es en Chicago?,find
+Cuáles son las condiciones de la nube hoy?,find
+El clima de mañana en LA,find
+Habrá un aguacero esta noche?,find
+Qué tan frío va a ser esta noche?,find
+Cuál será el tiempo en Ontario la próxima semana?,find
+Va a estar caliente esta semana?,find
+Cuál es la baja temperatura para hoy?,find
+necesito traer una chaqueta esta noche,find
+Va a llover mañana,find
+Qué tan caliente va a estar mañana?,find
+Hay posibilidad de tormentas esta noche?,find
+¿Es lo suficientemente frío para un abrigo?,find
+Hace frío hoy?,find
+Cuál es la probabilidad de un tornado?,find
+El clima en Tahoe este fin de semana?,find
+Estará nublado?,find
+Está lloviendo en Disney World en este momento,find
+Lloverá en Kansas hoy?,find
+Cuál es el día más caluroso esta semana?,find
+Nevará hoy?,find
+Cuál es la temperatura más baja de hoy?,find
+Va a llover esta semana?,find
+Se supone que llueva mañana?,find
+Cuándo es el índice de calor más alto hoy en día?,find
+Va a llover en la próxima semana?,find
+Lloverá esta noche?,find
+Cuál es la probabilidad de que neve?,find
+Está lloviendo en la ciudad todavía?,find
+Cuál es la temperatura más alta esta semana?,find
+Cuándo llegará el huracán a Texas?,find
+"Cuál es el clima en Marion, IL en este momento?",find
+Que tan caliente será esta tarde?,find
+Cuál va a ser la temperatura hoy?,find
+Cuál es el clima de jueves?,find
+Estará nublado mañana?,find
+Qué días de este mes es más probable que llueva?,find
+Cuál es el pronóstico del tiempo de este fin de semana?,find
+Cuánta lluvia se espera?,find
+Lloverá hoy en san diego?,find
+Cuál es el viento frío hoy?,find
+necesitare de mi paraguas hoy,find
+Cómo va a ser la temperatura esta noche?,find
+Estará a punto de congelarse esta noche?,find
+Se espera una tormenta monzónica hoy?,find
+debería de contar com nieve en estos proximos 7 días,find
+Cualquier granizo en el pronóstico?,find
+Está nevando hoy en Dakota del Norte?,find
+qué tan caliente va a ser hoy,find
+A qué hora comenzará a nevar?,find
+Estoy volando a California el lunes. ¿Cómo va a ser el clima el lunes por la tarde en California?,find
+como estará el clima en Detroit hoy?,find
+Debo agarrar un bloqueador solar?,find
+estará nevando esta semana?,find
+Cuál es la alta temperatura para hoy?,find
+Cuál es el pronóstico del tiempo para Los Ángeles mañana?,find
+Qué tan caliente va a llegar hoy?,find
+Debo traerme mi abrigo de lluvia hoy?,find
+necesitaré de una paraguas mañana,find
+Cuál es la temperatura en San Petersburgo?,find
+estará nublado hoy en Grindstone?,find
+Hace calor afuera?,find
+lloverá en Bradenton Florida hoy?,find
+enseñame el clima para todo el mês en Nueva York,find
+¿Habrá escarcha esta semana?,find
+Cuanto calor hará hoy?,find
+cuando se acabará la lluvia?,find
+Cuál es la humedad hoy?,find
+como estará el clima hoy?,find
+Hay una tormenta para mi área?,find
+¿Hay aguanieve en el pronóstico?,find
+cual es la temperatura maxima de hoy por la noche?,find
+Cómo está el clima esta semana?,find
+¿Cuál es la temperatura pronosticada para hoy?,find
+Cuál es la baja temperatura de hoy?,find
+¿El clima será lo suficientemente agradable para la playa mañana?,find
+debería de usar botas de nieve?,find
+pronostico del fin de semana,find
+Necesito un paraguas mañana?,find
+cual es el pronostico del fin de semana para Seattle,find
+pronóstico de lluvia de hoy,find
+habrá escarcha en la mañana,find
+"Qué tan caliente será en Los Ángeles, CA hoy?",find
+lloverá en Colorado Springs hoy?,find
+Va a estar caliente mañana?,find
+Cuál es el pronóstico para la próxima semana?,find
+¿Cuándo el próximo pronóstico muestra lluvia?,find
+Cuál es el punto de rocío?,find
+Va a estar nublado?,find
+"Dame el pronóstico para Cleveland, Ohio mañana.",find
+cuales son las maximas durante la semana,find
+va a nevar esta semana,find
+Qué porcentaje de probabilidad de lluvia hay esta noche?,find
+esta lloviendo en Memphis?,find
+podre usar shorts hoy?,find
+Cómo es la temperatura en Londres en este momento?,find
+Se supone que llueve hoy?,find
+Va a ser lo suficientemente caliente para ir a nadar hoy?,find
+¿Se pronostican tormentas eléctricas en los próximos 10 días?,find
+lloverá el jueves?,find
+Cuál es el pronóstico de lluvia para seattle?,find
+Necesito llevar paraguas?,find
+¿Hay lluvia en el pronóstico para el juego de los cardinals,find
+Hay tornados en Oklahoma en este momento?,find
+Necesito protector solar,find
+información meteorológica para hoy,find
+Está soleado?,find
+cual es el clima para el Jueves por la mañana?,find
+Cuál es el pronóstico para esta semana?,find
+Va a llover hoy. ¿Cuando va a empezar?,find
+va a nevar hoy por la noche?,find
+¿Necesito de un abrigo hoy?,find
+¿Cuántos centimetros de nieve tendremos esta semana?,find
+va a estar calor hoy?,find
+va a llover en el Sabado?,find
+¿A qué hora se espera una tormenta eléctrica?,find
+Estará soleado?,find
+Hay un aviso de calor?,find
+Alguna posibilidad de lluvia hoy?,find
+Debo encender mi aire acondicionado hoy?,find
+Cuál será la temperatura en San Pablo esta noche?,find
+Está nublado?,find
+Va a llover esta tarde?,find
+Necesito una chaqueta,find
+Lloverá esta noche?,find
+Cuándo se supone que debe dejar de llover?,find
+Va a ser bueno esquiar este fin de semana?,find
+Puedo usar los shorts hoy?,find
+Qué advertencias meteorológicas tengo?,find
+Cuánto durará la calefacción?,find
+Está lloviendo en Seattle hoy?,find
+La temperatura será la misma?,find
+Tendrá tormenta el domingo?,find
+Esperamos lluvia hoy?,find
+Necesito una chaqueta hoy?,find
+Cómo será el clima este fin de semana?,find
+Avísame si necesito traer una chaqueta hoy,find
+Existe la posibilidad de una posible tormenta de truenos?,find
+Cuándo nevará hoy?,find
+Va a nevar mañana?,find
+Hace frío hoy?,find
+Necesito un paraguas?,find
+Cuál es la temperatura alta hoy?,find
+Necesito ropa de invierno en Alaska esta semana,find
+Cómo va a ser el clima hoy?,find
+Cuál es la posibilidad de una tormenta?,find
+Se supone que neva hoy?,find
+Me gustaría saber si va a llover hoy?,find
+Cómo es el clima en Carolina del Norte hoy?,find
+Qué tan caliente va a estar hoy?,find
+Bajará la temperatura a menos de 70 grados hoy?,find
+Cuál es el pronóstico para esta semana?,find
+¿Va a nevar mañana?,find
+Reporte meteorológico cerca de mi,find
+Es soleado hoy?,find
+Hoy habrá viento?,find
+Se va a congelar cualquier noche de esta semana?,find
+A qué hora se supone que llueve?,find
+Hay algún huracán cerca de mí?,find
+Está lloviendo en el centro hoy,find
+Los pantalones cortos estarán bien hoy?,find
+Habrá nieve hoy?,find
+Cuándo se enfría?,find
+Debería empacar un paraguas para este fin de semana,find
+Qué tan frío se va a poner esta noche?,find
+Va a llover toda la semana ,find
+Qué tan pesada está la tormenta de nieve?,find
+Cuál es el pronóstico?,find
+Va a nevar en Payson esta noche?,find
+Cuándo comenzará a nevar el la costa este?,find
+Hoy está frío afuera?,find
+Cuál será el índice de calor hoy?,find
+Alguna posiblididad de lluvia helada esta semana?,find
+Cómo va a estar el clima esta semana?,find
+Cuál es el pronóstico para este fin de semana?,find
+Debo ponerme una chaqueta hoy?,find
+Debo ponerme una chaqueta delgada o gruesa?,find
+Debo usar mangas largas?,find
+Cuál será la máxima temperatura hoy,find
+Cuál es la temperatura record de hoy?,find
+Lloverá hoy? ,find
+Cuál es la temperatura en Oklahoma hoy?,find
+Cuál es la temperatura en Idaho ,find
+Dime mi pronóstico semanal,find
+Qué tan caliente va a ser?,find
+Cuál es la temperatura afuera?,find
+Qué tan caliente está?,find
+Qué temperatura se espera hoy?,find
+Hay alguna posibilidad de inundación en mi vecindario?,find
+Cuál es el pronóstico para el resto de la semana?,find
+Qué temperatura estará en la mañana?,find
+Cuál es la temperatura en Juneau?,find
+Mis tomates se congelerán esta noche?,find
+Cuál es la temperatura en miami?,find
+Cómo es el clima en Italia en este momento?,find
+Estará soleado hoy?,find
+Tormentas eléctricas en el Caribe ,find
+Cuánto nevará?,find
+Va a hacer frío mañana?,find
+Va a nevar hoy?,find
+Está frío en Detroit?,find
+Lloverá hoy? ,find
+Cuál es la máxima temperatura hoy?,find
+Qué tan caliente se pone en Las Vegas durante el verano?,find
+¿Qué tal el aguanieve hoy?,find
+Hace calor?,find
+Va a haber viento hoy?,find
+Cuál es el pronóstico de hoy en San Mateo ,find
+Cuánto tiempo pasará antes de que la lluvia se mude a Nashville?,find
+Cómo está el clima en Londres?,find
+Va a nevar lo suficiente esta noche como para hacer el viaje peligroso,find
+El clima en Hawaii,find
+Debo traer una chaqueta de lluvia para el concierta esta noche?,find
+Está lloviendo en la ciudad de Nueva York ,find
+Cuál es la temperatura que se supone que será mañana?,find
+Lloverá este fin de semana?,find
+Crees que nevará esta noche?,find
+Debo ponerme una chaqueta hoy?,find
+Será soleado o tormentoso hoy?,find
+Cuál es el clima en Francia hoy?,find
+Necesito un paraguas mañana,find
+Se congelará?,find
+Debo llevar gafas de sol cuando salga hoy?,find
+"Muéstrame el clima de Nassau, Bahamas ",find
+El estado de Washington tiene mucha lluvia en octubre?,find
+Se esperan tormentas en Disney Land hoy?,find
+Cuál es la temperatura afuera?,find
+Cuál es el porcentaje de humedad que habrá hoy?,find
+Cuál es la temperatura actual en Dallas Texas?,find
+Qué tan caliente sería hoy?,find
+"Qué tiempo hace en Anaheim, California?",find
+Necesito un paraguas hoy?,find
+"Cuál es el pronóstico de fin de semana en Rochester, Nueva York?",find
+Clima de Londres el Martes ,find
+Cuál es la máxima temperatura del día?,find
+Está nevando en Liverpool NY?,find
+Está lloviendo?,find
+Va a llover hoy?,find
+Va a estar por encima de los 80 grados hoy?,find
+Cuándo dejará de llover?,find
+Cuál es la probabilidad de lluvia?,find
+Temperatura actual?,find
+"Qué tan caliente es en Palm Springs, CA?",find
+Hay nieve en Denver ahora mismo?,find
+Debo llevar mi abrigo de nieve?,find
+Hoy va a estar frío?,find
+Llueve hoy en Texas?,find
+Habrá tormentas eléctricas mañana?,find
+Debería traer un paraguas hoy,find
+Cuál será el mañana bajo para Phoenix?,find
+Habrá frío a las 7 am?,find
+Estará nublado hoy?,find
+Cuál es la temperatura actual?,find
+Cuál será el clima hoy?,find
+Lloverá mañana?,find
+Cuántas pulgadas de lluvia tendremos hoy?,find
+Cuál es el pronóstico del fin de semana?,find
+Cómo estará el clima este fin de semana?,find
+Qué tan caliente se pondrá hoy?,find
+Cómo está el clima el miércoles para practicar golf?,find
+Qué tan rápido van a soplar los vientos hoy?,find
+Clima de Paris la próxima semana?,find
+Cuándo es el dia mas caluroso esta semana?,find
+Estará soleado hoy?,find
+Cómo es el clima en Yellowstone?,find
+Necesito traer una sudadera hoy?,find
+Va a estar nublado mañana?,find
+Hace frío hoy?,find
+Cómo está la temperatura de mañana?,find
+Cuál es el clima para este fin de semana?,find
+Cómo se supone que debe ser la temperatura esta semana?,find
+A qué hora cae el sol?,checkSunset
+Cuál es la humedad hoy?,find
+Cómo está el clima en Santa Fe este fin de semana?,find
+Cómo está afuera?,find
+Actulizar clima de Los Angeles ,find
+Está bajo cero hoy?,find
+Clima 92083,find
+Necesito saber si va a llover en North Branch,find
+Debo traer un paraguas hoy?,find
+Lloverá en Grindstone hoy?,find
+"Cómo está la temperatura en Orlando, Florida la próxima semana",find
+Qué tan caliente es en Australia?,find
+Qué tanto calor hará hoy?,find
+"Por favor, avíseme si debería traer una chaqueta",find
+Lloverá en Sydney?,find
+Va a llover hoy,find
+Cómo está el clima en la ciudad de Nueva York?,find
+Cuándo se levantará la niebla?,find
+Qué tán caliente va a llegar hoy,find
+Hay algún tifón golpeando Taiwán la próxima semana?,find
+Es tiempo de chaqueta,find
+Voy a necesitar un paraguas para esta noche?,find
+Cuál es la oportunidad de lluvia hoy?,find
+Qué tan caliente es?,find
+Será agradable el clima en el concierto de esta noche?,find
+Cuánto tiempo habrá cobertura de nubes?,find
+Será ventoso la próxima semana?,find
+Necesitaré mis botas de lluvia,find
+Cuál es la temperatura actual?,find
+Va a llover el sábado?,find
+Muéstrame el informe meteorológico por hora para hoy,find
+Cuál es la temperatura en este momento?,find
+Qué tan frío será hoy?,find
+Qué tan frío es hoy?,find
+Necesitaré una chaqueta mañana?,find
+Estará nevando en Vermont la próxima semana?,find
+Necesito un abrigo?,find
+Va a estar soleado el miércoles en Charlotte?,find
+Va a nevar hoy?,find
+Estoy volando a Nueva York ¿Necesito un abrigo pesado,find
+Debo traer un paraguas?,find
+Necesito bufanda?,find
+A qué hora se supone que llueve esta noche?,find
+Va a estar soleado hoy?,find
+"El tiempo en Charlotte, Carolina del Norte",find
+Cómo está el clima?,find
+Cuál es la temperatura en Nueva York?,find
+Debo esperar lluvia?,find
+Está ventoso?,find
+Cuál es el clima para el próximo fin de semana?,find
+Cuándo se aclararán las nubes?,find
+Hace calor hoy?,find
+Cuánta nieve se predice?,find
+Será el clima bueno para un vestido?,find
+Necesito un paraguas?,find
+"Lloverá en Salmon, Idaho hoy?",find
+Avísame cuando lloverá,find
+Estamos esperando tormentas?,find
+Pronóstico para Akron Ohio,find
+Cuándo lloverá hoy?,find
+Cuánto tiempo queda antes de que suene mi alarma,time_left_on_alarm
+cancelar todas las alarmas del jueves,cancel_alarm
+Enseñame todas las alarmas,show_alarms
+Añade juego de baloncesto el martes a las 3:00 pm,set_alarm
+pon una alarma para 6 PM esta noche,set_alarm
+borra alarmas,cancel_alarm
+pon la alarma para el viernes a las 5am,set_alarm
+pon mi alarma a las 8pm para ir a casa,set_alarm
+pon la alarma para 7 pm por favor,set_alarm
+pon la alarma para 1 en punto más tarde,set_alarm
+Cancele la alarma por esta noche.,cancel_alarm
+pon una alarma para despertar.,set_alarm
+Mostrar mis alarmas,show_alarms
+pon la alarma a las 7:20am para el lanzamiento del zapato.,set_alarm
+cancela la hora de la alarma por favor,cancel_alarm
+Pausa durante 20 minutos más,snooze_alarm
+pon la alarma cada 90 segundos por 30 minutos,set_alarm
+Apaga la alarma para las 6 a.m.,cancel_alarm
+pon la alarma para las 7 am mañana,set_alarm
+pon la alarma para las 11 pm esta noche,set_alarm
+pon mi alarma para 7:00 am por favor,set_alarm
+Cancele todas mis alarmas.,cancel_alarm
+pon la alarma para las 3 a. m,set_alarm
+¿Puedes poner la alarma cada minuto durante 20 minutos?,set_alarm
+muéstrame mis alarmas,show_alarms
+borra alarma mensual 8am,cancel_alarm
+Mostra todas las alarmas,show_alarms
+¿a qué hora es mi alarma para mañana por la mañana?,show_alarms
+cancela mi alarma de 5am,cancel_alarm
+pon una alarma por cada 10 minutos durante una hora,set_alarm
+pon mi alarma para las 7pm esta noche por favor,set_alarm
+enseñame todas mis alarmas para hoy,show_alarms
+cancela todas la alarmas,cancel_alarm
+cancela las alarmas para mañana,cancel_alarm
+pausa la alarma,snooze_alarm
+cancela la alarma del lunes,cancel_alarm
+pon mi alarma cada quince minutos,set_alarm
+pon una alarma para una hora,set_alarm
+apaga todas las alarmas,cancel_alarm
+pon una alarma para las 6:15am,set_alarm
+por favor dime todas las alarmas que tengo puestas,show_alarms
+cancela todos los recordatorios y alarmas para el viernes,cancel_alarm
+cancela las alarmas,cancel_alarm
+me puedes poner una alarma paras el martes a las 5pm,set_alarm
+pon una alarma para revisar en 4 horas,set_alarm
+enseñame todas las alarmas,show_alarms
+alarma despues de 15 minutos,set_alarm
+ensiende la alarma de la siesta,set_alarm
+pon una alarma para todos los dias esta semana a las 9:30am,set_alarm
+pon una alarma para el domingo a medio dia,set_alarm
+pon una alarma para despertarme a las 8am,set_alarm
+cuanto tiempo sobra para mi alarma,time_left_on_alarm
+pon una alarma para las 7:30am,set_alarm
+borra la alarma para las 8:55pm de cada dia entre semana,cancel_alarm
+Pon la  alarma para mañana a las cuatro de la tarde.,set_alarm
+Cuantas horas quedan para que suene la alarma en la mañana.,time_left_on_alarm
+Borrar todas mis alarmas de hoy.,cancel_alarm
+Pon la alarma cada cinco minutos durante 10 minutos,set_alarm
+Cuales alarmas tengo para el Lunes?,show_alarms
+Borrar mi alarmas para el dia de hoy.,cancel_alarm
+Borrar la alarma de mañana por la mañana.,cancel_alarm
+Cancelar todas mis alarmas de hoy.,cancel_alarm
+Pausar esta alarma.,snooze_alarm
+Establecer nueva alarma.,set_alarm
+Pon una alarma para las 8pm cuando inicia la programa Dos Hombres y Medio.,set_alarm
+alarma para 6am.,set_alarm
+Restablecer todas alarmas.,set_alarm
+Po una alarma para 3am manana.,set_alarm
+"Olvidalo, cancela esa alarma",cancel_alarm
+Pon una nueva alarma para los Sabados a las 9am.,set_alarm
+Apaga la alarma para mañana.,cancel_alarm
+"Cambia la alarma de ""Game of Thrones"" hasta las 10pm.",modify_alarm
+Pon nueva alarma.,set_alarm
+Despiertame en 30 minutos.,set_alarm
+Por favor pon una alarma para las 6:30pm,set_alarm
+Pon alarma para recoger el correo,set_alarm
+Pon alarma para cada Lunes a las 7am.,set_alarm
+Pon alarma para 7am o cada Jueves,set_alarm
+Pon alarma para las 6am.,set_alarm
+Pon alarma para las 5am.,set_alarm
+Enseñame todas mis alarmas,show_alarms
+pon la alarma para sonar a las 5:00 a.m. el domingo,set_alarm
+añada 2 minutos a mi alarma,modify_alarm
+ponga la alarma para las 5AM mañana,set_alarm
+pon una alarma para las 5pm,set_alarm
+ponga recurrentes de alarma diaria de 6:00,set_alarm
+Cancela 6 am alarma,cancel_alarm
+pon alarma a las 6 pm para cada lunes.,set_alarm
+Fije una alarma por 30 minutos a partir de ahora,set_alarm
+Cuánto tiempo queda en la alarma,time_left_on_alarm
+qué alarmas he puesto,show_alarms
+no se olvide de poner la alarma?,set_alarm
+Pon la alarma a las 9 am del lunes,set_alarm
+elimina la alarma para el lunes,cancel_alarm
+pon un alarma para 7:45 y etiquetarlo sacar el perro,set_alarm
+pon mi alarma para las 7 de la mañana.,set_alarm
+Borra la alarma para limpiar mi cuarto.,cancel_alarm
+Cancela alarmas para mañana por la mañana,cancel_alarm
+Pon mi alarma a las 7 am mañana,set_alarm
+cancela la alarma de las 5am,cancel_alarm
+Cancela todas las alarmas para el sábado,cancel_alarm
+¿A qué horas va a sonar la alarma?,show_alarms
+pon una alarma durante 2 minutos,set_alarm
+Cuánto tiempo queda en alarma,time_left_on_alarm
+Pon dos alarmas para mañana en la mañana,set_alarm
+Muéstrame todas las alarmas,show_alarms
+Pon una alarma a las 5 am,set_alarm
+Necesito poner una alarma en 15 min.,set_alarm
+Haga una alarma a las 6 de la mañana,set_alarm
+pon alarma para 9PM,set_alarm
+Pon una alarma para las 5:16 am del miércoles.,set_alarm
+pon una alarma de repetición para los días laborables a las 7 AM,set_alarm
+pon un alarma para despertar diariamente a las 6,set_alarm
+pon la mañana las alarmas,set_alarm
+Puedes poner la alarma para mí a las 6 de la mañana?,set_alarm
+Pon una alarma para 4:58 pm todos los días,set_alarm
+pon un alarma para 8 noche,set_alarm
+Necesito poner una alarma.,set_alarm
+apagar la alarma,cancel_alarm
+Pon una alarma por 7 minutos,set_alarm
+Cambia la frecuencia de la alarma,modify_alarm
+pon un alarma para 3 p.m.,set_alarm
+pausa las próximas dos alarmas,snooze_alarm
+Pon la alarma a las 5:00 a.m. mañana por la mañana,set_alarm
+Cancela todas mis alarmas para el domingo.,cancel_alarm
+pon un alarma para mañana 6 AM,set_alarm
+Pon una alarma por 20 minutos a partir de ahora,set_alarm
+Pon la alarma para las 7am mañana por la mañana EST,set_alarm
+Pon una alarma para las 6 pm esta noche.,set_alarm
+cambia la alarma,modify_alarm
+cancela la alarma del trabajo mañana,cancel_alarm
+Haz una alarma los domingos por la mañana a las 9 am,set_alarm
+pon la alarma por cada 10 minutos,set_alarm
+Pon una alarma para las 4:30 am,set_alarm
+Pon una alarma a las 6:28 am,set_alarm
+borra todas mis alarmas,cancel_alarm
+Pausa la alarma por 10 minutos,snooze_alarm
+cambiar mi alarma a las 7,modify_alarm
+pon la alarma para 5 p.m. esta noche,set_alarm
+Muestra todas las alarmas,show_alarms
+Cancela alarmas,cancel_alarm
+Mostra todas las alarmas,show_alarms
+pon una alarma para el lunes a las 2 AM,set_alarm
+pon la alarma para 9 am cada día,set_alarm
+pon la alarma cada minuto durante 30 minutos.,set_alarm
+apaga la alarma por favor,cancel_alarm
+Cancela alarma,cancel_alarm
+Cancela todas mis alarmas,cancel_alarm
+Añada alarma para 10 PM,set_alarm
+Ponga la alarma a las 10 a.m. todos los viernes,set_alarm
+Reinicia mis alarmas,cancel_alarm
+Restablecer todas las alarmas,cancel_alarm
+Pon una alarma nocturna a las 9 pm,set_alarm
+Quisiera tener una alarma para el domingo a las 10 am,set_alarm
+Configura la alarma cada minuto durante 2 horas.,set_alarm
+Establecer alarma para 3pm.,set_alarm
+Configurar mi alarma para que suene cada 20 minutos,set_alarm
+Ajustar alarma.,set_alarm
+agregar una nueva alarma,set_alarm
+borrar la alarma de las medicinas,cancel_alarm
+Cancele las alarmas existentes.,cancel_alarm
+Necesito poner alarma para ir a la peluquerío a las 12 del mediodía.,set_alarm
+pon y guarde una alarma de repetición para cada día a las 9am.,set_alarm
+pon tercera alarma para 7:00a y decir seriamente levantarse,set_alarm
+Sustituya mi alarma hoy para mañana.,modify_alarm
+pon la alarma por 3 horas a partir de ahora,set_alarm
+Cancela alarma para 10am,cancel_alarm
+Quitar todas mis alarmas en los días de la semana,cancel_alarm
+Borra alarmas,cancel_alarm
+Muéstrame las alarmas de esta semana,show_alarms
+qué alarmas he configurado para hoy?,show_alarms
+establece una alarma para el martes a las 8 AM,set_alarm
+Cancela la alarma matutina,cancel_alarm
+pon la alarma para 6:30am,set_alarm
+pon la alarma para 10 AM,set_alarm
+pon la alarma para las 07am,set_alarm
+borra alarma,cancel_alarm
+pon la alarma para las 6:00 mañana,set_alarm
+pon la alarma cada minuto por 15 minutos,set_alarm
+Apaga todas las alarmas.,cancel_alarm
+pon una alarma para la cena en 6:00 pm.,set_alarm
+qué alarmas estan puestas para la próxima semana?,show_alarms
+Haz una alarma,set_alarm
+pon una alarma para 10:30 los lunes y los miércoles,set_alarm
+Necesito cambiar mi alarma,modify_alarm
+pon la alarma para mañana,set_alarm
+Muéstrame todas las alarmas de hoy,show_alarms
+"por favor, Pausa mi alarma durante 15 minutos cuando se apaga",snooze_alarm
+Borra todas las alarmas,cancel_alarm
+reinicia las alarmas,cancel_alarm
+por favor cancela todas las alarmas,cancel_alarm
+Pon la alarma cada minuto durante 10 minutos,set_alarm
+apaga la alarma,cancel_alarm
+Pon una alarma para 3:00 pm,set_alarm
+Pon una alarma para las 10 pm esta noche,set_alarm
+Cancela mi alarma de las 7 de la mañana,cancel_alarm
+Pon mi alarma para las 7 am del lunes.,set_alarm
+Establece alarmas por una sola vez,set_alarm
+Quieres ver las alarmas en la mañana,show_alarms
+¿Hay una alarma para mañana a las 9 a.m.?,show_alarms
+Pon la alarma para las 4:00 pm.,set_alarm
+Cancela mis alarmas de hoy,cancel_alarm
+¿Cuanto tiempo queda en mi alarma?,time_left_on_alarm
+Pon la alarma por 60 segundos,set_alarm
+¿Tengo alarmas establecidas para hoy?,show_alarms
+Quita mis alarmas,cancel_alarm
+Pon una nueva alarma para las 6 a.m.,set_alarm
+Pon la alarma para las 6 AM todos los días,set_alarm
+¿Qué alarmas tengo para mañana?,show_alarms
+Cancela la próxima alarma,cancel_alarm
+¿Mi alarma está programada para el mediodía del lunes?,show_alarms
+cancelar mi alarma que está configurada para las 7 am,cancel_alarm
+Cancela alarma de 5 am,cancel_alarm
+Pon una alarma de 10 minutos,set_alarm
+Modifica la alarma para las 6:30 am,modify_alarm
+cancela todas alarmas,cancel_alarm
+Pon una alarma para mañana a las 7am,set_alarm
+borre la alarma para las 8:55 PM esta noche,cancel_alarm
+mostrar todas las alarmas,show_alarms
+Pon una alarma semanal,set_alarm
+¿Cuándo se establece mi próxima alarma?,show_alarms
+ensañame mis alarmas,show_alarms
+Cancela alarmas,cancel_alarm
+Pon una alarma para las 8 a.m. todos los días,set_alarm
+Pon una alarma que se repite todos los viernes a la 1 pm,set_alarm
+Pon un alarma para una hora desde ahorita,set_alarm
+Pon una alarma para cada 20 minutos,set_alarm
+cancela alarmas por favor,cancel_alarm
+"Por favor, pon una alarma para 3:15 PM todos los días laborables.",set_alarm
+qué alarmas he puesto,show_alarms
+Necesito una alarma para las 5pm para recordarme tomar mi medicina,set_alarm
+Pon una alarma para mañana a las 10 am,set_alarm
+establece una alarma por cada 20 minutos durante las próximas dos horas,set_alarm
+inhabilita todas las alarmas,snooze_alarm
+Apaga todas las alarmas,cancel_alarm
+¿Qué alarmas están configuradas?,show_alarms
+Pon una alarma por cada media hora durante 3 horas,set_alarm
+Borra la alarma para 10pm,cancel_alarm
+Has una nueva alarma para la cena a las 8pm,set_alarm
+Pon un recordatorio mañana para las reuniones de mañana,set_reminder
+Muestra cuaquier recordatorio próximo,show_reminders
+Cancela todos los recordatorios actuales.,cancel_reminder
+Recuérdame enviar por correo mis facturas mañana,set_reminder
+Lee mis recordatorios para la semana,show_reminders
+Recuérdame comprar papel sanitario mañana,set_reminder
+¿Ya tengo un recordatorio para llamar a la oficina de arrendamiento?,show_reminders
+Recuérdame lavar mi cabello en 30 minutos,set_reminder
+Cancela mi recordatorio para ir al banco el lunes,cancel_reminder
+Recuerdame renovar mi licencia de manejar,set_reminder
+Recuerdame las próximas fechas de vencimiento,set_reminder
+Recuerdame que tengo una cita para almorzar mañana al mediodía,set_reminder
+Que recordatorio tengo para el lunes?,show_reminders
+Cancela el recordatorio para mi cita hidrofacial del domingo,cancel_reminder
+Cancela los recordatorios que se hayan completados,cancel_reminder
+Cancela los recordatorios de mañana,cancel_reminder
+Recuerdame ir por un presente para Julian,set_reminder
+pon un recordatorio para el primer dia de escuela,set_reminder
+Coloque recordatorios repetidos cada 30 minutos para hacer la limpieza de primavera el domingo,set_reminder
+Recuerdame para recoger la cena,set_reminder
+Muestrame todos mis recordatorios para esta semana,show_reminders
+Por favor dime todos los recordatorios de esta semana,show_reminders
+Muestrame mis recordatorios,show_reminders
+Recuerdame que vaya por bolas de algodón mañana?,set_reminder
+pon recordatorio para hacer la reservación de la aerolínea,set_reminder
+Eliminar este ultimo recordatorio establecido,cancel_reminder
+Recuerdame de establecer las alarmas para mañana,set_reminder
+Recuerdame sobre el maquillaje en el carro,set_reminder
+Recuerdame recoger papel higiénico en la vida a mi casa del trabajo,set_reminder
+Cancela mi recordatorio para las clases,cancel_reminder
+Cancela mi recordatorio de la cita con el doctor,cancel_reminder
+Recuerdame comprar comida y bebidas para el viaje de hoy,set_reminder
+Recuerdame mi cita en el doctor este martes,set_reminder
+"pon un recordatorio para ""Game Of Thrones""",set_reminder
+Necesito un recordatorio para recoger a Lisa,set_reminder
+Muestrame mi próximo recordatorio,show_reminders
+"Por favor, recuerdame mi cita de la semana siguiente",set_reminder
+Establece un recordatorio para hacer la lista de bocadillos,set_reminder
+Establece un recordatorio del DVR Supernatural,set_reminder
+Muestrame todos los recordatorios,show_reminders
+Dime todos los recordatorios de hoy,show_reminders
+pon un recordatorio para llamar a mi escuela el lunes a las 4pm,set_reminder
+Cancela el recordatorio de la vitamina,cancel_reminder
+Muestrame mi lista de recordatorios,show_reminders
+Cancela mi recordatorio recurrente de tomar medicamentos diariamente a las 7am,cancel_reminder
+pon un recordatorio para mis reuniones semanales con el personal,set_reminder
+Muestra todos los recordatorios para trabajar,show_reminders
+Recuerdame de sacar la basura esta noche,set_reminder
+Cancela mi recordatorio para ir a la oficina postal,cancel_reminder
+Elimina todos los recordatorios,cancel_reminder
+Recuerdame pasear con el perro cuando llegue a casa,set_reminder
+Recuerdame de prender una alarma para el trabajo,set_reminder
+Recuerdame del juego de los Cardinals este fin de semana,set_reminder
+Recuerdame ir por gas despues del trabajo,set_reminder
+recuerdame de poner una alarma para el viernes por la mañana,set_reminder
+pon un recordatorio 15 minutos antes del show,set_reminder
+Puedes por favor poner mi recordatorio para las 2 am?,set_reminder
+Recuerdame recoger a Dave a las 3pm,set_reminder
+Elimina mi ultimo recordatorio,cancel_reminder
+Recuerdame establecer la alarma,set_reminder
+Cuales son mis recordatorios,show_reminders
+Recuerdame llamar a mi hijo,set_reminder
+Muestra mi recordatorio,show_reminders
+Recuerdame recoger a mi hija esta tarde,set_reminder
+Cancela el recordatorio para programar la cita del cabello,cancel_reminder
+Pon un nuevo recordatorio para llamar el doctor para una cita en el 30 de Agosto,set_reminder
+Cancela mi recordatorio para llamar al plomero,cancel_reminder
+Recuerdame ir al médico el 21 de agosto a las 3pm,set_reminder
+Crear un recordatorio para la entrevista de mañana a las 9am,set_reminder
+recordatorio para ir de compras de comida,set_reminder
+recuerdame de recoger a Lisa de practicas a las 6pm,set_reminder
+Recuerdame llamar a papá cuando salga de la casa,set_reminder
+Tengo algún recordatorio establecido para mi cita con el doctor el jueves?,show_reminders
+Recuerdame cuando sean las 5pm,set_reminder
+Recuerdame comprar una tarjeta de cumpleaños,set_reminder
+Pon un recordatorio de evento,set_reminder
+"Recuerdame cada jueves a las 7:30pm, la basura",set_reminder
+Recuerdame de poner una alarma para el ups,set_reminder
+Recuerdame de cambiar el aceite de mi carro hoy a las 3:00 pm,set_reminder
+Recuerdame ver CNN a las 7pm,set_reminder
+Elimina el recordatorio para comprar cereal,cancel_reminder
+Recuerdame de hacer mis tareas en 5 minutos,set_reminder
+Recuerdame de hacer ejercicios a las 8 esta noche,set_reminder
+Recuerdame de comprar el thé en la tienda,set_reminder
+pon un recordatorio para recoger un traje a las 11am mañana,set_reminder
+Cancela el recordatorio del gimnasio para este viernes,cancel_reminder
+Elimina el recordatorio de pagar la renta,cancel_reminder
+Cancela mis recordatorios de mañana,cancel_reminder
+Recuerdame configurar el temporizador,set_reminder
+Recuerdame comer al mediodía,set_reminder
+Cancela el recordatorio para comprar comida de perro,cancel_reminder
+Recuérdame de ir por gasolina en la mañana,set_reminder
+Recuérdame de programar una alarma para despertarme,set_reminder
+Muestra todos los recordatorios para mañana en la mañana,show_reminders
+Cancela el recordatorio del doctor,cancel_reminder
+Recuerdame pagar mi renta,set_reminder
+cancela la alarma de mañana en la mañana,cancel_alarm
+Recuérdame hacer ejercicio esta tarde,set_reminder
+Recuérdame verificar la secadora a las 8pm,set_reminder
+Recuerdame que regrese en 30 minutes,set_reminder
+Cancela mi recordatorio para ir de compras,cancel_reminder
+Muestra todos los recordatorios esta semana,show_reminders
+Haz un recordatorio para parar en el veterinario,set_reminder
+Muestrame mi recordatorio para hoy,show_reminders
+Recuérdame llamar a mi hermana mañana,set_reminder
+Recuerdame las cosas que he planeado esta semana,set_reminder
+Recuerdame comprar leche esta noche,set_reminder
+Recuerdame de ir a comprar los viernes en la bodega,set_reminder
+Muestra los recordatorios,show_reminders
+Recordatorio para parar en la bodega despues del trabajo,set_reminder
+Haz una lista de mis recordatorios para el próximo domingo,show_reminders
+Muestrame los recordatorios para hoy,show_reminders
+Cancela todos los recordatorios,cancel_reminder
+RECUÉRDAME DE LLAMAR SOBRE LA GARANTÍA MAÑANA EN LA TARDE,set_reminder
+Recuerdame llamar a mamá,set_reminder
+Recuérdame de buscar errores en la pagina de web,set_reminder
+Recuerdame llevar al perro a pasear,set_reminder
+Recuerdame alimentar mi perro a las 5,set_reminder
+Recuérdame de alimentar mi pez dorado,set_reminder
+Borra recordartorios para mañana,cancel_reminder
+Cancela todos mis recordatorios,cancel_reminder
+Ponme un recordatorio para comprar una bombilla mañana,set_reminder
+Muestra mis recordatorios para la semana siguiente,show_reminders
+Recuérdame ir al centro comercial a las 4,set_reminder
+Cancela mi recordatorio de la fiesta de cumpleaños de Carol.,cancel_reminder
+Configura un recordatorio para próximo eclipse,set_reminder
+Coloca un recordatorio por 30 minutos,set_reminder
+Puede por favor cancelar mis recordatorios para este jueves a las 7 am,cancel_reminder
+Coloca un recordatorio para la fiesta de cumpleaños,set_reminder
+Pon un recordatorio para la visita de mamá la siguiente semana,set_reminder
+Elimina el recordatorio para la noche del juego,cancel_reminder
+Repite el recordatorio cara 30 minutos,set_reminder
+pon un recordatorio para el evento,set_reminder
+Recuerdame hacer el almuerzo de Dan a las 07:30 am mañana,set_reminder
+Cancela los recordatorios,cancel_reminder
+Recuérdame comprar pan después del trabajo,set_reminder
+Recuérdame la cita del doctor mañana en la tarde,set_reminder
+Cancela mi recordatorio de comprar manzanas en la bodega,cancel_reminder
+Por favor muéstrame mis recordatorios,show_reminders
+Cuales son mis recordatorios?,show_reminders
+"Recuerdame mañana esto ""Necesito reserva el carro rentado""",set_reminder
+Recuerdame recoger la llave el jueves a las 5:30 pm,set_reminder
+Recuérdame pagar la factura de la luz el lunes en la mañana,set_reminder
+Es mi recordatorio establecido?,show_reminders
+Recuérdame irme para el Jazzercise a las 8:15,set_reminder
+Recuerdame conseguir los huevos en Harris Teeter,set_reminder
+Recuerdame trabajar en el proyecto el 15 de septiembre a las 05:30 am,set_reminder
+Recuérdame llamar a casa a las 4pm,set_reminder
+Recuerdame llevar el perro al veterinario mañana,set_reminder
+Recuerdame comprar leche,set_reminder
+Recuerdame pagar la nota del carro mañana,set_reminder
+Recuerdame comprar leche en la bodega,set_reminder
+Programa un recordatorio para comprar los huevos cuando llegue Publix,set_reminder
+Por favor muestra mi recordatorio,show_reminders
+Muestra mi recordatorio,show_reminders
+Recuérdame ir al supermercado a las 4 de la tarde,set_reminder
+Puedes recordarme recoger leche?,set_reminder
+Desactiva recordatorios,cancel_reminder
+Recuerdame hacer las diligencias,set_reminder
+pon un recordatorio para ir a la bodega,set_reminder
+Muestra todos los recordatorios de mañana,show_reminders
+Recuerdame recoger cereal en la bodega,set_reminder
+Recuérdame ir a la tienda este fin de semana,set_reminder
+Recuerdame recoger las medicinas para el bebe,set_reminder
+Recuérdame comprar gas?,set_reminder
+Cancela la próxima recordatorio,cancel_reminder
+Recuérdame de mandarle un texto a Angel.,set_reminder
+Recuérdame desenchufar el cargador del telefono en 30 minutos,set_reminder
+Borrar recordatorios,cancel_reminder
+Recuérdame regar las plantas,set_reminder
+Muéstrame los recordatorios de mañana,show_reminders
+Cancela mi recordatorio de comprar pan,cancel_reminder
+Muéstrame los tres últimos recordatorios que programé,show_reminders
+¿Qué recordatorios hay para mañana?,show_reminders
+Recuérdame recoger a los niños,set_reminder
+Cancela el recordatorio del juego de esta noche,cancel_reminder
+Recuérdame que necesito ir por un cambio de aciete en mi carro,set_reminder
+Recuérdame comprar pizza,set_reminder
+Recuérdame limpiar el microondas esta noche,set_reminder
+Recuérdame en 45 minutos,set_reminder
+Recuérdame hacer un cita en el dentista el viernes,set_reminder
+Recuérdame programar la alarma todas las noches a las 9pm,set_reminder
+Borra todos los recordatorios para la próxima semana,cancel_reminder
+Recuérdame de revisa mi peso el sábado,set_reminder
+Recuérdame de dar la renta,set_reminder
+Agrega recordatorio para nadar a las 11am mañana,set_reminder
+Recuérdame de la cita con el dentista de Hagan,set_reminder
+Coloca un recordatorio para mañana a las 6 30 am,set_reminder
+Cancela el recordatorio de la leche,cancel_reminder
+Recuérdame llamar y hacer la cita del doctor,set_reminder
+Establece un recordatorio de el lunes a viernes a las 12 del mediodía preguntando si planeo ir a almorzar hoy?,set_reminder
+Muéstrame mi lista de recordatorios,show_reminders
+Cancela mi recordatorio para doctor a las 2pm el jueves,cancel_reminder
+Borra recordatorio de enviar hora,cancel_reminder
+Recuérdame pagar mis cuentas,set_reminder
+Recuérdame recoger mi pedido esta noche.,set_reminder
+Recuérdame ir a la tienda de comida hoy,set_reminder
+Muéstrame mis próximos recordatorios,show_reminders
+Haz un nuevo recordatorio para recoger los alimentos.,set_reminder
+Coloca un nuevo recordatorio para programar la cita con el doctor,set_reminder
+Prepara el recordatorio para la cita del doctor la semana que viene,set_reminder
+Recuérdame echarle spray a los insectos mañana a las 3 pm,set_reminder
+Recuérdame la práctica de fútbol de Tyler,set_reminder
+Cancela mi recordatorio para ir a tienda. Surgió algo.,cancel_reminder
+Recuérdame pagar la cuenta del teléfono mañana en la mañana,set_reminder
+Muéstrame todos los recordatorios de esta semana,show_reminders
+Muestra mi recordatorios activos,show_reminders
+Borra mi recordatorio de recoger a Patrick de la escuela mañana,cancel_reminder
+Recuérdame recoger a mamá en el aeropuerto mañana a las 8:30,set_reminder
+Cancela el recordatorio de la fiesta el domingo,cancel_reminder
+Prepara un recordatorio para ir a Publix,set_reminder
+Lee mis recordatorios,show_reminders
+Prepara un recordatorio para ir a la cama a las 10:30,set_reminder
+Recuérdame pagar la peluquería del perro mañana,set_reminder
+Recuérdame enviar la tarjeta de papá por correo,set_reminder
+Cancela todos mis recordatorios,cancel_reminder
+Recuérdame comprar helado mañana en la mañana,set_reminder
+Agrega un recordatorio de comprar comida,set_reminder
+Borra todos mis recordatorios,cancel_reminder
+Prepara un recordatorio para empacar para Afest,set_reminder
+¿Cuále es la minima de hoy?,find
+que tan caliente está,find
+¿Habrá granizo esta noche?,find
+¿Necesito un paraguas el miércoles?,find
+¿Cuál va a ser la temperatura hoy?,find
+¿Cuál será la temperatura alta hoy?,find
+"Me duele la rodilla, ¿esperamos lluvia?",find
+¿Cuál es el clima en España?,find
+¿Cuál es el pronóstico para la semana?,find
+dame el clima de hoy,find
+¿Debo usar botas de plastico?,find
+previsión para Austin TX?,find
+cómo será el clima este fin de semana,find
+¿Va a estar soleado hoy?,find
+¿Hay alguna posibilidad de granizo hoy?,find
+va a estar caliente mañana,find
+¿Cómo está el clima en Cincinnati?,find
+¿Cuándo se va terminar humedad una vez por todas?,find
+cómo está el tiempo hoy,find
+¿Algún huracán en el Golfo de México?,find
+va a estar soleado hoy?,find
+¿Cómo es el clima para el 14 de este mes?,find
+¿Como está el clima?,find
+habrá inundaciones mañana,find
+¿Estará bajo cero esta noche?,find
+¿Va a llover mañana?,find
+¿Vamos a tener relámpagos?,find
+"¿Cuál es el clima en Apex, Carolina del Norte hoy?",find
+¿Cuáles son las posibilidades de lluvia hoy?,find
+¿Va a haber un tornado mañana?,find
+¿Cómo será el clima para el juego en Chicago?,find
+¿Cuál será la temperatura a las 6 pm,find
+¿Voy a necesitar un paraguas esta noche?,find
+¿Va a llovera mañana?,find
+¿Cuál es la dirección del viento hoy?,find
+Dime las condiciones del clima.,find
+¿Que es el clima para el sabado?,find
+¿Debo llevar un impermeable hoy?,find
+¿En donde en el area va a llover hoy?,find
+¿Esta haciendo frio afuera?,find
+Ensename el reportaje de clima mas reciente en Florida,find
+Como es el clima en Jacksonville,find
+necesitamos abrigos,find
+¿Va estar soleado todo el día?,find
+¿Va a salir el sol más tarde?,find
+¿Va a nevar hoy?,find
+¿El clima estará por encima de los 80 grados mañana?,find
+¿Hay tormentas en el pronóstico de esta semana?,find
+¿Cuántas pulgadas de nieve se supone que tendremos mañana?,find
+¿Cuál es el clima en San Francisco?,find
+¿va a llover mañana?,find
+tiempo actual en San Francisco,find
+¿Cuándo va a llover en Seattle?,find
+Cómo está la temperatura en Honolulu?,find
+¿Necesito bloqueador solar hoy?,find
+Hace calor afuera,find
+¿Cuál es la temperatura más alta hoy?,find
+¿será soleado para la fiesta del sábado?,find
+Dame el pronóstico de esta noche,find
+¿Cuál es la temperatura hoy?,find
+¿Cuál es la baja temperatura de hoy?,find
+¿Cuánto tiempo se supone que va a llover?,find
+¿Necesito traer mi chaqueta hoy?,find
+¿Qué tiempo hace en Nebraska?,find
+cuando va a estar soleado,find
+"¿Cómo es el clima en Ocean City, Maryland?",find
+¿Puedo usar pantalones cortos hoy?,find
+¿Cómo es el clima en San Francisco?,find
+Cuál es el alto hoy,find
+¿Cuál será la temperatura hoy a las 5PM en Atlanta?,find
+¿Cuál es la temperatura hoy?,find
+¿Cuál es el clima toda la semana?,find
+¿Cuál es la temperatura del aire?,find
+¿Cómo será el clima en Cancún México hoy?,find
+lo caliente que será hoy,find
+¿Viene una tormenta?,find
+¿Cuándo va a nevar esta semana,find
+¿Necesitaré una chaqueta a las 4pm?,find
+¿debo llevar un suéter,find
+¿Cuál es el nivel de humedad?,find
+¿Cuál es la posibilidad de lluvia este fin de semana,find
+¿lloverá pronto?,find
+¿Cuánta nieve va a caer?,find
+¿Cuál es el pronóstico de esta semana?,find
+Va a nevar el jueves,find
+¿habrá un clima severo hoy?,find
+¿Necesitaré un abrigo?,find
+¿Qué es hoy la temperatura en Raleigh y en Jacksonville FL?,find
+¿Lloverá hoy?,find
+va a llover esta semana,find
+Clima para la semana,find
+Pronóstico para hoy,find
+está nublado hoy?,find
+Necesito un paraguas,find
+¿Va a nevar esta semana?,find
+¿Cuándo se supone que llueva?,find
+Cuál será el día más caluroso?,find
+Pronóstico de los próximos fines de semana,find
+¿Nieva en cualquier parte de Georgia?,find
+Necesito traer un paraguas hoy,find
+Necesito un paraguas?,find
+¿Cuál es el clima para esta semana?,find
+Qué tan caliente va a ser un 4 pm en Helote,find
+Qué es el bajo de mañana,find
+Qué es el clima en Nueva York?,find
+Cuál es la alta temperatura,find
+Va a nevar en Canada,find
+Cómo se supone que es la temperatura hoy?,find
+Va a nevar hoy?,find
+Cuántos días lluviosos se pronostican en estas semanas?,find
+clima,find
+Recuérdame recoger mi prescripción mañana en la tarde,set_reminder
+Recuérdame llamar a mamá,set_reminder
+¿Cuándo lloverá esta semana?,find
+¿Como va hacer el clima esta noche?,find
+lo caliente que va a ser hoy,find
+Cuál es el porcentaje de lluvia para el miércoles por la noche?,find
+Que es la temperatura de Myrtle Beach este fin de semana,find
+puedo obtener una previsión de navegación,find
+¿Estará soleado hoy?,find
+¿Necesito un abrigo de lluvia?,find
+Cuándo se para la lluvia,find
+¿Qué es la humedad ahorita?,find
+¿Cuál es el pronóstico del tiempo para Denver?,find
+está húmeda hoy?,find
+Cuál es la temperatura del Lago Higgins,find
+Cuál es la temperatura en el valle de la muerte?,find
+Cuál es el pronóstico para mañana,find
+¿Cuáles son los máximos de hoy?,find
+Cuál es el nivel de humedad de hoy,find
+¿Cuántos pies de nieve nevará en las montañas sobre los Ángeles?,find
+¿Cuál es la temperatura promedio aquí la próxima semana?,find
+"Hola bot, dime la temperatura de hoy",find
+¿Cuál es el clima en Chapel Hill a las 4 am?,find
+hace frío en Namibia en estos días,find
+Habrá una tormenta de nieve el domingo,find
+Qué es la humedad hoy en día?,find
+estará lloviendo en Canadá esta semana?,find
+debo llevar una chaqueta de invierno,find
+nevará mañana?,find
+¿Cuál es la humedad en Port Orange en este momento?,find
+hace calor hoy en Alabama?,find
+necesito empacar un paraguas?,find
+Cuál es el tiempo en Chicago,find
+Cuánta lluvia estamos recibiendo hoy,find
+¿Va a haber tormenta esta noche?,find
+¿Cuál es el pronóstico del tiempo para el fin de semana?,find
+Dime cuál es la temperatura en 43017 en este momento.,find
+cómo será el clima en Dallas mañana,find
+hará frío este fin de semana?,find
+¿Cuánto tiempo lloverá en mi área?,find
+está despejando el clima?,find
+Cuánta lluvia se espera hoy,find
+hace calor afuera,find
+se supone que lloverá mañana,find
+Necesitaré protector solar hoy?,find
+mostrar las últimas noticias del clima,find
+¿Va a llover el sábado?,find
+Necesito un suéter?,find
+traigo una chaqueta mañana?,find
+¿Va a estar caliente mañana?,find
+¿cuál es el pronóstico,find
+estará soleado mañana?,find
+¿Va haber tormenta hoy?,find
+hará frío mañana?,find
+necesito llevar un paraguas?,find
+Debería usar un abrigo hoy,find
+va a nevar hoy,find
+Cuál será la temperatura del mediodía de hoy?,find
+¿Cuál es el pronóstico de la próxima semana?,find
+Las Vegas Weekend Weather,find
+va a llover el miércoles,find
+¿Debería traer una chaqueta a Mississippi la próxima semana?,find
+Cómo será el tiempo en mi cumpleaños?,find
+muéstrame el radar meteorológico en mi área,find
+¿lloverá hoy?,find
+Qué tan frío hoy?,find
+Previsión de mañana,find
+¿va a llover el martes?,find
+es hoy un buen día de playa?,find
+Cuál es el tiempo en Lexington KY hoy,find
+¿Cuál es la alta temperatura para hoy?,find
+¿Cuál es la temperatura para los próximos 10 días?,find
+Necesito un abrigo hoy?,find
+¿Debo traer una chaqueta?,find
+¿Cuándo se supone que llueve esta semana?,find
+¿Que tan frio esta?,find
+¿Cómo es el clima para la semana?,find
+¿Cuál es la temperatura en la Antártida en este momento?,find
+Cuando va a llover?,find
+Como esta el clima hoy en mi localidad?,find
+El clima de hoy,find
+¿Cuál es la temperatura en Londres?,find
+A cuanto esta la humedad de hoy?,find
+¿Qué tan frío va a ser esta noche?,find
+¿Va a llover hoy?,find
+¿Estará soleado todo el día hoy?,find
+¿Va a nevar hoy?,find
+Van a haber tormentas en Bordentown hoy,find
+¿Está soleado o ventoso hoy?,find
+Va a llover en la playa,find
+¿Cuánta nieve están prediciendo?,find
+¿Cuántos días soleados esta semana?,find
+¿cuál es la temperatura baja  hoy,find
+cómo es el clima la próxima semana,find
+¿Cuál es el clima en Miami la próxima semana?,find
+está lloviendo en Tucson,find
+¿Lloverá en Disney World hoy?,find
+¿Será húmedo hoy?,find
+¿Va a llover esta tarde?,find
+¿Va a nevar hoy?,find
+¿Cuál es la temperatura para mañana?,find
+¿Qué tan frío será en la mañana?,find
