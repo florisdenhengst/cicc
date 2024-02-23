@@ -26,4 +26,4 @@ an example of using CICC.
 
 Notebooks starting with ``cicc_`` contain demontrations  and evaluation of the CICC framework. 
 
-Notebooks starting with ``finetune_`` contain code for fine-tuning models for intent classification and are not specific to CICC. These have been included for reproducibility.
+Notebooks starting with ``pretrain_`` contain code for fine-tuning pre-trained models for intent classification and are not specific to CICC. These have been included for reproducibility.
