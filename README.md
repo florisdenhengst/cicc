@@ -10,7 +10,7 @@ Run ``pip install -r requirements.txt``.
 ## Data set preparations
 Most datasets in this repository are loaded using the 🤗 ecosystem.
 
-However, the 'mtod' dataset from the 2019 paper by Schuster et al. entitled "Cross-lingual transfer learning for multilingual task oriented dialog" requires some manual step.
+However, the 'mtod' dataset from the 2019 paper by Schuster et al. entitled "Cross-lingual transfer learning for multilingual task oriented dialog" requires some manual steps.
 
 First download the official [data release](https://fb.me/multilingual_task_oriented_data).
 into ``data/mtod/`` and unzip it there, then:
