@@ -15,10 +15,10 @@ However, the 'mtod' dataset from the 2019 paper by Schuster et al. entitled "Cro
 First download the official [data release](https://fb.me/multilingual_task_oriented_data).
 into ``data/mtod/`` and unzip it there, then:
 
-    ```bash
-    cd data/mtod/ # if you are not in this dir already
-    convert_mtod.py
-    ```
+```bash
+cd data/mtod/ # if you are not in this dir already
+convert_mtod.py
+```
 
 ## Usage
 Run ``jupyter notebook`` in the ``cicc`` root directory and open a notebook to
