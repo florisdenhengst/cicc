@@ -4,8 +4,132 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>CICC: Conformal Intent Classification and Clarification</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" integrity="sha384-4LISF5TTJX/fLmGSxO53rV4miRxdg84mZsxmO8Rx5jGtp/LbrixFETvWa5a6sESd" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <h1>Hello, world!</h1>
+    <div class="col-lg-6 mx-auto p-4 py-md-5">
+      <header class="pb-3 mb-5 border-bottom">
+        <div class="row mb-3 text-center">
+          <h1>
+            CICC: Conformal Intent Classification and Clarification
+          </h1>
+        </div>
+        <div class="row mb-3 text-center">
+          <h5>
+            NAACL 2024 Main Track
+          </h5>
+        <div class="row mb-3 text-center">
+          <div class="col">
+            <div class="text-center">
+              <a href="http://florisdh.nl/" target="_blank">
+                Floris den Hengst
+              </a>
+            </div>
+            <div class="text-center">
+              Vrije Universiteit Amsterdam
+            </div>
+          </div>
+          <div  class="col">
+            <div class="text-center">
+              Ralf Wolter
+            </div>
+            <div class="text-center">
+              ING Bank
+            </div>
+          </div>
+          <div class="col">
+            <div class="text-center">
+              <a href="https://www.paltmeyer.com/" target="_blank">
+                Patrick Altmeyer
+              </a>
+            </div>
+            <div class="text-center">
+              TU Delft
+            </div>
+          </div class="col">
+          <div class="col">
+            <div class="text-center">
+              <a href="https://www.linkedin.com/in/akaygan/" target="_blank">
+                Arda Kaygan
+              </a>
+            </div>
+            <div class="text-center">
+              ING Bank
+            </div>
+          </div>
+        </div>
+        </div>
+        <div class="row justify-content-md-center">
+          <ul class="nav nav-pills nav-justified col-lg-4">
+            <li class="nav-item">
+              <!-- TODO FdH: set arxiv link-->
+                <a href="arxiv link" target="_blank">
+                  <h3>
+                    <i class="bi bi-file-earmark"></i>
+                  </h3>
+                  Paper
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="https://github.com/florisdenhengst/cicc" target="_blank">
+                <h3>
+                  <i class="bi bi-github"></i>
+                </h3>
+                Code
+              </a>
+            </li>
+            <li class="nav-item">
+              <!-- TODO FdH: link to bibtex file-->
+              <a href="bibtex" target="_blank">
+                <h3>
+                  <i class="bi bi-chat-square-quote"></i>
+                </h3>
+                BibTex
+              </a>
+            </li>
+          </ul>
+        </div>
+      </header>
+      <main>
+        <h3>
+          Abstract
+        </h3>
+        <p class="text-justify">
+          We present <em>Conformal Intent Classification and Clarification (CICC)</em>, a framework for fast and accurate intent classification for task-oriented dialogue systems. The framework turns heuristic uncertainty scores of any intent classifier into a clarification question that is guaranteed to contain the true intent at a pre-defined confidence level.
+By disambiguating between a small number of likely intents, the user query can be resolved quickly and accurately. Additionally, we propose to augment the framework for out-of-scope detection.
+In a comparative evaluation using seven intent recognition datasets we find that CICC generates small clarification questions and is capable of out-of-scope detection.
+CICC can help practitioners and researchers substantially in improving the user experience of dialogue agents with specific clarification questions.
+        </p>
+        <div class="row justify-content-md-center">
+          <img src="/flowdiagram3.png" alt="flow diagram of CICC algorithm" style="max-width:600px;">
+        </div>
+        <h3>
+          The Problem
+        </h3>
+        <p class="text-justify">
+          Intent classification (IC) is a crucial step in the selection of actions and responses in task-oriented dialogue systems. To offer the best possible experience with such systems, IC should accurately map user inputs to a predefined set of intents. A widely known challenge of language in general, and IC specifically, is that user utterances may be incomplete, erroneous, and contain linguistic ambiguities.
+        </p>
+        <p class="text-justify">
+          Intent classification is typically tackled using (pre-trained) language models that are fine-tuned for classification on a data set collected in the wild.
+          These classifiers output some score for each known intent. This score can be turned into a classification probability with a softmax layer.
+        </p>
+        <p class="text-justify">
+          In designing our dialogue agent, we need to handle the probabilistic output of the classifier.
+          Continuing the conversation under the assumption that the class with the highest predicted probability is the true user intent is overly simplistic and will
+          result in a poor user experience.
+        </p>
+        <blockquote class="blockquote text-justify">
+          We tackle the problem of handling probabilistic intent classifier outputs in task-oriented dialogue.
+        </blockquote>
+
+        <h3>CICC: Conformal Intent Classification and Clarification</h3>
+        <p>
+          
+        </p>
+      </main>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
   </body>
 </html>
