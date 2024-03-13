@@ -2,7 +2,7 @@ a {
     text-decoration: none;
 }
 
-ul.nav-pills li:hover{
+ul.nav-pills li:hover {
     background-color: lightgray;
 }
 h1,h2,h3,h4,h5,h6 {
@@ -13,6 +13,15 @@ h3 {
   line-height: 1.1;
   font-size: 26px;
 }
-.text-justify{
+.text-justify {
+    text-align: justify;
+}
+blockquote {
+    background-color: rgb(191, 203, 242);
+    color: black;
+    padding: 3px;
+    text-align: center;
+}
+main p {
     text-align: justify;
 }
