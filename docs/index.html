@@ -15,12 +15,12 @@
       <header class="pb-3 mb-5 border-bottom">
         <div class="row mb-3 text-center">
           <h1>
-            CICC: Conformal Intent Classification and Clarification
+            🐔 CICC: Conformal Intent Classification and Clarification 🐔
           </h1>
         </div>
         <div class="row mb-3 text-center">
           <h5>
-            NAACL 2024 Main Track
+            <a href="https://2024.naacl.org/" target="_blank">NAACL 2024</a>
           </h5>
         <div class="row mb-3 text-center">
           <div class="col">
@@ -104,6 +104,9 @@ By disambiguating between a small number of likely intents, the user query can b
 In a comparative evaluation using seven intent recognition datasets we find that CICC generates small clarification questions and is capable of out-of-scope detection.
 CICC can help practitioners and researchers substantially in improving the user experience of dialogue agents with specific clarification questions.
         </p>
+        <blockquote class="blockquote">
+          We tackle the problem of interactively classifying user intents in task-oriented dialogue
+        </blockquote>
         <div class="row justify-content-md-center">
           <img src="flowdiagram3.png" alt="flow diagram of CICC algorithm" style="max-width:600px;">
         </div>
@@ -138,16 +141,79 @@ CICC can help practitioners and researchers substantially in improving the user 
             <li>that no questions are asked if the model is uncertain</li>
             <li>any probabilistic intent classifier can be used without re-training</li>
           </ul>
-        <blockquote class="blockquote">
-          We tackle the problem of interactively classifying user intents in task-oriented dialogue
-        </blockquote>
       </p>
 
 
         <h3>CICC: Conformal Intent Classification and Clarification</h3>
         <p>
-
+          CICC solves the problem of interactively classifying user intents in three simple steps:
+          <ol>
+            <li>obtain classification scores using an intent classifier</li>
+            <li>turn the classification scores into a set of intents that contains the true user intent at a predefined confidence level of \(1-\alpha\) say 95% with conformal prediction</li>
+            <li>use the intent set to choose between</li>
+            <ul>
+              <li>continuing the conversation if the set contains only 1 item</li>
+              <li>asking the user to disambiguate between the items if the set is smaller than a predefined threshold \(th\) of e.g. 7 items</li>
+              <li>asking the user to reformulate if the set is of a larger size</li>
+            </ul>
+          </ol>
+          Because conformal prediction gives us a guarantee that the intent set contains the true user intent at a typically high confidence level, we ensure that we only continue the conversation when we have captured the true user intent.
         </p>
+        <P>
+          Additionally, the clarification questions are typically small i.e. much smaller than the predefined threshold.
+        </P>
+
+        <h3>Parameters</h3>
+        <p>
+        CICC comes with two hyperparameters. These have intuitive interpretations and can easily be set on the calibration set.
+          <dl>
+            <dt>Confidence level \(\alpha\)</dt>
+            <dd>This parameter controls how certain we want to be that the true user intent is in the predicted set of intents in step (2) of the algorithm described above. For example, for a value of \(\alpha=0.05\) we are guaranteed that the predicted intent set contains the true user intent in \(1-\alpha=0.95%\) of test inputs.
+              Implicitly, this parameter controls the size of the prediction set: for a low alpha, we generally expect larger prediction sets. The parameter can be set depending on the performance of the intent classifier and the use case requirements. For example, if the intent classifier obtains an accuracy of 90% on the train set, it can easily be set at \(1-0.99=0.01\).
+            </dd>
+            <dt>Max prediction set size \(th\)</dt>
+            <dd>
+              This parameter controls when we consider the prediction set too large to ask a clarification question. For example, if we obtain a prediction set with twenty possible intents for a certain user input and the threshold \(th=7\), we reject this input as too ambiguous to clarify using a clarification question. Instead we ask the user to reformulate the query entirely.
+              This parameter can be set based on interaction design knowledge and knowledge of the user base. We generally advize to set this parameter no higher than 7 to avoid overly long clarification questions.
+            </dd>
+          </dl>
+        </p>
+
+        <h3>
+          Model, Data and Computational Requirements
+        </h3>
+        <p>
+          The requirements of CICC are easily fulfilled in a dialogue agent setting.
+        </p>
+        <p>
+          CICC relies on an intent detection model or classifier that maps user input to a vector in \(\mathbb{R}^K\) for a dialogue agent that supports \(K\) intents.
+          So, any model that implements e.g. scikit-learn's <code>predict_proba()</code>, including the (softmax) output of a neural network classifier would work.
+        </p>
+        <p>
+          Additionally, CICC requires a relatively small calibration data set. This calibration set should formally be exchangable with the test data, i.e. it should identically but not necessarily independently distributed as the test data.
+          In practice, such a data set can simply be obtained by collecting and labelling actual user inputs. This data set need not be large, but should ideally include some examples from all \(k \in K\) intents or classes.
+        </p>
+        <p>
+          The computational requirements for CICC are very limited. Calibration on the calibration set can generally be done in seconds and the conversion of classification scores to prediction sets imposes a very limited computational burden as it only requires the inclusion of intents based on a preset threshold. These operations can easily be vectorized to support dialogue agents with up to thousands of intents.
+        </p>
+        <div class="row justify-content-md-center">
+          <img src="CICC-diagram.svg" alt="components of CICC" style="max-width:90%;">
+        </div>
+
+        <h3>Further Reading</h3>
+        <p>
+          A key technology driving CICC is conformal prediction. Although CICC supports other types of conformal prediction, we particularly point to the usage of split-conformal prediction.
+          Some references about (split) conformal prediction:
+          <ul>
+            <li>Vovk, Vladimir, Alexander Gammerman, and Glenn Shafer. <a href="https://alrw.net/" target="_blank">Algorithmic learning in a random world</a>. Vol. 29. New York: Springer, 2005.</li>
+            <li>Angelopoulos, Anastasios N., and Stephen Bates. <a href="https://www.nowpublishers.com/article/Details/MAL-101" target="_blank">Conformal prediction: A gentle introduction.</a> Foundations and Trends® in Machine Learning 16.4 (2023): 494-591.</li>
+          </ul>
+        </p>
+        <!-- <h3>Citation</h3>
+        <pre>
+
+        </pre> -->
+
       </main>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
